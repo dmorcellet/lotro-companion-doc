@@ -1,0 +1,2919 @@
+UI_Map_AreaData: 
+	UI_Map_ActiveElement: 268437554
+	UI_Map_AreaData_Array: 
+		#1: 
+			UI_Map_ActiveElement: 268437557
+			UI_Map_AreaDIDs_Array: 
+				#1: 1879063917
+				#2: 1879063918
+				#3: 1879063919
+				#4: 1879063920
+			UI_Map_AreaData_Array: 
+				#1: 
+					UI_Map_ActiveElement: 268437576
+					UI_Map_AreaDIDs_Array: 
+						#1: 1879063921
+						#2: 1879063922
+						#3: 1879063923
+						#4: 1879063924
+						#5: 1879063925
+						#6: 1879063926
+						#7: 1879063928
+						#8: 1879063929
+						#9: 1879063930
+						#10: 1879063931
+						#11: 1879206150
+					UI_Map_AreaData_Array: 
+						#1: 
+							UI_Map_ActiveElement: 268440613
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879098354
+							UI_Map_BlockOffsetX: 47
+							UI_Map_BlockOffsetY: 134
+							UI_Map_MapImage: 1091410518
+							UI_Map_MapNoteDisplayType: 1980588674336686080
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: Thorin's Hall Homesteads
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 140
+							UI_Map_PixelOffsetY: 760
+							UI_Map_PixelWidth: 1024
+							UI_Map_QuestGuideBound_XMax: 800
+							UI_Map_QuestGuideBound_XMin: 0
+							UI_Map_QuestGuideBound_YMax: 767
+							UI_Map_QuestGuideBound_YMin: 0
+							UI_Map_RegionID: 1
+							UI_Map_Scale: 0.96
+						#2: 
+							UI_Map_ActiveElement: 268437722
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879063932
+								#2: 1879063927
+								#3: 1879191198
+							UI_Map_BlockOffsetX: 51
+							UI_Map_BlockOffsetY: 134
+							UI_Map_MapImage: 1090552107
+							UI_Map_MapNoteDisplayType: 1980588672726073344
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: Thorin's Gate
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 100
+							UI_Map_PixelOffsetY: 768
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 1
+							UI_Map_Scale: 0.64375
+						#3: 
+							UI_Map_ActiveElement: 268440591
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879098736
+							UI_Map_BlockOffsetX: 68
+							UI_Map_BlockOffsetY: 120
+							UI_Map_MapImage: 1091410228
+							UI_Map_MapNoteDisplayType: 1980588672189202432
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: Falathlorn Homesteads
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 215
+							UI_Map_PixelOffsetY: 750
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 1
+							UI_Map_Scale: 0.925
+					UI_Map_BlockOffsetX: 50
+					UI_Map_BlockOffsetY: 115
+					UI_Map_MapImage: 1090552108
+					UI_Map_MapNoteDisplayType: 1980589772237701120
+					UI_Map_MapNoteFilterProperty: 268441602
+					UI_Map_MenuName: 
+						#1: Ered Luin
+					UI_Map_PixelHeight: 768
+					UI_Map_PixelOffsetX: 239
+					UI_Map_PixelOffsetY: 768
+					UI_Map_PixelWidth: 1024
+					UI_Map_RegionID: 1
+					UI_Map_Scale: 0.19375
+				#2: 
+					UI_Map_ActiveElement: 268437592
+					UI_Map_AreaDIDs_Array: 
+						#1: 1879063933
+						#2: 1879063934
+						#3: 1879063935
+						#4: 1879063936
+						#5: 1879063937
+						#6: 1879063938
+						#7: 1879094891
+					UI_Map_AreaData_Array: 
+						#1: 
+							UI_Map_ActiveElement: 268437713
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879063939
+							UI_Map_BlockOffsetX: 173
+							UI_Map_BlockOffsetY: 114
+							UI_Map_MapImage: 1090552109
+							UI_Map_MapNoteDisplayType: 1980588672189202432
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: Rivendell
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 101
+							UI_Map_PixelOffsetY: 737
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 1
+							UI_Map_Scale: 0.53125
+					UI_Map_BlockOffsetX: 153
+					UI_Map_BlockOffsetY: 107
+					UI_Map_MapImage: 1090552110
+					UI_Map_MapNoteDisplayType: 1980589771700830208
+					UI_Map_MapNoteFilterProperty: 268441602
+					UI_Map_MenuName: 
+						#1: Trollshaws
+					UI_Map_PixelHeight: 768
+					UI_Map_PixelOffsetX: 73
+					UI_Map_PixelOffsetY: 675
+					UI_Map_PixelWidth: 1024
+					UI_Map_RegionID: 1
+					UI_Map_Scale: 0.1875
+				#3: 
+					UI_Map_ActiveElement: 268437691
+					UI_Map_AreaDIDs_Array: 
+						#1: 1879063940
+						#2: 1879063941
+						#3: 1879063942
+						#4: 1879063943
+						#5: 1879063944
+						#6: 1879063945
+						#7: 1879063946
+						#8: 1879094892
+						#9: 1879094893
+						#10: 1879094894
+					UI_Map_BlockOffsetX: 175
+					UI_Map_BlockOffsetY: 114
+					UI_Map_MapImage: 1090552111
+					UI_Map_MapNoteDisplayType: 1980589771700830208
+					UI_Map_MapNoteFilterProperty: 268441602
+					UI_Map_MenuName: 
+						#1: Misty Mountains
+					UI_Map_PixelHeight: 768
+					UI_Map_PixelOffsetX: 210
+					UI_Map_PixelOffsetY: 768
+					UI_Map_PixelWidth: 1024
+					UI_Map_RegionID: 1
+					UI_Map_Scale: 0.20625
+				#4: 
+					UI_Map_ActiveElement: 268437603
+					UI_Map_AreaDIDs_Array: 
+						#1: 1879063947
+						#2: 1879063948
+						#3: 1879063949
+						#4: 1879063950
+						#5: 1879063951
+						#6: 1879063952
+						#7: 1879063953
+						#8: 1879063954
+						#9: 1879063955
+						#10: 1879063956
+						#11: 1879191196
+					UI_Map_BlockOffsetX: 130
+					UI_Map_BlockOffsetY: 106
+					UI_Map_MapImage: 1090552112
+					UI_Map_MapNoteDisplayType: 1980589771700830208
+					UI_Map_MapNoteFilterProperty: 268441602
+					UI_Map_MenuName: 
+						#1: Lone-Lands
+					UI_Map_PixelHeight: 768
+					UI_Map_PixelOffsetX: 67
+					UI_Map_PixelOffsetY: 587
+					UI_Map_PixelWidth: 1024
+					UI_Map_RegionID: 1
+					UI_Map_Scale: 0.21875
+				#5: 
+					UI_Map_ActiveElement: 268437615
+					UI_Map_AreaDIDs_Array: 
+						#1: 1879063957
+						#2: 1879063958
+						#3: 1879063959
+						#4: 1879063960
+						#5: 1879063961
+						#6: 1879063962
+						#7: 1879063963
+						#8: 1879063964
+						#9: 1879063965
+						#10: 1879063966
+						#11: 1879063967
+						#12: 1879051236
+						#13: 1879063968
+						#14: 1879063969
+						#15: 1879063970
+						#16: 1879063971
+						#17: 1879093998
+						#18: 1879103883
+					UI_Map_BlockOffsetX: 130
+					UI_Map_BlockOffsetY: 147
+					UI_Map_MapImage: 1090552113
+					UI_Map_MapNoteDisplayType: 1980589771700830208
+					UI_Map_MapNoteFilterProperty: 268441602
+					UI_Map_MenuName: 
+						#1: Angmar
+					UI_Map_PixelHeight: 768
+					UI_Map_PixelOffsetX: 0
+					UI_Map_PixelOffsetY: 751
+					UI_Map_PixelWidth: 1024
+					UI_Map_RegionID: 1
+					UI_Map_Scale: 0.175
+				#6: 
+					UI_Map_ActiveElement: 268437634
+					UI_Map_AreaDIDs_Array: 
+						#1: 1879063972
+						#2: 1879063973
+						#3: 1879063974
+						#4: 1879063975
+						#5: 1879063976
+						#6: 1879063977
+						#7: 1879063978
+						#8: 1879063979
+						#9: 1879063980
+						#10: 1879063981
+						#11: 1879063982
+						#12: 1879063983
+						#13: 1879063984
+						#14: 1879063985
+						#15: 1879063986
+						#16: 1879063987
+						#17: 1879063988
+					UI_Map_BlockOffsetX: 108
+					UI_Map_BlockOffsetY: 130
+					UI_Map_MapImage: 1090552114
+					UI_Map_MapNoteDisplayType: 1980589771700830208
+					UI_Map_MapNoteFilterProperty: 268441602
+					UI_Map_MenuName: 
+						#1: North Downs
+					UI_Map_PixelHeight: 768
+					UI_Map_PixelOffsetX: 0
+					UI_Map_PixelOffsetY: 692
+					UI_Map_PixelWidth: 1024
+					UI_Map_RegionID: 1
+					UI_Map_Scale: 0.18125
+				#7: 
+					UI_Map_ActiveElement: 268437700
+					UI_Map_AreaDIDs_Array: 
+						#1: 1879063989
+						#2: 1879063990
+						#3: 1879063991
+						#4: 1879063992
+						#5: 1879063993
+						#6: 1879158613
+						#7: 1879158614
+					UI_Map_BlockOffsetX: 155
+					UI_Map_BlockOffsetY: 128
+					UI_Map_MapImage: 1090552115
+					UI_Map_MapNoteDisplayType: 1980589771700830208
+					UI_Map_MapNoteFilterProperty: 268441602
+					UI_Map_MenuName: 
+						#1: Ettenmoors
+					UI_Map_PixelHeight: 768
+					UI_Map_PixelOffsetX: 95
+					UI_Map_PixelOffsetY: 768
+					UI_Map_PixelWidth: 1024
+					UI_Map_RegionID: 1
+					UI_Map_Scale: 0.31875
+				#8: 
+					UI_Map_ActiveElement: 268439511
+					UI_Map_AreaDIDs_Array: 
+						#1: 1879086555
+						#2: 1879086544
+						#3: 1879086553
+						#4: 1879086552
+						#5: 1879086551
+						#6: 1879086554
+						#7: 1879086547
+						#8: 1879086550
+						#9: 1879086556
+						#10: 1879086549
+					UI_Map_AreaData_Array: 
+						#1: 
+							UI_Map_ActiveElement: 268441764
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879086548
+								#2: 1879086546
+							UI_Map_BlockOffsetX: 93
+							UI_Map_BlockOffsetY: 129
+							UI_Map_MapImage: 1091464877
+							UI_Map_MapNoteDisplayType: 1980588672189202432
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: Annúminas
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 142
+							UI_Map_PixelOffsetY: 768
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 1
+							UI_Map_Scale: 0.675
+					UI_Map_BlockOffsetX: 86
+					UI_Map_BlockOffsetY: 125
+					UI_Map_MapImage: 1090646148
+					UI_Map_MapNoteDisplayType: 1980589771700830208
+					UI_Map_MapNoteFilterProperty: 268441602
+					UI_Map_MenuName: 
+						#1: Evendim
+					UI_Map_PixelHeight: 768
+					UI_Map_PixelOffsetX: 154
+					UI_Map_PixelOffsetY: 768
+					UI_Map_PixelWidth: 1024
+					UI_Map_RegionID: 1
+					UI_Map_Scale: 0.16875
+				#9: 
+					UI_Map_ActiveElement: 268446977
+					UI_Map_AreaDIDs_Array: 
+					UI_Map_AreaData_Array: 
+						#1: 
+							UI_Map_ActiveElement: 268447030
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879192015
+								#2: 1879192014
+								#3: 1879192016
+								#4: 1879201774
+								#5: 1879192020
+								#6: 1879192017
+								#7: 1879214905
+								#8: 1879192019
+								#9: 1879210266
+								#10: 1879218904
+								#11: 1879218902
+								#12: 1879221596
+								#13: 1879218903
+							UI_Map_AreaData_Array: 
+								#1: 
+									UI_Map_ActiveElement: 268446984
+									UI_Map_AreaDIDs_Array: 
+										#1: 1879218506
+									UI_Map_BlockOffsetX: 161
+									UI_Map_BlockOffsetY: 54
+									UI_Map_MapImage: 1091661566
+									UI_Map_MapNoteDisplayType: 1980588672189202432
+									UI_Map_MapNoteFilterProperty: 268435741
+									UI_Map_MenuName: 
+										#1: Galtrev
+									UI_Map_PixelHeight: 768
+									UI_Map_PixelOffsetX: 111
+									UI_Map_PixelOffsetY: 659
+									UI_Map_PixelWidth: 1024
+									UI_Map_RegionID: 1
+									UI_Map_Scale: 1.425806
+								#2: 
+									UI_Map_ActiveElement: 268447169
+									UI_Map_AreaDIDs_Array: 
+										#1: 1879201776
+									UI_Map_BlockOffsetX: 166
+									UI_Map_BlockOffsetY: 57
+									UI_Map_MapImage: 1091680577
+									UI_Map_MapNoteDisplayType: 1980588672189202432
+									UI_Map_MapNoteFilterProperty: 268435741
+									UI_Map_MenuName: 
+										#1: Tâl Methedras
+									UI_Map_PixelHeight: 768
+									UI_Map_PixelOffsetX: 56
+									UI_Map_PixelOffsetY: 756
+									UI_Map_PixelWidth: 1024
+									UI_Map_RegionID: 1
+									UI_Map_Scale: 0.56
+							UI_Map_BlockOffsetX: 149
+							UI_Map_BlockOffsetY: 42
+							UI_Map_MapImage: 1091671581
+							UI_Map_MapNoteDisplayType: 1980588672189202432
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: Dunland
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 40
+							UI_Map_PixelOffsetY: 763
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 1
+							UI_Map_Scale: 0.191
+						#2: 
+							UI_Map_ActiveElement: 268447051
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879214904
+								#2: 1879201773
+								#3: 1879201775
+							UI_Map_AreaData_Array: 
+								#1: 
+									UI_Map_ActiveElement: 268447589
+									UI_Map_AreaDIDs_Array: 
+										#1: 1879208109
+									UI_Map_BlockOffsetX: 66
+									UI_Map_BlockOffsetY: 217
+									UI_Map_MapImage: 1091671551
+									UI_Map_MapNoteDisplayType: 1980588672189202432
+									UI_Map_MapNoteFilterProperty: 268435741
+									UI_Map_MenuName: 
+										#1: The Pit of Iron
+									UI_Map_PixelHeight: 768
+									UI_Map_PixelOffsetX: 92
+									UI_Map_PixelOffsetY: 804
+									UI_Map_PixelWidth: 1024
+									UI_Map_RegionID: 1
+									UI_Map_Scale: 1.2903225
+							UI_Map_BlockOffsetX: 159
+							UI_Map_BlockOffsetY: 42
+							UI_Map_MapImage: 1091661141
+							UI_Map_MapNoteDisplayType: 1980588672189202432
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: Gap of Rohan
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 60
+							UI_Map_PixelOffsetY: 537
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 1
+							UI_Map_Scale: 0.2580645
+						#3: 
+							UI_Map_ActiveElement: 268447045
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879201772
+							UI_Map_AreaData_Array: 
+								#1: 
+									UI_Map_ActiveElement: 268446985
+									UI_Map_AreaDIDs_Array: 
+										#1: 1879197005
+									UI_Map_BlockOffsetX: 177
+									UI_Map_BlockOffsetY: 53
+									UI_Map_MapImage: 1091661569
+									UI_Map_MapNoteDisplayType: 1980588672189202432
+									UI_Map_MapNoteFilterProperty: 268435741
+									UI_Map_MenuName: 
+										#1: Isengard
+									UI_Map_PixelHeight: 768
+									UI_Map_PixelOffsetX: 145
+									UI_Map_PixelOffsetY: 752
+									UI_Map_PixelWidth: 1024
+									UI_Map_RegionID: 1
+									UI_Map_Scale: 0.6651
+								#2: 
+									UI_Map_ActiveElement: 268447022
+									UI_Map_AreaDIDs_Array: 
+										#1: 1879211470
+									UI_Map_BlockOffsetX: 223
+									UI_Map_BlockOffsetY: 53
+									UI_Map_MapImage: 1091670589
+									UI_Map_MapNoteDisplayType: 1980588672189202432
+									UI_Map_MapNoteFilterProperty: 268435741
+									UI_Map_MenuName: 
+										#1: Isengard Depths
+									UI_Map_PixelHeight: 768
+									UI_Map_PixelOffsetX: 53
+									UI_Map_PixelOffsetY: 857
+									UI_Map_PixelWidth: 1024
+									UI_Map_RegionID: 1
+									UI_Map_Scale: 0.8251613
+								#3: 
+									UI_Map_ActiveElement: 268447023
+									UI_Map_AreaDIDs_Array: 
+										#1: 1879217974
+									UI_Map_BlockOffsetX: 195
+									UI_Map_BlockOffsetY: 227
+									UI_Map_MapImage: 1091670615
+									UI_Map_MapNoteDisplayType: 1980588672189202432
+									UI_Map_MapNoteFilterProperty: 268435741
+									UI_Map_MenuName: 
+										#1: Ring of Isengard
+									UI_Map_PixelHeight: 768
+									UI_Map_PixelOffsetX: 145
+									UI_Map_PixelOffsetY: 752
+									UI_Map_PixelWidth: 1024
+									UI_Map_RegionID: 1
+									UI_Map_Scale: 0.6651
+							UI_Map_BlockOffsetX: 175
+							UI_Map_BlockOffsetY: 48
+							UI_Map_MapImage: 1091671559
+							UI_Map_MapNoteDisplayType: 1980588672189202432
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: Nan Curunír
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 204
+							UI_Map_PixelOffsetY: 741
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 1
+							UI_Map_Scale: 0.37419355
+					UI_Map_BlockOffsetX: 149
+					UI_Map_BlockOffsetY: 42
+					UI_Map_MapImage: 1091671573
+					UI_Map_MapNoteFilterProperty: 268441602
+					UI_Map_MenuName: 
+						#1: Dunland Overview
+					UI_Map_PixelHeight: 768
+					UI_Map_PixelOffsetX: 28
+					UI_Map_PixelOffsetY: 636
+					UI_Map_PixelWidth: 1024
+					UI_Map_RegionID: 1
+					UI_Map_Scale: 0.1565
+				#10: 
+					UI_Map_ActiveElement: 268437653
+					UI_Map_AreaDIDs_Array: 
+						#1: 1879063994
+						#2: 1879063995
+						#3: 1879078401
+						#4: 1879063997
+						#5: 1879064000
+						#6: 1879064001
+						#7: 1879064002
+						#8: 1879064003
+						#9: 1879064004
+						#10: 1879064005
+						#11: 1879064006
+						#12: 1879064007
+						#13: 1879064008
+						#14: 1879305572
+						#15: 1879064009
+						#16: 1879064010
+						#17: 1879064011
+						#18: 1879064012
+						#19: 1879064013
+					UI_Map_AreaData_Array: 
+						#1: 
+							UI_Map_ActiveElement: 268437716
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879064015
+							UI_Map_BlockOffsetX: 116
+							UI_Map_BlockOffsetY: 114
+							UI_Map_MapImage: 1090552116
+							UI_Map_MapNoteDisplayType: 1980588672189202432
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: Bree
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 95
+							UI_Map_PixelOffsetY: 768
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 1
+							UI_Map_Scale: 0.75
+						#2: 
+							UI_Map_ActiveElement: 268437719
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879064014
+							UI_Map_BlockOffsetX: 121
+							UI_Map_BlockOffsetY: 120
+							UI_Map_MapImage: 1090552117
+							UI_Map_MapNoteDisplayType: 1980588672189202432
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: Archet
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 146
+							UI_Map_PixelOffsetY: 768
+							UI_Map_PixelWidth: 1024
+							UI_Map_QuestGuideBound_XMax: 1023
+							UI_Map_QuestGuideBound_XMin: 0
+							UI_Map_QuestGuideBound_YMax: 800
+							UI_Map_QuestGuideBound_YMin: 0
+							UI_Map_RegionID: 1
+							UI_Map_Scale: 0.9125
+						#3: 
+							UI_Map_ActiveElement: 268441569
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879063996
+							UI_Map_BlockOffsetX: 106
+							UI_Map_BlockOffsetY: 107
+							UI_Map_MapImage: 1091456477
+							UI_Map_MapNoteDisplayType: 1980589771700830208
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: The Old Forest
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 256
+							UI_Map_PixelOffsetY: 768
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 1
+							UI_Map_Scale: 0.4
+						#4: 
+							UI_Map_ActiveElement: 268445611
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879196939
+							UI_Map_BlockOffsetX: 63
+							UI_Map_BlockOffsetY: 169
+							UI_Map_MapImage: 1091622309
+							UI_Map_MapNoteDisplayType: 1980589771700830208
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: Frostbluff
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 0
+							UI_Map_PixelOffsetY: 768
+							UI_Map_PixelWidth: 1024
+							UI_Map_PreventZoomOut: 1
+							UI_Map_RegionID: 1
+							UI_Map_Scale: 1.071
+						#5: 
+							UI_Map_ActiveElement: 268445087
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879063998
+							UI_Map_BlockOffsetX: 113
+							UI_Map_BlockOffsetY: 114
+							UI_Map_MapImage: 1091610689
+							UI_Map_MapNoteDisplayType: 1980589771700830208
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: Northern Barrow-downs
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 187
+							UI_Map_PixelOffsetY: 706
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 1
+							UI_Map_Scale: 1.06
+						#6: 
+							UI_Map_ActiveElement: 268445092
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879063999
+							UI_Map_BlockOffsetX: 113
+							UI_Map_BlockOffsetY: 109
+							UI_Map_MapImage: 1091610690
+							UI_Map_MapNoteDisplayType: 1980589771700830208
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: Southern Barrow-downs
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 238
+							UI_Map_PixelOffsetY: 792
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 1
+							UI_Map_Scale: 0.88
+						#7: 
+							UI_Map_ActiveElement: 268440603
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879098738
+							UI_Map_BlockOffsetX: 122
+							UI_Map_BlockOffsetY: 108
+							UI_Map_MapImage: 1091410516
+							UI_Map_MapNoteDisplayType: 1980588672189202432
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: Bree-land Homesteads
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 155
+							UI_Map_PixelOffsetY: 768
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 1
+							UI_Map_Scale: 0.948387
+					UI_Map_BlockOffsetX: 104
+					UI_Map_BlockOffsetY: 107
+					UI_Map_MapImage: 1090552118
+					UI_Map_MapNoteDisplayType: 1980589772237701120
+					UI_Map_MapNoteFilterProperty: 268441602
+					UI_Map_MenuName: 
+						#1: Bree-land
+					UI_Map_PixelHeight: 768
+					UI_Map_PixelOffsetX: 72
+					UI_Map_PixelOffsetY: 764
+					UI_Map_PixelWidth: 1024
+					UI_Map_RegionID: 1
+					UI_Map_Scale: 0.18125
+				#11: 
+					UI_Map_ActiveElement: 268437678
+					UI_Map_AreaDIDs_Array: 
+						#1: 1879064016
+						#2: 1879064017
+						#3: 1879064018
+						#4: 1879064019
+						#5: 1879064020
+						#6: 1879064021
+						#7: 1879064022
+						#8: 1879064023
+						#9: 1879064024
+						#10: 1879064025
+						#11: 1879064026
+						#12: 1879064027
+						#13: 1879223034
+						#14: 1879223642
+					UI_Map_AreaData_Array: 
+						#1: 
+							UI_Map_ActiveElement: 268440610
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879098737
+							UI_Map_BlockOffsetX: 88
+							UI_Map_BlockOffsetY: 107
+							UI_Map_MapImage: 1091410519
+							UI_Map_MapNoteDisplayType: 1980588672189202432
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: Shire Homesteads
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 187
+							UI_Map_PixelOffsetY: 754
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 1
+							UI_Map_Scale: 0.905
+					UI_Map_BlockOffsetX: 85
+					UI_Map_BlockOffsetY: 107
+					UI_Map_MapImage: 1090552119
+					UI_Map_MapNoteDisplayType: 1980589772237701120
+					UI_Map_MapNoteFilterProperty: 268441602
+					UI_Map_MenuName: 
+						#1: The Shire
+					UI_Map_PixelHeight: 768
+					UI_Map_PixelOffsetX: 102
+					UI_Map_PixelOffsetY: 768
+					UI_Map_PixelWidth: 1024
+					UI_Map_RegionID: 1
+					UI_Map_Scale: 0.24175
+				#12: 
+					UI_Map_ActiveElement: 268441431
+					UI_Map_AreaDIDs_Array: 
+						#1: 1879106470
+						#2: 1879102448
+						#3: 1879102449
+						#4: 1879102450
+						#5: 1879102451
+						#6: 1879102452
+						#7: 1879184396
+					UI_Map_BlockOffsetX: 71
+					UI_Map_BlockOffsetY: 150
+					UI_Map_MapImage: 1091452742
+					UI_Map_MapNoteDisplayType: 1980589771700830208
+					UI_Map_MapNoteFilterProperty: 268441602
+					UI_Map_MenuName: 
+						#1: Forochel
+					UI_Map_PixelHeight: 768
+					UI_Map_PixelOffsetX: 69
+					UI_Map_PixelOffsetY: 735
+					UI_Map_PixelWidth: 1024
+					UI_Map_RegionID: 1
+					UI_Map_Scale: 0.12525
+				#13: 
+					UI_Map_ActiveElement: 268444443
+					UI_Map_AreaDIDs_Array: 
+						#1: 1879181894
+						#2: 1879181895
+						#3: 1879181897
+						#4: 1879181896
+						#5: 1879181891
+						#6: 1879181893
+						#7: 1879181892
+					UI_Map_BlockOffsetX: 150
+					UI_Map_BlockOffsetY: 60
+					UI_Map_MapImage: 1091584420
+					UI_Map_MapNoteDisplayType: 1980589771700830208
+					UI_Map_MapNoteFilterProperty: 268441602
+					UI_Map_MenuName: 
+						#1: Enedwaith
+					UI_Map_PixelHeight: 768
+					UI_Map_PixelOffsetX: 158
+					UI_Map_PixelOffsetY: 748
+					UI_Map_PixelWidth: 1024
+					UI_Map_RegionID: 1
+					UI_Map_Scale: 0.165
+				#14: 
+					UI_Map_ActiveElement: 268442268
+					UI_Map_AreaDIDs_Array: 
+						#1: 1879106662
+						#2: 1879106663
+						#3: 1879106664
+						#4: 1879106665
+						#5: 1879106666
+						#6: 1879106667
+						#7: 1879106668
+						#8: 1879106670
+						#9: 1879106671
+						#10: 1879106672
+					UI_Map_AreaData_Array: 
+						#1: 
+							UI_Map_ActiveElement: 268442326
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879106669
+							UI_Map_BlockOffsetX: 173
+							UI_Map_BlockOffsetY: 88
+							UI_Map_MapImage: 1091470996
+							UI_Map_MapNoteDisplayType: 1980588672189202432
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: The Walls of Moria
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 78
+							UI_Map_PixelOffsetY: 768
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 1
+							UI_Map_Scale: 0.6967
+					UI_Map_BlockOffsetX: 158
+					UI_Map_BlockOffsetY: 83
+					UI_Map_MapImage: 1091470982
+					UI_Map_MapNoteDisplayType: 1980589771700830208
+					UI_Map_MapNoteFilterProperty: 268441602
+					UI_Map_MenuName: 
+						#1: Eregion
+					UI_Map_PixelHeight: 768
+					UI_Map_PixelOffsetX: 115
+					UI_Map_PixelOffsetY: 768
+					UI_Map_PixelWidth: 1024
+					UI_Map_RegionID: 1
+					UI_Map_Scale: 0.16875
+			UI_Map_BlockOffsetX: 0
+			UI_Map_BlockOffsetY: 48
+			UI_Map_HideFilterButtons: 1
+			UI_Map_MapImage: 1090552120
+			UI_Map_MapNoteDisplayType: 70386058264576
+			UI_Map_MapNoteFilterProperty: 268441602
+			UI_Map_MenuName: 
+				#1: Eriador
+			UI_Map_PixelHeight: 768
+			UI_Map_PixelOffsetX: 0
+			UI_Map_PixelOffsetY: 745
+			UI_Map_PixelWidth: 1024
+			UI_Map_QuestGuideBound_XMax: 0
+			UI_Map_QuestGuideBound_XMin: 0
+			UI_Map_QuestGuideBound_YMax: 0
+			UI_Map_QuestGuideBound_YMin: 0
+			UI_Map_QuestGuideDisabled: 1
+			UI_Map_RegionID: 1
+			UI_Map_Scale: 0.03246
+		#2: 
+			UI_Map_ActiveElement: 268442224
+			UI_Map_AreaData_Array: 
+				#1: 
+					UI_Map_ActiveElement: 268452526
+					UI_Map_AreaDIDs_Array: 
+						#1: 1879362291
+						#2: 1879362296
+						#3: 1879362295
+						#4: 1879362292
+						#5: 1879362293
+						#6: 1879362284
+						#7: 1879366956
+					UI_Map_AreaData_Array: 
+						#1: 
+							UI_Map_ActiveElement: 268452525
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879362297
+							UI_Map_BlockOffsetX: 22
+							UI_Map_BlockOffsetY: 213
+							UI_Map_MapImage: 1092365793
+							UI_Map_MapNoteDisplayType: 1980589771700830208
+							UI_Map_MapNoteFilterProperty: 268441602
+							UI_Map_MenuName: 
+								#1: Felegoth
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: -30
+							UI_Map_PixelOffsetY: 768
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 2
+							UI_Map_Scale: 0.95625
+						#2: 
+							UI_Map_ActiveElement: 268452663
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879362287
+								#2: 1879375475
+								#3: 1879375474
+							UI_Map_BlockOffsetX: 11
+							UI_Map_BlockOffsetY: 171
+							UI_Map_MapImage: 1092413263
+							UI_Map_MapNoteDisplayType: 1980589771700830208
+							UI_Map_MapNoteFilterProperty: 268441602
+							UI_Map_MenuName: 
+								#1: Erebor
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 0
+							UI_Map_PixelOffsetY: 768
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 2
+							UI_Map_Scale: 0.95625
+					UI_Map_BlockOffsetX: 112
+					UI_Map_BlockOffsetY: 162
+					UI_Map_MapImage: 1092365794
+					UI_Map_MapNoteDisplayType: 1980589771700830208
+					UI_Map_MapNoteFilterProperty: 268441602
+					UI_Map_MenuName: 
+						#1: Northern Mirkwood
+					UI_Map_PixelHeight: 768
+					UI_Map_PixelOffsetX: -14
+					UI_Map_PixelOffsetY: 769
+					UI_Map_PixelWidth: 1024
+					UI_Map_RegionID: 2
+					UI_Map_Scale: 0.11935
+				#2: 
+					UI_Map_ActiveElement: 268453023
+					UI_Map_AreaDIDs_Array: 
+						#1: 1879387598
+						#2: 1879384448
+						#3: 1879384446
+						#4: 1879387796
+						#5: 1879384444
+						#6: 1879384449
+						#7: 1879384456
+						#8: 1879384447
+						#9: 1879384450
+					UI_Map_AreaData_Array: 
+						#1: 
+							UI_Map_ActiveElement: 268450898
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879315609
+							UI_Map_BlockOffsetX: 114
+							UI_Map_BlockOffsetY: 170
+							UI_Map_MapImage: 1091942795
+							UI_Map_MapNoteDisplayType: 1980588672222756864
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: Grimbeorn's House
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 204
+							UI_Map_PixelOffsetY: 768
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 2
+							UI_Map_Scale: 0.9625
+					UI_Map_BlockOffsetX: 102
+					UI_Map_BlockOffsetY: 140
+					UI_Map_MapImage: 1092461728
+					UI_Map_MapNoteDisplayType: 1980589771713413120
+					UI_Map_MapNoteFilterProperty: 268441602
+					UI_Map_MenuName: 
+						#1: Vales of Anduin
+					UI_Map_PixelHeight: 768
+					UI_Map_PixelOffsetX: 404
+					UI_Map_PixelOffsetY: 768
+					UI_Map_PixelWidth: 1024
+					UI_Map_RegionID: 2
+					UI_Map_Scale: 0.125
+				#3: 
+					UI_Map_ActiveElement: 268452631
+					UI_Map_AreaDIDs_Array: 
+						#1: 1879368366
+						#2: 1879368349
+						#3: 1879368367
+					UI_Map_AreaData_Array: 
+						#1: 
+							UI_Map_ActiveElement: 268452655
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879368362
+							UI_Map_BlockOffsetX: 11
+							UI_Map_BlockOffsetY: 183
+							UI_Map_MapImage: 1092412668
+							UI_Map_MapNoteDisplayType: 1980589771700830208
+							UI_Map_MapNoteFilterProperty: 268441602
+							UI_Map_MenuName: 
+								#1: Steel Keep
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 129
+							UI_Map_PixelOffsetY: 768
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 2
+							UI_Map_Scale: 0.9625
+						#2: 
+							UI_Map_ActiveElement: 268452659
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879368334
+							UI_Map_BlockOffsetX: 11
+							UI_Map_BlockOffsetY: 192
+							UI_Map_MapImage: 1092413237
+							UI_Map_MapNoteDisplayType: 1980589771700830208
+							UI_Map_MapNoteFilterProperty: 268441602
+							UI_Map_MenuName: 
+								#1: Glimmerdeep
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 200
+							UI_Map_PixelOffsetY: 768
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 2
+							UI_Map_Scale: 0.95625
+						#3: 
+							UI_Map_ActiveElement: 268452717
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879368345
+							UI_Map_BlockOffsetX: 11
+							UI_Map_BlockOffsetY: 200
+							UI_Map_MapImage: 1092431546
+							UI_Map_MapNoteDisplayType: 1980589771700830208
+							UI_Map_MapNoteFilterProperty: 268441602
+							UI_Map_MenuName: 
+								#1: The Anvil of Winterstith
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 0
+							UI_Map_PixelOffsetY: 751
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 2
+							UI_Map_Scale: 1.25
+					UI_Map_BlockOffsetX: 112
+					UI_Map_BlockOffsetY: 191
+					UI_Map_MapImage: 1092390313
+					UI_Map_MapNoteDisplayType: 1980589771700830208
+					UI_Map_MapNoteFilterProperty: 268441602
+					UI_Map_MenuName: 
+						#1: Ered Mithrin
+					UI_Map_PixelHeight: 768
+					UI_Map_PixelOffsetX: -1
+					UI_Map_PixelOffsetY: 720
+					UI_Map_PixelWidth: 1024
+					UI_Map_RegionID: 2
+					UI_Map_Scale: 0.2
+				#4: 
+					UI_Map_ActiveElement: 268452634
+					UI_Map_AreaDIDs_Array: 
+						#1: 1879368364
+						#2: 1879368360
+						#3: 1879368338
+					UI_Map_BlockOffsetX: 154
+					UI_Map_BlockOffsetY: 177
+					UI_Map_MapImage: 1092408504
+					UI_Map_MapNoteDisplayType: 1980589771700830208
+					UI_Map_MapNoteFilterProperty: 268441602
+					UI_Map_MenuName: 
+						#1: Iron Hills
+					UI_Map_PixelHeight: 768
+					UI_Map_PixelOffsetX: 2
+					UI_Map_PixelOffsetY: 749
+					UI_Map_PixelWidth: 1024
+					UI_Map_RegionID: 2
+					UI_Map_Scale: 0.228125
+				#5: 
+					UI_Map_ActiveElement: 268443855
+					UI_Map_AreaDIDs_Array: 
+						#1: 1879152193
+						#2: 1879152194
+						#3: 1879152195
+						#4: 1879152196
+						#5: 1879192400
+						#6: 1879152197
+						#7: 1879152198
+						#8: 1879152199
+						#9: 1879152200
+						#10: 1879152201
+					UI_Map_BlockOffsetX: 105
+					UI_Map_BlockOffsetY: 130
+					UI_Map_MapImage: 1091571186
+					UI_Map_MapNoteDisplayType: 1980589771700830208
+					UI_Map_MapNoteFilterProperty: 268441602
+					UI_Map_MenuName: 
+						#1: Mirkwood
+					UI_Map_PixelHeight: 768
+					UI_Map_PixelOffsetX: 34
+					UI_Map_PixelOffsetY: 638
+					UI_Map_PixelWidth: 1024
+					UI_Map_RegionID: 2
+					UI_Map_Scale: 0.20625
+				#6: 
+					UI_Map_ActiveElement: 268452558
+					UI_Map_AreaDIDs_Array: 
+						#1: 1879366212
+					UI_Map_BlockOffsetX: 158
+					UI_Map_BlockOffsetY: 133
+					UI_Map_MapImage: 1092369012
+					UI_Map_MapNoteDisplayType: 1980589771700830208
+					UI_Map_MapNoteFilterProperty: 268441602
+					UI_Map_MenuName: 
+						#1: Dol Guldur (razed)
+					UI_Map_PixelHeight: 768
+					UI_Map_PixelOffsetX: 2
+					UI_Map_PixelOffsetY: 909
+					UI_Map_PixelWidth: 1024
+					UI_Map_RegionID: 2
+					UI_Map_Scale: 0.70625
+				#7: 
+					UI_Map_ActiveElement: 268442355
+					UI_Map_AreaDIDs_Array: 
+					UI_Map_AreaData_Array: 
+						#1: 
+							UI_Map_ActiveElement: 268442350
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879109899
+							UI_Map_BlockOffsetX: 44
+							UI_Map_BlockOffsetY: 170
+							UI_Map_MapImage: 1091471134
+							UI_Map_MapNoteDisplayType: 1980588672189202432
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: Zirakzigil
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 184
+							UI_Map_PixelOffsetY: 768
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 2
+							UI_Map_Scale: 0.675
+						#2: 
+							UI_Map_ActiveElement: 268442349
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879109900
+								#2: 1879144909
+							UI_Map_BlockOffsetX: 41
+							UI_Map_BlockOffsetY: 147
+							UI_Map_MapImage: 1091471133
+							UI_Map_MapNoteDisplayType: 1980588672189202432
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: Durin's Way
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 0
+							UI_Map_PixelOffsetY: 561
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 2
+							UI_Map_Scale: 0.32
+						#3: 
+							UI_Map_ActiveElement: 268442348
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879109901
+							UI_Map_BlockOffsetX: 37
+							UI_Map_BlockOffsetY: 144
+							UI_Map_MapImage: 1091471132
+							UI_Map_MapNoteDisplayType: 1980588672189202432
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: The Great Delving
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 0
+							UI_Map_PixelOffsetY: 606
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 2
+							UI_Map_Scale: 0.71
+						#4: 
+							UI_Map_ActiveElement: 268442463
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879117705
+							UI_Map_BlockOffsetX: 8
+							UI_Map_BlockOffsetY: 242
+							UI_Map_MapImage: 1091472986
+							UI_Map_MapNoteDisplayType: 1980588672189202432
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: The Grand Stair
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 177
+							UI_Map_PixelOffsetY: 768
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 2
+							UI_Map_Scale: 0.8125
+						#5: 
+							UI_Map_ActiveElement: 268442347
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879109902
+								#2: 1879191197
+							UI_Map_BlockOffsetX: 45
+							UI_Map_BlockOffsetY: 138
+							UI_Map_MapImage: 1091471131
+							UI_Map_MapNoteDisplayType: 1980588672189202432
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: Zelem-melek
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 245
+							UI_Map_PixelOffsetY: 768
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 2
+							UI_Map_Scale: 0.38
+						#6: 
+							UI_Map_ActiveElement: 268442346
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879109903
+							UI_Map_BlockOffsetX: 52
+							UI_Map_BlockOffsetY: 140
+							UI_Map_MapImage: 1091471130
+							UI_Map_MapNoteDisplayType: 1980588672189202432
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: Nud-melek
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 0
+							UI_Map_PixelOffsetY: 768
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 2
+							UI_Map_Scale: 0.45625
+						#7: 
+							UI_Map_ActiveElement: 268442345
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879109904
+							UI_Map_BlockOffsetX: 40
+							UI_Map_BlockOffsetY: 138
+							UI_Map_MapImage: 1091471129
+							UI_Map_MapNoteDisplayType: 1980588672189202432
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: Silvertine Lodes
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 181
+							UI_Map_PixelOffsetY: 768
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 2
+							UI_Map_Scale: 0.71
+						#8: 
+							UI_Map_ActiveElement: 268442344
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879109905
+								#2: 1879256642
+							UI_Map_BlockOffsetX: 49
+							UI_Map_BlockOffsetY: 135
+							UI_Map_MapImage: 1091471128
+							UI_Map_MapNoteDisplayType: 1980588672189202432
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: Redhorn Lodes
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 168
+							UI_Map_PixelOffsetY: 768
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 2
+							UI_Map_Scale: 0.5375
+						#9: 
+							UI_Map_ActiveElement: 268442343
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879109906
+							UI_Map_BlockOffsetX: 36
+							UI_Map_BlockOffsetY: 127
+							UI_Map_MapImage: 1091471127
+							UI_Map_MapNoteDisplayType: 1980588672189202432
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: The Water-works
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 185
+							UI_Map_PixelOffsetY: 850
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 2
+							UI_Map_Scale: 0.36875
+						#10: 
+							UI_Map_ActiveElement: 268442342
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879109907
+							UI_Map_BlockOffsetX: 44
+							UI_Map_BlockOffsetY: 133
+							UI_Map_MapImage: 1091471126
+							UI_Map_MapNoteDisplayType: 1980588672189202432
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: The Flaming Deeps
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 74
+							UI_Map_PixelOffsetY: 768
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 2
+							UI_Map_Scale: 0.68125
+						#11: 
+							UI_Map_ActiveElement: 268442341
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879109908
+								#2: 1879109909
+							UI_Map_BlockOffsetX: 55
+							UI_Map_BlockOffsetY: 135
+							UI_Map_MapImage: 1091471125
+							UI_Map_MapNoteDisplayType: 1980588672189202432
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: Foundations of Stone
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 0
+							UI_Map_PixelOffsetY: 768
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 2
+							UI_Map_Scale: 0.6625
+					UI_Map_BlockOffsetX: 36
+					UI_Map_BlockOffsetY: 127
+					UI_Map_MapImage: 1091471112
+					UI_Map_MapNoteDisplayType: 1980589771700830208
+					UI_Map_MapNoteFilterProperty: 268441602
+					UI_Map_MenuName: 
+						#1: Moria
+					UI_Map_PixelHeight: 768
+					UI_Map_PixelOffsetX: 113
+					UI_Map_PixelOffsetY: 768
+					UI_Map_PixelWidth: 1024
+					UI_Map_RegionID: 2
+					UI_Map_Scale: 0.15
+				#8: 
+					UI_Map_ActiveElement: 268442330
+					UI_Map_AreaDIDs_Array: 
+						#1: 1879109910
+						#2: 1879109911
+						#3: 1879109912
+						#4: 1879109913
+						#5: 1879109914
+						#6: 1879109915
+						#7: 1879109916
+						#8: 1879112702
+						#9: 1879150298
+					UI_Map_AreaData_Array: 
+						#1: 
+							UI_Map_ActiveElement: 268443779
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879112703
+							UI_Map_BlockOffsetX: 97
+							UI_Map_BlockOffsetY: 134
+							UI_Map_MapImage: 1091471110
+							UI_Map_MapNoteDisplayType: 1980588672726073344
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: Caras Galadhon
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 144
+							UI_Map_PixelOffsetY: 768
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 2
+							UI_Map_Scale: 0.9
+					UI_Map_BlockOffsetX: 81
+					UI_Map_BlockOffsetY: 130
+					UI_Map_MapImage: 1091471111
+					UI_Map_MapNoteDisplayType: 1980589771700830208
+					UI_Map_MapNoteFilterProperty: 268441602
+					UI_Map_MenuName: 
+						#1: Lothlórien
+					UI_Map_PixelHeight: 768
+					UI_Map_PixelOffsetX: 0
+					UI_Map_PixelOffsetY: 768
+					UI_Map_PixelWidth: 1024
+					UI_Map_RegionID: 2
+					UI_Map_Scale: 0.24375
+				#9: 
+					UI_Map_ActiveElement: 268447390
+					UI_Map_AreaDIDs_Array: 
+						#1: 1879222977
+						#2: 1879222978
+						#3: 1879222976
+						#4: 1879222975
+						#5: 1879222979
+						#6: 1879222973
+						#7: 1879222974
+					UI_Map_AreaData_Array: 
+						#1: 
+							UI_Map_ActiveElement: 268447745
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879232928
+							UI_Map_BlockOffsetX: 103
+							UI_Map_BlockOffsetY: 122
+							UI_Map_MapImage: 1091714825
+							UI_Map_MapNoteDisplayType: 1980588672189202432
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: Stangard
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 251
+							UI_Map_PixelOffsetY: 668
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 2
+							UI_Map_Scale: 1.75
+					UI_Map_BlockOffsetX: 93
+					UI_Map_BlockOffsetY: 112
+					UI_Map_MapImage: 1091690944
+					UI_Map_MapNoteDisplayType: 1980589771700830208
+					UI_Map_MapNoteFilterProperty: 268441602
+					UI_Map_MenuName: 
+						#1: The Great River
+					UI_Map_PixelHeight: 768
+					UI_Map_PixelOffsetX: 55
+					UI_Map_PixelOffsetY: 662
+					UI_Map_PixelWidth: 1024
+					UI_Map_RegionID: 2
+					UI_Map_Scale: 0.188
+				#10: 
+					UI_Map_ActiveElement: 268449764
+					UI_Map_AreaData_Array: 
+						#1: 
+							UI_Map_ActiveElement: 268449746
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879256900
+							UI_Map_AreaData_Array: 
+								#1: 
+									UI_Map_ActiveElement: 268449761
+									UI_Map_AreaDIDs_Array: 
+										#1: 1879252019
+										#2: 1879262547
+									UI_Map_BlockOffsetX: 90
+									UI_Map_BlockOffsetY: 76
+									UI_Map_MapImage: 1091814174
+									UI_Map_MapNoteDisplayType: 1980588672726073344
+									UI_Map_MapNoteFilterProperty: 268435741
+									UI_Map_MenuName: 
+										#1: West Rohan: Edoras
+									UI_Map_PixelHeight: 768
+									UI_Map_PixelOffsetX: 269
+									UI_Map_PixelOffsetY: 701
+									UI_Map_PixelWidth: 1024
+									UI_Map_RegionID: 2
+									UI_Map_Scale: 0.645
+							UI_Map_BlockOffsetX: 88
+							UI_Map_BlockOffsetY: 63
+							UI_Map_MapImage: 1091814175
+							UI_Map_MapNoteDisplayType: 1980588672222756864
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: West Rohan: Kingstead
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 316
+							UI_Map_PixelOffsetY: 716
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 2
+							UI_Map_Scale: 0.15483871
+						#2: 
+							UI_Map_ActiveElement: 268450628
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879256899
+							UI_Map_BlockOffsetX: 76
+							UI_Map_BlockOffsetY: 99
+							UI_Map_MapImage: 1091878570
+							UI_Map_MapNoteDisplayType: 1980588672726073344
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: Entwood
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 63
+							UI_Map_PixelOffsetY: 815
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 2
+							UI_Map_Scale: 0.516032
+						#3: 
+							UI_Map_ActiveElement: 268449749
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879256897
+							UI_Map_BlockOffsetX: 90
+							UI_Map_BlockOffsetY: 90
+							UI_Map_MapImage: 1091814176
+							UI_Map_MapNoteDisplayType: 1980588672222756864
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: West Rohan: Broadacres
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 208
+							UI_Map_PixelOffsetY: 694
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 2
+							UI_Map_Scale: 0.32
+						#4: 
+							UI_Map_ActiveElement: 268449752
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879256898
+								#2: 1879303536
+							UI_Map_BlockOffsetX: 100
+							UI_Map_BlockOffsetY: 61
+							UI_Map_MapImage: 1091814177
+							UI_Map_MapNoteDisplayType: 1980588672222756864
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: West Rohan: Eastfold
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 190
+							UI_Map_PixelOffsetY: 705
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 2
+							UI_Map_Scale: 0.22580644
+						#5: 
+							UI_Map_ActiveElement: 268449755
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879256895
+							UI_Map_BlockOffsetX: 77
+							UI_Map_BlockOffsetY: 83
+							UI_Map_MapImage: 1091814178
+							UI_Map_MapNoteDisplayType: 1980588672222756864
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: West Rohan: Stonedeans
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 198
+							UI_Map_PixelOffsetY: 696
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 2
+							UI_Map_Scale: 0.25
+						#6: 
+							UI_Map_ActiveElement: 268449767
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879272837
+								#2: 1879277189
+								#3: 1879289551
+								#4: 1879272838
+								#5: 1879272808
+							UI_Map_BlockOffsetX: 70
+							UI_Map_BlockOffsetY: 73
+							UI_Map_MapImage: 1091814179
+							UI_Map_MapNoteDisplayType: 1980588672222756864
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: West Rohan: Helm's Deep
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 300
+							UI_Map_PixelOffsetY: 671
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 2
+							UI_Map_Scale: 0.59354836
+						#7: 
+							UI_Map_ActiveElement: 268450268
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879289537
+								#2: 1879289544
+							UI_Map_BlockOffsetX: 51
+							UI_Map_BlockOffsetY: 239
+							UI_Map_MapImage: 1091814179
+							UI_Map_MapNoteDisplayType: 1980588672222756864
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: null
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 300
+							UI_Map_PixelOffsetY: 671
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 2
+							UI_Map_Scale: 0.59354836
+						#8: 
+							UI_Map_ActiveElement: 268450269
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879289538
+								#2: 1879289545
+							UI_Map_BlockOffsetX: 69
+							UI_Map_BlockOffsetY: 239
+							UI_Map_MapImage: 1091814179
+							UI_Map_MapNoteDisplayType: 1980588672222756864
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: null
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 300
+							UI_Map_PixelOffsetY: 671
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 2
+							UI_Map_Scale: 0.59354836
+						#9: 
+							UI_Map_ActiveElement: 268450270
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879289539
+								#2: 1879289546
+							UI_Map_BlockOffsetX: 87
+							UI_Map_BlockOffsetY: 239
+							UI_Map_MapImage: 1091814179
+							UI_Map_MapNoteDisplayType: 1980588672222756864
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: null
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 300
+							UI_Map_PixelOffsetY: 671
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 2
+							UI_Map_Scale: 0.59354836
+						#10: 
+							UI_Map_ActiveElement: 268450271
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879289540
+								#2: 1879289547
+							UI_Map_BlockOffsetX: 105
+							UI_Map_BlockOffsetY: 239
+							UI_Map_MapImage: 1091814179
+							UI_Map_MapNoteDisplayType: 1980588672222756864
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: null
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 300
+							UI_Map_PixelOffsetY: 671
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 2
+							UI_Map_Scale: 0.59354836
+						#11: 
+							UI_Map_ActiveElement: 268450272
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879289541
+								#2: 1879289548
+							UI_Map_BlockOffsetX: 123
+							UI_Map_BlockOffsetY: 239
+							UI_Map_MapImage: 1091814179
+							UI_Map_MapNoteDisplayType: 1980588672222756864
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: null
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 300
+							UI_Map_PixelOffsetY: 671
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 2
+							UI_Map_Scale: 0.59354836
+						#12: 
+							UI_Map_ActiveElement: 268450273
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879289542
+								#2: 1879289549
+							UI_Map_BlockOffsetX: 141
+							UI_Map_BlockOffsetY: 239
+							UI_Map_MapImage: 1091814179
+							UI_Map_MapNoteDisplayType: 1980588672222756864
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: null
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 300
+							UI_Map_PixelOffsetY: 671
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 2
+							UI_Map_Scale: 0.59354836
+						#13: 
+							UI_Map_ActiveElement: 268450274
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879289543
+								#2: 1879289550
+							UI_Map_BlockOffsetX: 159
+							UI_Map_BlockOffsetY: 239
+							UI_Map_MapImage: 1091814179
+							UI_Map_MapNoteDisplayType: 1980588672222756864
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: null
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 300
+							UI_Map_PixelOffsetY: 671
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 2
+							UI_Map_Scale: 0.59354836
+						#14: 
+							UI_Map_ActiveElement: 268449758
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879256896
+							UI_Map_BlockOffsetX: 69
+							UI_Map_BlockOffsetY: 70
+							UI_Map_MapImage: 1091814180
+							UI_Map_MapNoteDisplayType: 1980589771734384640
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: West Rohan: Westfold
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 171
+							UI_Map_PixelOffsetY: 716
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 2
+							UI_Map_Scale: 0.21875
+						#15: 
+							UI_Map_ActiveElement: 268450642
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879303318
+								#2: 1879303317
+							UI_Map_AreaData_Array: 
+								#1: 
+									UI_Map_ActiveElement: 268450796
+									UI_Map_AreaDIDs_Array: 
+										#1: 1879303319
+									UI_Map_BlockOffsetX: 223
+									UI_Map_BlockOffsetY: 65
+									UI_Map_MapImage: 1091670589
+									UI_Map_MapNoteDisplayType: 1980588672189202432
+									UI_Map_MapNoteFilterProperty: 268435741
+									UI_Map_MenuName: 
+										#1: Isengard Depths (flooded)
+									UI_Map_PixelHeight: 768
+									UI_Map_PixelOffsetX: 54
+									UI_Map_PixelOffsetY: 565
+									UI_Map_PixelWidth: 1024
+									UI_Map_RegionID: 1
+									UI_Map_Scale: 0.8251613
+							UI_Map_BlockOffsetX: 66
+							UI_Map_BlockOffsetY: 90
+							UI_Map_MapImage: 1091887388
+							UI_Map_MapNoteDisplayType: 1980588672189202432
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: Nan Curunír (Flooded)
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 216
+							UI_Map_PixelOffsetY: 727
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 2
+							UI_Map_Scale: 0.36774194
+					UI_Map_BlockOffsetX: 70
+					UI_Map_BlockOffsetY: 61
+					UI_Map_MapImage: 1091814181
+					UI_Map_MapNoteDisplayType: 1980589771734384640
+					UI_Map_MapNoteFilterProperty: 268441602
+					UI_Map_MenuName: 
+						#1: Western Rohan
+					UI_Map_PixelHeight: 768
+					UI_Map_PixelOffsetX: 130
+					UI_Map_PixelOffsetY: 700
+					UI_Map_PixelWidth: 1024
+					UI_Map_RegionID: 2
+					UI_Map_Scale: 0.0981
+				#11: 
+					UI_Map_ActiveElement: 268448107
+					UI_Map_AreaData_Array: 
+						#1: 
+							UI_Map_ActiveElement: 268448407
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879231080
+								#2: 1879241661
+								#3: 1879241666
+								#4: 1879241664
+							UI_Map_AreaData_Array: 
+								#1: 
+									UI_Map_ActiveElement: 268448916
+									UI_Map_AreaDIDs_Array: 
+										#1: 1879256451
+									UI_Map_BlockOffsetX: 116
+									UI_Map_BlockOffsetY: 104
+									UI_Map_MapImage: 1091776016
+									UI_Map_MapNoteDisplayType: 1980588672726073344
+									UI_Map_MapNoteFilterProperty: 268435741
+									UI_Map_MenuName: 
+										#1: East Rohan: Harwick
+									UI_Map_PixelHeight: 768
+									UI_Map_PixelOffsetX: 89
+									UI_Map_PixelOffsetY: 864
+									UI_Map_PixelWidth: 1024
+									UI_Map_RegionID: 2
+									UI_Map_Scale: 1.2516129
+							UI_Map_BlockOffsetX: 110
+							UI_Map_BlockOffsetY: 96
+							UI_Map_MapImage: 1091752414
+							UI_Map_MapNoteDisplayType: 1980588672222756864
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: East Rohan: The Wold
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 224
+							UI_Map_PixelOffsetY: 719
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 2
+							UI_Map_Scale: 0.206
+						#2: 
+							UI_Map_ActiveElement: 268448416
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879231075
+								#2: 1879250329
+								#3: 1879250330
+							UI_Map_BlockOffsetX: 113
+							UI_Map_BlockOffsetY: 77
+							UI_Map_MapImage: 1091752412
+							UI_Map_MapNoteDisplayType: 1980588672222756864
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: East Rohan: East Wall
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 210
+							UI_Map_PixelOffsetY: 735
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 2
+							UI_Map_Scale: 0.215
+						#3: 
+							UI_Map_ActiveElement: 268448413
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879231077
+								#2: 1879241668
+								#3: 1879241665
+							UI_Map_BlockOffsetX: 94
+							UI_Map_BlockOffsetY: 87
+							UI_Map_MapImage: 1091752417
+							UI_Map_MapNoteDisplayType: 1980588672222756864
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: East Rohan: Entwash Vale
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 134
+							UI_Map_PixelOffsetY: 778
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 2
+							UI_Map_Scale: 0.245
+						#4: 
+							UI_Map_ActiveElement: 268448410
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879231076
+							UI_Map_BlockOffsetX: 85
+							UI_Map_BlockOffsetY: 99
+							UI_Map_MapImage: 1091752413
+							UI_Map_MapNoteDisplayType: 1980588672222756864
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: East Rohan: Eaves of Fangorn
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 45
+							UI_Map_PixelOffsetY: 835
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 2
+							UI_Map_Scale: 0.385
+						#5: 
+							UI_Map_ActiveElement: 268449335
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879257203
+								#2: 1879257202
+								#3: 1879257200
+								#4: 1879257205
+								#5: 1879257201
+							UI_Map_AreaData_Array: 
+								#1: 
+									UI_Map_ActiveElement: 268449363
+									UI_Map_AreaDIDs_Array: 
+										#1: 1879257204
+									UI_Map_BlockOffsetX: 106
+									UI_Map_BlockOffsetY: 106
+									UI_Map_MapImage: 1091795455
+									UI_Map_MapNoteDisplayType: 1980588672222756864
+									UI_Map_MapNoteFilterProperty: 268435741
+									UI_Map_MenuName: 
+										#1: Forlaw
+									UI_Map_PixelHeight: 768
+									UI_Map_PixelOffsetX: 160
+									UI_Map_PixelOffsetY: 723
+									UI_Map_PixelWidth: 1024
+									UI_Map_RegionID: 2
+									UI_Map_Scale: 1.6774194
+							UI_Map_BlockOffsetX: 89
+							UI_Map_BlockOffsetY: 99
+							UI_Map_MapImage: 1091794351
+							UI_Map_MapNoteDisplayType: 1980588672222756864
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: Wildermore
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 81
+							UI_Map_PixelOffsetY: 702
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 2
+							UI_Map_Scale: 0.1935484
+						#6: 
+							UI_Map_ActiveElement: 268448419
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879231078
+								#2: 1879241660
+								#3: 1879241662
+								#4: 1879241663
+							UI_Map_BlockOffsetX: 107
+							UI_Map_BlockOffsetY: 82
+							UI_Map_MapImage: 1091752416
+							UI_Map_MapNoteDisplayType: 1980588672222756864
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: East Rohan: Norcrofts
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 272
+							UI_Map_PixelOffsetY: 799
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 2
+							UI_Map_Scale: 0.2355
+						#7: 
+							UI_Map_ActiveElement: 268448422
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879231079
+								#2: 1879241667
+								#3: 1879241669
+								#4: 1879241659
+							UI_Map_AreaData_Array: 
+								#1: 
+									UI_Map_ActiveElement: 268448941
+									UI_Map_AreaDIDs_Array: 
+										#1: 1879256452
+									UI_Map_BlockOffsetX: 104
+									UI_Map_BlockOffsetY: 77
+									UI_Map_MapImage: 1091776087
+									UI_Map_MapNoteDisplayType: 1980588672726073344
+									UI_Map_MapNoteFilterProperty: 268435741
+									UI_Map_MenuName: 
+										#1: East Rohan: Snowbourn
+									UI_Map_PixelHeight: 768
+									UI_Map_PixelOffsetX: 35
+									UI_Map_PixelOffsetY: 980
+									UI_Map_PixelWidth: 1024
+									UI_Map_RegionID: 2
+									UI_Map_Scale: 1.4967742
+							UI_Map_BlockOffsetX: 101
+							UI_Map_BlockOffsetY: 73
+							UI_Map_MapImage: 1091752415
+							UI_Map_MapNoteDisplayType: 1980588672222756864
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: East Rohan: Sutcrofts
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 200
+							UI_Map_PixelOffsetY: 703
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 2
+							UI_Map_Scale: 0.258
+					UI_Map_BlockOffsetX: 88
+					UI_Map_BlockOffsetY: 78
+					UI_Map_MapImage: 1091739319
+					UI_Map_MapNoteDisplayType: 1980589771734384640
+					UI_Map_MapNoteFilterProperty: 268441602
+					UI_Map_MenuName: 
+						#1: East Rohan
+					UI_Map_PixelHeight: 768
+					UI_Map_PixelOffsetX: 27
+					UI_Map_PixelOffsetY: 680
+					UI_Map_PixelWidth: 1024
+					UI_Map_RegionID: 2
+					UI_Map_Scale: 0.1195
+			UI_Map_BlockOffsetX: 0
+			UI_Map_BlockOffsetY: 48
+			UI_Map_HideFilterButtons: 1
+			UI_Map_MapImage: 1092365796
+			UI_Map_MapNoteDisplayType: 70386058264576
+			UI_Map_MapNoteFilterProperty: 268441602
+			UI_Map_MenuName: 
+				#1: Rhovanion
+			UI_Map_PixelHeight: 768
+			UI_Map_PixelOffsetX: 0
+			UI_Map_PixelOffsetY: 768
+			UI_Map_PixelWidth: 1024
+			UI_Map_QuestGuideBound_XMax: 0
+			UI_Map_QuestGuideBound_XMin: 0
+			UI_Map_QuestGuideBound_YMax: 0
+			UI_Map_QuestGuideBound_YMin: 0
+			UI_Map_QuestGuideDisabled: 1
+			UI_Map_RegionID: 2
+			UI_Map_Scale: 0.03
+		#3: 
+			UI_Map_ActiveElement: 268450723
+			UI_Map_AreaData_Array: 
+				#1: 
+					UI_Map_ActiveElement: 268450720
+					UI_Map_AreaData_Array: 
+						#1: 
+							UI_Map_ActiveElement: 268452083
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879338115
+							UI_Map_AreaData_Array: 
+								#1: 
+									UI_Map_ActiveElement: 268451783
+									UI_Map_AreaDIDs_Array: 
+										#1: 1879338084
+									UI_Map_BlockOffsetX: 86
+									UI_Map_BlockOffsetY: 37
+									UI_Map_MapImage: 1092284242
+									UI_Map_MapNoteDisplayType: 1980588672189202432
+									UI_Map_MapNoteFilterProperty: 268435741
+									UI_Map_MenuName: 
+										#1: Cape of Belfalas Homesteads
+									UI_Map_PixelHeight: 768
+									UI_Map_PixelOffsetX: -21
+									UI_Map_PixelOffsetY: 776
+									UI_Map_PixelWidth: 1024
+									UI_Map_RegionID: 3
+									UI_Map_Scale: 0.2625
+							UI_Map_BlockOffsetX: 86
+							UI_Map_BlockOffsetY: 37
+							UI_Map_MapImage: 1092284241
+							UI_Map_MapNoteDisplayType: 1980588672189202432
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: Cape of Belfalas
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 30
+							UI_Map_PixelOffsetY: 696
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 3
+							UI_Map_Scale: 0.19
+						#2: 
+							UI_Map_ActiveElement: 268450778
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879305739
+							UI_Map_AreaData_Array: 
+								#1: 
+									UI_Map_ActiveElement: 268450763
+									UI_Map_AreaDIDs_Array: 
+										#1: 1879305736
+									UI_Map_BlockOffsetX: 91
+									UI_Map_BlockOffsetY: 56
+									UI_Map_MapImage: 1091915269
+									UI_Map_MapNoteDisplayType: 1980588672189202432
+									UI_Map_MapNoteFilterProperty: 268435741
+									UI_Map_MenuName: 
+										#1: Dol Amroth
+									UI_Map_PixelHeight: 768
+									UI_Map_PixelOffsetX: 68
+									UI_Map_PixelOffsetY: 1145
+									UI_Map_PixelWidth: 1024
+									UI_Map_RegionID: 3
+									UI_Map_Scale: 0.793
+								#2: 
+									UI_Map_ActiveElement: 268450803
+									UI_Map_AreaDIDs_Array: 
+										#1: 1879313886
+									UI_Map_BlockOffsetX: 21
+									UI_Map_BlockOffsetY: 106
+									UI_Map_MapImage: 1091915269
+									UI_Map_MapNoteDisplayType: 1980588672189202432
+									UI_Map_MapNoteFilterProperty: 268435741
+									UI_Map_MenuName: null
+									UI_Map_PixelHeight: 768
+									UI_Map_PixelOffsetX: 68
+									UI_Map_PixelOffsetY: 1145
+									UI_Map_PixelWidth: 1024
+									UI_Map_RegionID: 3
+									UI_Map_Scale: 0.793
+							UI_Map_BlockOffsetX: 78
+							UI_Map_BlockOffsetY: 51
+							UI_Map_MapImage: 1091915499
+							UI_Map_MapNoteDisplayType: 1980588672189202432
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: Havens of Belfalas
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 0
+							UI_Map_PixelOffsetY: 626
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 3
+							UI_Map_Scale: 0.1875
+						#3: 
+							UI_Map_ActiveElement: 268450757
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879305818
+							UI_Map_BlockOffsetX: 86
+							UI_Map_BlockOffsetY: 97
+							UI_Map_MapImage: 1091914804
+							UI_Map_MapNoteDisplayType: 1980588672189202432
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: Paths of the Dead
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 47
+							UI_Map_PixelOffsetY: 765
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 3
+							UI_Map_Scale: 0.8
+						#4: 
+							UI_Map_ActiveElement: 268450788
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879305741
+								#2: 1879309875
+								#3: 1879305738
+							UI_Map_BlockOffsetX: 93
+							UI_Map_BlockOffsetY: 67
+							UI_Map_MapImage: 1091915501
+							UI_Map_MapNoteDisplayType: 1980588672189202432
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: Blackroot Vale
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 407
+							UI_Map_PixelOffsetY: 743
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 3
+							UI_Map_Scale: 0.1875
+						#5: 
+							UI_Map_ActiveElement: 268450793
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879305737
+							UI_Map_BlockOffsetX: 104
+							UI_Map_BlockOffsetY: 63
+							UI_Map_MapImage: 1091915500
+							UI_Map_MapNoteDisplayType: 1980588672189202432
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: Lamedon
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 348
+							UI_Map_PixelOffsetY: 738
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 3
+							UI_Map_Scale: 0.235
+					UI_Map_BlockOffsetX: 82
+					UI_Map_BlockOffsetY: 57
+					UI_Map_MapImage: 1091909855
+					UI_Map_MapNoteDisplayType: 1980589771700830208
+					UI_Map_MapNoteFilterProperty: 268441602
+					UI_Map_MenuName: 
+						#1: Western Gondor
+					UI_Map_PixelHeight: 768
+					UI_Map_PixelOffsetX: 215
+					UI_Map_PixelOffsetY: 672
+					UI_Map_PixelWidth: 1024
+					UI_Map_RegionID: 3
+					UI_Map_Scale: 0.11875
+				#2: 
+					UI_Map_ActiveElement: 268450864
+					UI_Map_AreaDIDs_Array: 
+						#1: 1879314941
+					UI_Map_BlockOffsetX: 160
+					UI_Map_BlockOffsetY: 117
+					UI_Map_MapImage: 1091930489
+					UI_Map_MapNoteDisplayType: 1980588672189202432
+					UI_Map_MapNoteFilterProperty: 268435741
+					UI_Map_MenuName: 
+						#1: Dead Marshes
+					UI_Map_PixelHeight: 768
+					UI_Map_PixelOffsetX: 78
+					UI_Map_PixelOffsetY: 633
+					UI_Map_PixelWidth: 1024
+					UI_Map_RegionID: 3
+					UI_Map_Scale: 0.55
+				#3: 
+					UI_Map_ActiveElement: 268450882
+					UI_Map_AreaData_Array: 
+						#1: 
+							UI_Map_ActiveElement: 268450888
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879314983
+							UI_Map_BlockOffsetX: 115
+							UI_Map_BlockOffsetY: 43
+							UI_Map_MapImage: 1091942725
+							UI_Map_MapNoteDisplayType: 1980588672189202432
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: Dor-en-Ernil
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 263
+							UI_Map_PixelOffsetY: 885
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 3
+							UI_Map_Scale: 0.3
+						#2: 
+							UI_Map_ActiveElement: 268450890
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879314984
+							UI_Map_AreaData_Array: 
+								#1: 
+									UI_Map_ActiveElement: 268450892
+									UI_Map_AreaDIDs_Array: 
+										#1: 1879314982
+									UI_Map_BlockOffsetX: 138
+									UI_Map_BlockOffsetY: 46
+									UI_Map_MapImage: 1091942716
+									UI_Map_MapNoteDisplayType: 1980588672189202432
+									UI_Map_MapNoteFilterProperty: 268435741
+									UI_Map_MenuName: 
+										#1: Pelargir
+									UI_Map_PixelHeight: 768
+									UI_Map_PixelOffsetX: 165
+									UI_Map_PixelOffsetY: 855
+									UI_Map_PixelWidth: 1024
+									UI_Map_RegionID: 3
+									UI_Map_Scale: 0.7375
+								#2: 
+									UI_Map_ActiveElement: 268450899
+									UI_Map_AreaDIDs_Array: 
+										#1: 1879315997
+									UI_Map_BlockOffsetX: 22
+									UI_Map_BlockOffsetY: 153
+									UI_Map_MapImage: 1091942716
+									UI_Map_MapNoteDisplayType: 1980588672189202432
+									UI_Map_MapNoteFilterProperty: 268435741
+									UI_Map_MenuName: null
+									UI_Map_PixelHeight: 768
+									UI_Map_PixelOffsetX: 282
+									UI_Map_PixelOffsetY: 380
+									UI_Map_PixelWidth: 1024
+									UI_Map_RegionID: 3
+									UI_Map_Scale: 0.7375
+							UI_Map_BlockOffsetX: 124
+							UI_Map_BlockOffsetY: 44
+							UI_Map_MapImage: 1091942724
+							UI_Map_MapNoteDisplayType: 1980588672189202432
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: Lebennin
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 35
+							UI_Map_PixelOffsetY: 815
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 3
+							UI_Map_Scale: 0.284375
+						#3: 
+							UI_Map_ActiveElement: 268450894
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879314985
+							UI_Map_BlockOffsetX: 116
+							UI_Map_BlockOffsetY: 57
+							UI_Map_MapImage: 1091942719
+							UI_Map_MapNoteDisplayType: 1980588672189202432
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: Ringló Vale
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 246
+							UI_Map_PixelOffsetY: 838
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 3
+							UI_Map_Scale: 0.40625
+					UI_Map_BlockOffsetX: 115
+					UI_Map_BlockOffsetY: 43
+					UI_Map_MapImage: 1091942723
+					UI_Map_MapNoteDisplayType: 1980589771700830208
+					UI_Map_MapNoteFilterProperty: 268441602
+					UI_Map_MenuName: 
+						#1: Central Gondor
+					UI_Map_PixelHeight: 768
+					UI_Map_PixelOffsetX: 152
+					UI_Map_PixelOffsetY: 732
+					UI_Map_PixelWidth: 1024
+					UI_Map_RegionID: 3
+					UI_Map_Scale: 0.15625
+				#4: 
+					UI_Map_ActiveElement: 268450932
+					UI_Map_AreaData_Array: 
+						#1: 
+							UI_Map_ActiveElement: 268450940
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879320843
+							UI_Map_BlockOffsetX: 142
+							UI_Map_BlockOffsetY: 47
+							UI_Map_MapImage: 1091956280
+							UI_Map_MapNoteDisplayType: 1980588672189202432
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: Upper Lebennin
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 281
+							UI_Map_PixelOffsetY: 873
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 3
+							UI_Map_Scale: 0.3375
+						#2: 
+							UI_Map_ActiveElement: 268450942
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879320841
+							UI_Map_BlockOffsetX: 149
+							UI_Map_BlockOffsetY: 50
+							UI_Map_MapImage: 1091956284
+							UI_Map_MapNoteDisplayType: 1980588672189202432
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: Lossarnach
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 314
+							UI_Map_PixelOffsetY: 890
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 3
+							UI_Map_Scale: 0.3
+						#3: 
+							UI_Map_ActiveElement: 268450944
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879320842
+							UI_Map_AreaData_Array: 
+								#1: 
+									UI_Map_ActiveElement: 268450946
+									UI_Map_AreaDIDs_Array: 
+										#1: 1879320844
+									UI_Map_BlockOffsetX: 167
+									UI_Map_BlockOffsetY: 73
+									UI_Map_MapImage: 1091956289
+									UI_Map_MapNoteDisplayType: 1980588672189202432
+									UI_Map_MapNoteFilterProperty: 268435741
+									UI_Map_MenuName: 
+										#1: Osgiliath
+									UI_Map_PixelHeight: 768
+									UI_Map_PixelOffsetX: 31
+									UI_Map_PixelOffsetY: 771
+									UI_Map_PixelWidth: 1024
+									UI_Map_RegionID: 3
+									UI_Map_Scale: 0.53125
+								#2: 
+									UI_Map_ActiveElement: 268451023
+									UI_Map_AreaDIDs_Array: 
+										#1: 1879324341
+									UI_Map_BlockOffsetX: 173
+									UI_Map_BlockOffsetY: 233
+									UI_Map_MapImage: 1091956289
+									UI_Map_MapNoteDisplayType: 1980588672189202432
+									UI_Map_MapNoteFilterProperty: 268435741
+									UI_Map_MenuName: null
+									UI_Map_PixelHeight: 768
+									UI_Map_PixelOffsetX: 540
+									UI_Map_PixelOffsetY: 427
+									UI_Map_PixelWidth: 1024
+									UI_Map_RegionID: 3
+									UI_Map_Scale: 0.53125
+								#3: 
+									UI_Map_ActiveElement: 268451074
+									UI_Map_AreaDIDs_Array: 
+										#1: 1879325520
+										#2: 1879325519
+										#3: 1879325518
+									UI_Map_BlockOffsetX: 75
+									UI_Map_BlockOffsetY: 232
+									UI_Map_MapImage: 1091970169
+									UI_Map_MapNoteDisplayType: 1980588672189202432
+									UI_Map_MapNoteFilterProperty: 268435741
+									UI_Map_MenuName: null
+									UI_Map_PixelHeight: 768
+									UI_Map_PixelOffsetX: 31
+									UI_Map_PixelOffsetY: 513
+									UI_Map_PixelWidth: 1024
+									UI_Map_RegionID: 3
+									UI_Map_Scale: 0.53125
+							UI_Map_BlockOffsetX: 157
+							UI_Map_BlockOffsetY: 55
+							UI_Map_MapImage: 1091956282
+							UI_Map_MapNoteDisplayType: 1980588672189202432
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: South Ithilien
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 205
+							UI_Map_PixelOffsetY: 779
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 3
+							UI_Map_Scale: 0.19375
+					UI_Map_BlockOffsetX: 142
+					UI_Map_BlockOffsetY: 47
+					UI_Map_MapImage: 1091956277
+					UI_Map_MapNoteDisplayType: 1980589771700830208
+					UI_Map_MapNoteFilterProperty: 268441602
+					UI_Map_MenuName: 
+						#1: Eastern Gondor
+					UI_Map_PixelHeight: 768
+					UI_Map_PixelOffsetX: 87
+					UI_Map_PixelOffsetY: 762
+					UI_Map_PixelWidth: 1024
+					UI_Map_RegionID: 3
+					UI_Map_Scale: 0.1375
+				#5: 
+					UI_Map_ActiveElement: 268451115
+					UI_Map_AreaData_Array: 
+						#1: 
+							UI_Map_ActiveElement: 268451108
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879326886
+							UI_Map_AreaData_Array: 
+								#1: 
+									UI_Map_ActiveElement: 268451105
+									UI_Map_AreaDIDs_Array: 
+										#1: 1879326884
+									UI_Map_BlockOffsetX: 154
+									UI_Map_BlockOffsetY: 69
+									UI_Map_MapImage: 1091983087
+									UI_Map_MapNoteDisplayType: 1980588672189202432
+									UI_Map_MapNoteFilterProperty: 268435741
+									UI_Map_MenuName: 
+										#1: Minas Tirith
+									UI_Map_PixelHeight: 768
+									UI_Map_PixelOffsetX: 58
+									UI_Map_PixelOffsetY: 793
+									UI_Map_PixelWidth: 1024
+									UI_Map_RegionID: 3
+									UI_Map_Scale: 0.5625
+								#2: 
+									UI_Map_ActiveElement: 268451154
+									UI_Map_AreaDIDs_Array: 
+										#1: 1879326888
+									UI_Map_BlockOffsetX: 154
+									UI_Map_BlockOffsetY: 230
+									UI_Map_MapImage: 1091983087
+									UI_Map_MapNoteDisplayType: 1980588672189202432
+									UI_Map_MapNoteFilterProperty: 268435741
+									UI_Map_MenuName: null
+									UI_Map_PixelHeight: 768
+									UI_Map_PixelOffsetX: 56
+									UI_Map_PixelOffsetY: 339
+									UI_Map_PixelWidth: 1024
+									UI_Map_RegionID: 3
+									UI_Map_Scale: 0.5625
+								#3: 
+									UI_Map_ActiveElement: 268451156
+									UI_Map_AreaDIDs_Array: 
+										#1: 1879328091
+									UI_Map_BlockOffsetX: 202
+									UI_Map_BlockOffsetY: 226
+									UI_Map_MapImage: 1091983087
+									UI_Map_MapNoteDisplayType: 1980588672189202432
+									UI_Map_MapNoteFilterProperty: 268435741
+									UI_Map_MenuName: null
+									UI_Map_PixelHeight: 768
+									UI_Map_PixelOffsetX: 239
+									UI_Map_PixelOffsetY: 699
+									UI_Map_PixelWidth: 1024
+									UI_Map_RegionID: 3
+									UI_Map_Scale: 0.5625
+							UI_Map_BlockOffsetX: 156
+							UI_Map_BlockOffsetY: 64
+							UI_Map_MapImage: 1091983088
+							UI_Map_MapNoteDisplayType: 1980588672189202432
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: Pelennor
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 298
+							UI_Map_PixelOffsetY: 764
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 3
+							UI_Map_Scale: 0.25625
+						#2: 
+							UI_Map_ActiveElement: 268452359
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879353391
+							UI_Map_BlockOffsetX: 147
+							UI_Map_BlockOffsetY: 71
+							UI_Map_MapImage: 1092240103
+							UI_Map_MapNoteDisplayType: 1980588672189202432
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: North Ithilien
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: -6
+							UI_Map_PixelOffsetY: 772
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 3
+							UI_Map_Scale: 0.1375
+						#3: 
+							UI_Map_ActiveElement: 268451286
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879331831
+							UI_Map_BlockOffsetX: 156
+							UI_Map_BlockOffsetY: 175
+							UI_Map_MapImage: 1092006288
+							UI_Map_MapNoteDisplayType: 1980588672189202432
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: null
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 298
+							UI_Map_PixelOffsetY: 721
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 3
+							UI_Map_Scale: 0.25625
+						#4: 
+							UI_Map_ActiveElement: 268451289
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879331834
+							UI_Map_BlockOffsetX: 156
+							UI_Map_BlockOffsetY: 175
+							UI_Map_MapImage: 1092006290
+							UI_Map_MapNoteDisplayType: 1980588672189202432
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: null
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 298
+							UI_Map_PixelOffsetY: 721
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 3
+							UI_Map_Scale: 0.25625
+						#5: 
+							UI_Map_ActiveElement: 268451290
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879331833
+							UI_Map_BlockOffsetX: 156
+							UI_Map_BlockOffsetY: 175
+							UI_Map_MapImage: 1092006287
+							UI_Map_MapNoteDisplayType: 1980588672189202432
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: null
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 298
+							UI_Map_PixelOffsetY: 721
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 3
+							UI_Map_Scale: 0.25625
+						#6: 
+							UI_Map_ActiveElement: 268451291
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879331836
+							UI_Map_BlockOffsetX: 156
+							UI_Map_BlockOffsetY: 175
+							UI_Map_MapImage: 1092006289
+							UI_Map_MapNoteDisplayType: 1980588672189202432
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: null
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 298
+							UI_Map_PixelOffsetY: 721
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 3
+							UI_Map_Scale: 0.25625
+						#7: 
+							UI_Map_ActiveElement: 268451292
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879331835
+							UI_Map_BlockOffsetX: 156
+							UI_Map_BlockOffsetY: 175
+							UI_Map_MapImage: 1092006286
+							UI_Map_MapNoteDisplayType: 1980588672189202432
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: null
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 298
+							UI_Map_PixelOffsetY: 721
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 3
+							UI_Map_Scale: 0.25625
+						#8: 
+							UI_Map_ActiveElement: 268451575
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879334692
+							UI_Map_BlockOffsetX: 115
+							UI_Map_BlockOffsetY: 182
+							UI_Map_MapImage: 1092172168
+							UI_Map_MapNoteDisplayType: 1980588672189202432
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: null
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: -27
+							UI_Map_PixelOffsetY: 774
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 3
+							UI_Map_Scale: 0.78125
+						#9: 
+							UI_Map_ActiveElement: 268451113
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879326883
+							UI_Map_BlockOffsetX: 155
+							UI_Map_BlockOffsetY: 78
+							UI_Map_MapImage: 1091983086
+							UI_Map_MapNoteDisplayType: 1980588672189202432
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: Talath Anor
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 154
+							UI_Map_PixelOffsetY: 750
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 3
+							UI_Map_Scale: 0.21875
+					UI_Map_BlockOffsetX: 154
+					UI_Map_BlockOffsetY: 66
+					UI_Map_MapImage: 1091983089
+					UI_Map_MapNoteDisplayType: 1980589771700830208
+					UI_Map_MapNoteFilterProperty: 268441602
+					UI_Map_MenuName: 
+						#1: Old Anórien
+					UI_Map_PixelHeight: 768
+					UI_Map_PixelOffsetX: 272
+					UI_Map_PixelOffsetY: 710
+					UI_Map_PixelWidth: 1024
+					UI_Map_RegionID: 3
+					UI_Map_Scale: 0.13125
+				#6: 
+					UI_Map_ActiveElement: 268451272
+					UI_Map_AreaData_Array: 
+						#1: 
+							UI_Map_ActiveElement: 268451268
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879330412
+							UI_Map_BlockOffsetX: 143
+							UI_Map_BlockOffsetY: 83
+							UI_Map_MapImage: 1092005776
+							UI_Map_MapNoteDisplayType: 1980588672189202432
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: Taur Drúadan
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 72
+							UI_Map_PixelOffsetY: 756
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 3
+							UI_Map_Scale: 0.24375
+						#2: 
+							UI_Map_ActiveElement: 268451270
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879330418
+							UI_Map_BlockOffsetX: 123
+							UI_Map_BlockOffsetY: 93
+							UI_Map_MapImage: 1092005771
+							UI_Map_MapNoteDisplayType: 1980588672189202432
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: Beacon Hills
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 118
+							UI_Map_PixelOffsetY: 749
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 3
+							UI_Map_Scale: 0.20625
+					UI_Map_BlockOffsetX: 124
+					UI_Map_BlockOffsetY: 83
+					UI_Map_MapImage: 1092005777
+					UI_Map_MapNoteDisplayType: 1980589771700830208
+					UI_Map_MapNoteFilterProperty: 268441602
+					UI_Map_MenuName: 
+						#1: Far Anórien
+					UI_Map_PixelHeight: 768
+					UI_Map_PixelOffsetX: 85
+					UI_Map_PixelOffsetY: 765
+					UI_Map_PixelWidth: 1024
+					UI_Map_RegionID: 3
+					UI_Map_Scale: 0.15
+				#7: 
+					UI_Map_ActiveElement: 268451976
+					UI_Map_AreaDIDs_Array: 
+						#1: 1879342533
+					UI_Map_BlockOffsetX: 169
+					UI_Map_BlockOffsetY: 103
+					UI_Map_MapImage: 1092278582
+					UI_Map_MapNoteDisplayType: 1980588672189202432
+					UI_Map_MapNoteFilterProperty: 268435741
+					UI_Map_MenuName: null
+					UI_Map_PixelHeight: 768
+					UI_Map_PixelOffsetX: -21
+					UI_Map_PixelOffsetY: 864
+					UI_Map_PixelWidth: 1024
+					UI_Map_RegionID: 3
+					UI_Map_Scale: 0.45
+			UI_Map_BlockOffsetX: 0
+			UI_Map_BlockOffsetY: 48
+			UI_Map_HideFilterButtons: 1
+			UI_Map_MapImage: 1091912502
+			UI_Map_MapNoteDisplayType: 70386058264576
+			UI_Map_MapNoteFilterProperty: 268441602
+			UI_Map_MenuName: 
+				#1: Gondor
+			UI_Map_PixelHeight: 768
+			UI_Map_PixelOffsetX: -256
+			UI_Map_PixelOffsetY: 553
+			UI_Map_PixelWidth: 1024
+			UI_Map_QuestGuideBound_XMax: 0
+			UI_Map_QuestGuideBound_XMin: 0
+			UI_Map_QuestGuideBound_YMax: 0
+			UI_Map_QuestGuideBound_YMin: 0
+			UI_Map_QuestGuideDisabled: 1
+			UI_Map_RegionID: 3
+			UI_Map_Scale: 0.03644
+		#4: 
+			UI_Map_ActiveElement: 268451777
+			UI_Map_AreaData_Array: 
+				#1: 
+					UI_Map_ActiveElement: 268452166
+					UI_Map_AreaDIDs_Array: 
+						#1: 1879341997
+						#2: 1879341998
+						#3: 1879341999
+						#4: 1879342000
+						#5: 1879342001
+						#6: 1879342002
+						#7: 1879342003
+						#8: 1879342004
+						#9: 1879342005
+					UI_Map_AreaData_Array: 
+						#1: 
+							UI_Map_ActiveElement: 268452249
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879338151
+								#2: 1879357944
+							UI_Map_BlockOffsetX: 208
+							UI_Map_BlockOffsetY: 83
+							UI_Map_MapImage: 1092326796
+							UI_Map_MapNoteDisplayType: 1980588672189202432
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: Agarnaith
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 65
+							UI_Map_PixelOffsetY: 765
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 4
+							UI_Map_Scale: 0.2375
+						#2: 
+							UI_Map_ActiveElement: 268452250
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879338150
+							UI_Map_BlockOffsetX: 190
+							UI_Map_BlockOffsetY: 85
+							UI_Map_MapImage: 1092326797
+							UI_Map_MapNoteDisplayType: 1980588672189202432
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: Dor Amarth
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: -32
+							UI_Map_PixelOffsetY: 845
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 4
+							UI_Map_Scale: 0.21875
+						#3: 
+							UI_Map_ActiveElement: 268452251
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879338152
+								#2: 1879352875
+							UI_Map_BlockOffsetX: 172
+							UI_Map_BlockOffsetY: 71
+							UI_Map_MapImage: 1092326798
+							UI_Map_MapNoteDisplayType: 1980588672189202432
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: Lhingris
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: -94
+							UI_Map_PixelOffsetY: 790
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 4
+							UI_Map_Scale: 0.175
+						#4: 
+							UI_Map_ActiveElement: 268452252
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879342007
+								#2: 1879353392
+							UI_Map_AreaData_Array: 
+								#1: 
+									UI_Map_ActiveElement: 268452342
+									UI_Map_AreaDIDs_Array: 
+										#1: 1879342008
+									UI_Map_BlockOffsetX: 222
+									UI_Map_BlockOffsetY: 195
+									UI_Map_MapImage: 1092337616
+									UI_Map_MapNoteDisplayType: 1980588672189202432
+									UI_Map_MapNoteFilterProperty: 268435741
+									UI_Map_MenuName: 
+										#1: Sammath Naur
+									UI_Map_PixelHeight: 768
+									UI_Map_PixelOffsetX: 2
+									UI_Map_PixelOffsetY: 898
+									UI_Map_PixelWidth: 1024
+									UI_Map_RegionID: 4
+									UI_Map_Scale: 1.06875
+							UI_Map_BlockOffsetX: 197
+							UI_Map_BlockOffsetY: 83
+							UI_Map_MapImage: 1092326799
+							UI_Map_MapNoteDisplayType: 1980588672189202432
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: Orodruin
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: -15
+							UI_Map_PixelOffsetY: 781
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 4
+							UI_Map_Scale: 0.3125
+						#5: 
+							UI_Map_ActiveElement: 268452253
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879341996
+							UI_Map_AreaData_Array: 
+								#1: 
+									UI_Map_ActiveElement: 268452343
+									UI_Map_AreaDIDs_Array: 
+										#1: 1879342006
+									UI_Map_BlockOffsetX: 197
+									UI_Map_BlockOffsetY: 174
+									UI_Map_MapImage: 1092337617
+									UI_Map_MapNoteDisplayType: 1980588672189202432
+									UI_Map_MapNoteFilterProperty: 268435741
+									UI_Map_MenuName: 
+										#1: Nargroth
+									UI_Map_PixelHeight: 768
+									UI_Map_PixelOffsetX: -56
+									UI_Map_PixelOffsetY: 791
+									UI_Map_PixelWidth: 1024
+									UI_Map_RegionID: 4
+									UI_Map_Scale: 0.84375
+							UI_Map_BlockOffsetX: 191
+							UI_Map_BlockOffsetY: 71
+							UI_Map_MapImage: 1092326800
+							UI_Map_MapNoteDisplayType: 1980588672189202432
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: Talath Úrui
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: -30
+							UI_Map_PixelOffsetY: 837
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 4
+							UI_Map_Scale: 0.2125
+						#6: 
+							UI_Map_ActiveElement: 268452254
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879338148
+							UI_Map_BlockOffsetX: 178
+							UI_Map_BlockOffsetY: 94
+							UI_Map_MapImage: 1092326801
+							UI_Map_MapNoteDisplayType: 1980588672189202432
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: Udûn
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: -4
+							UI_Map_PixelOffsetY: 780
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 4
+							UI_Map_Scale: 0.3125
+					UI_Map_BlockOffsetX: 176
+					UI_Map_BlockOffsetY: 68
+					UI_Map_MapImage: 1092322516
+					UI_Map_MapNoteDisplayType: 1980588672189202432
+					UI_Map_MapNoteFilterProperty: 268435741
+					UI_Map_MenuName: 
+						#1: Gorgoroth
+					UI_Map_PixelHeight: 768
+					UI_Map_PixelOffsetX: 0
+					UI_Map_PixelOffsetY: 780
+					UI_Map_PixelWidth: 1024
+					UI_Map_RegionID: 4
+					UI_Map_Scale: 0.1125
+				#2: 
+					UI_Map_ActiveElement: 268451973
+					UI_Map_AreaDIDs_Array: 
+						#1: 1879339829
+						#2: 1879346601
+						#3: 1879314943
+						#4: 1879339822
+					UI_Map_AreaData_Array: 
+						#1: 
+							UI_Map_ActiveElement: 268452361
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879349355
+							UI_Map_BlockOffsetX: 168
+							UI_Map_BlockOffsetY: 224
+							UI_Map_MapImage: 1092340312
+							UI_Map_MapNoteDisplayType: 1980588672189202432
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: Morannon (War of the Last Alliance)
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: -23
+							UI_Map_PixelOffsetY: 808
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 4
+							UI_Map_Scale: 0.33125
+					UI_Map_BlockOffsetX: 165
+					UI_Map_BlockOffsetY: 103
+					UI_Map_MapImage: 1092278441
+					UI_Map_MapNoteDisplayType: 1980588672189202432
+					UI_Map_MapNoteFilterProperty: 268435741
+					UI_Map_MenuName: 
+						#1: The Wastes
+					UI_Map_PixelHeight: 768
+					UI_Map_PixelOffsetX: 112
+					UI_Map_PixelOffsetY: 793
+					UI_Map_PixelWidth: 1024
+					UI_Map_RegionID: 4
+					UI_Map_Scale: 0.25
+				#3: 
+					UI_Map_ActiveElement: 268451796
+					UI_Map_AreaData_Array: 
+						#1: 
+							UI_Map_ActiveElement: 268451576
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879334675
+							UI_Map_BlockOffsetX: 154
+							UI_Map_BlockOffsetY: 69
+							UI_Map_MapImage: 1092171933
+							UI_Map_MapNoteDisplayType: 1980588672189202432
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: Minas Tirith (after battle)
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 58
+							UI_Map_PixelOffsetY: 793
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 4
+							UI_Map_Scale: 0.5625
+						#2: 
+							UI_Map_ActiveElement: 268451784
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879334685
+							UI_Map_BlockOffsetX: 154
+							UI_Map_BlockOffsetY: 71
+							UI_Map_MapImage: 1092240103
+							UI_Map_MapNoteDisplayType: 1980588672189202432
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: North Ithilien
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 143
+							UI_Map_PixelOffsetY: 770
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 4
+							UI_Map_Scale: 0.1375
+						#3: 
+							UI_Map_ActiveElement: 268451785
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879334677
+							UI_Map_BlockOffsetX: 167
+							UI_Map_BlockOffsetY: 73
+							UI_Map_MapImage: 1092240101
+							UI_Map_MapNoteDisplayType: 1980588672189202432
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: Osgiliath (after battle)
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 0
+							UI_Map_PixelOffsetY: 881
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 4
+							UI_Map_Scale: 0.68125
+						#4: 
+							UI_Map_ActiveElement: 268451786
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879334687
+							UI_Map_BlockOffsetX: 153
+							UI_Map_BlockOffsetY: 64
+							UI_Map_MapImage: 1092240104
+							UI_Map_MapNoteDisplayType: 1980588672189202432
+							UI_Map_MapNoteFilterProperty: 268435741
+							UI_Map_MenuName: 
+								#1: The Pelennor Fields (after battle)
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 157
+							UI_Map_PixelOffsetY: 777
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 4
+							UI_Map_Scale: 0.20825
+					UI_Map_BlockOffsetX: 154
+					UI_Map_BlockOffsetY: 66
+					UI_Map_MapImage: 1092240438
+					UI_Map_MapNoteDisplayType: 1980589771700830208
+					UI_Map_MapNoteFilterProperty: 268441602
+					UI_Map_MenuName: 
+						#1: March of the King
+					UI_Map_PixelHeight: 768
+					UI_Map_PixelOffsetX: 266
+					UI_Map_PixelOffsetY: 759
+					UI_Map_PixelWidth: 1024
+					UI_Map_RegionID: 4
+					UI_Map_Scale: 0.11875
+			UI_Map_BlockOffsetX: 0
+			UI_Map_BlockOffsetY: 48
+			UI_Map_HideFilterButtons: 1
+			UI_Map_MapImage: 1092240179
+			UI_Map_MapNoteDisplayType: 70386058264576
+			UI_Map_MapNoteFilterProperty: 268441602
+			UI_Map_MenuName: 
+				#1: Mordor
+			UI_Map_PixelHeight: 768
+			UI_Map_PixelOffsetX: -822
+			UI_Map_PixelOffsetY: 539
+			UI_Map_PixelWidth: 1024
+			UI_Map_QuestGuideBound_XMax: 0
+			UI_Map_QuestGuideBound_XMin: 0
+			UI_Map_QuestGuideBound_YMax: 0
+			UI_Map_QuestGuideBound_YMin: 0
+			UI_Map_QuestGuideDisabled: 1
+			UI_Map_RegionID: 4
+			UI_Map_Scale: 0.03644
+	UI_Map_BlockOffsetX: 12
+	UI_Map_BlockOffsetY: 60
+	UI_Map_HideFilterButtons: 1
+	UI_Map_MapImage: 1090552121
+	UI_Map_MapNoteFilterProperty: 268441602
+	UI_Map_MenuName: 
+		#1: Middle-earth
+	UI_Map_PixelHeight: 768
+	UI_Map_PixelOffsetX: 0
+	UI_Map_PixelOffsetY: -1000
+	UI_Map_PixelWidth: 1024
+	UI_Map_QuestGuideBound_XMax: 0
+	UI_Map_QuestGuideBound_XMin: 0
+	UI_Map_QuestGuideBound_YMax: 0
+	UI_Map_QuestGuideBound_YMin: 0
+	UI_Map_QuestGuideDisabled: 1
+	UI_Map_Scale: 0.0173184

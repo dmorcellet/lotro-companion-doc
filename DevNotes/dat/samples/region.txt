@@ -1,0 +1,9 @@
+ID:1879049816
+Area_Name: 
+	#1: Eriador
+Area_RegionID: 1
+
+ID: 1879109971
+Area_Name: 
+	#1: Rhovanion
+Area_RegionID: 2

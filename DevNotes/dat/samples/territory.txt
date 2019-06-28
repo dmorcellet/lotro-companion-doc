@@ -1,0 +1,3 @@
+Area_Name: 
+	#1: Ered Luin
+Area_Region: 1879049816

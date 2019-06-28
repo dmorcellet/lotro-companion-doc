@@ -1,0 +1,28 @@
+Ambient_MusicType: 268436178
+Area_AggroPing_BelowAllowedLevel_Radius: 40.0
+Area_AggroPing_MinLevelAllowed: 65
+Area_AllowSummoning: 1
+Area_AllowWorldJoin: 1
+Area_Allow_Duels: 1
+Area_Allow_Outfits: 1
+Area_Allow_SkirmishSoldiers: 1
+Area_Allowed_Mount_Types: 125
+Area_HiddenFromQuestGuide: 0
+Area_Icon: 1091696541
+Area_MapData: 0
+Area_Name: 
+	#1: Brown Lands
+Area_PropertyResponseMapDID: 1879145609
+Area_SceneArray: 
+	#1: 1879233095
+	#2: 1879233098
+	#3: 1879233101
+	#4: 1879233102
+	#5: 1879233100
+	#6: 1879233097
+	#7: 1879233096
+	#8: 1879233099
+Area_SkirmishSoldiers_FreeLandscapeTime: 0
+Area_Territory: 1879227786
+Area_VisitedAreaType: 204
+Mount_Movement_Use_RampUp_Controller: 0
