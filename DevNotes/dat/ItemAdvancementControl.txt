@@ -1,0 +1,1022 @@
+******** Properties: 1879108262
+ItemAdvancement_BlankImbuedWidgetDID: 1879324661
+ItemAdvancement_ClassAgnosticWidgetDID_Array: 
+	#1: 1879324313
+	#2: 1879324308
+	#3: 1879324307
+	#4: 1879324309
+	#5: 1879324315
+ItemAdvancement_CombatDPS_MaxRank: 7
+ItemAdvancement_CombatDPS_ProgressionType: 8 (DPS)
+ItemAdvancement_DeletedItemDuration: 1296000
+ItemAdvancement_GetRequiredLevelForLegacyExtraction: 30
+ItemAdvancement_IXPCurrency: 1879325664
+ItemAdvancement_ImbuedDPSWidgetMap_Array: 
+	#1: 
+		ItemAdvancement_ImbuedDPSWidget: 1879325264
+		Item_EquipmentCategory: 69231712256 (One-handed Hammer[E],Spear[E],Dagger[E],One-handed Axe[E],One-handed Club[E],One-handed Mace[E],One-handed Sword[E],Thrown Weapon[E],One-handed Implement[E])
+	#2: 
+		ItemAdvancement_ImbuedDPSWidget: 1879325265
+		Item_EquipmentCategory: 1382981623996 (Two-handed Sword[E],Two-handed Club[E],Two-handed Mace[E],Two-handed Axe[E],Bow[E],Crossbow[E],Two-handed Hammer[E],Halberd[E],Staff[E],Two-handed Implement[E],Rune-stone[E],Javelin[E])
+ItemAdvancement_Imbuement_CompletionScriptID: 268446076 (Emote_Pose_Imbuement)
+ItemAdvancement_Imbuement_InductionActionDID: 1879325193
+ItemAdvancement_ItemInfoTable_Array: 
+	#1: 
+		ItemAdvancement_ItemLevelInfo: 1879138014
+		ItemAdvancement_LegendaryPointInfo: 1879148999
+		ItemAdvancement_LevelTable: 1879163384
+		ItemAdvancement_Quality: 2 (Rare)
+		ItemAdvancement_SpecialWidgetUnlocksAtImbuement: 0
+	#2: 
+		ItemAdvancement_ItemLevelInfo: 1879138015
+		ItemAdvancement_LegendaryPointInfo: 1879149000
+		ItemAdvancement_LevelTable: 1879163383
+		ItemAdvancement_Quality: 3 (Incomparable)
+		ItemAdvancement_SpecialWidgetUnlocksAtImbuement: 1
+	#3: 
+		ItemAdvancement_ItemLevelInfo: 1879138016
+		ItemAdvancement_LegendaryPointInfo: 1879149001
+		ItemAdvancement_LevelTable: 1879163382
+		ItemAdvancement_Quality: 1 (Epic)
+		ItemAdvancement_SpecialWidgetUnlocksAtImbuement: 3
+ItemAdvancement_ItemSlayerTier_Array: 
+	#1: 
+		ItemAdvancement_IATitle_Tier: 1 (Tier 1)
+		ItemAdvancement_ItemSlayer_LevelOffset: -30
+	#2: 
+		ItemAdvancement_IATitle_Tier: 2 (Tier 2)
+		ItemAdvancement_ItemSlayer_LevelOffset: -15
+	#3: 
+		ItemAdvancement_IATitle_Tier: 3 (Tier 3)
+		ItemAdvancement_ItemSlayer_LevelOffset: 0
+ItemAdvancement_LegacyLevelName_Array: 
+	#1: 268445881 (ItemAdvancement_Legacy1_Level)
+	#2: 268445911 (ItemAdvancement_Legacy2_Level)
+	#3: 268445905 (ItemAdvancement_Legacy3_Level)
+	#4: 268445897 (ItemAdvancement_Legacy4_Level)
+	#5: 268445892 (ItemAdvancement_Legacy5_Level)
+	#6: 268445883 (ItemAdvancement_Legacy6_Level)
+	#7: 268445879 (ItemAdvancement_Legacy7_Level)
+	#8: 268445910 (ItemAdvancement_Legacy8_Level)
+	#9: 268445903 (ItemAdvancement_Legacy9_Level)
+ItemAdvancement_LegacyReplacementTypeToIcon_Array: 
+	#1: 
+		ItemAdvancement_LegacyType: 1 (Major)
+		ItemAdvancement_LegacyTypeIcon_Small: 1091635100
+	#2: 
+		ItemAdvancement_LegacyType: 2 (Minor)
+		ItemAdvancement_LegacyTypeIcon_Small: 1091635099
+ItemAdvancement_LegacyReplacement_Extraction_Array: 
+	#1: 1879228857
+	#2: 1879319151
+	#3: 1879319156
+	#4: 1879319140
+	#5: 1879319157
+	#6: 1879319145
+	#7: 1879319150
+	#8: 1879319155
+	#9: 1879319152
+	#10: 1879319148
+	#11: 1879319144
+	#12: 1879319143
+	#13: 1879319153
+	#14: 1879319147
+	#15: 1879319149
+	#16: 1879319138
+	#17: 1879319141
+	#18: 1879319154
+	#19: 1879319142
+	#20: 1879319146
+	#21: 1879319139
+	#22: 1879385038
+	#23: 1879202397
+	#24: 1879202398
+	#25: 1879202399
+	#26: 1879202400
+	#27: 1879202401
+	#28: 1879202402
+	#29: 1879202403
+	#30: 1879202404
+	#31: 1879202395
+	#32: 1879202405
+	#33: 1879202393
+	#34: 1879202417
+	#35: 1879202407
+	#36: 1879202421
+	#37: 1879202418
+	#38: 1879202412
+	#39: 1879202413
+	#40: 1879202406
+	#41: 1879202408
+	#42: 1879202410
+	#43: 1879202414
+	#44: 1879202396
+	#45: 1879202420
+	#46: 1879202422
+	#47: 1879202394
+	#48: 1879202409
+	#49: 1879202416
+	#50: 1879202419
+	#51: 1879202392
+	#52: 1879202411
+	#53: 1879202415
+	#54: 1879202775
+	#55: 1879202776
+	#56: 1879202821
+	#57: 1879202822
+	#58: 1879202823
+	#59: 1879202824
+	#60: 1879202825
+	#61: 1879202826
+	#62: 1879202827
+	#63: 1879202828
+	#64: 1879202829
+	#65: 1879202830
+	#66: 1879202831
+	#67: 1879202832
+	#68: 1879202833
+	#69: 1879202834
+	#70: 1879202835
+	#71: 1879202836
+	#72: 1879202837
+	#73: 1879202838
+	#74: 1879202839
+	#75: 1879202840
+	#76: 1879202841
+	#77: 1879202842
+	#78: 1879202843
+	#79: 1879202844
+	#80: 1879202845
+	#81: 1879202846
+	#82: 1879202847
+	#83: 1879202848
+	#84: 1879202849
+	#85: 1879202850
+	#86: 1879202851
+	#87: 1879202852
+	#88: 1879242699
+	#89: 1879202891
+	#90: 1879202904
+	#91: 1879202911
+	#92: 1879202892
+	#93: 1879202912
+	#94: 1879202884
+	#95: 1879202896
+	#96: 1879202895
+	#97: 1879202883
+	#98: 1879202885
+	#99: 1879202886
+	#100: 1879202882
+	#101: 1879202887
+	#102: 1879202888
+	#103: 1879202889
+	#104: 1879202890
+	#105: 1879202894
+	#106: 1879202910
+	#107: 1879202901
+	#108: 1879202914
+	#109: 1879202899
+	#110: 1879202903
+	#111: 1879202908
+	#112: 1879202898
+	#113: 1879202907
+	#114: 1879202913
+	#115: 1879202900
+	#116: 1879202893
+	#117: 1879202906
+	#118: 1879202909
+	#119: 1879202902
+	#120: 1879202897
+	#121: 1879202905
+	#122: 1879203062
+	#123: 1879203076
+	#124: 1879203045
+	#125: 1879203066
+	#126: 1879203053
+	#127: 1879203064
+	#128: 1879203070
+	#129: 1879203051
+	#130: 1879203050
+	#131: 1879203072
+	#132: 1879203073
+	#133: 1879203067
+	#134: 1879203049
+	#135: 1879203054
+	#136: 1879203069
+	#137: 1879203046
+	#138: 1879203048
+	#139: 1879203068
+	#140: 1879203061
+	#141: 1879203052
+	#142: 1879203060
+	#143: 1879203063
+	#144: 1879203055
+	#145: 1879203065
+	#146: 1879203059
+	#147: 1879203047
+	#148: 1879203078
+	#149: 1879203058
+	#150: 1879203057
+	#151: 1879203071
+	#152: 1879203077
+	#153: 1879203056
+	#154: 1879203074
+	#155: 1879203075
+	#156: 1879203201
+	#157: 1879203185
+	#158: 1879203192
+	#159: 1879203204
+	#160: 1879203200
+	#161: 1879203191
+	#162: 1879203218
+	#163: 1879203198
+	#164: 1879203209
+	#165: 1879203190
+	#166: 1879203217
+	#167: 1879203211
+	#168: 1879203199
+	#169: 1879203195
+	#170: 1879203208
+	#171: 1879203184
+	#172: 1879203189
+	#173: 1879203197
+	#174: 1879203214
+	#175: 1879203221
+	#176: 1879203206
+	#177: 1879203210
+	#178: 1879203203
+	#179: 1879203213
+	#180: 1879203194
+	#181: 1879203188
+	#182: 1879203220
+	#183: 1879203207
+	#184: 1879203187
+	#185: 1879203219
+	#186: 1879203205
+	#187: 1879203216
+	#188: 1879203186
+	#189: 1879203212
+	#190: 1879203202
+	#191: 1879203196
+	#192: 1879203193
+	#193: 1879203215
+	#194: 1879203333
+	#195: 1879203318
+	#196: 1879203317
+	#197: 1879203336
+	#198: 1879203342
+	#199: 1879203323
+	#200: 1879203325
+	#201: 1879203332
+	#202: 1879203316
+	#203: 1879203319
+	#204: 1879203335
+	#205: 1879203344
+	#206: 1879203326
+	#207: 1879203314
+	#208: 1879203312
+	#209: 1879203340
+	#210: 1879203328
+	#211: 1879203330
+	#212: 1879203331
+	#213: 1879203313
+	#214: 1879203322
+	#215: 1879203321
+	#216: 1879203334
+	#217: 1879203311
+	#218: 1879203339
+	#219: 1879203329
+	#220: 1879203343
+	#221: 1879203324
+	#222: 1879203341
+	#223: 1879203320
+	#224: 1879203327
+	#225: 1879203338
+	#226: 1879203337
+	#227: 1879203352
+	#228: 1879203348
+	#229: 1879203360
+	#230: 1879203346
+	#231: 1879203358
+	#232: 1879203359
+	#233: 1879203372
+	#234: 1879203350
+	#235: 1879203373
+	#236: 1879203355
+	#237: 1879203366
+	#238: 1879203362
+	#239: 1879203354
+	#240: 1879203370
+	#241: 1879203365
+	#242: 1879203349
+	#243: 1879203347
+	#244: 1879203368
+	#245: 1879203367
+	#246: 1879203353
+	#247: 1879203364
+	#248: 1879203356
+	#249: 1879203363
+	#250: 1879203351
+	#251: 1879203361
+	#252: 1879203369
+	#253: 1879203371
+	#254: 1879203357
+	#255: 1879204641
+	#256: 1879204651
+	#257: 1879205518
+	#258: 1879203451
+	#259: 1879203475
+	#260: 1879203457
+	#261: 1879203459
+	#262: 1879203452
+	#263: 1879203469
+	#264: 1879203455
+	#265: 1879203480
+	#266: 1879203478
+	#267: 1879203456
+	#268: 1879203477
+	#269: 1879203464
+	#270: 1879203470
+	#271: 1879203465
+	#272: 1879203471
+	#273: 1879203458
+	#274: 1879203460
+	#275: 1879203453
+	#276: 1879203479
+	#277: 1879203474
+	#278: 1879203462
+	#279: 1879203461
+	#280: 1879203463
+	#281: 1879203481
+	#282: 1879203473
+	#283: 1879203454
+	#284: 1879203468
+	#285: 1879203467
+	#286: 1879203472
+	#287: 1879203476
+	#288: 1879203466
+	#289: 1879203513
+	#290: 1879203530
+	#291: 1879203502
+	#292: 1879203518
+	#293: 1879203520
+	#294: 1879203533
+	#295: 1879203504
+	#296: 1879203505
+	#297: 1879203517
+	#298: 1879203516
+	#299: 1879203531
+	#300: 1879203523
+	#301: 1879203536
+	#302: 1879203511
+	#303: 1879203514
+	#304: 1879203501
+	#305: 1879203508
+	#306: 1879203507
+	#307: 1879203515
+	#308: 1879203503
+	#309: 1879203510
+	#310: 1879203512
+	#311: 1879203522
+	#312: 1879203534
+	#313: 1879203528
+	#314: 1879203509
+	#315: 1879203524
+	#316: 1879203535
+	#317: 1879203519
+	#318: 1879203529
+	#319: 1879203527
+	#320: 1879203532
+	#321: 1879203526
+	#322: 1879203525
+	#323: 1879203506
+	#324: 1879203521
+	#325: 1879250128
+	#326: 1879250342
+	#327: 1879250344
+	#328: 1879250339
+	#329: 1879250341
+	#330: 1879250340
+	#331: 1879250343
+	#332: 1879254765
+	#333: 1879254770
+	#334: 1879254776
+	#335: 1879254766
+	#336: 1879250336
+	#337: 1879250338
+	#338: 1879250607
+	#339: 1879250604
+	#340: 1879250601
+	#341: 1879250606
+	#342: 1879250605
+	#343: 1879250599
+	#344: 1879250603
+	#345: 1879254773
+	#346: 1879254775
+	#347: 1879254771
+	#348: 1879254763
+	#349: 1879250600
+	#350: 1879250602
+	#351: 1879250613
+	#352: 1879250616
+	#353: 1879250615
+	#354: 1879250611
+	#355: 1879250614
+	#356: 1879250609
+	#357: 1879250608
+	#358: 1879250610
+	#359: 1879254762
+	#360: 1879254769
+	#361: 1879254767
+	#362: 1879254764
+	#363: 1879250612
+	#364: 1879254761
+	#365: 1879250617
+	#366: 1879250625
+	#367: 1879250628
+	#368: 1879250624
+	#369: 1879250629
+	#370: 1879252283
+	#371: 1879250620
+	#372: 1879250619
+	#373: 1879250621
+	#374: 1879250626
+	#375: 1879250627
+	#376: 1879250618
+	#377: 1879250630
+	#378: 1879250623
+	#379: 1879250622
+ItemAdvancement_LegacySortOrderArray: 
+	#1: 
+		ItemAdvancement_LegacyType: 1 (Major)
+		ItemAdvancement_SortOrder: 1
+	#2: 
+		ItemAdvancement_LegacyType: 2 (Minor)
+		ItemAdvancement_SortOrder: 2
+ItemAdvancement_LegacyTypeName_Array: 
+	#1: 268445880 (ItemAdvancement_Legacy1_Type)
+	#2: 268445907 (ItemAdvancement_Legacy2_Type)
+	#3: 268445896 (ItemAdvancement_Legacy3_Type)
+	#4: 268445887 (ItemAdvancement_Legacy4_Type)
+	#5: 268445916 (ItemAdvancement_Legacy5_Type)
+	#6: 268445906 (ItemAdvancement_Legacy6_Type)
+	#7: 268445895 (ItemAdvancement_Legacy7_Type)
+	#8: 268445884 (ItemAdvancement_Legacy8_Type)
+	#9: 268445914 (ItemAdvancement_Legacy9_Type)
+ItemAdvancement_LegendarySlotOffer_Array: 
+	#1: 1879202229
+	#2: 1879207211
+	#3: 1879252124
+	#4: 1879252126
+ItemAdvancement_LevelUpgrade_QualityArrays: 
+	#1: 
+		ItemAdvancement_LevelUpgrade_Array: 
+			#1: 
+				ItemAdvancement_LevelUpgrade_LevelIncreaseProgression: 1879234013
+				ItemAdvancement_LevelUpgrade_Tier: 1
+			#2: 
+				ItemAdvancement_LevelUpgrade_LevelIncreaseProgression: 1879234013
+				ItemAdvancement_LevelUpgrade_Tier: 2
+			#3: 
+				ItemAdvancement_LevelUpgrade_LevelIncreaseProgression: 1879234013
+				ItemAdvancement_LevelUpgrade_Tier: 3
+		ItemAdvancement_LevelUpgrade_Quality: 5 (Common)
+	#2: 
+		ItemAdvancement_LevelUpgrade_Array: 
+			#1: 
+				ItemAdvancement_LevelUpgrade_LevelIncreaseProgression: 1879234300
+				ItemAdvancement_LevelUpgrade_Tier: 1
+			#2: 
+				ItemAdvancement_LevelUpgrade_LevelIncreaseProgression: 1879234311
+				ItemAdvancement_LevelUpgrade_Tier: 2
+			#3: 
+				ItemAdvancement_LevelUpgrade_LevelIncreaseProgression: 1879234310
+				ItemAdvancement_LevelUpgrade_Tier: 3
+		ItemAdvancement_LevelUpgrade_Quality: 2 (Rare)
+	#3: 
+		ItemAdvancement_LevelUpgrade_Array: 
+			#1: 
+				ItemAdvancement_LevelUpgrade_LevelIncreaseProgression: 1879234312
+				ItemAdvancement_LevelUpgrade_Tier: 1
+			#2: 
+				ItemAdvancement_LevelUpgrade_LevelIncreaseProgression: 1879234308
+				ItemAdvancement_LevelUpgrade_Tier: 2
+			#3: 
+				ItemAdvancement_LevelUpgrade_LevelIncreaseProgression: 1879234306
+				ItemAdvancement_LevelUpgrade_Tier: 3
+		ItemAdvancement_LevelUpgrade_Quality: 3 (Incomparable)
+	#4: 
+		ItemAdvancement_LevelUpgrade_Array: 
+			#1: 
+				ItemAdvancement_LevelUpgrade_LevelIncreaseProgression: 1879234324
+				ItemAdvancement_LevelUpgrade_Tier: 1
+			#2: 
+				ItemAdvancement_LevelUpgrade_LevelIncreaseProgression: 1879234323
+				ItemAdvancement_LevelUpgrade_Tier: 2
+			#3: 
+				ItemAdvancement_LevelUpgrade_LevelIncreaseProgression: 1879234322
+				ItemAdvancement_LevelUpgrade_Tier: 3
+		ItemAdvancement_LevelUpgrade_Quality: 1 (Epic)
+ItemAdvancement_MaxIdentifiedLegacies: 4
+ItemAdvancement_MaximumCleanupSize: 100
+ItemAdvancement_MinUsageMinLevelToImbueItem: 100
+ItemAdvancement_ProgressionTierGroupToIcon_Array: 
+	#1: 
+		ItemAdvancement_ProgressionIcon: 1091512813
+		ItemAdvancement_ProgressionIcon_Small: 1091512812
+		ItemAdvancement_ProgressionTierGroup: 1 (Tier 1)
+	#2: 
+		ItemAdvancement_ProgressionIcon: 1091512815
+		ItemAdvancement_ProgressionIcon_Small: 1091512814
+		ItemAdvancement_ProgressionTierGroup: 2 (Tier 2)
+	#3: 
+		ItemAdvancement_ProgressionIcon: 1091512817
+		ItemAdvancement_ProgressionIcon_Small: 1091512816
+		ItemAdvancement_ProgressionTierGroup: 3 (Tier 3)
+	#4: 
+		ItemAdvancement_ProgressionIcon: 1091512819
+		ItemAdvancement_ProgressionIcon_Small: 1091512818
+		ItemAdvancement_ProgressionTierGroup: 4 (Tier 4)
+	#5: 
+		ItemAdvancement_ProgressionIcon: 1091512821
+		ItemAdvancement_ProgressionIcon_Small: 1091512820
+		ItemAdvancement_ProgressionTierGroup: 5 (Tier 5)
+	#6: 
+		ItemAdvancement_ProgressionIcon: 1091512822
+		ItemAdvancement_ProgressionIcon_Small: 1091512854
+		ItemAdvancement_ProgressionTierGroup: 6 (Tier 6)
+ItemAdvancement_ProgressionTierToTierGroup_Array: 
+	#1: 
+		ItemAdvancement_ProgressionTier: 1 (Tier1)
+		ItemAdvancement_ProgressionTierGroup: 1 (Tier 1)
+	#2: 
+		ItemAdvancement_ProgressionTier: 2 (Tier2)
+		ItemAdvancement_ProgressionTierGroup: 1 (Tier 1)
+	#3: 
+		ItemAdvancement_ProgressionTier: 3 (Tier3)
+		ItemAdvancement_ProgressionTierGroup: 2 (Tier 2)
+	#4: 
+		ItemAdvancement_ProgressionTier: 4 (Tier4)
+		ItemAdvancement_ProgressionTierGroup: 3 (Tier 3)
+	#5: 
+		ItemAdvancement_ProgressionTier: 5 (Tier5)
+		ItemAdvancement_ProgressionTierGroup: 4 (Tier 4)
+	#6: 
+		ItemAdvancement_ProgressionTier: 6 (Tier6)
+		ItemAdvancement_ProgressionTierGroup: 5 (Tier 5)
+	#7: 
+		ItemAdvancement_ProgressionTier: 7 (Tier7)
+		ItemAdvancement_ProgressionTierGroup: 6 (Tier 6)
+ItemAdvancement_RankMultiplier_Array: 
+	#1: 0.5
+	#2: 0.75
+	#3: 1.125
+	#4: 1.625
+	#5: 2.25
+	#6: 3.0
+	#7: 3.875
+	#8: 4.875
+	#9: 6.0
+ItemAdvancement_ReforgeLevel_AddLegacy_Array: 
+	#1: 10
+	#2: 20
+	#3: 30
+ItemAdvancement_ReforgeLevel_Array: 
+	#1: 10
+	#2: 20
+	#3: 30
+	#4: 40
+	#5: 50
+	#6: 60
+	#7: 70
+ItemAdvancement_RelicCurrency: 1879202375
+ItemAdvancement_RelicGroup_Channels: 
+	#1: 
+		ItemAdvancement_RelicGroup: 1 (Class Skill)
+		ItemAdvancement_RelicGroup_Bandwidth: 1
+	#2: 
+		ItemAdvancement_RelicGroup: 2 (Mounted Class Skill)
+		ItemAdvancement_RelicGroup_Bandwidth: 1
+ItemAdvancement_RequiredTrait: 1879141627
+ItemAdvancement_StaticEffectTypeName_Array: 
+	#1: 268445878 (ItemAdvancement_StaticEffect1_Type)
+	#2: 268445889 (ItemAdvancement_StaticEffect2_Type)
+	#3: 268445894 (ItemAdvancement_StaticEffect3_Type)
+	#4: 268445904 (ItemAdvancement_StaticEffect4_Type)
+	#5: 268445915 (ItemAdvancement_StaticEffect5_Type)
+	#6: 268445885 (ItemAdvancement_StaticEffect6_Type)
+	#7: 268445893 (ItemAdvancement_StaticEffect7_Type)
+	#8: 268445902 (ItemAdvancement_StaticEffect8_Type)
+	#9: 268445913 (ItemAdvancement_StaticEffect9_Type)
+	#10: 268445908 (ItemAdvancement_StaticEffect10_Type)
+	#11: 268445899 (ItemAdvancement_StaticEffect11_Type)
+	#12: 268445891 (ItemAdvancement_StaticEffect12_Type)
+	#13: 268445912 (ItemAdvancement_StaticEffect13_Type)
+	#14: 268445901 (ItemAdvancement_StaticEffect14_Type)
+ItemAdvancement_UIVisibilityLevelRequirement: 40
+ItemAdvancement_Unextractable_LegacyType_Array: 
+	#1: 268455711 (IA_Mounted_UnrelentingAssault_Duration)
+	#2: 268435981 (Stat_Will)
+	#3: 268437619 (Stat_Fate)
+	#4: 268436928 (Stat_Might)
+	#5: 268439946 (Stat_Vitality)
+	#6: 268438502 (Stat_Agility)
+	#7: 268438982 (ThreatInputModifier_Healing)
+	#8: 268444056 (Combat_CriticalPoints_Modifier_Tactical)
+	#9: 268452234 (Combat_PhysicalMastery_Modifier_Unified)
+	#10: 268452193 (Combat_TacticalMastery_Modifier_Unified)
+	#11: 268451647 (Combat_Unified_Critical_Defense)
+	#12: 268443968 (Combat_EvadePoints_Modifier)
+	#13: 268444046 (Combat_ParryPoints_Modifier)
+	#14: 268435577 (Vital_PowerPeaceRegenAddMod)
+	#15: 268436768 (Power_MaxLevel)
+	#16: 268447439 (Combat_Current_DefensePoints_Tactical)
+	#17: 268435801 (Vital_PowerCombatRegenAddMod)
+	#18: 268437691 (Health_MaxLevel)
+	#19: 268444393 (Combat_ArmorDefense_PointsModifier_Westernesse)
+	#20: 268444335 (Combat_ArmorDefense_PointsModifier_AncientDwarf)
+	#21: 268444384 (Combat_ArmorDefense_PointsModifier_Beleriand)
+	#22: 268444344 (Combat_ArmorDefense_PointsModifier_Fire)
+	#23: 268444339 (Combat_ArmorDefense_PointsModifier_Frost)
+	#24: 268444333 (Combat_ArmorDefense_PointsModifier_Light)
+	#25: 268444387 (Combat_ArmorDefense_PointsModifier_Lightning)
+	#26: 268444358 (Combat_ArmorDefense_PointsModifier_Shadow)
+	#27: 268443889 (Skill_DamageMultiplier_Champion_HeroicsMoraleHeal)
+	#28: 268436869 (Skill_VitalCost_Book_CallNatureMod)
+	#29: 268443827 (Skill_VitalCost_Heals)
+	#30: 268438741 (TotalThreatModifier_Player)
+	#31: 268435504 (ThreatInputModifier_Taunt)
+	#32: 268439611 (Combat_DamageQualifier_Magic_Offense)
+	#33: 268438245 (Burglar_TricksPowerReduce)
+	#34: 268451895 (Combat_ArmorDefense_PointsModifier_UnifiedTactical)
+	#35: 268451797 (Combat_ArmorDefense_PointsModifier_UnifiedPhysical)
+	#36: 268451602 (Combat_Class_CriticalPoints_Unified)
+	#37: 268444449 (IA_Burglar_Defense_KnivesOut)
+	#38: 268444444 (IA_Burglar_Chance_Burgle)
+	#39: 268444413 (Skill_Duration_Captain_Warcry)
+	#40: 268444415 (Skill_VitalCost_EndtheNight)
+	#41: 268444418 (Skill_ResistModifier_BattleShout)
+	#42: 268444422 (Skill_RecoveryTime_ThreateningShout)
+	#43: 268444515 (Skill_VitalCost_Morale_WordsofCourage)
+	#44: 268443898 (Skill_SuddenDefense_ParryMod)
+	#45: 268443894 (Skill_WoundResistMod_Hedge)
+	#46: 268443899 (Skill_BlockingBladesParryMod)
+	#47: 268443882 (Skill_DamageMultiplier_Ardour)
+	#48: 268442023 (Skill_Glory_Champion_Damage)
+	#49: 268443542 (Skill_Duration_Champion_Hedge)
+	#50: 268443888 (Skill_Ardour_ParryChanceMod)
+	#51: 268443879 (Skill_Glory_ICPRMod)
+	#52: 268443895 (Skill_RecoveryTime_Champion_Heroics)
+	#53: 268435470 (Skill_DamageMultiplier_Champion_Trait_LineBonus_FervourDamageBonusMod)
+	#54: 268443831 (Skill_ChanceMovingHit_Set_Hunter_Mod)
+	#55: 268444115 (IA_Hunter_Stealth_Camouflage)
+	#56: 268444104 (IA_Hunter_PowerCost_MeleeSkills)
+	#57: 268439660 (Skill_DamageMultiplier_Offhand_Trait_Ambidextrous)
+	#58: 268436817 (Combat_BaseMissRate)
+	#59: 268443489 (Skill_MaxRange_Guardian_Engage)
+	#60: 268444992 (EffectMod_ParryPoints_Guardian_GuardiansThreat)
+	#61: 268443493 (EffectMod_AttackSpeedDebuff_Guardian_Stagger)
+	#62: 268443491 (EffectMod_MovementDebuff_Guardian_Stagger)
+	#63: 268443492 (EffectMod_EvadePenalty_Overpower)
+	#64: 268444703 (IA_Loremaster_AdditionalThreat_BeaconofHope)
+	#65: 268444728 (IA_Loremaster_Skill_InductionDuration_PetSummoningTime)
+	#66: 268448535 (Skill_Loremater_Duration_CuringSkills)
+	#67: 268444864 (IA_Minstrel_RemoveFear_Range)
+	#68: 268444866 (IA_Minstrel_SongofRestoration_Recovery)
+	#69: 268444863 (IA_Minstrel_Mentor_Recovery)
+	#70: 268444870 (IA_Minstrel_Anthems_Damage)
+	#71: 268444876 (IA_Minstrel_LayofHammerhand_Upkeep)
+	#72: 268444885 (IA_Minstrel_FeignDeath_Duration)
+	#73: 268444872 (IA_Minstrel_CalltoFellowship_Magnitude)
+	#74: 268444869 (IA_Minstrel_Ballad_Threat)
+ItemAdvancement_WidgetDID_Array: 
+	#1: 1879321646
+	#2: 1879321639
+	#3: 1879321621
+	#4: 1879321628
+	#5: 1879321648
+	#6: 1879321649
+	#7: 1879321635
+	#8: 1879321630
+	#9: 1879321644
+	#10: 1879321622
+	#11: 1879321650
+	#12: 1879321641
+	#13: 1879322824
+	#14: 1879322828
+	#15: 1879322829
+	#16: 1879322826
+	#17: 1879322825
+	#18: 1879322823
+	#19: 1879322822
+	#20: 1879322827
+	#21: 1879384982
+	#22: 1879320931
+	#23: 1879320930
+	#24: 1879320929
+	#25: 1879320939
+	#26: 1879320942
+	#27: 1879320938
+	#28: 1879320943
+	#29: 1879320964
+	#30: 1879320950
+	#31: 1879320945
+	#32: 1879320948
+	#33: 1879320951
+	#34: 1879320952
+	#35: 1879320959
+	#36: 1879320956
+	#37: 1879320968
+	#38: 1879320967
+	#39: 1879320970
+	#40: 1879320969
+	#41: 1879320971
+	#42: 1879320972
+	#43: 1879323747
+	#44: 1879323749
+	#45: 1879323750
+	#46: 1879323764
+	#47: 1879323751
+	#48: 1879323746
+	#49: 1879323758
+	#50: 1879323748
+	#51: 1879323745
+	#52: 1879323763
+	#53: 1879323757
+	#54: 1879323759
+	#55: 1879321100
+	#56: 1879321067
+	#57: 1879321092
+	#58: 1879321086
+	#59: 1879321090
+	#60: 1879321070
+	#61: 1879321088
+	#62: 1879321097
+	#63: 1879321081
+	#64: 1879321072
+	#65: 1879321068
+	#66: 1879321087
+	#67: 1879321074
+	#68: 1879321128
+	#69: 1879321129
+	#70: 1879321084
+	#71: 1879321083
+	#72: 1879321095
+	#73: 1879321082
+	#74: 1879321102
+	#75: 1879321071
+	#76: 1879323699
+	#77: 1879323705
+	#78: 1879323704
+	#79: 1879323688
+	#80: 1879323684
+	#81: 1879323701
+	#82: 1879323690
+	#83: 1879323694
+	#84: 1879323707
+	#85: 1879323685
+	#86: 1879323679
+	#87: 1879323709
+	#88: 1879321030
+	#89: 1879321019
+	#90: 1879321007
+	#91: 1879321023
+	#92: 1879321014
+	#93: 1879321031
+	#94: 1879321035
+	#95: 1879321024
+	#96: 1879321008
+	#97: 1879321018
+	#98: 1879321020
+	#99: 1879321032
+	#100: 1879321026
+	#101: 1879321012
+	#102: 1879321034
+	#103: 1879321006
+	#104: 1879321017
+	#105: 1879321038
+	#106: 1879323150
+	#107: 1879323145
+	#108: 1879323143
+	#109: 1879323147
+	#110: 1879323152
+	#111: 1879323148
+	#112: 1879323142
+	#113: 1879323146
+	#114: 1879323144
+	#115: 1879323154
+	#116: 1879323155
+	#117: 1879323151
+	#118: 1879323141
+	#119: 1879323149
+	#120: 1879323153
+	#121: 1879321146
+	#122: 1879323923
+	#123: 1879321196
+	#124: 1879321153
+	#125: 1879321189
+	#126: 1879321148
+	#127: 1879321170
+	#128: 1879321166
+	#129: 1879321143
+	#130: 1879321178
+	#131: 1879321177
+	#132: 1879321185
+	#133: 1879321194
+	#134: 1879321174
+	#135: 1879321159
+	#136: 1879321175
+	#137: 1879321137
+	#138: 1879321147
+	#139: 1879321202
+	#140: 1879321163
+	#141: 1879321145
+	#142: 1879321182
+	#143: 1879321191
+	#144: 1879321200
+	#145: 1879323807
+	#146: 1879323791
+	#147: 1879323819
+	#148: 1879323801
+	#149: 1879323824
+	#150: 1879323808
+	#151: 1879323800
+	#152: 1879323922
+	#153: 1879323827
+	#154: 1879323810
+	#155: 1879323821
+	#156: 1879323794
+	#157: 1879323804
+	#158: 1879323806
+	#159: 1879321220
+	#160: 1879321218
+	#161: 1879321222
+	#162: 1879321206
+	#163: 1879321221
+	#164: 1879321214
+	#165: 1879321216
+	#166: 1879321224
+	#167: 1879321229
+	#168: 1879321223
+	#169: 1879321212
+	#170: 1879321215
+	#171: 1879321211
+	#172: 1879321217
+	#173: 1879321227
+	#174: 1879321213
+	#175: 1879321210
+	#176: 1879321228
+	#177: 1879321226
+	#178: 1879321207
+	#179: 1879321209
+	#180: 1879321219
+	#181: 1879321208
+	#182: 1879321225
+	#183: 1879323210
+	#184: 1879323211
+	#185: 1879323216
+	#186: 1879323212
+	#187: 1879323218
+	#188: 1879323213
+	#189: 1879323214
+	#190: 1879323217
+	#191: 1879323208
+	#192: 1879323209
+	#193: 1879321292
+	#194: 1879321311
+	#195: 1879321305
+	#196: 1879321321
+	#197: 1879321320
+	#198: 1879321327
+	#199: 1879321307
+	#200: 1879321279
+	#201: 1879321328
+	#202: 1879321299
+	#203: 1879321331
+	#204: 1879321287
+	#205: 1879321295
+	#206: 1879321278
+	#207: 1879321314
+	#208: 1879321304
+	#209: 1879321285
+	#210: 1879321313
+	#211: 1879321315
+	#212: 1879321301
+	#213: 1879321319
+	#214: 1879321289
+	#215: 1879321329
+	#216: 1879321294
+	#217: 1879321296
+	#218: 1879321332
+	#219: 1879321326
+	#220: 1879323576
+	#221: 1879323587
+	#222: 1879323575
+	#223: 1879323582
+	#224: 1879323585
+	#225: 1879323573
+	#226: 1879321374
+	#227: 1879321370
+	#228: 1879321385
+	#229: 1879321378
+	#230: 1879321368
+	#231: 1879321381
+	#232: 1879321379
+	#233: 1879321371
+	#234: 1879321372
+	#235: 1879321375
+	#236: 1879321376
+	#237: 1879321369
+	#238: 1879321373
+	#239: 1879321383
+	#240: 1879321384
+	#241: 1879321380
+	#242: 1879321382
+	#243: 1879321386
+	#244: 1879323873
+	#245: 1879323879
+	#246: 1879323870
+	#247: 1879323872
+	#248: 1879323874
+	#249: 1879323878
+	#250: 1879323867
+	#251: 1879323868
+	#252: 1879323866
+	#253: 1879321377
+	#254: 1879323860
+	#255: 1879323884
+	#256: 1879323882
+	#257: 1879321487
+	#258: 1879321470
+	#259: 1879321478
+	#260: 1879321456
+	#261: 1879321492
+	#262: 1879321484
+	#263: 1879321466
+	#264: 1879321461
+	#265: 1879321507
+	#266: 1879321508
+	#267: 1879321486
+	#268: 1879321482
+	#269: 1879321474
+	#270: 1879321475
+	#271: 1879321455
+	#272: 1879321500
+	#273: 1879321454
+	#274: 1879321476
+	#275: 1879321450
+	#276: 1879321459
+	#277: 1879321498
+	#278: 1879323249
+	#279: 1879323240
+	#280: 1879323233
+	#281: 1879323247
+	#282: 1879323242
+	#283: 1879323250
+	#284: 1879323252
+	#285: 1879323237
+	#286: 1879323256
+	#287: 1879323235
+	#288: 1879321577
+	#289: 1879321573
+	#290: 1879321580
+	#291: 1879321576
+	#292: 1879321569
+	#293: 1879321568
+	#294: 1879321570
+	#295: 1879321582
+	#296: 1879321579
+	#297: 1879321572
+	#298: 1879321567
+	#299: 1879321571
+	#300: 1879321584
+	#301: 1879321583
+	#302: 1879321564
+	#303: 1879321581
+	#304: 1879321566
+	#305: 1879321565
+	#306: 1879321574
+	#307: 1879321562
+	#308: 1879321575
+	#309: 1879321563
+	#310: 1879321578
+	#311: 1879323525
+	#312: 1879323513
+	#313: 1879323507
+	#314: 1879323504
+	#315: 1879323506
+	#316: 1879323508
+	#317: 1879323509
+	#318: 1879323511
+	#319: 1879323505
+	#320: 1879323514
+	#321: 1879323503
+	#322: 1879323502
+	#323: 1879323510
+	#324: 1879324313
+	#325: 1879324308
+	#326: 1879324307
+	#327: 1879324309
+	#328: 1879324315
+ItemAdvancement_WidgetIXPMultiplierForReplacement: 0.2
+ItemAdvancement_WidgetLevelsUnlockedForMaxLevelIncrease: 1
