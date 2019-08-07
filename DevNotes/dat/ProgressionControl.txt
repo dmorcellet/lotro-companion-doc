@@ -1,0 +1,448 @@
+******** Properties: 1879110218
+ProgressionControl_BaseCostPerLevel: 3
+ProgressionControl_MaxTierLevelOffsetTable: 
+	#1: 
+		ProgressionControl_MaxTierLevelOffset_Offset: 1
+		ProgressionControl_MaxTierLevelOffset_Type: 93 (Type6_10_offset)
+	#2: 
+		ProgressionControl_MaxTierLevelOffset_Offset: 1
+		ProgressionControl_MaxTierLevelOffset_Type: 94 (Type6_10_static_offset)
+ProgressionControl_TierPointTable: 
+	#1: 
+		ProgressionControl_TierPointTable_Points: 2.0
+		ProgressionControl_TierPointTable_Tier: 1 (Tier1)
+	#2: 
+		ProgressionControl_TierPointTable_Points: 2.5
+		ProgressionControl_TierPointTable_Tier: 2 (Tier2)
+	#3: 
+		ProgressionControl_TierPointTable_Points: 4.0
+		ProgressionControl_TierPointTable_Tier: 3 (Tier3)
+	#4: 
+		ProgressionControl_TierPointTable_Points: 5.0
+		ProgressionControl_TierPointTable_Tier: 4 (Tier4)
+	#5: 
+		ProgressionControl_TierPointTable_Points: 6.0
+		ProgressionControl_TierPointTable_Tier: 5 (Tier5)
+	#6: 
+		ProgressionControl_TierPointTable_Points: 8.0
+		ProgressionControl_TierPointTable_Tier: 6 (Tier6)
+	#7: 
+		ProgressionControl_TierPointTable_Points: 10.0
+		ProgressionControl_TierPointTable_Tier: 7 (Tier7)
+	#8: 
+		ProgressionControl_TierPointTable_Points: 99999.0
+		ProgressionControl_TierPointTable_Tier: 8 (Tier8)
+	#9: 
+		ProgressionControl_TierPointTable_Points: 99999.0
+		ProgressionControl_TierPointTable_Tier: 9 (Tier9)
+ProgressionControl_TypeMultiplierTable: 
+	#1: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 0.75
+		ProgressionControl_TypeMultiplierTable_Type: 1 (Type1)
+	#2: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 0.85
+		ProgressionControl_TypeMultiplierTable_Type: 2 (Type2)
+	#3: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 1.0
+		ProgressionControl_TypeMultiplierTable_Type: 3 (Type3)
+	#4: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 1.15
+		ProgressionControl_TypeMultiplierTable_Type: 4 (Type4)
+	#5: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 1.3
+		ProgressionControl_TypeMultiplierTable_Type: 5 (Type5)
+	#6: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 1.5
+		ProgressionControl_TypeMultiplierTable_Type: 6 (Type6)
+	#7: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 1.6
+		ProgressionControl_TypeMultiplierTable_Type: 7 (Type7)
+	#8: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 6.0
+		ProgressionControl_TypeMultiplierTable_Type: 8 (DPS)
+	#9: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 2.5
+		ProgressionControl_TypeMultiplierTable_Type: 9 (Type1_2)
+	#10: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 2.0
+		ProgressionControl_TypeMultiplierTable_Type: 10 (Type1_4)
+	#11: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 1.5
+		ProgressionControl_TypeMultiplierTable_Type: 11 (Type1_5)
+	#12: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 1.25
+		ProgressionControl_TypeMultiplierTable_Type: 12 (Type1_6)
+	#13: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 1.0
+		ProgressionControl_TypeMultiplierTable_Type: 13 (Type1_8)
+	#14: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 0.75
+		ProgressionControl_TypeMultiplierTable_Type: 14 (Type1_10)
+	#15: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 3.0
+		ProgressionControl_TypeMultiplierTable_Type: 15 (Type2_2)
+	#16: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 2.5
+		ProgressionControl_TypeMultiplierTable_Type: 16 (Type2_4)
+	#17: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 2.0
+		ProgressionControl_TypeMultiplierTable_Type: 17 (Type2_5)
+	#18: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 1.5
+		ProgressionControl_TypeMultiplierTable_Type: 18 (Type2_6)
+	#19: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 1.25
+		ProgressionControl_TypeMultiplierTable_Type: 19 (Type2_8)
+	#20: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 0.85
+		ProgressionControl_TypeMultiplierTable_Type: 20 (Type2_10)
+	#21: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 3.5
+		ProgressionControl_TypeMultiplierTable_Type: 21 (Type3_2)
+	#22: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 3.0
+		ProgressionControl_TypeMultiplierTable_Type: 22 (Type3_4)
+	#23: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 2.5
+		ProgressionControl_TypeMultiplierTable_Type: 23 (Type3_5)
+	#24: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 2.0
+		ProgressionControl_TypeMultiplierTable_Type: 24 (Type3_6)
+	#25: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 1.5
+		ProgressionControl_TypeMultiplierTable_Type: 25 (Type3_8)
+	#26: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 1.0
+		ProgressionControl_TypeMultiplierTable_Type: 26 (Type3_10)
+	#27: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 4.0
+		ProgressionControl_TypeMultiplierTable_Type: 27 (Type4_2)
+	#28: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 3.25
+		ProgressionControl_TypeMultiplierTable_Type: 28 (Type4_4)
+	#29: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 2.75
+		ProgressionControl_TypeMultiplierTable_Type: 29 (Type4_5)
+	#30: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 2.25
+		ProgressionControl_TypeMultiplierTable_Type: 30 (Type4_6)
+	#31: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 1.75
+		ProgressionControl_TypeMultiplierTable_Type: 31 (Type4_8)
+	#32: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 1.25
+		ProgressionControl_TypeMultiplierTable_Type: 32 (Type4_10)
+	#33: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 5.0
+		ProgressionControl_TypeMultiplierTable_Type: 33 (Type5_2)
+	#34: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 4.0
+		ProgressionControl_TypeMultiplierTable_Type: 34 (Type5_4)
+	#35: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 3.0
+		ProgressionControl_TypeMultiplierTable_Type: 35 (Type5_5)
+	#36: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 2.0
+		ProgressionControl_TypeMultiplierTable_Type: 36 (Type5_6)
+	#37: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 1.75
+		ProgressionControl_TypeMultiplierTable_Type: 37 (Type5_8)
+	#38: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 1.5
+		ProgressionControl_TypeMultiplierTable_Type: 38 (Type5_10)
+	#39: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 6.0
+		ProgressionControl_TypeMultiplierTable_Type: 39 (Type6_2)
+	#40: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 5.0
+		ProgressionControl_TypeMultiplierTable_Type: 40 (Type6_4)
+	#41: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 4.0
+		ProgressionControl_TypeMultiplierTable_Type: 41 (Type6_5)
+	#42: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 3.0
+		ProgressionControl_TypeMultiplierTable_Type: 42 (Type6_6)
+	#43: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 2.0
+		ProgressionControl_TypeMultiplierTable_Type: 43 (Type6_8)
+	#44: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 1.75
+		ProgressionControl_TypeMultiplierTable_Type: 44 (Type6_10)
+	#45: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 7.0
+		ProgressionControl_TypeMultiplierTable_Type: 45 (Type7_2)
+	#46: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 6.0
+		ProgressionControl_TypeMultiplierTable_Type: 46 (Type7_4)
+	#47: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 5.0
+		ProgressionControl_TypeMultiplierTable_Type: 47 (Type7_5)
+	#48: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 4.0
+		ProgressionControl_TypeMultiplierTable_Type: 48 (Type7_6)
+	#49: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 3.0
+		ProgressionControl_TypeMultiplierTable_Type: 49 (Type7_8)
+	#50: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 2.0
+		ProgressionControl_TypeMultiplierTable_Type: 50 (Type7_10)
+	#51: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 2.5
+		ProgressionControl_TypeMultiplierTable_Type: 51 (Type1_2_static)
+	#52: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 2.0
+		ProgressionControl_TypeMultiplierTable_Type: 52 (Type1_4_static)
+	#53: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 1.5
+		ProgressionControl_TypeMultiplierTable_Type: 53 (Type1_5_static)
+	#54: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 1.25
+		ProgressionControl_TypeMultiplierTable_Type: 54 (Type1_6_static)
+	#55: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 1.0
+		ProgressionControl_TypeMultiplierTable_Type: 55 (Type1_8_static)
+	#56: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 0.75
+		ProgressionControl_TypeMultiplierTable_Type: 56 (Type1_10_static)
+	#57: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 3.0
+		ProgressionControl_TypeMultiplierTable_Type: 57 (Type2_2_static)
+	#58: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 2.5
+		ProgressionControl_TypeMultiplierTable_Type: 58 (Type2_4_static)
+	#59: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 2.0
+		ProgressionControl_TypeMultiplierTable_Type: 59 (Type2_5_static)
+	#60: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 1.5
+		ProgressionControl_TypeMultiplierTable_Type: 60 (Type2_6_static)
+	#61: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 1.25
+		ProgressionControl_TypeMultiplierTable_Type: 61 (Type2_8_static)
+	#62: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 0.85
+		ProgressionControl_TypeMultiplierTable_Type: 62 (Type2_10_static)
+	#63: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 3.5
+		ProgressionControl_TypeMultiplierTable_Type: 63 (Type3_2_static)
+	#64: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 3.0
+		ProgressionControl_TypeMultiplierTable_Type: 64 (Type3_4_static)
+	#65: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 2.5
+		ProgressionControl_TypeMultiplierTable_Type: 65 (Type3_5_static)
+	#66: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 2.0
+		ProgressionControl_TypeMultiplierTable_Type: 66 (Type3_6_static)
+	#67: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 1.5
+		ProgressionControl_TypeMultiplierTable_Type: 67 (Type3_8_static)
+	#68: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 1.0
+		ProgressionControl_TypeMultiplierTable_Type: 68 (Type3_10_static)
+	#69: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 4.0
+		ProgressionControl_TypeMultiplierTable_Type: 69 (Type4_2_static)
+	#70: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 3.25
+		ProgressionControl_TypeMultiplierTable_Type: 70 (Type4_4_static)
+	#71: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 2.75
+		ProgressionControl_TypeMultiplierTable_Type: 71 (Type4_5_static)
+	#72: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 2.25
+		ProgressionControl_TypeMultiplierTable_Type: 72 (Type4_6_static)
+	#73: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 1.75
+		ProgressionControl_TypeMultiplierTable_Type: 73 (Type4_8_static)
+	#74: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 1.25
+		ProgressionControl_TypeMultiplierTable_Type: 74 (Type4_10_static)
+	#75: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 5.0
+		ProgressionControl_TypeMultiplierTable_Type: 75 (Type5_2_static)
+	#76: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 4.0
+		ProgressionControl_TypeMultiplierTable_Type: 76 (Type5_4_static)
+	#77: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 3.0
+		ProgressionControl_TypeMultiplierTable_Type: 77 (Type5_5_static)
+	#78: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 2.0
+		ProgressionControl_TypeMultiplierTable_Type: 78 (Type5_6_static)
+	#79: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 1.75
+		ProgressionControl_TypeMultiplierTable_Type: 79 (Type5_8_static)
+	#80: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 1.5
+		ProgressionControl_TypeMultiplierTable_Type: 80 (Type5_10_static)
+	#81: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 6.0
+		ProgressionControl_TypeMultiplierTable_Type: 81 (Type6_2_static)
+	#82: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 5.0
+		ProgressionControl_TypeMultiplierTable_Type: 82 (Type6_4_static)
+	#83: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 4.0
+		ProgressionControl_TypeMultiplierTable_Type: 83 (Type6_5_static)
+	#84: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 3.0
+		ProgressionControl_TypeMultiplierTable_Type: 84 (Type6_6_static)
+	#85: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 2.0
+		ProgressionControl_TypeMultiplierTable_Type: 85 (Type6_8_static)
+	#86: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 1.75
+		ProgressionControl_TypeMultiplierTable_Type: 86 (Type6_10_static)
+	#87: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 7.0
+		ProgressionControl_TypeMultiplierTable_Type: 87 (Type7_2_static)
+	#88: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 6.0
+		ProgressionControl_TypeMultiplierTable_Type: 88 (Type7_4_static)
+	#89: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 5.0
+		ProgressionControl_TypeMultiplierTable_Type: 89 (Type7_5_static)
+	#90: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 4.0
+		ProgressionControl_TypeMultiplierTable_Type: 90 (Type7_6_static)
+	#91: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 3.0
+		ProgressionControl_TypeMultiplierTable_Type: 91 (Type7_8_static)
+	#92: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 2.0
+		ProgressionControl_TypeMultiplierTable_Type: 92 (Type7_10_static)
+	#93: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 1.75
+		ProgressionControl_TypeMultiplierTable_Type: 93 (Type6_10_offset)
+	#94: 
+		ProgressionControl_TypeMultiplierTable_Multiplier: 1.75
+		ProgressionControl_TypeMultiplierTable_Type: 94 (Type6_10_static_offset)
+ProgressionControl_TypeStartingLevelTable: 
+	#1: 
+		ProgressionControl_TypeStartingLevel_Level: 47
+		ProgressionControl_TypeStartingLevel_Type: 51 (Type1_2_static)
+	#2: 
+		ProgressionControl_TypeStartingLevel_Level: 47
+		ProgressionControl_TypeStartingLevel_Type: 52 (Type1_4_static)
+	#3: 
+		ProgressionControl_TypeStartingLevel_Level: 47
+		ProgressionControl_TypeStartingLevel_Type: 53 (Type1_5_static)
+	#4: 
+		ProgressionControl_TypeStartingLevel_Level: 47
+		ProgressionControl_TypeStartingLevel_Type: 54 (Type1_6_static)
+	#5: 
+		ProgressionControl_TypeStartingLevel_Level: 47
+		ProgressionControl_TypeStartingLevel_Type: 55 (Type1_8_static)
+	#6: 
+		ProgressionControl_TypeStartingLevel_Level: 47
+		ProgressionControl_TypeStartingLevel_Type: 56 (Type1_10_static)
+	#7: 
+		ProgressionControl_TypeStartingLevel_Level: 47
+		ProgressionControl_TypeStartingLevel_Type: 57 (Type2_2_static)
+	#8: 
+		ProgressionControl_TypeStartingLevel_Level: 47
+		ProgressionControl_TypeStartingLevel_Type: 58 (Type2_4_static)
+	#9: 
+		ProgressionControl_TypeStartingLevel_Level: 47
+		ProgressionControl_TypeStartingLevel_Type: 59 (Type2_5_static)
+	#10: 
+		ProgressionControl_TypeStartingLevel_Level: 47
+		ProgressionControl_TypeStartingLevel_Type: 60 (Type2_6_static)
+	#11: 
+		ProgressionControl_TypeStartingLevel_Level: 47
+		ProgressionControl_TypeStartingLevel_Type: 61 (Type2_8_static)
+	#12: 
+		ProgressionControl_TypeStartingLevel_Level: 47
+		ProgressionControl_TypeStartingLevel_Type: 62 (Type2_10_static)
+	#13: 
+		ProgressionControl_TypeStartingLevel_Level: 47
+		ProgressionControl_TypeStartingLevel_Type: 63 (Type3_2_static)
+	#14: 
+		ProgressionControl_TypeStartingLevel_Level: 47
+		ProgressionControl_TypeStartingLevel_Type: 64 (Type3_4_static)
+	#15: 
+		ProgressionControl_TypeStartingLevel_Level: 47
+		ProgressionControl_TypeStartingLevel_Type: 65 (Type3_5_static)
+	#16: 
+		ProgressionControl_TypeStartingLevel_Level: 47
+		ProgressionControl_TypeStartingLevel_Type: 66 (Type3_6_static)
+	#17: 
+		ProgressionControl_TypeStartingLevel_Level: 47
+		ProgressionControl_TypeStartingLevel_Type: 67 (Type3_8_static)
+	#18: 
+		ProgressionControl_TypeStartingLevel_Level: 47
+		ProgressionControl_TypeStartingLevel_Type: 68 (Type3_10_static)
+	#19: 
+		ProgressionControl_TypeStartingLevel_Level: 47
+		ProgressionControl_TypeStartingLevel_Type: 69 (Type4_2_static)
+	#20: 
+		ProgressionControl_TypeStartingLevel_Level: 47
+		ProgressionControl_TypeStartingLevel_Type: 70 (Type4_4_static)
+	#21: 
+		ProgressionControl_TypeStartingLevel_Level: 47
+		ProgressionControl_TypeStartingLevel_Type: 71 (Type4_5_static)
+	#22: 
+		ProgressionControl_TypeStartingLevel_Level: 47
+		ProgressionControl_TypeStartingLevel_Type: 72 (Type4_6_static)
+	#23: 
+		ProgressionControl_TypeStartingLevel_Level: 47
+		ProgressionControl_TypeStartingLevel_Type: 73 (Type4_8_static)
+	#24: 
+		ProgressionControl_TypeStartingLevel_Level: 47
+		ProgressionControl_TypeStartingLevel_Type: 74 (Type4_10_static)
+	#25: 
+		ProgressionControl_TypeStartingLevel_Level: 47
+		ProgressionControl_TypeStartingLevel_Type: 75 (Type5_2_static)
+	#26: 
+		ProgressionControl_TypeStartingLevel_Level: 47
+		ProgressionControl_TypeStartingLevel_Type: 76 (Type5_4_static)
+	#27: 
+		ProgressionControl_TypeStartingLevel_Level: 47
+		ProgressionControl_TypeStartingLevel_Type: 77 (Type5_5_static)
+	#28: 
+		ProgressionControl_TypeStartingLevel_Level: 47
+		ProgressionControl_TypeStartingLevel_Type: 78 (Type5_6_static)
+	#29: 
+		ProgressionControl_TypeStartingLevel_Level: 47
+		ProgressionControl_TypeStartingLevel_Type: 79 (Type5_8_static)
+	#30: 
+		ProgressionControl_TypeStartingLevel_Level: 47
+		ProgressionControl_TypeStartingLevel_Type: 80 (Type5_10_static)
+	#31: 
+		ProgressionControl_TypeStartingLevel_Level: 47
+		ProgressionControl_TypeStartingLevel_Type: 81 (Type6_2_static)
+	#32: 
+		ProgressionControl_TypeStartingLevel_Level: 47
+		ProgressionControl_TypeStartingLevel_Type: 82 (Type6_4_static)
+	#33: 
+		ProgressionControl_TypeStartingLevel_Level: 47
+		ProgressionControl_TypeStartingLevel_Type: 83 (Type6_5_static)
+	#34: 
+		ProgressionControl_TypeStartingLevel_Level: 47
+		ProgressionControl_TypeStartingLevel_Type: 84 (Type6_6_static)
+	#35: 
+		ProgressionControl_TypeStartingLevel_Level: 47
+		ProgressionControl_TypeStartingLevel_Type: 85 (Type6_8_static)
+	#36: 
+		ProgressionControl_TypeStartingLevel_Level: 47
+		ProgressionControl_TypeStartingLevel_Type: 86 (Type6_10_static)
+	#37: 
+		ProgressionControl_TypeStartingLevel_Level: 47
+		ProgressionControl_TypeStartingLevel_Type: 87 (Type7_2_static)
+	#38: 
+		ProgressionControl_TypeStartingLevel_Level: 47
+		ProgressionControl_TypeStartingLevel_Type: 88 (Type7_4_static)
+	#39: 
+		ProgressionControl_TypeStartingLevel_Level: 47
+		ProgressionControl_TypeStartingLevel_Type: 89 (Type7_5_static)
+	#40: 
+		ProgressionControl_TypeStartingLevel_Level: 47
+		ProgressionControl_TypeStartingLevel_Type: 90 (Type7_6_static)
+	#41: 
+		ProgressionControl_TypeStartingLevel_Level: 47
+		ProgressionControl_TypeStartingLevel_Type: 91 (Type7_8_static)
+	#42: 
+		ProgressionControl_TypeStartingLevel_Level: 47
+		ProgressionControl_TypeStartingLevel_Type: 92 (Type7_10_static)
+
