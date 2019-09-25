@@ -15170,7 +15170,7 @@
 268450433 - WE_TestServer_MonasteryActive, type=boolean, data=0, default value=null
 268450434 - PrivateEncounter_ShowQuestGuide_Override, type=boolean, data=0, default value=null
 268450435 - RipCord_DisableEditingInAdminPanel, type=boolean, data=0, default value=null
-268450437 - World_MaxPlayerCharacters, type=Int, data=0, default value=50
+268450437 - World_MaxPlayerCharacters, type=Int, data=0, default value=53
 268450440 - SkirmishControl_MinLevel, type=Int, data=0, default value=20
 268450441 - Wardrobe_WebStore_AccountItem_Struct, type=Struct, data=0, default value=null
 268450442 - Wardrobe_WebStore_AccountItem_Array, type=Array, data=0, default value=null
@@ -23779,5 +23779,24 @@
 268461898 - Item_Level_Bonus_Pending, type=boolean, data=0, default value=0
 268461907 - WE_vales_anduin_kidzul_kalah_instance_leading_charge_lock, type=boolean, data=0, default value=null
 268461922 - Effect_OverrideHarmfulVerification, type=boolean, data=0, default value=null
+268461923 - Script_WeaponImbueLevel_Cosmetic, type=Enum Mapper 1, data=587202889, default value=null
+268461924 - Script_WeaponImbueType_Cosmetic, type=Enum Mapper 1, data=587202888, default value=null
+268461925 - ForwardSource_Script_WeaponImbueType_Primary_Cosmetic, type=Enum Mapper 1, data=587202888, default value=0
+268461926 - Script_WeaponImbueType_Primary_Cosmetic, type=Enum Mapper 1, data=587202888, default value=0
+268461927 - Script_WeaponImbueType_Secondary_Cosmetic, type=Enum Mapper 1, data=587202888, default value=0
+268461928 - ForwardSource_Script_WeaponImbueType_Secondary_Cosmetic, type=Enum Mapper 1, data=587202888, default value=0
+268461929 - Script_WeaponImbueType_Ranged_Cosmetic, type=Enum Mapper 1, data=587202888, default value=0
+268461930 - ForwardSource_Script_WeaponImbueType_Ranged_Cosmetic, type=Enum Mapper 1, data=587202888, default value=0
 268461933 - Trait_Captain_ElendilsFury_ForceTaunt, type=Array, data=0, default value=null
+268461981 - Warsteed_Cosmetic_FX_Caparison, type=Enum Mapper 1, data=587203535, default value=null
+268461987 - World_PublicInstanceMaxPlayer_NewbieStoutaxe, type=Int, data=0, default value=0
 268462016 - Version_POItem_StampProperty_215, type=boolean, data=0, default value=null
+268462018 - World_XP8AccessAccountTokens, type=Bit Field, data=587202756, default value=null
+268462019 - World_Webstore_Minas_Morgul_Upsell_URL, type=String, data=0, default value=https://www.lotro.com/minasmorgul
+268462020 - World_Webstore_DR_Expansions_Upsell_URL, type=String, data=0, default value=http://store.digitalriver.com/store/turbine/en_US/list/categoryID.58733200/parentCategoryID.58516200
+268462021 - Version_Title_StampProperty_50, type=boolean, data=0, default value=null
+268462022 - Version_Title_StampProperty_51, type=boolean, data=0, default value=null
+268462023 - Version_POItem_StampProperty_216, type=boolean, data=0, default value=null
+268462024 - Version_POItem_StampProperty_217, type=boolean, data=0, default value=null
+268462025 - Version_POItem_StampProperty_218, type=boolean, data=0, default value=null
+268462026 - Version_Title_StampProperty_49, type=boolean, data=0, default value=null
