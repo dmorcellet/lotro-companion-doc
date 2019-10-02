@@ -21274,6 +21274,7 @@ Enum: EffectEquivalenceClasses, (id=587202565)
 	2664 => Food_SpecialBuff
 	2665 => Scholar_SpecialBuff
 	2666 => Race_StoutAxe_GroupBuff
+	2667 => Item_XP_Minas_Morgul
 Enum: EffectFlags, (id=587202566)
 *** enum not found: EffectFlags ***
 Enum: EffectImpulseDirection, (id=587202626)
@@ -59870,6 +59871,13 @@ GameUI [ UI_StablesCollection_TravelNPC [ entity/npc/npc_travel/npc_travel_gondo
 	268453373 => toggle_area_mordor_mordor_besieged
 	268453374 => area_mordor_mordor_besieged
 	268453375 => mordor_mordor_besieged_button
+	268453376 => mordor_besieged_button
+	268453377 => toggle_morgul_vale
+	268453378 => PrimaryWpnFXSlot_CompatibilityOverlay
+	268453379 => SecondaryWpnFXSlot_CompatibilityOverlay
+	268453380 => RangedWpnFXSlot_CompatibilityOverlay
+	268453381 => toggle_area_minas_morgul
+	268453382 => toggle_area_ithilien
 Enum: UIElementMessage, (id=587202768)
 	268435457 => CharGen_FadeOut_Done
 	268435458 => combo_completion_done
