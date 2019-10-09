@@ -2272,6 +2272,14 @@
 2881 - ForwardSource_Environment_PlayerLocalSkyOverride, type=Enum Mapper 1, data=587202793, default value=2
 2882 - ShowMayaStyleUIPlanes, type=boolean, data=0, default value=1
 2883 - World_RestartOnMigrationFailure, type=boolean, data=0, default value=1
+2887 - WAL_Finger_CharDeleted, type=boolean, data=0, default value=0
+2888 - WAL_Finger_CharName, type=String, data=0, default value=null
+2889 - WAL_Finger_CharIID, type=Long 64bits, data=0, default value=null
+2890 - WAL_Finger_IncludeDeleted, type=boolean, data=0, default value=0
+2891 - WAL_Finger_SubscriptionName, type=String, data=0, default value=null
+2892 - WAL_Finger_CharMetaName, type=String, data=0, default value=null
+2893 - WAL_Finger_Lock, type=Int, data=0, default value=null
+2894 - WAL_Finger_UpdateDate, type=String, data=0, default value=null
 268435457 - Pedigree_Surname_LevelRestriction, type=Int, data=0, default value=0
 268435458 - Auction_ID, type=InstanceID, data=0, default value=[0,0]
 268435459 - MiniGame.FreezeTag@Player.m_bIsPlaying, type=boolean, data=0, default value=null
