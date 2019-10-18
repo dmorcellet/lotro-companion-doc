@@ -1,0 +1,381 @@
+Combat_Control_ArmorDefense_EquationLevelAdjustment_Progression: 1879125152
+Combat_Control_CalcControlInfoArray: 
+	#1: 
+		Combat_Control_CalculationType: 1 (Block)
+		Combat_Control_Hard_Cap: 1879344665
+		Combat_Control_Rating: 1879344697
+		Combat_Control_Target_Cap: 1879344714
+	#2: 
+		Combat_Control_CalculationType: 4 (PartialBlock)
+		Combat_Control_Hard_Cap: 1879344666
+		Combat_Control_Rating: 1879344698
+		Combat_Control_Target_Cap: 1879344654
+	#3: 
+		Combat_Control_CalculationType: 15 (PartialBlockMitigation)
+		Combat_Control_Hard_Cap: 1879344667
+		Combat_Control_Rating: 1879344694
+		Combat_Control_Target_Cap: 1879344705
+	#4: 
+		Combat_Control_CalculationType: 2 (Parry)
+		Combat_Control_Hard_Cap: 1879344704
+		Combat_Control_Rating: 1879344647
+		Combat_Control_Target_Cap: 1879344668
+	#5: 
+		Combat_Control_CalculationType: 5 (PartialParry)
+		Combat_Control_Hard_Cap: 1879344676
+		Combat_Control_Rating: 1879344669
+		Combat_Control_Target_Cap: 1879344692
+	#6: 
+		Combat_Control_CalculationType: 16 (PartialParryMitigation)
+		Combat_Control_Hard_Cap: 1879344648
+		Combat_Control_Rating: 1879344701
+		Combat_Control_Target_Cap: 1879344644
+	#7: 
+		Combat_Control_CalculationType: 3 (Evade)
+		Combat_Control_Hard_Cap: 1879344711
+		Combat_Control_Rating: 1879344710
+		Combat_Control_Target_Cap: 1879344658
+	#8: 
+		Combat_Control_CalculationType: 6 (PartialEvade)
+		Combat_Control_Hard_Cap: 1879344679
+		Combat_Control_Rating: 1879344674
+		Combat_Control_Target_Cap: 1879344687
+	#9: 
+		Combat_Control_CalculationType: 17 (PartialEvadeMitigation)
+		Combat_Control_Hard_Cap: 1879344651
+		Combat_Control_Rating: 1879344653
+		Combat_Control_Target_Cap: 1879344696
+	#10: 
+		Combat_Control_CalculationType: 7 (CriticalChance)
+		Combat_Control_Hard_Cap: 1879344680
+		Combat_Control_Rating: 1879344712
+		Combat_Control_Target_Cap: 1879344709
+	#11: 
+		Combat_Control_CalculationType: 23 (CriticalMagnitude)
+		Combat_Control_Hard_Cap: 1879344677
+		Combat_Control_Rating: 1879344707
+		Combat_Control_Target_Cap: 1879344685
+	#12: 
+		Combat_Control_CalculationType: 8 (SuperCriticalChance)
+		Combat_Control_Hard_Cap: 1879344678
+		Combat_Control_Rating: 1879344684
+		Combat_Control_Target_Cap: 1879344656
+	#13: 
+		Combat_Control_CalculationType: 24 (CriticalDefense)
+		Combat_Control_Hard_Cap: 1879344652
+		Combat_Control_Rating: 1879344708
+		Combat_Control_Target_Cap: 1879344681
+	#14: 
+		Combat_Control_CalculationType: 9 (Resist)
+		Combat_Control_Hard_Cap: 1879344650
+		Combat_Control_Rating: 1879344700
+		Combat_Control_Target_Cap: 1879344670
+	#15: 
+		Combat_Control_CalculationType: 10 (VulnerabilityDefense)
+		Combat_Control_Hard_Cap: 1879345977
+		Combat_Control_Rating: 1879345979
+		Combat_Control_Target_Cap: 1879345980
+	#16: 
+		Combat_Control_CalculationType: 11 (VulnerabilityOffense)
+		Combat_Control_Hard_Cap: 1879345981
+		Combat_Control_Rating: 1879345976
+		Combat_Control_Target_Cap: 1879345978
+	#17: 
+		Combat_Control_CalculationType: 12 (LightArmorDefense)
+		Combat_Control_Hard_Cap: 1879344649
+		Combat_Control_Rating: 1879344655
+		Combat_Control_Target_Cap: 1879344675
+	#18: 
+		Combat_Control_CalculationType: 13 (MediumArmorDefense)
+		Combat_Control_Hard_Cap: 1879344672
+		Combat_Control_Rating: 1879344645
+		Combat_Control_Target_Cap: 1879344673
+	#19: 
+		Combat_Control_CalculationType: 14 (HeavyArmorDefense)
+		Combat_Control_Hard_Cap: 1879344642
+		Combat_Control_Rating: 1879344640
+		Combat_Control_Target_Cap: 1879344641
+	#20: 
+		Combat_Control_CalculationType: 18 (IncomingHealing)
+		Combat_Control_Hard_Cap: 1879344646
+		Combat_Control_Rating: 1879344663
+		Combat_Control_Target_Cap: 1879344690
+	#21: 
+		Combat_Control_CalculationType: 19 (OutgoingHealing)
+		Combat_Control_Hard_Cap: 1879344695
+		Combat_Control_Rating: 1879344671
+		Combat_Control_Target_Cap: 1879344683
+	#22: 
+		Combat_Control_CalculationType: 20 (Finesse)
+		Combat_Control_Hard_Cap: 1879344713
+		Combat_Control_Rating: 1879344643
+		Combat_Control_Target_Cap: 1879344682
+	#23: 
+		Combat_Control_CalculationType: 21 (MomentumConversion)
+		Combat_Control_Hard_Cap: 1879345967
+		Combat_Control_Rating: 1879345968
+		Combat_Control_Target_Cap: 1879345965
+	#24: 
+		Combat_Control_CalculationType: 22 (PVPDefense)
+		Combat_Control_Hard_Cap: 1879345963
+		Combat_Control_Rating: 1879345966
+		Combat_Control_Target_Cap: 1879345964
+Combat_Control_Critical_EquationLevelAdjustment_Progression: 1879135019
+Combat_Control_DamageCriticalMapList: 
+	#1: 
+		Combat_Control_AttackerCriticalChanceModPropertyName: 268439396 (Combat_AttackerCriticalHitChanceAddMod)
+		Combat_Control_AttackerCritical_PointsMod_PropertyName: 268444055 (Combat_Attacker_Critical_Point_Mod_Melee)
+		Combat_Control_CriticalChancePropertyName: 268439617 (Combat_CurrentCriticalHitChance)
+		Combat_Control_CriticalChance_Points_PropertyName: 268444069 (Combat_Current_CriticalPoints_Melee)
+		Combat_Control_DamageQualifier: 1 (Melee Skill)
+	#2: 
+		Combat_Control_AttackerCriticalChanceModPropertyName: 268441226 (Combat_AttackerRangedCriticalHitChanceAddMod)
+		Combat_Control_AttackerCritical_PointsMod_PropertyName: 268444031 (Combat_Attacker_Critical_Point_Mod_Ranged)
+		Combat_Control_CriticalChancePropertyName: 268441229 (Combat_CurrentRangedCriticalHitChance)
+		Combat_Control_CriticalChance_Points_PropertyName: 268444072 (Combat_Current_CriticalPoints_Ranged)
+		Combat_Control_DamageQualifier: 3 (Ranged Skill)
+	#3: 
+		Combat_Control_AttackerCriticalChanceModPropertyName: 268441224 (Combat_AttackerMagicCriticalHitChanceAddMod)
+		Combat_Control_AttackerCritical_PointsMod_PropertyName: 268443974 (Combat_Attacker_Critical_Point_Mod_Tactical)
+		Combat_Control_CriticalChancePropertyName: 268441219 (Combat_CurrentMagicCriticalHitChance)
+		Combat_Control_CriticalChance_Points_PropertyName: 268444070 (Combat_Current_CriticalPoints_Tactical)
+		Combat_Control_DamageQualifier: 2 (Tactical Skill)
+Combat_Control_DamageTypeData_List: 
+	#1: 
+		Combat_Control_Additional_Base_Mitigation: 268436322 (Combat_DamageType_Additional_Base_Mitigation_Common)
+		Combat_Control_AgentMitigationPercentage: 268439859 (Combat_MitigationPercentage_Common)
+		Combat_Control_ArmorDefense_ClassPoints_PropertyName: 268444336 (Combat_ArmorDefense_ClassPoints_Common)
+		Combat_Control_ArmorDefense_PointsModifier_PropertyName: 268444356 (Combat_ArmorDefense_PointsModifier_Common)
+		Combat_Control_ArmorDefense_StatPoints_PropertyName: 268444362 (Combat_ArmorDefense_StatPoints_Common)
+		Combat_Control_ArmorDefense_TotalPoints_PropertyName: 268444374 (Combat_ArmorDefense_CurrentPoints_Common)
+		Combat_Control_DamageType: 1 (Common)
+		Combat_Control_Immunity: 268437494 (Combat_DamageType_Immunity_Common)
+		Combat_Control_MasterDamageType: 1 (Physical)
+	#2: 
+		Combat_Control_Additional_Base_Mitigation: 268439821 (Combat_DamageType_Additional_Base_Mitigation_Westernesse)
+		Combat_Control_AgentMitigationPercentage: 268440063 (Combat_MitigationPercentage_Westernesse)
+		Combat_Control_ArmorDefense_ClassPoints_PropertyName: 268444347 (Combat_ArmorDefense_ClassPoints_Westernesse)
+		Combat_Control_ArmorDefense_PointsModifier_PropertyName: 268444393 (Combat_ArmorDefense_PointsModifier_Westernesse)
+		Combat_Control_ArmorDefense_StatPoints_PropertyName: 268444368 (Combat_ArmorDefense_StatPoints_Westernesse)
+		Combat_Control_ArmorDefense_TotalPoints_PropertyName: 268444367 (Combat_ArmorDefense_CurrentPoints_Westernesse)
+		Combat_Control_DamageType: 2 (Westernesse)
+		Combat_Control_Immunity: 268439366 (Combat_DamageType_Immunity_Westernesse)
+		Combat_Control_MasterDamageType: 1 (Physical)
+	#3: 
+		Combat_Control_Additional_Base_Mitigation: 268439592 (Combat_DamageType_Additional_Base_Mitigation_AncientDwarf)
+		Combat_Control_AgentMitigationPercentage: 268437752 (Combat_MitigationPercentage_AncientDwarf)
+		Combat_Control_ArmorDefense_ClassPoints_PropertyName: 268444350 (Combat_ArmorDefense_ClassPoints_AncientDwarf)
+		Combat_Control_ArmorDefense_PointsModifier_PropertyName: 268444335 (Combat_ArmorDefense_PointsModifier_AncientDwarf)
+		Combat_Control_ArmorDefense_StatPoints_PropertyName: 268444371 (Combat_ArmorDefense_StatPoints_AncientDwarf)
+		Combat_Control_ArmorDefense_TotalPoints_PropertyName: 268444378 (Combat_ArmorDefense_CurrentPoints_AncientDwarf)
+		Combat_Control_DamageType: 4 (Ancient Dwarf-make)
+		Combat_Control_Immunity: 268437033 (Combat_DamageType_Immunity_AncientDwarf)
+		Combat_Control_MasterDamageType: 1 (Physical)
+	#4: 
+		Combat_Control_Additional_Base_Mitigation: 268436546 (Combat_DamageType_Additional_Base_Mitigation_Beleriand)
+		Combat_Control_AgentMitigationPercentage: 268438188 (Combat_MitigationPercentage_Beleriand)
+		Combat_Control_ArmorDefense_ClassPoints_PropertyName: 268444365 (Combat_ArmorDefense_ClassPoints_Beleriand)
+		Combat_Control_ArmorDefense_PointsModifier_PropertyName: 268444384 (Combat_ArmorDefense_PointsModifier_Beleriand)
+		Combat_Control_ArmorDefense_StatPoints_PropertyName: 268444377 (Combat_ArmorDefense_StatPoints_Beleriand)
+		Combat_Control_ArmorDefense_TotalPoints_PropertyName: 268444361 (Combat_ArmorDefense_CurrentPoints_Beleriand)
+		Combat_Control_DamageType: 8 (Beleriand)
+		Combat_Control_Immunity: 268439365 (Combat_DamageType_Immunity_Beleriand)
+		Combat_Control_MasterDamageType: 1 (Physical)
+	#5: 
+		Combat_Control_Additional_Base_Mitigation: 268437032 (Combat_DamageType_Additional_Base_Mitigation_Fire)
+		Combat_Control_AgentMitigationPercentage: 268439395 (Combat_MitigationPercentage_Fire)
+		Combat_Control_ArmorDefense_ClassPoints_PropertyName: 268444392 (Combat_ArmorDefense_ClassPoints_Fire)
+		Combat_Control_ArmorDefense_PointsModifier_PropertyName: 268444344 (Combat_ArmorDefense_PointsModifier_Fire)
+		Combat_Control_ArmorDefense_StatPoints_PropertyName: 268444349 (Combat_ArmorDefense_StatPoints_Fire)
+		Combat_Control_ArmorDefense_TotalPoints_PropertyName: 268444334 (Combat_ArmorDefense_CurrentPoints_Fire)
+		Combat_Control_DamageType: 16 (Fire)
+		Combat_Control_Immunity: 268440569 (Combat_DamageType_Immunity_Fire)
+		Combat_Control_MasterDamageType: 2 (Tactical)
+	#6: 
+		Combat_Control_Additional_Base_Mitigation: 268437965 (Combat_DamageType_Additional_Base_Mitigation_Shadow)
+		Combat_Control_AgentMitigationPercentage: 268436582 (Combat_MitigationPercentage_Shadow)
+		Combat_Control_ArmorDefense_ClassPoints_PropertyName: 268444397 (Combat_ArmorDefense_ClassPoints_Shadow)
+		Combat_Control_ArmorDefense_PointsModifier_PropertyName: 268444358 (Combat_ArmorDefense_PointsModifier_Shadow)
+		Combat_Control_ArmorDefense_StatPoints_PropertyName: 268444388 (Combat_ArmorDefense_StatPoints_Shadow)
+		Combat_Control_ArmorDefense_TotalPoints_PropertyName: 268444360 (Combat_ArmorDefense_CurrentPoints_Shadow)
+		Combat_Control_DamageType: 32 (Shadow)
+		Combat_Control_Immunity: 268437492 (Combat_DamageType_Immunity_Shadow)
+		Combat_Control_MasterDamageType: 2 (Tactical)
+	#7: 
+		Combat_Control_Additional_Base_Mitigation: 268436545 (Combat_DamageType_Additional_Base_Mitigation_Light)
+		Combat_Control_AgentMitigationPercentage: 268436581 (Combat_MitigationPercentage_Light)
+		Combat_Control_ArmorDefense_ClassPoints_PropertyName: 268444331 (Combat_ArmorDefense_ClassPoints_Light)
+		Combat_Control_ArmorDefense_PointsModifier_PropertyName: 268444333 (Combat_ArmorDefense_PointsModifier_Light)
+		Combat_Control_ArmorDefense_StatPoints_PropertyName: 268444338 (Combat_ArmorDefense_StatPoints_Light)
+		Combat_Control_ArmorDefense_TotalPoints_PropertyName: 268444351 (Combat_ArmorDefense_CurrentPoints_Light)
+		Combat_Control_DamageType: 64 (Light)
+		Combat_Control_Immunity: 268435608 (Combat_DamageType_Immunity_Light)
+		Combat_Control_MasterDamageType: 2 (Tactical)
+	#8: 
+		Combat_Control_Additional_Base_Mitigation: 268442931 (Combat_DamageType_Additional_Base_Mitigation_Frost)
+		Combat_Control_AgentMitigationPercentage: 268442953 (Combat_MitigationPercentage_Frost)
+		Combat_Control_ArmorDefense_ClassPoints_PropertyName: 268444381 (Combat_ArmorDefense_ClassPoints_Frost)
+		Combat_Control_ArmorDefense_PointsModifier_PropertyName: 268444339 (Combat_ArmorDefense_PointsModifier_Frost)
+		Combat_Control_ArmorDefense_StatPoints_PropertyName: 268444391 (Combat_ArmorDefense_StatPoints_Frost)
+		Combat_Control_ArmorDefense_TotalPoints_PropertyName: 268444389 (Combat_ArmorDefense_CurrentPoints_Frost)
+		Combat_Control_DamageType: 256 (Frost)
+		Combat_Control_Immunity: 268442932 (Combat_DamageType_Immunity_Frost)
+		Combat_Control_MasterDamageType: 2 (Tactical)
+	#9: 
+		Combat_Control_Additional_Base_Mitigation: 268442934 (Combat_DamageType_Additional_Base_Mitigation_Lightning)
+		Combat_Control_AgentMitigationPercentage: 268442949 (Combat_MitigationPercentage_Lightning)
+		Combat_Control_ArmorDefense_ClassPoints_PropertyName: 268444337 (Combat_ArmorDefense_ClassPoints_Lightning)
+		Combat_Control_ArmorDefense_PointsModifier_PropertyName: 268444387 (Combat_ArmorDefense_PointsModifier_Lightning)
+		Combat_Control_ArmorDefense_StatPoints_PropertyName: 268444355 (Combat_ArmorDefense_StatPoints_Lightning)
+		Combat_Control_ArmorDefense_TotalPoints_PropertyName: 268444366 (Combat_ArmorDefense_CurrentPoints_Lightning)
+		Combat_Control_DamageType: 512 (Lightning)
+		Combat_Control_Immunity: 268442936 (Combat_DamageType_Immunity_Lightning)
+		Combat_Control_MasterDamageType: 2 (Tactical)
+	#10: 
+		Combat_Control_Additional_Base_Mitigation: 268442938 (Combat_DamageType_Additional_Base_Mitigation_Acid)
+		Combat_Control_AgentMitigationPercentage: 268442951 (Combat_MitigationPercentage_Acid)
+		Combat_Control_ArmorDefense_ClassPoints_PropertyName: 268444364 (Combat_ArmorDefense_ClassPoints_Acid)
+		Combat_Control_ArmorDefense_PointsModifier_PropertyName: 268444346 (Combat_ArmorDefense_PointsModifier_Acid)
+		Combat_Control_ArmorDefense_StatPoints_PropertyName: 268444376 (Combat_ArmorDefense_StatPoints_Acid)
+		Combat_Control_ArmorDefense_TotalPoints_PropertyName: 268444385 (Combat_ArmorDefense_CurrentPoints_Acid)
+		Combat_Control_DamageType: 1024 (Acid)
+		Combat_Control_Immunity: 268442947 (Combat_DamageType_Immunity_Acid)
+		Combat_Control_MasterDamageType: 2 (Tactical)
+	#11: 
+		Combat_Control_Additional_Base_Mitigation: 268442935 (Combat_DamageType_Additional_Base_Mitigation_MorgulForged)
+		Combat_Control_AgentMitigationPercentage: 268442948 (Combat_MitigationPercentage_MorgulForged)
+		Combat_Control_ArmorDefense_ClassPoints_PropertyName: 268444345 (Combat_ArmorDefense_ClassPoints_MorgulForged)
+		Combat_Control_ArmorDefense_PointsModifier_PropertyName: 268444395 (Combat_ArmorDefense_PointsModifier_MorgulForged)
+		Combat_Control_ArmorDefense_StatPoints_PropertyName: 268444342 (Combat_ArmorDefense_StatPoints_MorgulForged)
+		Combat_Control_ArmorDefense_TotalPoints_PropertyName: 268444330 (Combat_ArmorDefense_CurrentPoints_MorgulForged)
+		Combat_Control_DamageType: 2048 (Morgul-forged)
+		Combat_Control_Immunity: 268442941 (Combat_DamageType_Immunity_MorgulForged)
+	#12: 
+		Combat_Control_Additional_Base_Mitigation: 268442933 (Combat_DamageType_Additional_Base_Mitigation_OrcCraft)
+		Combat_Control_AgentMitigationPercentage: 268442950 (Combat_MitigationPercentage_OrcCraft)
+		Combat_Control_ArmorDefense_ClassPoints_PropertyName: 268444332 (Combat_ArmorDefense_ClassPoints_OrcCraft)
+		Combat_Control_ArmorDefense_PointsModifier_PropertyName: 268444375 (Combat_ArmorDefense_PointsModifier_OrcCraft)
+		Combat_Control_ArmorDefense_StatPoints_PropertyName: 268444390 (Combat_ArmorDefense_StatPoints_OrcCraft)
+		Combat_Control_ArmorDefense_TotalPoints_PropertyName: 268444357 (Combat_ArmorDefense_CurrentPoints_OrcCraft)
+		Combat_Control_DamageType: 4096 (Orc-craft)
+		Combat_Control_Immunity: 268442939 (Combat_DamageType_Immunity_OrcCraft)
+		Combat_Control_MasterDamageType: 1 (Physical)
+	#13: 
+		Combat_Control_Additional_Base_Mitigation: 268442943 (Combat_DamageType_Additional_Base_Mitigation_FellWrought)
+		Combat_Control_AgentMitigationPercentage: 268442952 (Combat_MitigationPercentage_FellWrought)
+		Combat_Control_ArmorDefense_ClassPoints_PropertyName: 268444369 (Combat_ArmorDefense_ClassPoints_FellWrought)
+		Combat_Control_ArmorDefense_PointsModifier_PropertyName: 268444394 (Combat_ArmorDefense_PointsModifier_FellWrought)
+		Combat_Control_ArmorDefense_StatPoints_PropertyName: 268444341 (Combat_ArmorDefense_StatPoints_FellWrought)
+		Combat_Control_ArmorDefense_TotalPoints_PropertyName: 268444359 (Combat_ArmorDefense_CurrentPoints_FellWrought)
+		Combat_Control_DamageType: 8192 (Fell-wrought)
+		Combat_Control_Immunity: 268442944 (Combat_DamageType_Immunity_FellWrought)
+		Combat_Control_MasterDamageType: 1 (Physical)
+	#14: 
+		Combat_Control_Additional_Base_Mitigation: 268455162 (PVPCombat_Mitigation_AddMod_Physical)
+		Combat_Control_AgentMitigationPercentage: 268455169 (PVPCombat_Mitigation_Physical_Cached)
+		Combat_Control_ArmorDefense_ClassPoints_PropertyName: 268455158 (PVPCombat_Unused_ArmorDefense_Class_Physical)
+		Combat_Control_ArmorDefense_PointsModifier_PropertyName: 268455160 (PVPCombat_ArmorRating_Physical)
+		Combat_Control_ArmorDefense_StatPoints_PropertyName: 268455166 (PVPCombat_Unused_ArmorDefense_Stats_Physical)
+		Combat_Control_ArmorDefense_TotalPoints_PropertyName: 268455149 (PVPCombat_ArmorRating_Physical_Cached)
+		Combat_Control_DamageType: 16384 (Physical)
+		Combat_Control_Immunity: 268455324 (PVPCombat_DamageTypeImmunity_Physical_Cached)
+	#15: 
+		Combat_Control_Additional_Base_Mitigation: 268455154 (PVPCombat_Mitigation_AddMod_Tactical)
+		Combat_Control_AgentMitigationPercentage: 268455168 (PVPCombat_Mitigation_Tactical_Cached)
+		Combat_Control_ArmorDefense_ClassPoints_PropertyName: 268455148 (PVPCombat_Unused_ArmorDefense_Class_Tactical)
+		Combat_Control_ArmorDefense_PointsModifier_PropertyName: 268455163 (PVPCombat_ArmorRating_Tactical)
+		Combat_Control_ArmorDefense_StatPoints_PropertyName: 268455156 (PVPCombat_Unused_ArmorDefense_Stats_Tactical)
+		Combat_Control_ArmorDefense_TotalPoints_PropertyName: 268455151 (PVPCombat_ArmorRating_Tactical_Cached)
+		Combat_Control_DamageType: 32768 (Tactical)
+		Combat_Control_Immunity: 268455322 (PVPCombat_DamageTypeImmunity_Tactical_Cached)
+Combat_Control_DuelingBeginDelay: 10.0
+Combat_Control_EquationLevelAdjustment_Progression: 1879125152
+Combat_Control_InductionInterruption_CooldownTime: 4.0
+Combat_Control_LengthOfTheDuel: 600.0
+Combat_Control_MasterDamageTypeData_List: 
+	#1: 
+		Combat_Control_Additional_Base_Mitigation: 268451788 (Combat_DamageType_Additional_Base_Mitigation_UnifiedPhysical)
+		Combat_Control_AgentMitigationPercentage: 268451800 (Combat_MitigationPercentage_UnifiedPhysical)
+		Combat_Control_ArmorDefense_ClassPoints_PropertyName: 268451793 (Combat_ArmorDefense_ClassPoints_UnifiedPhysical)
+		Combat_Control_ArmorDefense_PointsModifier_PropertyName: 268451797 (Combat_ArmorDefense_PointsModifier_UnifiedPhysical)
+		Combat_Control_ArmorDefense_StatPoints_PropertyName: 268451799 (Combat_ArmorDefense_StatPoints_UnifiedPhysical)
+		Combat_Control_ArmorDefense_TotalPoints_PropertyName: 268451792 (Combat_ArmorDefense_CurrentPoints_UnifiedPhysical)
+		Combat_Control_Immunity: 268451790 (Combat_DamageType_Immunity_UnifiedPhysical)
+		Combat_Control_MasterDamageType: 1 (Physical)
+	#2: 
+		Combat_Control_Additional_Base_Mitigation: 268451890 (Combat_DamageType_Additional_Base_Mitigation_UnifiedTactical)
+		Combat_Control_AgentMitigationPercentage: 268451897 (Combat_MitigationPercentage_UnifiedTactical)
+		Combat_Control_ArmorDefense_ClassPoints_PropertyName: 268451896 (Combat_ArmorDefense_ClassPoints_UnifiedTactical)
+		Combat_Control_ArmorDefense_PointsModifier_PropertyName: 268451895 (Combat_ArmorDefense_PointsModifier_UnifiedTactical)
+		Combat_Control_ArmorDefense_StatPoints_PropertyName: 268451893 (Combat_ArmorDefense_StatPoints_UnifiedTactical)
+		Combat_Control_ArmorDefense_TotalPoints_PropertyName: 268451899 (Combat_ArmorDefense_CurrentPoints_UnifiedTactical)
+		Combat_Control_Immunity: 268451898 (Combat_DamageType_Immunity_UnifiedTactical)
+		Combat_Control_MasterDamageType: 2 (Tactical)
+Combat_Control_MaxCombatLevel: 130
+Combat_Control_MountedNonPlayer_HealthToMountEndurance_Conversion: 0.0
+Combat_Control_MountedPlayer_HealthToMountEndurance_Conversion: 0.4
+Combat_Control_NonCommon_ArmorDefense_EquationLevelAdjustment_Progression: 1879125152
+Combat_Control_SlayerDPSModList: 
+	#1: 
+		Combat_Control_SlayerDPSModProgression: 1879085752
+		Combat_Quality: 4 (Uncommon)
+	#2: 
+		Combat_Control_SlayerDPSModProgression: 1879085753
+		Combat_Quality: 2 (Rare)
+	#3: 
+		Combat_Control_SlayerDPSModProgression: 1879085754
+		Combat_Quality: 3 (Incomparable)
+	#4: 
+		Combat_Control_SlayerDPSModProgression: 1879085754
+		Combat_Quality: 1 (Epic)
+Combat_Control_ValidPlayerAttackResultArray: 
+	#1: 9 (Hit)
+	#2: 10 (CriticalHit)
+	#3: 11 (SuperCriticalHit)
+	#4: 7 (Resist)
+Combat_Control_WeaponStrikeModifierList: 
+	#1: 
+		Combat_Control_EquipmentCategory: 524288 (Dagger[E])
+		Combat_Control_SkillCriticalMult_AddMod: 268445672 (Combat_SkillCriticalMult_AddMod_Dagger)
+		Combat_Control_SkillSuperCriticalMult_AddMod: 268445673 (Combat_SkillSuperCriticalMult_AddMod_Dagger)
+		Combat_Control_WeaponDamageMultiplier: 268445557 (Combat_WeaponDamageMultiplier_Dagger)
+	#2: 
+		Combat_Control_EquipmentCategory: 32768 (Halberd[E])
+		Combat_Control_WeaponDamageMultiplier: 268449686 (Combat_WeaponDamageMultiplier_Halberd)
+	#3: 
+		Combat_Control_EquipmentCategory: 134217728 (One-handed Sword[E])
+		Combat_Control_WeaponDamageMultiplier: 268438882 (Combat_WeaponDamageMultiplier_1HSword)
+	#4: 
+		Combat_Control_EquipmentCategory: 4 (Two-handed Sword[E])
+		Combat_Control_WeaponDamageMultiplier: 268440059 (Combat_WeaponDamageMultiplier_2HSword)
+	#5: 
+		Combat_Control_EquipmentCategory: 8388608 (One-handed Axe[E])
+		Combat_Control_WeaponDamageMultiplier: 268437059 (Combat_WeaponDamageMultiplier_1HAxe)
+	#6: 
+		Combat_Control_EquipmentCategory: 32 (Two-handed Axe[E])
+		Combat_Control_WeaponDamageMultiplier: 268435629 (Combat_WeaponDamageMultiplier_2HAxe)
+	#7: 
+		Combat_Control_EquipmentCategory: 2048 (One-handed Hammer[E])
+		Combat_Control_WeaponDamageMultiplier: 268458142 (Combat_WeaponDamageMultiplier_1HHammer)
+	#8: 
+		Combat_Control_EquipmentCategory: 16384 (Two-handed Hammer[E])
+		Combat_Control_WeaponDamageMultiplier: 268458144 (Combat_WeaponDamageMultiplier_2HHammer)
+	#9: 
+		Combat_Control_EquipmentCategory: 67108864 (One-handed Mace[E])
+		Combat_Control_WeaponDamageMultiplier: 268458143 (Combat_WeaponDamageMultiplier_Mace)
+	#10: 
+		Combat_Control_EquipmentCategory: 128 (Bow[E])
+		Combat_Control_WeaponDamageMultiplier: 268437290 (Combat_WeaponDamageMultiplier_Bow)
+	#11: 
+		Combat_Control_EquipmentCategory: 33554432 (One-handed Club[E])
+		Combat_Control_WeaponDamageMultiplier: 268436087 (Combat_WeaponDamageMultiplier_1HClub)
+	#12: 
+		Combat_Control_EquipmentCategory: 8 (Two-handed Club[E])
+		Combat_Control_WeaponDamageMultiplier: 268440594 (Combat_WeaponDamageMultiplier_2HClub)
+	#13: 
+		Combat_Control_EquipmentCategory: 4096 (Spear[E])
+		Combat_Control_WeaponDamageMultiplier: 268444093 (Combat_WeaponDamageMultiplier_Spear)
+Combat_MinRangeForConjunctionSuccessNotification: 20.0
+Skill_Action_Queue_Duration: 0.0
+Skill_Mounted_Action_Queue_Duration: 240.0
+Skill_Mounted_Maximum_MoveTo_Range: 240.0
