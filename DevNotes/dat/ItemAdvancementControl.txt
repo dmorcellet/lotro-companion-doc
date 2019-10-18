@@ -1,4 +1,3 @@
-******** Properties: 1879108262
 ItemAdvancement_BlankImbuedWidgetDID: 1879324661
 ItemAdvancement_ClassAgnosticWidgetDID_Array: 
 	#1: 1879324313

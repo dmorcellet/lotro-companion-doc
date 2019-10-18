@@ -1,4 +1,3 @@
-******** Properties: 1879110218
 ProgressionControl_BaseCostPerLevel: 3
 ProgressionControl_MaxTierLevelOffsetTable: 
 	#1: 
@@ -445,4 +444,3 @@ ProgressionControl_TypeStartingLevelTable:
 	#42: 
 		ProgressionControl_TypeStartingLevel_Level: 47
 		ProgressionControl_TypeStartingLevel_Type: 92 (Type7_10_static)
-
