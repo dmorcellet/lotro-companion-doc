@@ -1,0 +1,144 @@
+CraftControl_ChangeVocation_RemoveQuestsArray: 
+	#1: 
+		CraftControl_Profession: 1879055299
+		CraftControl_RemoveQuestsArray: 
+			#1: 1879201506
+			#2: 1879202660
+			#3: 1879208424
+			#4: 1879208423
+	#2: 
+		CraftControl_Profession: 1879061252
+		CraftControl_RemoveQuestsArray: 
+			#1: 1879201954
+			#2: 1879202870
+			#3: 1879208477
+			#4: 1879208476
+	#3: 
+		CraftControl_Profession: 1879062816
+		CraftControl_RemoveQuestsArray: 
+			#1: 1879202813
+			#2: 1879201955
+	#4: 
+		CraftControl_Profession: 1879055477
+		CraftControl_RemoveQuestsArray: 
+			#1: 1879201958
+			#2: 1879202879
+			#3: 1879208478
+			#4: 1879208479
+	#5: 
+		CraftControl_Profession: 1879055079
+		CraftControl_RemoveQuestsArray: 
+			#1: 1879201956
+			#2: 1879202969
+			#3: 1879208481
+			#4: 1879208480
+	#6: 
+		CraftControl_Profession: 1879054946
+		CraftControl_RemoveQuestsArray: 
+			#1: 1879201957
+			#2: 1879202970
+			#3: 1879208483
+			#4: 1879208482
+	#7: 
+		CraftControl_Profession: 1879055778
+		CraftControl_RemoveQuestsArray: 
+			#1: 1879201959
+			#2: 1879203000
+			#3: 1879208485
+			#4: 1879208484
+	#8: 
+		CraftControl_Profession: 1879055941
+		CraftControl_RemoveQuestsArray: 
+			#1: 1879201960
+			#2: 1879203001
+			#3: 1879208487
+			#4: 1879208486
+	#9: 
+		CraftControl_Profession: 1879062818
+		CraftControl_RemoveQuestsArray: 
+	#10: 
+		CraftControl_Profession: 1879062817
+		CraftControl_RemoveQuestsArray: 
+CraftControl_TierToMungeLevelArray: 
+	#1: 
+		CraftProfession_Tier: 1 (Apprentice)
+		Usage_MinLevel: 10
+	#2: 
+		CraftProfession_Tier: 2 (Journeyman)
+		Usage_MinLevel: 20
+	#3: 
+		CraftProfession_Tier: 3 (Expert)
+		Usage_MinLevel: 30
+	#4: 
+		CraftProfession_Tier: 4 (Artisan)
+		Usage_MinLevel: 40
+	#5: 
+		CraftProfession_Tier: 5 (Master)
+		Usage_MinLevel: 50
+	#6: 
+		CraftProfession_Tier: 6 (Supreme)
+		Usage_MinLevel: 60
+	#7: 
+		CraftProfession_Tier: 7 (Westfold)
+		Usage_MinLevel: 70
+	#8: 
+		CraftProfession_Tier: 8 (Eastemnet)
+		Usage_MinLevel: 80
+	#9: 
+		CraftProfession_Tier: 9 (Westemnet)
+		Usage_MinLevel: 90
+	#10: 
+		CraftProfession_Tier: 10 (Anórien)
+		Usage_MinLevel: 100
+	#11: 
+		CraftProfession_Tier: 11 (Doomfold)
+		Usage_MinLevel: 115
+	#12: 
+		CraftProfession_Tier: 12 (Ironfold)
+		Usage_MinLevel: 120
+CraftControl_XPRewardArray: 
+	#1: 
+		CraftControl_XPRewardEnum: 7 (None)
+		CraftControl_XPRewardValue: 0
+	#2: 
+		CraftControl_XPRewardEnum: 5 (Easy)
+		CraftControl_XPRewardValue: 2
+	#3: 
+		CraftControl_XPRewardEnum: 8 (Simple)
+		CraftControl_XPRewardValue: 4
+	#4: 
+		CraftControl_XPRewardEnum: 2 (Low)
+		CraftControl_XPRewardValue: 6
+	#5: 
+		CraftControl_XPRewardEnum: 1 (Medium)
+		CraftControl_XPRewardValue: 8
+	#6: 
+		CraftControl_XPRewardEnum: 6 (High)
+		CraftControl_XPRewardValue: 10
+	#7: 
+		CraftControl_XPRewardEnum: 3 (VeryHigh)
+		CraftControl_XPRewardValue: 12
+	#8: 
+		CraftControl_XPRewardEnum: 4 (Peerless)
+		CraftControl_XPRewardValue: 14
+	#9: 
+		CraftControl_XPRewardEnum: 16 (Raid)
+		CraftControl_XPRewardValue: 16
+	#10: 
+		CraftControl_XPRewardEnum: 11 (Guild_1d)
+		CraftControl_XPRewardValue: 10
+	#11: 
+		CraftControl_XPRewardEnum: 9 (Guild_3d)
+		CraftControl_XPRewardValue: 35
+	#12: 
+		CraftControl_XPRewardEnum: 10 (Guild_7d)
+		CraftControl_XPRewardValue: 70
+	#13: 
+		CraftControl_XPRewardEnum: 12 (CraftXP)
+		CraftControl_XPRewardValue: 35
+	#14: 
+		CraftControl_XPRewardEnum: 14 (Bulk_Low)
+		CraftControl_XPRewardValue: 37
+	#15: 
+		CraftControl_XPRewardEnum: 15 (Bulk_Medium)
+		CraftControl_XPRewardValue: 50
