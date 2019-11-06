@@ -96,6 +96,9 @@ CraftControl_TierToMungeLevelArray:
 	#12: 
 		CraftProfession_Tier: 12 (Ironfold)
 		Usage_MinLevel: 120
+	#13: 
+		CraftProfession_Tier: 13 (Minas Ithil)
+		Usage_MinLevel: 130
 CraftControl_XPRewardArray: 
 	#1: 
 		CraftControl_XPRewardEnum: 7 (None)

@@ -1017,5 +1017,5 @@ ItemAdvancement_WidgetDID_Array:
 	#326: 1879324307
 	#327: 1879324309
 	#328: 1879324315
-ItemAdvancement_WidgetIXPMultiplierForReplacement: 0.2
+ItemAdvancement_WidgetIXPMultiplierForReplacement: 0.9
 ItemAdvancement_WidgetLevelsUnlockedForMaxLevelIncrease: 1

@@ -2272,6 +2272,7 @@
 2881 - ForwardSource_Environment_PlayerLocalSkyOverride, type=Enum Mapper 1, data=587202793, default value=2
 2882 - ShowMayaStyleUIPlanes, type=boolean, data=0, default value=1
 2883 - World_RestartOnMigrationFailure, type=boolean, data=0, default value=1
+2884 - LoadAllBrushesOnStartup, type=boolean, data=0, default value=0
 2887 - WAL_Finger_CharDeleted, type=boolean, data=0, default value=0
 2888 - WAL_Finger_CharName, type=String, data=0, default value=null
 2889 - WAL_Finger_CharIID, type=Long 64bits, data=0, default value=null
@@ -2280,6 +2281,7 @@
 2892 - WAL_Finger_CharMetaName, type=String, data=0, default value=null
 2893 - WAL_Finger_Lock, type=Int, data=0, default value=null
 2894 - WAL_Finger_UpdateDate, type=String, data=0, default value=null
+2896 - World_SMTP_FullWSLFrameDumps, type=boolean, data=0, default value=null
 268435457 - Pedigree_Surname_LevelRestriction, type=Int, data=0, default value=0
 268435458 - Auction_ID, type=InstanceID, data=0, default value=[0,0]
 268435459 - MiniGame.FreezeTag@Player.m_bIsPlaying, type=boolean, data=0, default value=null
@@ -6577,7 +6579,6 @@
 268440002 - UI_Escort_EscortPowerVitalDisplayElement, type=Enum Mapper 1, data=587202769, default value=null
 268440003 - UIComponent_EffectDisplay_TargetIID, type=InstanceID, data=0, default value=null
 268440004 - UI_Credits_PictureLocation_Y, type=Int, data=0, default value=null
-268440005 - UI_Credits_TextArea, type=Enum Mapper 1, data=587202769, default value=null
 268440006 - UI_ChatEmote_Struct, type=Struct, data=0, default value=null
 268440007 - UI_ChatWindow_OutputButtonElement, type=Enum Mapper 1, data=587202769, default value=null
 268440008 - CharGen_Action, type=Enum Mapper 1, data=587202867, default value=null
@@ -19689,7 +19690,6 @@
 268457158 - Trait_Mount_Burglar_Effect_Damage, type=Float, data=0, default value=0.0
 268457160 - Item_MithrilCost, type=Int, data=0, default value=0
 268457162 - PackageItem_IsDoneGeneratingItems, type=boolean, data=0, default value=0
-268457163 - PackageItem_ShouldIllustrateItemGeneration, type=boolean, data=0, default value=0
 268457164 - Antispam_MithrilCoin, type=Struct, data=0, default value=null
 268457165 - trait_class_hunter_specialization_3, type=Int, data=0, default value=0
 268457166 - trait_class_burglar_specialization_1, type=Int, data=0, default value=0
@@ -19740,10 +19740,6 @@
 268457217 - Trait_EffectSkill_SkillAcquired_Rank, type=Int, data=0, default value=0
 268457218 - Trait_EffectSkill_SkillAcquired_Array, type=Array, data=0, default value=null
 268457219 - Trait_EffectSkill_SkillAcquired, type=Data File ID, data=69, default value=0
-268457220 - RandomItemReward_RarityStateEntry, type=Struct, data=0, default value=null
-268457221 - RandomItemReward_RarityStateArray, type=Array, data=0, default value=null
-268457222 - RandomItemReward_State, type=Enum Mapper 1, data=587202770, default value=null
-268457223 - RandomItemReward_Rarity, type=Int, data=0, default value=null
 268457236 - Skill_Loremaster_AncientCraft, type=Float, data=0, default value=0.0
 268457239 - Trait_EffectSkill_AtRankSkillsAcquired_Array, type=Array, data=0, default value=null
 268457242 - Interaction_Permission_DuelingOpponent, type=InstanceID, data=0, default value=null
@@ -19890,9 +19886,6 @@
 268457421 - ze_test_helms_deep_prototype_catapult_induction_aim, type=Int, data=0, default value=null
 268457422 - ze_test_helms_deep_prototype_catapult_induction_repair, type=Int, data=0, default value=null
 268457423 - ze_test_helms_deep_prototype_catapult_induction_crank, type=Int, data=0, default value=null
-268457429 - RandomItemReward_TickLengthMultiplier, type=Float, data=0, default value=null
-268457430 - RandomItemReward_TotalAnimationTime, type=Float, data=0, default value=null
-268457431 - RandomItemReward_InitialTickTime, type=Float, data=0, default value=null
 268457434 - LootGen_FilteredTreasureListArray, type=Array, data=0, default value=null
 268457435 - LootGen_FilteredTreasureListArray_Entry, type=Struct, data=0, default value=null
 268457436 - LootGen_FilteredTrophyTable_EntryDID, type=Data File ID, data=69, default value=0
@@ -23782,10 +23775,35 @@
 268461890 - Version_Title_StampProperty_46, type=boolean, data=0, default value=null
 268461891 - Version_Title_StampProperty_47, type=boolean, data=0, default value=null
 268461892 - Version_Title_StampProperty_48, type=boolean, data=0, default value=null
+268461893 - UI_Assistance_Language, type=Enum Mapper 1, data=587202737, default value=null
+268461894 - GCParam_Offset, type=Vector, data=0, default value=null
+268461895 - Item_Disenchant_Trophy_List, type=Data File ID, data=69, default value=0
 268461896 - Trait_Virtue_Posture_Icon, type=Data File ID, data=5, default value=null
 268461897 - WE_minas_morgul_instance_leading_charge_lock, type=boolean, data=0, default value=null
 268461898 - Item_Level_Bonus_Pending, type=boolean, data=0, default value=0
+268461899 - WAL_ShutdownServerInXMinutes, type=Int, data=0, default value=null
+268461900 - WAL_ShutdownServerAtTime, type=String, data=0, default value=null
+268461901 - WAL_ResultInfo, type=String, data=0, default value=null
+268461902 - WAL_Success, type=boolean, data=0, default value=0
+268461903 - WAL_SourceInfo, type=String, data=0, default value=null
+268461904 - Reputation_Faction_Mordor_Besieged_CurrentTier, type=Enum Mapper 1, data=587203059, default value=null
+268461905 - Reputation_Faction_Mordor_Besieged_EarnedReputation, type=Long 64bits, data=0, default value=null
+268461906 - Reputation_Faction_Mordor_Besieged_Cap, type=Enum Mapper 1, data=587203059, default value=null
 268461907 - WE_vales_anduin_kidzul_kalah_instance_leading_charge_lock, type=boolean, data=0, default value=null
+268461908 - Item_PILI_Legacy_Entry_List, type=Array, data=0, default value=null
+268461909 - Item_PILI_Runic_Type1, type=Data File ID, data=69, default value=0
+268461910 - Item_PILI_Runic_Type2, type=Data File ID, data=69, default value=0
+268461911 - Item_PILI_Runic_Type3, type=Data File ID, data=69, default value=0
+268461912 - Item_PILI_Runic_Type4, type=Data File ID, data=69, default value=0
+268461913 - Item_PILI_Title, type=Data File ID, data=69, default value=0
+268461914 - Item_PILI_Legacy_Entry, type=Data File ID, data=69, default value=0
+268461915 - Filter_ParticleArray, type=Array, data=0, default value=null
+268461916 - Filter_ParticleEntry, type=Data File ID, data=30, default value=null
+268461917 - Account_Filter_ParticleArray, type=Array, data=0, default value=null
+268461918 - Item_PILI_TiersToUnlock_DPS_CPM, type=Int, data=0, default value=0
+268461919 - Item_PILI_TiersToUnlock_Imbued_Legacies, type=Int, data=0, default value=0
+268461920 - Item_PILI_XP_To_Apply, type=Int, data=0, default value=0
+268461921 - World_InstanceLength_mordor_besieged_nazgul, type=Int, data=0, default value=0
 268461922 - Effect_OverrideHarmfulVerification, type=boolean, data=0, default value=null
 268461923 - Script_WeaponImbueLevel_Cosmetic, type=Enum Mapper 1, data=587202889, default value=null
 268461924 - Script_WeaponImbueType_Cosmetic, type=Enum Mapper 1, data=587202888, default value=null
@@ -23795,10 +23813,67 @@
 268461928 - ForwardSource_Script_WeaponImbueType_Secondary_Cosmetic, type=Enum Mapper 1, data=587202888, default value=0
 268461929 - Script_WeaponImbueType_Ranged_Cosmetic, type=Enum Mapper 1, data=587202888, default value=0
 268461930 - ForwardSource_Script_WeaponImbueType_Ranged_Cosmetic, type=Enum Mapper 1, data=587202888, default value=0
+268461932 - Item_PILI_Base_Weapon_WC, type=Data File ID, data=69, default value=0
 268461933 - Trait_Captain_ElendilsFury_ForceTaunt, type=Array, data=0, default value=null
+268461935 - we_bonus_vxp, type=Int, data=0, default value=null
+268461936 - World_VXP_AwardMultiplier, type=Float, data=0, default value=1.0
+268461937 - VXP_AwardMultiplier, type=Float, data=0, default value=1.0
+268461938 - Virtue_BonusXP, type=Long 64bits, data=0, default value=null
+268461939 - BoS_InCompleteIcon, type=Data File ID, data=5, default value=null
+268461940 - BoS_AllowInSingletonBag, type=boolean, data=0, default value=1
+268461941 - BoS_Bound_To_Account_Amount, type=Int, data=0, default value=null
+268461942 - BoS_ContainingBagIID, type=InstanceID, data=0, default value=null
+268461943 - BoS_CompleteIcon, type=Data File ID, data=5, default value=null
+268461944 - BoS_TotalNeeded, type=Int, data=0, default value=null
+268461945 - BoS_AlwaysAutoGather, type=boolean, data=0, default value=null
+268461946 - BoS_Available_MaxDifferentTypesOfItems, type=Int, data=0, default value=null
+268461947 - BoS_ItemStruct, type=Struct, data=0, default value=null
+268461948 - BoS_UIElement_Layout, type=Data File ID, data=40, default value=null
+268461949 - BoS_Available_WeenieType, type=Enum Mapper 1, data=587202761, default value=null
+268461950 - BoS_Available_MaxQuantity, type=Int, data=0, default value=null
+268461951 - BoS_UIElement_ID, type=Enum Mapper 1, data=587202769, default value=null
+268461952 - BoS_ItemDID, type=Data File ID, data=69, default value=null
+268461953 - BoS_IsBlackHole, type=boolean, data=0, default value=null
+268461954 - BoS_ItemArray, type=Array, data=0, default value=null
+268461955 - BoS_IsAutoGathering, type=boolean, data=0, default value=null
+268461956 - BoS_Complete, type=boolean, data=0, default value=null
+268461957 - BoS_DesignatedBagDID, type=Data File ID, data=69, default value=null
+268461958 - BoS_ItemName, type=String Info, data=0, default value=null
+268461959 - BoS_Filter, type=String Info, data=0, default value=null
+268461960 - BoS_Bound_To_Character_Amount, type=Int, data=0, default value=null
+268461961 - BoS_Quantity, type=Int, data=0, default value=null
+268461962 - BoS_ItemIID, type=InstanceID, data=0, default value=null
+268461971 - Trait_Control_VirtueXP_Bonus_SoftCap, type=Int, data=0, default value=null
+268461972 - Trait_Control_VirtueXP_Bonus_HardCap, type=Int, data=0, default value=null
+268461973 - WE_minas_morgul_city_playercontrol, type=Int, data=0, default value=null
+268461974 - WE_Minas_Morgul_Camp3_InvasionState, type=Int, data=0, default value=null
+268461975 - WE_Minas_Morgul_Camp1_InvasionState, type=Int, data=0, default value=null
+268461976 - WE_Minas_Morgul_Camp2_InvasionState, type=Int, data=0, default value=null
+268461977 - WE_Minas_Morgul_Camp1_Control, type=boolean, data=0, default value=null
+268461978 - WE_Minas_Morgul_Camp2_Control, type=boolean, data=0, default value=null
+268461979 - WE_Minas_Morgul_Camp4_Control, type=boolean, data=0, default value=null
+268461980 - WE_Minas_Morgul_Camp3_Control, type=boolean, data=0, default value=null
 268461981 - Warsteed_Cosmetic_FX_Caparison, type=Enum Mapper 1, data=587203535, default value=null
+268461982 - Trait_Virtue_XP_Bonus, type=Int, data=0, default value=null
+268461985 - Trait_Virtue_XP_Bonus_LastStartPoint, type=Int, data=0, default value=null
+268461986 - Trait_Virtue_XP_Bonus_Remaining, type=Int, data=0, default value=null
 268461987 - World_PublicInstanceMaxPlayer_NewbieStoutaxe, type=Int, data=0, default value=0
+268461988 - RandomItemReward_Tier_Title, type=String Info, data=0, default value=null
+268461989 - RandomItemReward_Tier_NPC, type=Data File ID, data=69, default value=null
+268461991 - RandomItemReward_Tier_Description, type=String Info, data=0, default value=null
+268461993 - RandomItemReward_Tier_Entry, type=Struct, data=0, default value=null
+268461994 - RandomItemReward_Tier_VXP, type=Data File ID, data=69, default value=null
+268461995 - RandomItemReward_Silver_Category, type=Array, data=0, default value=null
+268461997 - RandomItemReward_Gold_Category, type=Array, data=0, default value=null
+268461999 - LoginReward_ControlCategory_PropertyName, type=Property ID, data=872415232, default value=null
+268462000 - RandomItemReward_Tier_NPC_Icon, type=Data File ID, data=5, default value=null
+268462011 - ForwardSource_Skill_Captain_Herald_MoraleMod, type=Float, data=0, default value=0.0
+268462012 - Skill_Captain_Herald_MoraleMod, type=Float, data=0, default value=0.0
+268462013 - Skill_Captain_Herald_DamageMod, type=Float, data=0, default value=0.0
+268462014 - ForwardSource_Skill_Captain_Herald_DamageMod, type=Float, data=0, default value=0.0
+268462015 - Craft_CraftGuild_Membership_Array, type=Array, data=0, default value=null
 268462016 - Version_POItem_StampProperty_215, type=boolean, data=0, default value=null
+268462017 - BoS_Available_ItemClass, type=Enum Mapper 1, data=587202614, default value=null
 268462018 - World_XP8AccessAccountTokens, type=Bit Field, data=587202756, default value=null
 268462019 - World_Webstore_Minas_Morgul_Upsell_URL, type=String, data=0, default value=https://www.lotro.com/minasmorgul
 268462020 - World_Webstore_DR_Expansions_Upsell_URL, type=String, data=0, default value=http://store.digitalriver.com/store/turbine/en_US/list/categoryID.58733200/parentCategoryID.58516200
@@ -23808,3 +23883,22 @@
 268462024 - Version_POItem_StampProperty_217, type=boolean, data=0, default value=null
 268462025 - Version_POItem_StampProperty_218, type=boolean, data=0, default value=null
 268462026 - Version_Title_StampProperty_49, type=boolean, data=0, default value=null
+268462027 - Item_Imbued_DPS_Cap, type=Int, data=0, default value=0
+268462028 - Item_Imbued_Legacy_Cap, type=Int, data=0, default value=0
+268462029 - Item_Imbued_Legacy_Free, type=Int, data=0, default value=0
+268462030 - Item_Imbued_DPS_Free, type=Int, data=0, default value=0
+268462031 - World_InstanceLength_minas_morgul_orc_fight, type=Int, data=0, default value=0
+268462032 - World_InstanceLength_minas_morgul_houses_of_lamentation, type=Int, data=0, default value=0
+268462038 - WE_minas_morgul_instance_raid_tier_gate, type=Int, data=0, default value=null
+268462039 - WE_minas_morgul_instance_6man_tier_gate, type=Int, data=0, default value=null
+268462040 - Skill_InductionAction_StartTime, type=Timestamp, data=0, default value=null
+268462041 - Skill_InductionAction_EndTime, type=Timestamp, data=0, default value=null
+268462043 - BoS_Available_ItemClass_Array, type=Array, data=0, default value=null
+268462048 - World_PublicInstanceMaxPlayer_Morgul_Tower_1, type=Int, data=0, default value=1
+268462049 - World_PublicInstanceMaxPlayer_Morgul_Tower_2, type=Int, data=0, default value=1
+268462050 - World_PublicInstanceMaxPlayer_Morgul_Tower_3, type=Int, data=0, default value=1
+268462051 - World_PublicInstanceMaxPlayer_Morgul_Tower_4, type=Int, data=0, default value=1
+268462053 - Item_Imbued_Rank_HardCapDifferentialCutoff, type=Int, data=0, default value=0
+268462055 - Skill_InductionAction_Struct, type=Struct, data=0, default value=null
+268462056 - Item_Imbued_Rank_MaxUpgrades, type=Int, data=0, default value=0
+268462057 - Version_Title_StampProperty_52, type=boolean, data=0, default value=null
