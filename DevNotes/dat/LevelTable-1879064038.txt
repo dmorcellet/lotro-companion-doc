@@ -1,0 +1,6306 @@
+AdvTable_AccomplishmentDirectory: 1879064280
+AdvTable_AdvancedCharacterStart_AdvancedTierCASI_List: 
+	#1: 
+		AdvTable_AdvancedCharacterStart_CharacterStartInfo: 1879228366
+		AdvTable_AdvancedCharacterStart_Tier: 8 (First)
+AdvTable_AgilityToMeleeCritControl: 2.0
+AdvTable_AgilityToRangedCritControl: 2.0
+AdvTable_AgilityToRangedOffenseControl: 4.0
+AdvTable_ArmorDefense_Points_CalcType: 14 (HeavyArmorDefense)
+AdvTable_ArmorDefense_Points_NonCommon_CalcType: 14 (HeavyArmorDefense)
+AdvTable_AvailableMountSkillEntryList: 
+	#1: 
+		AdvTable_AdvancedCharacterShortcutIndex: 1
+		AdvTable_Level: 2
+		AdvTable_PrerequisiteSkill: 0
+		AdvTable_Rank: 0
+		AdvTable_Skill: 1879245762
+		AdvTable_TrainingCost: 0
+	#2: 
+		AdvTable_AdvancedCharacterShortcutIndex: 0
+		AdvTable_Level: 2
+		AdvTable_PrerequisiteSkill: 0
+		AdvTable_Rank: 0
+		AdvTable_Skill: 1879239408
+		AdvTable_TrainingCost: 0
+	#3: 
+		AdvTable_AdvancedCharacterShortcutIndex: 0
+		AdvTable_Level: 2
+		AdvTable_PrerequisiteSkill: 0
+		AdvTable_Rank: 0
+		AdvTable_Skill: 1879252700
+		AdvTable_TrainingCost: 0
+AdvTable_AvailableSkillEntryList: 
+	#1: 
+		AdvTable_AdvancedCharacterShortcutIndex: 0
+		AdvTable_Level: 1
+		AdvTable_PrerequisiteSkill: 0
+		AdvTable_Rank: 0
+		AdvTable_Skill: 1879060568
+		AdvTable_TrainingCost: 0
+	#2: 
+		AdvTable_AdvancedCharacterShortcutIndex: 0
+		AdvTable_Level: 1
+		AdvTable_PrerequisiteSkill: 0
+		AdvTable_Rank: 0
+		AdvTable_Skill: 1879060582
+		AdvTable_TrainingCost: 0
+	#3: 
+		AdvTable_AdvancedCharacterShortcutIndex: 0
+		AdvTable_Level: 1
+		AdvTable_PrerequisiteSkill: 0
+		AdvTable_Rank: 0
+		AdvTable_Skill: 1879060573
+		AdvTable_TrainingCost: 0
+	#4: 
+		AdvTable_AdvancedCharacterShortcutIndex: 0
+		AdvTable_Level: 1
+		AdvTable_PrerequisiteSkill: 0
+		AdvTable_Rank: 0
+		AdvTable_Skill: 1879064288
+		AdvTable_TrainingCost: 0
+	#5: 
+		AdvTable_AdvancedCharacterShortcutIndex: 0
+		AdvTable_Level: 4
+		AdvTable_PrerequisiteSkill: 0
+		AdvTable_Rank: 0
+		AdvTable_Skill: 1879064286
+		AdvTable_TrainingCost: 0
+	#6: 
+		AdvTable_AdvancedCharacterShortcutIndex: 0
+		AdvTable_Level: 6
+		AdvTable_PrerequisiteSkill: 0
+		AdvTable_Rank: 0
+		AdvTable_Skill: 1879064292
+		AdvTable_TrainingCost: 0
+	#7: 
+		AdvTable_AdvancedCharacterShortcutIndex: 0
+		AdvTable_Level: 8
+		AdvTable_PrerequisiteSkill: 0
+		AdvTable_Rank: 0
+		AdvTable_Skill: 1879064084
+		AdvTable_TrainingCost: 0
+	#8: 
+		AdvTable_AdvancedCharacterShortcutIndex: 0
+		AdvTable_Level: 10
+		AdvTable_PrerequisiteSkill: 0
+		AdvTable_Rank: 0
+		AdvTable_Skill: 1879060621
+		AdvTable_TrainingCost: 0
+	#9: 
+		AdvTable_AdvancedCharacterShortcutIndex: 0
+		AdvTable_Level: 12
+		AdvTable_PrerequisiteSkill: 0
+		AdvTable_Rank: 0
+		AdvTable_Skill: 1879064081
+		AdvTable_TrainingCost: 0
+	#10: 
+		AdvTable_AdvancedCharacterShortcutIndex: 0
+		AdvTable_Level: 12
+		AdvTable_PrerequisiteSkill: 0
+		AdvTable_Rank: 0
+		AdvTable_Skill: 1879064083
+		AdvTable_TrainingCost: 0
+	#11: 
+		AdvTable_AdvancedCharacterShortcutIndex: 0
+		AdvTable_Level: 12
+		AdvTable_PrerequisiteSkill: 0
+		AdvTable_Rank: 0
+		AdvTable_Skill: 1879064082
+		AdvTable_TrainingCost: 0
+	#12: 
+		AdvTable_AdvancedCharacterShortcutIndex: 0
+		AdvTable_Level: 12
+		AdvTable_PrerequisiteSkill: 0
+		AdvTable_Rank: 0
+		AdvTable_Skill: 1879064080
+		AdvTable_TrainingCost: 0
+	#13: 
+		AdvTable_AdvancedCharacterShortcutIndex: 0
+		AdvTable_Level: 14
+		AdvTable_PrerequisiteSkill: 0
+		AdvTable_Rank: 0
+		AdvTable_Skill: 1879104788
+		AdvTable_TrainingCost: 0
+	#14: 
+		AdvTable_AdvancedCharacterShortcutIndex: 0
+		AdvTable_Level: 16
+		AdvTable_PrerequisiteSkill: 0
+		AdvTable_Rank: 0
+		AdvTable_Skill: 1879060631
+		AdvTable_TrainingCost: 0
+	#15: 
+		AdvTable_AdvancedCharacterShortcutIndex: 0
+		AdvTable_Level: 18
+		AdvTable_PrerequisiteSkill: 0
+		AdvTable_Rank: 0
+		AdvTable_Skill: 1879184995
+		AdvTable_TrainingCost: 0
+	#16: 
+		AdvTable_AdvancedCharacterShortcutIndex: 0
+		AdvTable_Level: 20
+		AdvTable_PrerequisiteSkill: 0
+		AdvTable_Rank: 0
+		AdvTable_Skill: 1879064296
+		AdvTable_TrainingCost: 0
+	#17: 
+		AdvTable_AdvancedCharacterShortcutIndex: 0
+		AdvTable_Level: 22
+		AdvTable_PrerequisiteSkill: 0
+		AdvTable_Rank: 0
+		AdvTable_Skill: 1879064289
+		AdvTable_TrainingCost: 0
+	#18: 
+		AdvTable_AdvancedCharacterShortcutIndex: 0
+		AdvTable_Level: 24
+		AdvTable_PrerequisiteSkill: 0
+		AdvTable_Rank: 0
+		AdvTable_Skill: 1879102645
+		AdvTable_TrainingCost: 0
+	#19: 
+		AdvTable_AdvancedCharacterShortcutIndex: 0
+		AdvTable_Level: 26
+		AdvTable_PrerequisiteSkill: 0
+		AdvTable_Rank: 0
+		AdvTable_Skill: 1879060591
+		AdvTable_TrainingCost: 0
+	#20: 
+		AdvTable_AdvancedCharacterShortcutIndex: 0
+		AdvTable_Level: 28
+		AdvTable_PrerequisiteSkill: 0
+		AdvTable_Rank: 0
+		AdvTable_Skill: 1879102643
+		AdvTable_TrainingCost: 0
+	#21: 
+		AdvTable_AdvancedCharacterShortcutIndex: 0
+		AdvTable_Level: 30
+		AdvTable_PrerequisiteSkill: 0
+		AdvTable_Rank: 0
+		AdvTable_Skill: 1879060605
+		AdvTable_TrainingCost: 0
+	#22: 
+		AdvTable_AdvancedCharacterShortcutIndex: 0
+		AdvTable_Level: 32
+		AdvTable_PrerequisiteSkill: 0
+		AdvTable_Rank: 0
+		AdvTable_Skill: 1879060652
+		AdvTable_TrainingCost: 0
+	#23: 
+		AdvTable_AdvancedCharacterShortcutIndex: 0
+		AdvTable_Level: 34
+		AdvTable_PrerequisiteSkill: 0
+		AdvTable_Rank: 0
+		AdvTable_Skill: 1879064295
+		AdvTable_TrainingCost: 0
+	#24: 
+		AdvTable_AdvancedCharacterShortcutIndex: 0
+		AdvTable_Level: 36
+		AdvTable_PrerequisiteSkill: 0
+		AdvTable_Rank: 0
+		AdvTable_Skill: 1879064297
+		AdvTable_TrainingCost: 0
+	#25: 
+		AdvTable_AdvancedCharacterShortcutIndex: 0
+		AdvTable_Level: 38
+		AdvTable_PrerequisiteSkill: 0
+		AdvTable_Rank: 0
+		AdvTable_Skill: 1879102642
+		AdvTable_TrainingCost: 0
+	#26: 
+		AdvTable_AdvancedCharacterShortcutIndex: 0
+		AdvTable_Level: 50
+		AdvTable_PrerequisiteSkill: 0
+		AdvTable_Rank: 0
+		AdvTable_Skill: 1879110113
+		AdvTable_TrainingCost: 0
+	#27: 
+		AdvTable_AdvancedCharacterShortcutIndex: 0
+		AdvTable_Level: 75
+		AdvTable_PrerequisiteSkill: 0
+		AdvTable_Rank: 0
+		AdvTable_Skill: 1879241994
+		AdvTable_TrainingCost: 0
+	#28: 
+		AdvTable_AdvancedCharacterShortcutIndex: 0
+		AdvTable_Level: 75
+		AdvTable_PrerequisiteSkill: 0
+		AdvTable_Rank: 0
+		AdvTable_Skill: 1879241998
+		AdvTable_TrainingCost: 0
+	#29: 
+		AdvTable_AdvancedCharacterShortcutIndex: 0
+		AdvTable_Level: 75
+		AdvTable_PrerequisiteSkill: 0
+		AdvTable_Rank: 0
+		AdvTable_Skill: 1879241993
+		AdvTable_TrainingCost: 0
+	#30: 
+		AdvTable_AdvancedCharacterShortcutIndex: 0
+		AdvTable_Level: 75
+		AdvTable_PrerequisiteSkill: 0
+		AdvTable_Rank: 0
+		AdvTable_Skill: 1879241995
+		AdvTable_TrainingCost: 0
+	#31: 
+		AdvTable_AdvancedCharacterShortcutIndex: 0
+		AdvTable_Level: 75
+		AdvTable_PrerequisiteSkill: 0
+		AdvTable_Rank: 0
+		AdvTable_Skill: 1879241992
+		AdvTable_TrainingCost: 0
+	#32: 
+		AdvTable_AdvancedCharacterShortcutIndex: 0
+		AdvTable_Level: 75
+		AdvTable_PrerequisiteSkill: 0
+		AdvTable_Rank: 0
+		AdvTable_Skill: 1879241991
+		AdvTable_TrainingCost: 0
+	#33: 
+		AdvTable_AdvancedCharacterShortcutIndex: 0
+		AdvTable_Level: 75
+		AdvTable_PrerequisiteSkill: 0
+		AdvTable_Rank: 0
+		AdvTable_Skill: 1879242000
+		AdvTable_TrainingCost: 0
+	#34: 
+		AdvTable_AdvancedCharacterShortcutIndex: 0
+		AdvTable_Level: 75
+		AdvTable_PrerequisiteSkill: 0
+		AdvTable_Rank: 0
+		AdvTable_Skill: 1879241997
+		AdvTable_TrainingCost: 0
+	#35: 
+		AdvTable_AdvancedCharacterShortcutIndex: 0
+		AdvTable_Level: 75
+		AdvTable_PrerequisiteSkill: 0
+		AdvTable_Rank: 0
+		AdvTable_Skill: 1879241996
+		AdvTable_TrainingCost: 0
+AdvTable_BaseCombatEventTable: 201330653
+AdvTable_BaseConjunctionEventTable: 201326592
+AdvTable_BlockMightControl1: 2.0
+AdvTable_CharGenBackground: 1091603923
+AdvTable_CharGen_ClassSelect_Movie_DID: 1879097535
+AdvTable_Class: 23 (Guardian [U])
+AdvTable_ClassCharacteristic_List: 
+	#1: 
+		AdvTable_Trait_Level: 1
+		AdvTable_Trait_Rank: 0
+		AdvTable_Trait_TrainingCost: 0
+		AdvTable_Trait_WC: 1879186957
+	#2: 
+		AdvTable_Trait_Level: 1
+		AdvTable_Trait_Rank: 0
+		AdvTable_Trait_TrainingCost: 0
+		AdvTable_Trait_WC: 1879064086
+	#3: 
+		AdvTable_Trait_Level: 1
+		AdvTable_Trait_Rank: 0
+		AdvTable_Trait_TrainingCost: 0
+		AdvTable_Trait_WC: 1879064087
+	#4: 
+		AdvTable_Trait_Level: 1
+		AdvTable_Trait_Rank: 0
+		AdvTable_Trait_TrainingCost: 0
+		AdvTable_Trait_WC: 1879064088
+	#5: 
+		AdvTable_Trait_Level: 1
+		AdvTable_Trait_Rank: 0
+		AdvTable_Trait_TrainingCost: 0
+		AdvTable_Trait_WC: 1879064089
+	#6: 
+		AdvTable_Trait_Level: 1
+		AdvTable_Trait_Rank: 0
+		AdvTable_Trait_TrainingCost: 0
+		AdvTable_Trait_WC: 1879064090
+	#7: 
+		AdvTable_Trait_Level: 1
+		AdvTable_Trait_Rank: 0
+		AdvTable_Trait_TrainingCost: 0
+		AdvTable_Trait_WC: 1879064099
+	#8: 
+		AdvTable_Trait_Level: 1
+		AdvTable_Trait_Rank: 0
+		AdvTable_Trait_TrainingCost: 0
+		AdvTable_Trait_WC: 1879064155
+	#9: 
+		AdvTable_Trait_Level: 1
+		AdvTable_Trait_Rank: 0
+		AdvTable_Trait_TrainingCost: 0
+		AdvTable_Trait_WC: 1879064100
+	#10: 
+		AdvTable_Trait_Level: 1
+		AdvTable_Trait_Rank: 0
+		AdvTable_Trait_TrainingCost: 0
+		AdvTable_Trait_WC: 1879064101
+	#11: 
+		AdvTable_Trait_Level: 1
+		AdvTable_Trait_Rank: 0
+		AdvTable_Trait_TrainingCost: 0
+		AdvTable_Trait_WC: 1879064091
+	#12: 
+		AdvTable_Trait_Level: 1
+		AdvTable_Trait_Rank: 0
+		AdvTable_Trait_TrainingCost: 0
+		AdvTable_Trait_WC: 1879064102
+	#13: 
+		AdvTable_Trait_Level: 1
+		AdvTable_Trait_Rank: 0
+		AdvTable_Trait_TrainingCost: 0
+		AdvTable_Trait_WC: 1879064105
+	#14: 
+		AdvTable_Trait_Level: 1
+		AdvTable_Trait_Rank: 0
+		AdvTable_Trait_TrainingCost: 0
+		AdvTable_Trait_WC: 1879064299
+	#15: 
+		AdvTable_Trait_Level: 1
+		AdvTable_Trait_Rank: 0
+		AdvTable_Trait_TrainingCost: 0
+		AdvTable_Trait_WC: 1879064109
+	#16: 
+		AdvTable_Trait_Level: 1
+		AdvTable_Trait_Rank: 0
+		AdvTable_Trait_TrainingCost: 0
+		AdvTable_Trait_WC: 1879064094
+	#17: 
+		AdvTable_Trait_Level: 1
+		AdvTable_Trait_Rank: 0
+		AdvTable_Trait_TrainingCost: 0
+		AdvTable_Trait_WC: 1879064095
+	#18: 
+		AdvTable_Trait_Level: 1
+		AdvTable_Trait_Rank: 0
+		AdvTable_Trait_TrainingCost: 0
+		AdvTable_Trait_WC: 1879064093
+	#19: 
+		AdvTable_Trait_Level: 1
+		AdvTable_Trait_Rank: 0
+		AdvTable_Trait_TrainingCost: 0
+		AdvTable_Trait_WC: 1879064210
+	#20: 
+		AdvTable_Trait_Level: 1
+		AdvTable_Trait_Rank: 0
+		AdvTable_Trait_TrainingCost: 0
+		AdvTable_Trait_WC: 1879064096
+	#21: 
+		AdvTable_Trait_Level: 1
+		AdvTable_Trait_Rank: 0
+		AdvTable_Trait_TrainingCost: 0
+		AdvTable_Trait_WC: 1879060116
+	#22: 
+		AdvTable_Trait_Level: 7
+		AdvTable_Trait_Rank: 0
+		AdvTable_Trait_TrainingCost: 0
+		AdvTable_Trait_WC: 1879064108
+	#23: 
+		AdvTable_Trait_Level: 7
+		AdvTable_Trait_Rank: 0
+		AdvTable_Trait_TrainingCost: 0
+		AdvTable_Trait_WC: 1879064298
+	#24: 
+		AdvTable_Trait_Level: 10
+		AdvTable_Trait_Rank: 0
+		AdvTable_Trait_TrainingCost: 0
+		AdvTable_Trait_WC: 1879060257
+	#25: 
+		AdvTable_Trait_Level: 20
+		AdvTable_Trait_Rank: 0
+		AdvTable_Trait_TrainingCost: 0
+		AdvTable_Trait_WC: 1879060258
+	#26: 
+		AdvTable_Trait_Level: 20
+		AdvTable_Trait_Rank: 0
+		AdvTable_Trait_TrainingCost: 0
+		AdvTable_Trait_WC: 1879163316
+	#27: 
+		AdvTable_Trait_Level: 30
+		AdvTable_Trait_Rank: 0
+		AdvTable_Trait_TrainingCost: 0
+		AdvTable_Trait_WC: 1879060248
+	#28: 
+		AdvTable_Trait_Level: 40
+		AdvTable_Trait_Rank: 0
+		AdvTable_Trait_TrainingCost: 0
+		AdvTable_Trait_WC: 1879083738
+	#29: 
+		AdvTable_Trait_Level: 20
+		AdvTable_Trait_Rank: 0
+		AdvTable_Trait_TrainingCost: 0
+		AdvTable_Trait_WC: 1879230292
+	#30: 
+		AdvTable_Trait_Level: 95
+		AdvTable_Trait_Rank: 0
+		AdvTable_Trait_TrainingCost: 0
+		AdvTable_Trait_WC: 1879335360
+	#31: 
+		AdvTable_Trait_Level: 50
+		AdvTable_Trait_Rank: 0
+		AdvTable_Trait_TrainingCost: 0
+		AdvTable_Trait_WC: 1879324459
+	#32: 
+		AdvTable_Trait_Level: 1
+		AdvTable_Trait_Rank: 0
+		AdvTable_Trait_TrainingCost: 0
+		AdvTable_Trait_WC: 1879369800
+AdvTable_ClassInfo: 
+	AdvTable_AbbreviatedClassName: 
+		#1: GRD
+	AdvTable_ClassDesc: 
+		#1: \n<li><rgb=#FFFF00>Class Difficulty:</rgb> Basic</li>\n\n<li><rgb=#FFFF00>Role:</rgb> Defence</li>\n\n<li><rgb=#FFFF00>Gameplay:</rgb> Guardians wear heavy armour and have many defensive skills that allow them to survive battles against the most fearsome foes. Guardians also have skills that draw foes' attention away from their allies and to themselves.   In fellowships, a Guardian forces enemies to attack himself, so his more fragile allies will not be harmed by the foes.</li>\n\n<li><rgb=#FFFF00>Lore:</rgb> The Guardians are the stout protectors of the weak and defenders of those in need, loyal companions to the end. True Guardians stand to the forefront of battle, shielding their allies from enemy assaults.\n\nThis class was inspired by the hobbit Samwise Gamgee, whose loyalty to Frodo Baggins knew no bounds.</li> 
+	AdvTable_ClassIcon: 1090552319
+	AdvTable_ClassName: 
+		#1: Guardian
+	AdvTable_ClassSmallIcon: 1091602039
+AdvTable_ClassOutfitAllowedSlots: 29819134 (Head,Chest,Legs,Hands,Feet,Shoulder,Back,Main-hand,Off-hand,Ranged,Main-hand Aura,Off-hand Aura,Ranged Aura)
+AdvTable_DPPerLevelProgression: 1879085648
+AdvTable_DerivedStat_Configuration: 
+	#1: 
+		AdvTable_DerivedStat: 10 (Block Rating)
+		AdvTable_DerivedStat_Formula_StatList: 
+			#1: 
+				AdvTable_DerivedStat_Formula_Stat: 4 (Might)
+				AdvTable_DerivedStat_Formula_Value: 3.0
+			#2: 
+				AdvTable_DerivedStat_Formula_Stat: 2 (Agility)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#3: 
+				AdvTable_DerivedStat_Formula_Stat: 1 (Vitality)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#4: 
+				AdvTable_DerivedStat_Formula_Stat: 5 (Will)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#5: 
+				AdvTable_DerivedStat_Formula_Stat: 3 (Fate)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#6: 
+				AdvTable_DerivedStat_Formula_Stat: 7 (War-steed Strength)
+				AdvTable_DerivedStat_Formula_Value: 1.5
+			#7: 
+				AdvTable_DerivedStat_Formula_Stat: 6 (War-steed Agility)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+	#2: 
+		AdvTable_DerivedStat: 11 (Parry Rating)
+		AdvTable_DerivedStat_Formula_StatList: 
+			#1: 
+				AdvTable_DerivedStat_Formula_Stat: 4 (Might)
+				AdvTable_DerivedStat_Formula_Value: 2.0
+			#2: 
+				AdvTable_DerivedStat_Formula_Stat: 2 (Agility)
+				AdvTable_DerivedStat_Formula_Value: 2.0
+			#3: 
+				AdvTable_DerivedStat_Formula_Stat: 1 (Vitality)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#4: 
+				AdvTable_DerivedStat_Formula_Stat: 5 (Will)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#5: 
+				AdvTable_DerivedStat_Formula_Stat: 3 (Fate)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#6: 
+				AdvTable_DerivedStat_Formula_Stat: 7 (War-steed Strength)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#7: 
+				AdvTable_DerivedStat_Formula_Stat: 6 (War-steed Agility)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+	#3: 
+		AdvTable_DerivedStat: 12 (Evade Rating)
+		AdvTable_DerivedStat_Formula_StatList: 
+			#1: 
+				AdvTable_DerivedStat_Formula_Stat: 4 (Might)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#2: 
+				AdvTable_DerivedStat_Formula_Stat: 2 (Agility)
+				AdvTable_DerivedStat_Formula_Value: 3.0
+			#3: 
+				AdvTable_DerivedStat_Formula_Stat: 1 (Vitality)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#4: 
+				AdvTable_DerivedStat_Formula_Stat: 5 (Will)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#5: 
+				AdvTable_DerivedStat_Formula_Stat: 3 (Fate)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#6: 
+				AdvTable_DerivedStat_Formula_Stat: 7 (War-steed Strength)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#7: 
+				AdvTable_DerivedStat_Formula_Stat: 6 (War-steed Agility)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+	#4: 
+		AdvTable_DerivedStat: 3 (Melee Offence Rating)
+		AdvTable_DerivedStat_Formula_StatList: 
+			#1: 
+				AdvTable_DerivedStat_Formula_Stat: 4 (Might)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#2: 
+				AdvTable_DerivedStat_Formula_Stat: 2 (Agility)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#3: 
+				AdvTable_DerivedStat_Formula_Stat: 1 (Vitality)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#4: 
+				AdvTable_DerivedStat_Formula_Stat: 5 (Will)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#5: 
+				AdvTable_DerivedStat_Formula_Stat: 3 (Fate)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#6: 
+				AdvTable_DerivedStat_Formula_Stat: 7 (War-steed Strength)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#7: 
+				AdvTable_DerivedStat_Formula_Stat: 6 (War-steed Agility)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+	#5: 
+		AdvTable_DerivedStat: 4 (Ranged Offence Rating)
+		AdvTable_DerivedStat_Formula_StatList: 
+			#1: 
+				AdvTable_DerivedStat_Formula_Stat: 4 (Might)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#2: 
+				AdvTable_DerivedStat_Formula_Stat: 2 (Agility)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#3: 
+				AdvTable_DerivedStat_Formula_Stat: 1 (Vitality)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#4: 
+				AdvTable_DerivedStat_Formula_Stat: 5 (Will)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#5: 
+				AdvTable_DerivedStat_Formula_Stat: 3 (Fate)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#6: 
+				AdvTable_DerivedStat_Formula_Stat: 7 (War-steed Strength)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#7: 
+				AdvTable_DerivedStat_Formula_Stat: 6 (War-steed Agility)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+	#6: 
+		AdvTable_DerivedStat: 5 (Tactical Offence Rating)
+		AdvTable_DerivedStat_Formula_StatList: 
+			#1: 
+				AdvTable_DerivedStat_Formula_Stat: 4 (Might)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#2: 
+				AdvTable_DerivedStat_Formula_Stat: 2 (Agility)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#3: 
+				AdvTable_DerivedStat_Formula_Stat: 1 (Vitality)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#4: 
+				AdvTable_DerivedStat_Formula_Stat: 5 (Will)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#5: 
+				AdvTable_DerivedStat_Formula_Stat: 3 (Fate)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#6: 
+				AdvTable_DerivedStat_Formula_Stat: 7 (War-steed Strength)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#7: 
+				AdvTable_DerivedStat_Formula_Stat: 6 (War-steed Agility)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+	#7: 
+		AdvTable_DerivedStat: 6 (Outgoing Healing Rating)
+		AdvTable_DerivedStat_Formula_StatList: 
+			#1: 
+				AdvTable_DerivedStat_Formula_Stat: 4 (Might)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#2: 
+				AdvTable_DerivedStat_Formula_Stat: 2 (Agility)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#3: 
+				AdvTable_DerivedStat_Formula_Stat: 1 (Vitality)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#4: 
+				AdvTable_DerivedStat_Formula_Stat: 5 (Will)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#5: 
+				AdvTable_DerivedStat_Formula_Stat: 3 (Fate)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#6: 
+				AdvTable_DerivedStat_Formula_Stat: 7 (War-steed Strength)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#7: 
+				AdvTable_DerivedStat_Formula_Stat: 6 (War-steed Agility)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+	#8: 
+		AdvTable_DerivedStat: 7 (Critical Rating)
+		AdvTable_DerivedStat_Formula_StatList: 
+			#1: 
+				AdvTable_DerivedStat_Formula_Stat: 4 (Might)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#2: 
+				AdvTable_DerivedStat_Formula_Stat: 2 (Agility)
+				AdvTable_DerivedStat_Formula_Value: 1.0
+			#3: 
+				AdvTable_DerivedStat_Formula_Stat: 1 (Vitality)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#4: 
+				AdvTable_DerivedStat_Formula_Stat: 5 (Will)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#5: 
+				AdvTable_DerivedStat_Formula_Stat: 3 (Fate)
+				AdvTable_DerivedStat_Formula_Value: 2.5
+			#6: 
+				AdvTable_DerivedStat_Formula_Stat: 7 (War-steed Strength)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#7: 
+				AdvTable_DerivedStat_Formula_Stat: 6 (War-steed Agility)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+	#9: 
+		AdvTable_DerivedStat: 8 (Physical Mitigation)
+		AdvTable_DerivedStat_Formula_StatList: 
+			#1: 
+				AdvTable_DerivedStat_Formula_Stat: 4 (Might)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#2: 
+				AdvTable_DerivedStat_Formula_Stat: 2 (Agility)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#3: 
+				AdvTable_DerivedStat_Formula_Stat: 1 (Vitality)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#4: 
+				AdvTable_DerivedStat_Formula_Stat: 5 (Will)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#5: 
+				AdvTable_DerivedStat_Formula_Stat: 3 (Fate)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#6: 
+				AdvTable_DerivedStat_Formula_Stat: 7 (War-steed Strength)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#7: 
+				AdvTable_DerivedStat_Formula_Stat: 6 (War-steed Agility)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+	#10: 
+		AdvTable_DerivedStat: 9 (Tactical Mitigation)
+		AdvTable_DerivedStat_Formula_StatList: 
+			#1: 
+				AdvTable_DerivedStat_Formula_Stat: 4 (Might)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#2: 
+				AdvTable_DerivedStat_Formula_Stat: 2 (Agility)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#3: 
+				AdvTable_DerivedStat_Formula_Stat: 1 (Vitality)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#4: 
+				AdvTable_DerivedStat_Formula_Stat: 5 (Will)
+				AdvTable_DerivedStat_Formula_Value: 1.0
+			#5: 
+				AdvTable_DerivedStat_Formula_Stat: 3 (Fate)
+				AdvTable_DerivedStat_Formula_Value: 1.0
+			#6: 
+				AdvTable_DerivedStat_Formula_Stat: 7 (War-steed Strength)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#7: 
+				AdvTable_DerivedStat_Formula_Stat: 6 (War-steed Agility)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+	#11: 
+		AdvTable_DerivedStat: 13 (Resistance Rating)
+		AdvTable_DerivedStat_Formula_StatList: 
+			#1: 
+				AdvTable_DerivedStat_Formula_Stat: 4 (Might)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#2: 
+				AdvTable_DerivedStat_Formula_Stat: 2 (Agility)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#3: 
+				AdvTable_DerivedStat_Formula_Stat: 1 (Vitality)
+				AdvTable_DerivedStat_Formula_Value: 1.0
+			#4: 
+				AdvTable_DerivedStat_Formula_Stat: 5 (Will)
+				AdvTable_DerivedStat_Formula_Value: 2.0
+			#5: 
+				AdvTable_DerivedStat_Formula_Stat: 3 (Fate)
+				AdvTable_DerivedStat_Formula_Value: 1.0
+			#6: 
+				AdvTable_DerivedStat_Formula_Stat: 7 (War-steed Strength)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#7: 
+				AdvTable_DerivedStat_Formula_Stat: 6 (War-steed Agility)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+	#12: 
+		AdvTable_DerivedStat: 1 (Maximum Morale)
+		AdvTable_DerivedStat_Formula_StatList: 
+			#1: 
+				AdvTable_DerivedStat_Formula_Stat: 4 (Might)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#2: 
+				AdvTable_DerivedStat_Formula_Stat: 2 (Agility)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#3: 
+				AdvTable_DerivedStat_Formula_Stat: 1 (Vitality)
+				AdvTable_DerivedStat_Formula_Value: 5.0
+			#4: 
+				AdvTable_DerivedStat_Formula_Stat: 5 (Will)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#5: 
+				AdvTable_DerivedStat_Formula_Stat: 3 (Fate)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#6: 
+				AdvTable_DerivedStat_Formula_Stat: 7 (War-steed Strength)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#7: 
+				AdvTable_DerivedStat_Formula_Stat: 6 (War-steed Agility)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+	#13: 
+		AdvTable_DerivedStat: 2 (Maximum Power)
+		AdvTable_DerivedStat_Formula_StatList: 
+			#1: 
+				AdvTable_DerivedStat_Formula_Stat: 4 (Might)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#2: 
+				AdvTable_DerivedStat_Formula_Stat: 2 (Agility)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#3: 
+				AdvTable_DerivedStat_Formula_Stat: 1 (Vitality)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#4: 
+				AdvTable_DerivedStat_Formula_Stat: 5 (Will)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#5: 
+				AdvTable_DerivedStat_Formula_Stat: 3 (Fate)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#6: 
+				AdvTable_DerivedStat_Formula_Stat: 7 (War-steed Strength)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#7: 
+				AdvTable_DerivedStat_Formula_Stat: 6 (War-steed Agility)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+	#14: 
+		AdvTable_DerivedStat: 14 (in-Combat Morale Regen)
+		AdvTable_DerivedStat_Formula_StatList: 
+			#1: 
+				AdvTable_DerivedStat_Formula_Stat: 4 (Might)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#2: 
+				AdvTable_DerivedStat_Formula_Stat: 2 (Agility)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#3: 
+				AdvTable_DerivedStat_Formula_Stat: 1 (Vitality)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#4: 
+				AdvTable_DerivedStat_Formula_Stat: 5 (Will)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#5: 
+				AdvTable_DerivedStat_Formula_Stat: 3 (Fate)
+				AdvTable_DerivedStat_Formula_Value: 0.025
+			#6: 
+				AdvTable_DerivedStat_Formula_Stat: 7 (War-steed Strength)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#7: 
+				AdvTable_DerivedStat_Formula_Stat: 6 (War-steed Agility)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+	#15: 
+		AdvTable_DerivedStat: 16 (in-Combat Power Regen)
+		AdvTable_DerivedStat_Formula_StatList: 
+			#1: 
+				AdvTable_DerivedStat_Formula_Stat: 4 (Might)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#2: 
+				AdvTable_DerivedStat_Formula_Stat: 2 (Agility)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#3: 
+				AdvTable_DerivedStat_Formula_Stat: 1 (Vitality)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#4: 
+				AdvTable_DerivedStat_Formula_Stat: 5 (Will)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#5: 
+				AdvTable_DerivedStat_Formula_Stat: 3 (Fate)
+				AdvTable_DerivedStat_Formula_Value: 0.0285
+			#6: 
+				AdvTable_DerivedStat_Formula_Stat: 7 (War-steed Strength)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#7: 
+				AdvTable_DerivedStat_Formula_Stat: 6 (War-steed Agility)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+	#16: 
+		AdvTable_DerivedStat: 18 (Finesse Rating)
+		AdvTable_DerivedStat_Formula_StatList: 
+			#1: 
+				AdvTable_DerivedStat_Formula_Stat: 4 (Might)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#2: 
+				AdvTable_DerivedStat_Formula_Stat: 2 (Agility)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#3: 
+				AdvTable_DerivedStat_Formula_Stat: 1 (Vitality)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#4: 
+				AdvTable_DerivedStat_Formula_Stat: 5 (Will)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#5: 
+				AdvTable_DerivedStat_Formula_Stat: 3 (Fate)
+				AdvTable_DerivedStat_Formula_Value: 1.0
+			#6: 
+				AdvTable_DerivedStat_Formula_Stat: 7 (War-steed Strength)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#7: 
+				AdvTable_DerivedStat_Formula_Stat: 6 (War-steed Agility)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+	#17: 
+		AdvTable_DerivedStat: 15 (non-Combat Morale Regen)
+		AdvTable_DerivedStat_Formula_StatList: 
+			#1: 
+				AdvTable_DerivedStat_Formula_Stat: 4 (Might)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#2: 
+				AdvTable_DerivedStat_Formula_Stat: 2 (Agility)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#3: 
+				AdvTable_DerivedStat_Formula_Stat: 1 (Vitality)
+				AdvTable_DerivedStat_Formula_Value: 0.12
+			#4: 
+				AdvTable_DerivedStat_Formula_Stat: 5 (Will)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#5: 
+				AdvTable_DerivedStat_Formula_Stat: 3 (Fate)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#6: 
+				AdvTable_DerivedStat_Formula_Stat: 7 (War-steed Strength)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#7: 
+				AdvTable_DerivedStat_Formula_Stat: 6 (War-steed Agility)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+	#18: 
+		AdvTable_DerivedStat: 17 (non-Combat Power Regen)
+		AdvTable_DerivedStat_Formula_StatList: 
+			#1: 
+				AdvTable_DerivedStat_Formula_Stat: 4 (Might)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#2: 
+				AdvTable_DerivedStat_Formula_Stat: 2 (Agility)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#3: 
+				AdvTable_DerivedStat_Formula_Stat: 1 (Vitality)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#4: 
+				AdvTable_DerivedStat_Formula_Stat: 5 (Will)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#5: 
+				AdvTable_DerivedStat_Formula_Stat: 3 (Fate)
+				AdvTable_DerivedStat_Formula_Value: 0.4
+			#6: 
+				AdvTable_DerivedStat_Formula_Stat: 7 (War-steed Strength)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#7: 
+				AdvTable_DerivedStat_Formula_Stat: 6 (War-steed Agility)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+	#19: 
+		AdvTable_DerivedStat: 19 (Elemental Resist Rating)
+		AdvTable_DerivedStat_Formula_StatList: 
+			#1: 
+				AdvTable_DerivedStat_Formula_Stat: 4 (Might)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#2: 
+				AdvTable_DerivedStat_Formula_Stat: 2 (Agility)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#3: 
+				AdvTable_DerivedStat_Formula_Stat: 1 (Vitality)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#4: 
+				AdvTable_DerivedStat_Formula_Stat: 5 (Will)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#5: 
+				AdvTable_DerivedStat_Formula_Stat: 3 (Fate)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#6: 
+				AdvTable_DerivedStat_Formula_Stat: 7 (War-steed Strength)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#7: 
+				AdvTable_DerivedStat_Formula_Stat: 6 (War-steed Agility)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+	#20: 
+		AdvTable_DerivedStat: 20 (Resistance_Corruption)
+		AdvTable_DerivedStat_Formula_StatList: 
+			#1: 
+				AdvTable_DerivedStat_Formula_Stat: 4 (Might)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#2: 
+				AdvTable_DerivedStat_Formula_Stat: 2 (Agility)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#3: 
+				AdvTable_DerivedStat_Formula_Stat: 1 (Vitality)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#4: 
+				AdvTable_DerivedStat_Formula_Stat: 5 (Will)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#5: 
+				AdvTable_DerivedStat_Formula_Stat: 3 (Fate)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#6: 
+				AdvTable_DerivedStat_Formula_Stat: 7 (War-steed Strength)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#7: 
+				AdvTable_DerivedStat_Formula_Stat: 6 (War-steed Agility)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+	#21: 
+		AdvTable_DerivedStat: 21 (Song Resist Rating)
+		AdvTable_DerivedStat_Formula_StatList: 
+			#1: 
+				AdvTable_DerivedStat_Formula_Stat: 4 (Might)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#2: 
+				AdvTable_DerivedStat_Formula_Stat: 2 (Agility)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#3: 
+				AdvTable_DerivedStat_Formula_Stat: 1 (Vitality)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#4: 
+				AdvTable_DerivedStat_Formula_Stat: 5 (Will)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#5: 
+				AdvTable_DerivedStat_Formula_Stat: 3 (Fate)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#6: 
+				AdvTable_DerivedStat_Formula_Stat: 7 (War-steed Strength)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#7: 
+				AdvTable_DerivedStat_Formula_Stat: 6 (War-steed Agility)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+	#22: 
+		AdvTable_DerivedStat: 22 (Cry Resist Rating)
+		AdvTable_DerivedStat_Formula_StatList: 
+			#1: 
+				AdvTable_DerivedStat_Formula_Stat: 4 (Might)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#2: 
+				AdvTable_DerivedStat_Formula_Stat: 2 (Agility)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#3: 
+				AdvTable_DerivedStat_Formula_Stat: 1 (Vitality)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#4: 
+				AdvTable_DerivedStat_Formula_Stat: 5 (Will)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#5: 
+				AdvTable_DerivedStat_Formula_Stat: 3 (Fate)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#6: 
+				AdvTable_DerivedStat_Formula_Stat: 7 (War-steed Strength)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#7: 
+				AdvTable_DerivedStat_Formula_Stat: 6 (War-steed Agility)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+	#23: 
+		AdvTable_DerivedStat: 23 (Resistance_Magic)
+		AdvTable_DerivedStat_Formula_StatList: 
+			#1: 
+				AdvTable_DerivedStat_Formula_Stat: 4 (Might)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#2: 
+				AdvTable_DerivedStat_Formula_Stat: 2 (Agility)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#3: 
+				AdvTable_DerivedStat_Formula_Stat: 1 (Vitality)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#4: 
+				AdvTable_DerivedStat_Formula_Stat: 5 (Will)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#5: 
+				AdvTable_DerivedStat_Formula_Stat: 3 (Fate)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#6: 
+				AdvTable_DerivedStat_Formula_Stat: 7 (War-steed Strength)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#7: 
+				AdvTable_DerivedStat_Formula_Stat: 6 (War-steed Agility)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+	#24: 
+		AdvTable_DerivedStat: 24 (Physical Resist Rating)
+		AdvTable_DerivedStat_Formula_StatList: 
+			#1: 
+				AdvTable_DerivedStat_Formula_Stat: 4 (Might)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#2: 
+				AdvTable_DerivedStat_Formula_Stat: 2 (Agility)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#3: 
+				AdvTable_DerivedStat_Formula_Stat: 1 (Vitality)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#4: 
+				AdvTable_DerivedStat_Formula_Stat: 5 (Will)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#5: 
+				AdvTable_DerivedStat_Formula_Stat: 3 (Fate)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#6: 
+				AdvTable_DerivedStat_Formula_Stat: 7 (War-steed Strength)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#7: 
+				AdvTable_DerivedStat_Formula_Stat: 6 (War-steed Agility)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+	#25: 
+		AdvTable_DerivedStat: 25 (Feign Death Resist Rating)
+		AdvTable_DerivedStat_Formula_StatList: 
+			#1: 
+				AdvTable_DerivedStat_Formula_Stat: 4 (Might)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#2: 
+				AdvTable_DerivedStat_Formula_Stat: 2 (Agility)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#3: 
+				AdvTable_DerivedStat_Formula_Stat: 1 (Vitality)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#4: 
+				AdvTable_DerivedStat_Formula_Stat: 5 (Will)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#5: 
+				AdvTable_DerivedStat_Formula_Stat: 3 (Fate)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#6: 
+				AdvTable_DerivedStat_Formula_Stat: 7 (War-steed Strength)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#7: 
+				AdvTable_DerivedStat_Formula_Stat: 6 (War-steed Agility)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+	#26: 
+		AdvTable_DerivedStat: 26 (Tactical Mastery Rating)
+		AdvTable_DerivedStat_Formula_StatList: 
+			#1: 
+				AdvTable_DerivedStat_Formula_Stat: 4 (Might)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#2: 
+				AdvTable_DerivedStat_Formula_Stat: 2 (Agility)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#3: 
+				AdvTable_DerivedStat_Formula_Stat: 1 (Vitality)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#4: 
+				AdvTable_DerivedStat_Formula_Stat: 5 (Will)
+				AdvTable_DerivedStat_Formula_Value: 1.0
+			#5: 
+				AdvTable_DerivedStat_Formula_Stat: 3 (Fate)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#6: 
+				AdvTable_DerivedStat_Formula_Stat: 7 (War-steed Strength)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#7: 
+				AdvTable_DerivedStat_Formula_Stat: 6 (War-steed Agility)
+				AdvTable_DerivedStat_Formula_Value: 1.0
+	#27: 
+		AdvTable_DerivedStat: 27 (Physical Mastery Rating)
+		AdvTable_DerivedStat_Formula_StatList: 
+			#1: 
+				AdvTable_DerivedStat_Formula_Stat: 4 (Might)
+				AdvTable_DerivedStat_Formula_Value: 3.0
+			#2: 
+				AdvTable_DerivedStat_Formula_Stat: 2 (Agility)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#3: 
+				AdvTable_DerivedStat_Formula_Stat: 1 (Vitality)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#4: 
+				AdvTable_DerivedStat_Formula_Stat: 5 (Will)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#5: 
+				AdvTable_DerivedStat_Formula_Stat: 3 (Fate)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#6: 
+				AdvTable_DerivedStat_Formula_Stat: 7 (War-steed Strength)
+				AdvTable_DerivedStat_Formula_Value: 1.0
+			#7: 
+				AdvTable_DerivedStat_Formula_Stat: 6 (War-steed Agility)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+	#28: 
+		AdvTable_DerivedStat: 28 (War-steed Gear Change Rate)
+		AdvTable_DerivedStat_Formula_StatList: 
+			#1: 
+				AdvTable_DerivedStat_Formula_Stat: 4 (Might)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#2: 
+				AdvTable_DerivedStat_Formula_Stat: 2 (Agility)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#3: 
+				AdvTable_DerivedStat_Formula_Stat: 1 (Vitality)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#4: 
+				AdvTable_DerivedStat_Formula_Stat: 5 (Will)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#5: 
+				AdvTable_DerivedStat_Formula_Stat: 3 (Fate)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#6: 
+				AdvTable_DerivedStat_Formula_Stat: 7 (War-steed Strength)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#7: 
+				AdvTable_DerivedStat_Formula_Stat: 6 (War-steed Agility)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+	#29: 
+		AdvTable_DerivedStat: 29 (War-steed Turn Rate)
+		AdvTable_DerivedStat_Formula_StatList: 
+			#1: 
+				AdvTable_DerivedStat_Formula_Stat: 4 (Might)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#2: 
+				AdvTable_DerivedStat_Formula_Stat: 2 (Agility)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#3: 
+				AdvTable_DerivedStat_Formula_Stat: 1 (Vitality)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#4: 
+				AdvTable_DerivedStat_Formula_Stat: 5 (Will)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#5: 
+				AdvTable_DerivedStat_Formula_Stat: 3 (Fate)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#6: 
+				AdvTable_DerivedStat_Formula_Stat: 7 (War-steed Strength)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#7: 
+				AdvTable_DerivedStat_Formula_Stat: 6 (War-steed Agility)
+				AdvTable_DerivedStat_Formula_Value: 0.05
+	#30: 
+		AdvTable_DerivedStat: 30
+		AdvTable_DerivedStat_Formula_StatList: 
+			#1: 
+				AdvTable_DerivedStat_Formula_Stat: 4 (Might)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#2: 
+				AdvTable_DerivedStat_Formula_Stat: 2 (Agility)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#3: 
+				AdvTable_DerivedStat_Formula_Stat: 1 (Vitality)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#4: 
+				AdvTable_DerivedStat_Formula_Stat: 5 (Will)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#5: 
+				AdvTable_DerivedStat_Formula_Stat: 3 (Fate)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#6: 
+				AdvTable_DerivedStat_Formula_Stat: 7 (War-steed Strength)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#7: 
+				AdvTable_DerivedStat_Formula_Stat: 6 (War-steed Agility)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+	#31: 
+		AdvTable_DerivedStat: 31 (War-steed Evade Rating)
+		AdvTable_DerivedStat_Formula_StatList: 
+			#1: 
+				AdvTable_DerivedStat_Formula_Stat: 4 (Might)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#2: 
+				AdvTable_DerivedStat_Formula_Stat: 2 (Agility)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#3: 
+				AdvTable_DerivedStat_Formula_Stat: 1 (Vitality)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#4: 
+				AdvTable_DerivedStat_Formula_Stat: 5 (Will)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#5: 
+				AdvTable_DerivedStat_Formula_Stat: 3 (Fate)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#6: 
+				AdvTable_DerivedStat_Formula_Stat: 7 (War-steed Strength)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#7: 
+				AdvTable_DerivedStat_Formula_Stat: 6 (War-steed Agility)
+				AdvTable_DerivedStat_Formula_Value: 1.5
+	#32: 
+		AdvTable_DerivedStat: 32 (in-Combat War-steed Endurance Regen)
+		AdvTable_DerivedStat_Formula_StatList: 
+			#1: 
+				AdvTable_DerivedStat_Formula_Stat: 4 (Might)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#2: 
+				AdvTable_DerivedStat_Formula_Stat: 2 (Agility)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#3: 
+				AdvTable_DerivedStat_Formula_Stat: 1 (Vitality)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#4: 
+				AdvTable_DerivedStat_Formula_Stat: 5 (Will)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#5: 
+				AdvTable_DerivedStat_Formula_Stat: 3 (Fate)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#6: 
+				AdvTable_DerivedStat_Formula_Stat: 7 (War-steed Strength)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#7: 
+				AdvTable_DerivedStat_Formula_Stat: 6 (War-steed Agility)
+				AdvTable_DerivedStat_Formula_Value: 0.009
+	#33: 
+		AdvTable_DerivedStat: 33 (in-Combat War-steed Power Regen)
+		AdvTable_DerivedStat_Formula_StatList: 
+			#1: 
+				AdvTable_DerivedStat_Formula_Stat: 4 (Might)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#2: 
+				AdvTable_DerivedStat_Formula_Stat: 2 (Agility)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#3: 
+				AdvTable_DerivedStat_Formula_Stat: 1 (Vitality)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#4: 
+				AdvTable_DerivedStat_Formula_Stat: 5 (Will)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#5: 
+				AdvTable_DerivedStat_Formula_Stat: 3 (Fate)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#6: 
+				AdvTable_DerivedStat_Formula_Stat: 7 (War-steed Strength)
+				AdvTable_DerivedStat_Formula_Value: 0.009
+			#7: 
+				AdvTable_DerivedStat_Formula_Stat: 6 (War-steed Agility)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+	#34: 
+		AdvTable_DerivedStat: 34 (non-Combat War-steed Endurance Regen)
+		AdvTable_DerivedStat_Formula_StatList: 
+			#1: 
+				AdvTable_DerivedStat_Formula_Stat: 4 (Might)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#2: 
+				AdvTable_DerivedStat_Formula_Stat: 2 (Agility)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#3: 
+				AdvTable_DerivedStat_Formula_Stat: 1 (Vitality)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#4: 
+				AdvTable_DerivedStat_Formula_Stat: 5 (Will)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#5: 
+				AdvTable_DerivedStat_Formula_Stat: 3 (Fate)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#6: 
+				AdvTable_DerivedStat_Formula_Stat: 7 (War-steed Strength)
+				AdvTable_DerivedStat_Formula_Value: 0.01
+			#7: 
+				AdvTable_DerivedStat_Formula_Stat: 6 (War-steed Agility)
+				AdvTable_DerivedStat_Formula_Value: 0.02
+	#35: 
+		AdvTable_DerivedStat: 35 (non-Combat War-steed Power Regen)
+		AdvTable_DerivedStat_Formula_StatList: 
+			#1: 
+				AdvTable_DerivedStat_Formula_Stat: 4 (Might)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#2: 
+				AdvTable_DerivedStat_Formula_Stat: 2 (Agility)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#3: 
+				AdvTable_DerivedStat_Formula_Stat: 1 (Vitality)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#4: 
+				AdvTable_DerivedStat_Formula_Stat: 5 (Will)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#5: 
+				AdvTable_DerivedStat_Formula_Stat: 3 (Fate)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#6: 
+				AdvTable_DerivedStat_Formula_Stat: 7 (War-steed Strength)
+				AdvTable_DerivedStat_Formula_Value: 0.02
+			#7: 
+				AdvTable_DerivedStat_Formula_Stat: 6 (War-steed Agility)
+				AdvTable_DerivedStat_Formula_Value: 0.01
+	#36: 
+		AdvTable_DerivedStat: 36 (Mount Physical Mastery)
+		AdvTable_DerivedStat_Formula_StatList: 
+			#1: 
+				AdvTable_DerivedStat_Formula_Stat: 4 (Might)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#2: 
+				AdvTable_DerivedStat_Formula_Stat: 2 (Agility)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#3: 
+				AdvTable_DerivedStat_Formula_Stat: 1 (Vitality)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#4: 
+				AdvTable_DerivedStat_Formula_Stat: 5 (Will)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#5: 
+				AdvTable_DerivedStat_Formula_Stat: 3 (Fate)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#6: 
+				AdvTable_DerivedStat_Formula_Stat: 7 (War-steed Strength)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#7: 
+				AdvTable_DerivedStat_Formula_Stat: 6 (War-steed Agility)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+	#37: 
+		AdvTable_DerivedStat: 37 (Mount Tactical Mastery)
+		AdvTable_DerivedStat_Formula_StatList: 
+			#1: 
+				AdvTable_DerivedStat_Formula_Stat: 4 (Might)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#2: 
+				AdvTable_DerivedStat_Formula_Stat: 2 (Agility)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#3: 
+				AdvTable_DerivedStat_Formula_Stat: 1 (Vitality)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#4: 
+				AdvTable_DerivedStat_Formula_Stat: 5 (Will)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#5: 
+				AdvTable_DerivedStat_Formula_Stat: 3 (Fate)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#6: 
+				AdvTable_DerivedStat_Formula_Stat: 7 (War-steed Strength)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+			#7: 
+				AdvTable_DerivedStat_Formula_Stat: 6 (War-steed Agility)
+				AdvTable_DerivedStat_Formula_Value: 0.0
+AdvTable_EvadeAgilityControl1: 2.0
+AdvTable_FateToTacticalCritControl: 2.0
+AdvTable_FellowshipMaker_AvailableRoles: 5 (Damage,Defence)
+AdvTable_GearScore_DrivenProgression_List: 
+	#1: 1879237034
+AdvTable_GearScore_ValidSlots: 1179646 (Head,Chest,Legs,Hands,Feet,Shoulder,Back,Wrist,Bracelet2,Neck,Finger,Ring2,Ear,Earring2,Pocket,Main-hand,Class Slot)
+AdvTable_HealthModControl1InCombat: 0.025
+AdvTable_HealthModControl1NotInCombat: 0.12
+AdvTable_HealthModControl2InCombat: 0.0
+AdvTable_HealthModControl2NotInCombat: 0.0
+AdvTable_InCombatToOutOfCombatRegenMod: 5.0
+AdvTable_InnateDefaultSkill: 1879060568
+AdvTable_LevelEntryList: 
+	#1: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 100
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 50
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 1
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 14
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 10
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 14
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 11
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 8
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#2: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 139
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 100
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 2
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 15
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 11
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 16
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 12
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 9
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#3: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 178
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 150
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 3
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 17
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 12
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 18
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 14
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 10
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#4: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 217
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 200
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 4
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 18
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 13
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 20
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 15
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 11
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#5: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 256
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 250
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 5
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 20
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 14
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 22
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 17
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 12
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#6: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 295
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 300
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 6
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 21
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 15
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 24
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 18
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 13
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#7: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 334
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 350
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 7
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 22
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 16
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 26
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 19
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 14
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#8: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 373
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 400
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 8
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 24
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 17
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 28
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 21
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 15
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#9: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 412
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 450
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 9
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 25
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 18
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 30
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 22
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 16
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#10: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 451
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 500
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 10
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 27
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 19
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 32
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 24
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 17
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#11: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 490
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 550
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 11
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 28
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 20
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 34
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 25
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 18
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#12: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 529
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 600
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 12
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 29
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 21
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 36
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 26
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 19
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#13: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 568
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 650
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 13
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 31
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 22
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 38
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 28
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 20
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#14: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 607
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 700
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 14
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 32
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 23
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 40
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 29
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 21
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#15: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 646
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 750
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 15
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 34
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 24
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 42
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 31
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 22
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#16: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 685
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 800
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 16
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 35
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 25
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 44
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 32
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 23
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#17: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 724
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 850
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 17
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 36
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 26
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 46
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 33
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 24
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#18: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 763
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 900
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 18
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 38
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 27
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 48
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 35
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 25
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#19: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 802
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 950
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 19
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 39
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 28
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 50
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 36
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 26
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#20: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 841
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 1000
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 20
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 41
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 29
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 52
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 38
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 27
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#21: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 868
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 1050
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 21
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 42
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 30
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 54
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 39
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 28
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#22: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 895
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 1100
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 22
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 43
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 31
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 56
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 40
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 29
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#23: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 922
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 1150
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 23
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 45
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 32
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 58
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 42
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 30
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#24: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 949
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 1200
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 24
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 46
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 33
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 60
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 43
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 31
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#25: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 976
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 1250
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 25
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 48
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 34
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 62
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 45
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 32
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#26: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 1003
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 1300
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 26
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 49
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 35
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 64
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 46
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 33
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#27: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 1030
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 1350
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 27
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 50
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 36
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 66
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 47
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 34
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#28: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 1057
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 1400
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 28
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 52
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 37
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 68
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 49
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 35
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#29: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 1084
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 1450
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 29
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 53
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 38
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 70
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 50
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 36
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#30: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 1111
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 1500
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 30
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 55
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 39
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 71
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 52
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 37
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#31: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 1138
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 1550
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 31
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 56
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 40
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 72
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 53
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 38
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#32: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 1165
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 1600
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 32
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 57
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 41
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 73
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 54
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 39
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#33: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 1192
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 1650
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 33
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 59
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 42
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 74
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 56
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 40
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#34: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 1219
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 1700
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 34
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 60
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 43
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 75
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 57
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 41
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#35: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 1246
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 1750
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 35
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 62
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 44
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 76
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 59
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 42
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#36: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 1273
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 1800
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 36
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 63
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 45
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 77
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 60
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 43
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#37: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 1300
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 1850
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 37
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 64
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 46
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 79
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 61
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 44
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#38: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 1327
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 1900
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 38
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 66
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 47
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 80
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 63
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 45
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#39: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 1354
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 1950
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 39
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 67
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 48
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 81
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 64
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 46
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#40: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 1381
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 2000
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 40
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 69
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 49
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 82
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 66
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 47
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#41: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 1408
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 2050
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 41
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 70
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 50
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 83
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 67
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 48
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#42: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 1435
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 2100
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 42
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 71
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 51
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 84
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 68
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 49
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#43: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 1462
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 2150
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 43
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 73
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 52
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 85
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 70
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 50
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#44: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 1489
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 2200
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 44
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 74
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 53
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 86
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 71
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 51
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#45: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 1516
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 2250
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 45
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 76
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 54
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 87
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 73
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 52
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#46: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 1543
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 2300
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 46
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 77
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 55
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 88
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 74
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 53
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#47: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 1570
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 2350
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 47
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 78
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 56
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 89
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 75
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 54
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#48: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 1597
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 2400
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 48
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 80
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 57
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 90
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 77
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 55
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#49: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 1624
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 2450
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 49
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 81
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 58
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 91
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 78
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 56
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#50: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 1651
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 2500
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 50
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#51: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 1678
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 2550
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 51
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#52: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 1705
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 2600
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 52
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#53: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 1732
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 2650
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 53
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#54: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 1759
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 2700
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 54
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#55: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 1786
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 2750
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 55
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#56: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 1813
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 2800
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 56
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#57: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 1840
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 2850
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 57
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#58: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 1867
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 2900
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 58
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#59: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 1894
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 2950
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 59
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#60: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 1921
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 3000
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 60
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#61: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 1948
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 3050
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 61
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#62: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 1975
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 3100
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 62
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#63: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 2002
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 3150
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 63
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#64: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 2029
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 3200
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 64
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#65: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 2056
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 3250
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 65
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#66: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 2089
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 3300
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 66
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#67: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 2129
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 3350
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 67
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#68: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 2176
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 3400
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 68
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#69: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 2230
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 3450
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 69
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#70: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 2290
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 3500
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 70
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#71: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 2357
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 3550
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 71
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#72: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 2431
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 3600
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 72
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#73: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 2512
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 3650
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 73
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#74: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 2593
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 3700
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 74
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#75: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 2674
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 3750
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 75
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#76: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 2755
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 3800
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 76
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#77: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 2836
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 3850
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 77
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#78: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 2917
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 3900
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 78
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#79: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 2998
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 3950
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 79
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#80: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 3079
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 4000
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 80
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#81: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 3160
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 4050
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 81
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#82: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 3241
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 4100
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 82
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#83: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 3322
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 4150
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 83
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#84: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 3403
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 4200
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 84
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#85: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 3484
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 4250
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 85
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#86: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 3565
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 4300
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 86
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#87: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 3646
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 4350
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 87
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#88: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 3727
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 4400
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 88
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#89: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 3808
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 4450
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 89
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#90: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 3889
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 4500
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 90
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#91: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 3970
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 4550
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 91
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#92: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 4051
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 4600
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 92
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#93: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 4132
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 4650
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 93
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#94: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 4213
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 4700
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 94
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#95: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 4294
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 4750
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 95
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#96: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 4375
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 4800
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 96
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#97: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 4456
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 4850
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 97
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#98: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 4537
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 4900
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 98
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#99: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 4618
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 4950
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 99
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#100: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 4699
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 5000
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 100
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#101: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 4780
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 5050
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 101
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#102: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 4861
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 5100
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 102
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#103: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 4942
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 5150
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 103
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#104: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 5023
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 5200
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 104
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#105: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 5104
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 5250
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 105
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#106: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 5185
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 5300
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 106
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#107: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 5266
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 5350
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 107
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#108: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 5347
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 5400
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 108
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#109: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 5428
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 5450
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 109
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#110: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 5509
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 5500
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 110
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#111: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 5590
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 5550
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 111
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#112: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 5671
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 5600
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 112
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#113: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 5752
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 5650
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 113
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#114: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 5833
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 5700
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 114
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#115: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 5914
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 5750
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 115
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#116: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 5995
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 5800
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 116
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#117: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 6076
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 5850
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 117
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#118: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 6157
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 5900
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 118
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#119: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 6238
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 5950
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 119
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#120: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 6319
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 6000
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 120
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#121: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 6319
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 6000
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 121
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#122: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 6319
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 6000
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 122
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#123: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 6319
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 6000
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 123
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#124: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 6319
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 6000
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 124
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#125: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 6319
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 6000
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 125
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#126: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 6319
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 6000
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 126
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#127: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 6319
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 6000
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 127
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#128: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 6319
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 6000
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 128
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#129: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 6319
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 6000
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 129
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+	#130: 
+		AdvTable_BaseVitalEntryList: 
+			#1: 
+				AdvTable_BaseVitalValue: 6319
+				AdvTable_VitalType: 1 (Morale)
+			#2: 
+				AdvTable_BaseVitalValue: 6000
+				AdvTable_VitalType: 2 (Power)
+			#3: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 3 (War-steed Endurance)
+			#4: 
+				AdvTable_BaseVitalValue: 1
+				AdvTable_VitalType: 4 (War-steed Power)
+		AdvTable_Level: 130
+		AdvTable_MaxStatEntryList: 
+			#1: 
+				AdvTable_StatType: 4 (Might)
+				AdvTable_StatValue: 83
+			#2: 
+				AdvTable_StatType: 2 (Agility)
+				AdvTable_StatValue: 59
+			#3: 
+				AdvTable_StatType: 1 (Vitality)
+				AdvTable_StatValue: 92
+			#4: 
+				AdvTable_StatType: 5 (Will)
+				AdvTable_StatValue: 80
+			#5: 
+				AdvTable_StatType: 3 (Fate)
+				AdvTable_StatValue: 57
+			#6: 
+				AdvTable_StatType: 7 (War-steed Strength)
+				AdvTable_StatValue: 1
+			#7: 
+				AdvTable_StatType: 6 (War-steed Agility)
+				AdvTable_StatValue: 1
+AdvTable_MaxHealthVitalityControl1: 5.0
+AdvTable_MaxHealthVitalityControl2: 0.0
+AdvTable_MaxPowerWillControl1: 3.0
+AdvTable_MaxPowerWillControl2: 0.0
+AdvTable_MightToMeleeOffenseControl: 10.0
+AdvTable_MissChanceAgilityControl1: 0.0
+AdvTable_MissChanceAgilityControl2: 1.0
+AdvTable_MitigationPercentageMightControl1: 0.004
+AdvTable_MitigationPercentageMightControl2: 1.0
+AdvTable_MitigationPercentageVitalityControl1: 0.112
+AdvTable_MitigationPercentageVitalityControl2: 1.0
+AdvTable_ParryAgilityControl1: 1.0
+AdvTable_ParryMightControl1: 1.0
+AdvTable_PartialMitigation_Base_Block: 0.0
+AdvTable_PartialMitigation_Base_Evade: 0.0
+AdvTable_PartialMitigation_Base_Parry: 0.0
+AdvTable_PerkInventory: 1879085595
+AdvTable_PowerModControl1InCombat: 0.5
+AdvTable_PowerModControl1NotInCombat: 0.2
+AdvTable_PowerModControl2InCombat: 0.035
+AdvTable_PowerModControl2NotInCombat: 0.0
+AdvTable_StartingInventory_List: 
+	#1: 
+		AdvTable_StartingInventory_Item: 1879064281
+		AdvTable_StartingInventory_Quantity: 1
+		AdvTable_StartingInventory_RequiredRace: 0 (Undef)
+		AdvTable_StartingInventory_StartsEquipped: 1
+	#2: 
+		AdvTable_StartingInventory_Item: 1879064282
+		AdvTable_StartingInventory_Quantity: 1
+		AdvTable_StartingInventory_RequiredRace: 0 (Undef)
+		AdvTable_StartingInventory_StartsEquipped: 1
+	#3: 
+		AdvTable_StartingInventory_Item: 1879064283
+		AdvTable_StartingInventory_Quantity: 1
+		AdvTable_StartingInventory_RequiredRace: 0 (Undef)
+		AdvTable_StartingInventory_StartsEquipped: 1
+	#4: 
+		AdvTable_StartingInventory_Item: 1879064284
+		AdvTable_StartingInventory_Quantity: 1
+		AdvTable_StartingInventory_RequiredRace: 0 (Undef)
+		AdvTable_StartingInventory_StartsEquipped: 1
+	#5: 
+		AdvTable_StartingInventory_Item: 1879064285
+		AdvTable_StartingInventory_Quantity: 1
+		AdvTable_StartingInventory_RequiredRace: 0 (Undef)
+		AdvTable_StartingInventory_StartsEquipped: 1
+	#6: 
+		AdvTable_StartingInventory_Item: 1879064139
+		AdvTable_StartingInventory_Quantity: 1
+		AdvTable_StartingInventory_RequiredRace: 0 (Undef)
+		AdvTable_StartingInventory_StartsEquipped: 1
+	#7: 
+		AdvTable_StartingInventory_Item: 1879052016
+		AdvTable_StartingInventory_Quantity: 1
+		AdvTable_StartingInventory_RequiredRace: 0 (Undef)
+		AdvTable_StartingInventory_StartsEquipped: 1
+AdvTable_StatDescriptionArray: 
+	#1: 
+		AdvTable_StatDescription_Description: 
+			#1: As a Guardian, Might is very important for you. Might increases your Physical Mastery, Tactical Mastery, Block Rating, and Parry Rating.
+		AdvTable_StatDescription_Stat: 4 (Might)
+	#2: 
+		AdvTable_StatDescription_Description: 
+			#1: As a Guardian, Agility increases your Critical Rating, Parry Rating, and Evade Rating.
+		AdvTable_StatDescription_Stat: 2 (Agility)
+	#3: 
+		AdvTable_StatDescription_Description: 
+			#1: As a Guardian, Vitality is important for you. Vitality increases your Maximum Morale, Resistance Rating, and Non-Combat Morale Regen.
+		AdvTable_StatDescription_Stat: 1 (Vitality)
+	#4: 
+		AdvTable_StatDescription_Description: 
+			#1: As a Guardian, Will increases your Tactical Mastery, Tactical Mitigation, and Resistance Rating.
+		AdvTable_StatDescription_Stat: 5 (Will)
+	#5: 
+		AdvTable_StatDescription_Description: 
+			#1: As a Guardian, Fate increases your Critical Rating, in-Combat Morale Regen, Tactical Mitigation, and Power Regen.
+		AdvTable_StatDescription_Stat: 3 (Fate)
+	#6: 
+		AdvTable_StatDescription_Description: 
+			#1: Strength of the Guardian's Mount.
+		AdvTable_StatDescription_Stat: 7 (War-steed Strength)
+	#7: 
+		AdvTable_StatDescription_Description: 
+			#1: Agility of the Guardian's Mount.
+		AdvTable_StatDescription_Stat: 6 (War-steed Agility)
+AdvTable_TacticalDPSName: 
+	#1: Shield Use Rank
+AdvTable_TacticalDamage_ActionDuration: 1.0
+AdvTable_TacticalDamage_Variance: 0.0
+AdvTable_TacticalHealing_ActionDuration: 1.0
+AdvTable_WillToHealingControl: 1.0
+AdvTable_WillToTactOffenseControl: 1.0
+Combat_DamageType_Base_Mitigation_Multiplier_AncientDwarf: 0.0
+Combat_DamageType_Base_Mitigation_Multiplier_Beleriand: 0.0
+Combat_DamageType_Base_Mitigation_Multiplier_Common: 1.0
+Combat_DamageType_Base_Mitigation_Multiplier_Fire: 0.0
+Combat_DamageType_Base_Mitigation_Multiplier_Light: 0.0
+Combat_DamageType_Base_Mitigation_Multiplier_Shadow: 0.0
+Combat_DamageType_Base_Mitigation_Multiplier_Westernesse: 0.0
+PipConfig_Pip_List: 
+	#1: 25 (Killstreak)
+Trait_Baseline_Equipment_Categories: 79246439418115 (Earring[E],Bauble[E],Medium Armour[E],One-handed Hammer[E],Shield[E],Light Armour[E],Ring[E],Dagger[E],Craft Tool[E],Necklace[E],One-handed Axe[E],Class Item,One-handed Club[E],One-handed Mace[E],One-handed Sword[E],Thrown Weapon[E],Armband[E],Cloak[e],Cosmetic[E],Two-handed Implement[E],One-handed Implement[E],War-steed Item,Weapon Aura)
+Trait_SlotSchedule_Nature_Array: 
+	#1: 
+		Trait_SlotSchedule_Nature: 5 (Virtue)
+		Trait_SlotSchedule_Schedule: 1879064042
+	#2: 
+		Trait_SlotSchedule_Nature: 4 (Race)
+		Trait_SlotSchedule_Schedule: 1879064043
+	#3: 
+		Trait_SlotSchedule_Nature: 3 (Class)
+		Trait_SlotSchedule_Schedule: 1879064044
+	#4: 
+		Trait_SlotSchedule_Nature: 2 (Legendary)
+		Trait_SlotSchedule_Schedule: 1879064045
+	#5: 
+		Trait_SlotSchedule_Nature: 1 (Characteristic)
+		Trait_SlotSchedule_Schedule: 1879064042
+	#6: 
+		Trait_SlotSchedule_Nature: 8 (Attribute)
+		Trait_SlotSchedule_Schedule: 1879159251
+	#7: 
+		Trait_SlotSchedule_Nature: 9 (Skill)
+		Trait_SlotSchedule_Schedule: 1879159252
+	#8: 
+		Trait_SlotSchedule_Nature: 11 (Training)
+		Trait_SlotSchedule_Schedule: 1879159253
+	#9: 
+		Trait_SlotSchedule_Nature: 10 (Personal)
+		Trait_SlotSchedule_Schedule: 1879159254
+	#10: 
+		Trait_SlotSchedule_Nature: 13 (PvMP)
+		Trait_SlotSchedule_Schedule: 1879064042
+	#11: 
+		Trait_SlotSchedule_Nature: 16 (Mount Appearance)
+		Trait_SlotSchedule_Schedule: 1879239473
+XP_EarnedPointsToLevel_Table: 1879064041
