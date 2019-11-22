@@ -23902,3 +23902,7 @@
 268462055 - Skill_InductionAction_Struct, type=Struct, data=0, default value=null
 268462056 - Item_Imbued_Rank_MaxUpgrades, type=Int, data=0, default value=0
 268462057 - Version_Title_StampProperty_52, type=boolean, data=0, default value=null
+268462058 - WE_minas_morgul_instance_raid_leading_charge_lock, type=boolean, data=0, default value=null
+268462059 - WE_minas_morgul_instance_6man_leading_charge_lock, type=boolean, data=0, default value=null
+268462061 - PrivateEncounter_Control_RestrictMaxPlayersExclusionEntry, type=Data File ID, data=69, default value=null
+268462062 - PrivateEncounter_Control_RestrictMaxPlayersExclusionArray, type=Array, data=0, default value=null
