@@ -1,0 +1,666 @@
+LootGenControl_DropFrequencyTable: 
+	#1: 
+		LootGenControl_DropFrequency_Label: 4 (Always)
+		LootGenControl_DropFrequency_Percentage: 1.0
+	#2: 
+		LootGenControl_DropFrequency_Label: 9 (Common)
+		LootGenControl_DropFrequency_Percentage: 0.7
+	#3: 
+		LootGenControl_DropFrequency_Label: 10 (Frequent)
+		LootGenControl_DropFrequency_Percentage: 0.6
+	#4: 
+		LootGenControl_DropFrequency_Label: 23 (Half)
+		LootGenControl_DropFrequency_Percentage: 0.5
+	#5: 
+		LootGenControl_DropFrequency_Label: 3 (Uncommon)
+		LootGenControl_DropFrequency_Percentage: 0.25
+	#6: 
+		LootGenControl_DropFrequency_Label: 2 (Rare)
+		LootGenControl_DropFrequency_Percentage: 0.1
+	#7: 
+		LootGenControl_DropFrequency_Label: 5 (UltraRare)
+		LootGenControl_DropFrequency_Percentage: 0.05
+	#8: 
+		LootGenControl_DropFrequency_Label: 8 (ImpossiblyRare)
+		LootGenControl_DropFrequency_Percentage: 0.01
+	#9: 
+		LootGenControl_DropFrequency_Label: 6 (EpicRareTier1)
+		LootGenControl_DropFrequency_Percentage: 0.005
+	#10: 
+		LootGenControl_DropFrequency_Label: 7 (EpicRareTier2)
+		LootGenControl_DropFrequency_Percentage: 0.0025
+	#11: 
+		LootGenControl_DropFrequency_Label: 11 (EpicRaid)
+		LootGenControl_DropFrequency_Percentage: 1.0
+	#12: 
+		LootGenControl_DropFrequency_Label: 12 (Trophy)
+		LootGenControl_DropFrequency_Percentage: 0.68
+	#13: 
+		LootGenControl_DropFrequency_Label: 16 (ReputationCommon)
+		LootGenControl_DropFrequency_Percentage: 0.75
+	#14: 
+		LootGenControl_DropFrequency_Label: 15 (ReputationFrequent)
+		LootGenControl_DropFrequency_Percentage: 0.5
+	#15: 
+		LootGenControl_DropFrequency_Label: 17 (ReputationUncommon)
+		LootGenControl_DropFrequency_Percentage: 0.25
+	#16: 
+		LootGenControl_DropFrequency_Label: 14 (ReputationRare)
+		LootGenControl_DropFrequency_Percentage: 0.04
+	#17: 
+		LootGenControl_DropFrequency_Label: 13 (ReputationVeryRare)
+		LootGenControl_DropFrequency_Percentage: 0.02
+	#18: 
+		LootGenControl_DropFrequency_Label: 20 (BarterCommon)
+		LootGenControl_DropFrequency_Percentage: 0.6
+	#19: 
+		LootGenControl_DropFrequency_Label: 22 (BarterFrequent)
+		LootGenControl_DropFrequency_Percentage: 0.4
+	#20: 
+		LootGenControl_DropFrequency_Label: 19 (BarterUncommon)
+		LootGenControl_DropFrequency_Percentage: 0.2
+	#21: 
+		LootGenControl_DropFrequency_Label: 21 (BarterRare)
+		LootGenControl_DropFrequency_Percentage: 0.1
+	#22: 
+		LootGenControl_DropFrequency_Label: 26 (IASentient)
+		LootGenControl_DropFrequency_Percentage: 0.09
+	#23: 
+		LootGenControl_DropFrequency_Label: 25 (IANonSentient)
+		LootGenControl_DropFrequency_Percentage: 0.075
+	#24: 
+		LootGenControl_DropFrequency_Label: 27 (IAStarterCrystal)
+		LootGenControl_DropFrequency_Percentage: 0.02
+	#25: 
+		LootGenControl_DropFrequency_Label: 28 (CraftOptIngredient)
+		LootGenControl_DropFrequency_Percentage: 0.05
+	#26: 
+		LootGenControl_DropFrequency_Label: 29 (MTXLootBoxKey)
+		LootGenControl_DropFrequency_Percentage: 5.0E-4
+	#27: 
+		LootGenControl_DropFrequency_Label: 30 (MTXLootBox)
+		LootGenControl_DropFrequency_Percentage: 0.001
+	#28: 
+		LootGenControl_DropFrequency_Label: 31 (MTXLootBoxFixer)
+		LootGenControl_DropFrequency_Percentage: 0.0025
+	#29: 
+		LootGenControl_DropFrequency_Label: 33 (CraftLegendRcps)
+		LootGenControl_DropFrequency_Percentage: 1.0E-4
+	#30: 
+		LootGenControl_DropFrequency_Label: 38 (CraftLegendRcps2)
+		LootGenControl_DropFrequency_Percentage: 0.001
+	#31: 
+		LootGenControl_DropFrequency_Label: 39 (CraftLegendRcps3)
+		LootGenControl_DropFrequency_Percentage: 0.01
+	#32: 
+		LootGenControl_DropFrequency_Label: 34 (SkirmishRareTier1)
+		LootGenControl_DropFrequency_Percentage: 0.005
+	#33: 
+		LootGenControl_DropFrequency_Label: 35 (SkirmishRareTier2)
+		LootGenControl_DropFrequency_Percentage: 0.0025
+	#34: 
+		LootGenControl_DropFrequency_Label: 36 (SkirmishRareTier3)
+		LootGenControl_DropFrequency_Percentage: 0.001
+	#35: 
+		LootGenControl_DropFrequency_Label: 37 (SkirmishRareTier4)
+		LootGenControl_DropFrequency_Percentage: 5.0E-4
+	#36: 
+		LootGenControl_DropFrequency_Label: 41 (CraftFirstAge)
+		LootGenControl_DropFrequency_Percentage: 0.05
+	#37: 
+		LootGenControl_DropFrequency_Label: 40 (CraftSecondAge)
+		LootGenControl_DropFrequency_Percentage: 0.1
+	#38: 
+		LootGenControl_DropFrequency_Label: 43 (CraftFirstAgeRare)
+		LootGenControl_DropFrequency_Percentage: 0.03
+	#39: 
+		LootGenControl_DropFrequency_Label: 44 (CraftSecondAgeRare)
+		LootGenControl_DropFrequency_Percentage: 0.05
+	#40: 
+		LootGenControl_DropFrequency_Label: 42 (CraftSecondAgeUncommon)
+		LootGenControl_DropFrequency_Percentage: 0.25
+	#41: 
+		LootGenControl_DropFrequency_Label: 46 (SlottedGear)
+		LootGenControl_DropFrequency_Percentage: 1.6E-4
+	#42: 
+		LootGenControl_DropFrequency_Label: 45 (SlottedEssence)
+		LootGenControl_DropFrequency_Percentage: 0.008
+	#43: 
+		LootGenControl_DropFrequency_Label: 47 (ScalingSets)
+		LootGenControl_DropFrequency_Percentage: 1.6E-4
+	#44: 
+		LootGenControl_DropFrequency_Label: 57 (PointFivePercent)
+		LootGenControl_DropFrequency_Percentage: 0.005
+	#45: 
+		LootGenControl_DropFrequency_Label: 59 (OnePercent)
+		LootGenControl_DropFrequency_Percentage: 0.01
+	#46: 
+		LootGenControl_DropFrequency_Label: 58 (OnePointFivePercent)
+		LootGenControl_DropFrequency_Percentage: 0.015
+	#47: 
+		LootGenControl_DropFrequency_Label: 56 (TwoPercent)
+		LootGenControl_DropFrequency_Percentage: 0.02
+	#48: 
+		LootGenControl_DropFrequency_Label: 53 (TwoPointFivePercent)
+		LootGenControl_DropFrequency_Percentage: 0.025
+	#49: 
+		LootGenControl_DropFrequency_Label: 48 (FifteenPercent)
+		LootGenControl_DropFrequency_Percentage: 0.15
+	#50: 
+		LootGenControl_DropFrequency_Label: 51 (TwentyPercent)
+		LootGenControl_DropFrequency_Percentage: 0.2
+	#51: 
+		LootGenControl_DropFrequency_Label: 50 (ThirtyPercent)
+		LootGenControl_DropFrequency_Percentage: 0.3
+	#52: 
+		LootGenControl_DropFrequency_Label: 49 (FortyPercent)
+		LootGenControl_DropFrequency_Percentage: 0.4
+	#53: 
+		LootGenControl_DropFrequency_Label: 54 (ThirtyThreePercent)
+		LootGenControl_DropFrequency_Percentage: 0.33
+	#54: 
+		LootGenControl_DropFrequency_Label: 55 (SevenPointFivePercent)
+		LootGenControl_DropFrequency_Percentage: 0.075
+LootGenControl_MoneyDropModifierTable: 
+	#1: 
+		LootGenControl_MoneyDropModifier_Label: 1 (Swarm)
+		LootGenControl_MoneyDropModifier_Multiplier: 0.8
+	#2: 
+		LootGenControl_MoneyDropModifier_Label: 5 (Normal)
+		LootGenControl_MoneyDropModifier_Multiplier: 1.0
+	#3: 
+		LootGenControl_MoneyDropModifier_Label: 4 (Signature)
+		LootGenControl_MoneyDropModifier_Multiplier: 2.0
+	#4: 
+		LootGenControl_MoneyDropModifier_Label: 12 (Good Signature)
+		LootGenControl_MoneyDropModifier_Multiplier: 2.0
+	#5: 
+		LootGenControl_MoneyDropModifier_Label: 7 (Elite)
+		LootGenControl_MoneyDropModifier_Multiplier: 2.5
+	#6: 
+		LootGenControl_MoneyDropModifier_Label: 8 (Good Elite)
+		LootGenControl_MoneyDropModifier_Multiplier: 2.5
+	#7: 
+		LootGenControl_MoneyDropModifier_Label: 2 (Elite Master)
+		LootGenControl_MoneyDropModifier_Multiplier: 3.0
+	#8: 
+		LootGenControl_MoneyDropModifier_Label: 9 (Good Elite Master)
+		LootGenControl_MoneyDropModifier_Multiplier: 3.0
+	#9: 
+		LootGenControl_MoneyDropModifier_Label: 3 (Nemesis)
+		LootGenControl_MoneyDropModifier_Multiplier: 3.5
+	#10: 
+		LootGenControl_MoneyDropModifier_Label: 11 (Good Nemesis)
+		LootGenControl_MoneyDropModifier_Multiplier: 3.5
+	#11: 
+		LootGenControl_MoneyDropModifier_Label: 6 (Arch-nemesis)
+		LootGenControl_MoneyDropModifier_Multiplier: 4.0
+	#12: 
+		LootGenControl_MoneyDropModifier_Label: 10 (Good Arch-nemesis)
+		LootGenControl_MoneyDropModifier_Multiplier: 4.0
+	#13: 
+		LootGenControl_MoneyDropModifier_Label: 31 (Normal)
+		LootGenControl_MoneyDropModifier_Multiplier: 1.25
+	#14: 
+		LootGenControl_MoneyDropModifier_Label: 29 (Elite)
+		LootGenControl_MoneyDropModifier_Multiplier: 5.0
+	#15: 
+		LootGenControl_MoneyDropModifier_Label: 25 (Elite Master)
+		LootGenControl_MoneyDropModifier_Multiplier: 7.0
+	#16: 
+		LootGenControl_MoneyDropModifier_Label: 28 (Nemesis)
+		LootGenControl_MoneyDropModifier_Multiplier: 10.0
+	#17: 
+		LootGenControl_MoneyDropModifier_Label: 27 (Normal)
+		LootGenControl_MoneyDropModifier_Multiplier: 1.25
+	#18: 
+		LootGenControl_MoneyDropModifier_Label: 32 (Elite)
+		LootGenControl_MoneyDropModifier_Multiplier: 5.0
+	#19: 
+		LootGenControl_MoneyDropModifier_Label: 26 (Elite Master)
+		LootGenControl_MoneyDropModifier_Multiplier: 6.0
+	#20: 
+		LootGenControl_MoneyDropModifier_Label: 30 (Nemesis)
+		LootGenControl_MoneyDropModifier_Multiplier: 10.0
+	#21: 
+		LootGenControl_MoneyDropModifier_Label: 39 (Rare Normal)
+		LootGenControl_MoneyDropModifier_Multiplier: 1.0
+	#22: 
+		LootGenControl_MoneyDropModifier_Label: 35 (Rare Swarm)
+		LootGenControl_MoneyDropModifier_Multiplier: 1.0
+	#23: 
+		LootGenControl_MoneyDropModifier_Label: 34 (Rare Signature)
+		LootGenControl_MoneyDropModifier_Multiplier: 4.0
+	#24: 
+		LootGenControl_MoneyDropModifier_Label: 38 (Rare Elite)
+		LootGenControl_MoneyDropModifier_Multiplier: 4.0
+	#25: 
+		LootGenControl_MoneyDropModifier_Label: 36 (Rare Elite Master)
+		LootGenControl_MoneyDropModifier_Multiplier: 6.0
+	#26: 
+		LootGenControl_MoneyDropModifier_Label: 37 (Rare Nemesis)
+		LootGenControl_MoneyDropModifier_Multiplier: 6.0
+	#27: 
+		LootGenControl_MoneyDropModifier_Label: 40 (Rare Arch-nemesis)
+		LootGenControl_MoneyDropModifier_Multiplier: 10.0
+LootGenControl_MoneyDropTable: 
+	#1: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 10
+		LootGenControl_MoneyDropTable_DropAmountVariance: 5
+	#2: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 12
+		LootGenControl_MoneyDropTable_DropAmountVariance: 5
+	#3: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 14
+		LootGenControl_MoneyDropTable_DropAmountVariance: 5
+	#4: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 17
+		LootGenControl_MoneyDropTable_DropAmountVariance: 5
+	#5: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 21
+		LootGenControl_MoneyDropTable_DropAmountVariance: 5
+	#6: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 25
+		LootGenControl_MoneyDropTable_DropAmountVariance: 5
+	#7: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 30
+		LootGenControl_MoneyDropTable_DropAmountVariance: 5
+	#8: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 36
+		LootGenControl_MoneyDropTable_DropAmountVariance: 5
+	#9: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 43
+		LootGenControl_MoneyDropTable_DropAmountVariance: 5
+	#10: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 51
+		LootGenControl_MoneyDropTable_DropAmountVariance: 10
+	#11: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 64
+		LootGenControl_MoneyDropTable_DropAmountVariance: 15
+	#12: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 75
+		LootGenControl_MoneyDropTable_DropAmountVariance: 15
+	#13: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 80
+		LootGenControl_MoneyDropTable_DropAmountVariance: 16
+	#14: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 110
+		LootGenControl_MoneyDropTable_DropAmountVariance: 20
+	#15: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 140
+		LootGenControl_MoneyDropTable_DropAmountVariance: 30
+	#16: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 170
+		LootGenControl_MoneyDropTable_DropAmountVariance: 35
+	#17: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 200
+		LootGenControl_MoneyDropTable_DropAmountVariance: 40
+	#18: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 230
+		LootGenControl_MoneyDropTable_DropAmountVariance: 45
+	#19: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 260
+		LootGenControl_MoneyDropTable_DropAmountVariance: 50
+	#20: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 290
+		LootGenControl_MoneyDropTable_DropAmountVariance: 60
+	#21: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 320
+		LootGenControl_MoneyDropTable_DropAmountVariance: 60
+	#22: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 350
+		LootGenControl_MoneyDropTable_DropAmountVariance: 70
+	#23: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 357
+		LootGenControl_MoneyDropTable_DropAmountVariance: 70
+	#24: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 364
+		LootGenControl_MoneyDropTable_DropAmountVariance: 75
+	#25: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 371
+		LootGenControl_MoneyDropTable_DropAmountVariance: 75
+	#26: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 378
+		LootGenControl_MoneyDropTable_DropAmountVariance: 75
+	#27: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 385
+		LootGenControl_MoneyDropTable_DropAmountVariance: 75
+	#28: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 392
+		LootGenControl_MoneyDropTable_DropAmountVariance: 80
+	#29: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 399
+		LootGenControl_MoneyDropTable_DropAmountVariance: 80
+	#30: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 406
+		LootGenControl_MoneyDropTable_DropAmountVariance: 80
+	#31: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 413
+		LootGenControl_MoneyDropTable_DropAmountVariance: 85
+	#32: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 420
+		LootGenControl_MoneyDropTable_DropAmountVariance: 85
+	#33: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 427
+		LootGenControl_MoneyDropTable_DropAmountVariance: 85
+	#34: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 434
+		LootGenControl_MoneyDropTable_DropAmountVariance: 90
+	#35: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 441
+		LootGenControl_MoneyDropTable_DropAmountVariance: 90
+	#36: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 448
+		LootGenControl_MoneyDropTable_DropAmountVariance: 90
+	#37: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 455
+		LootGenControl_MoneyDropTable_DropAmountVariance: 90
+	#38: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 462
+		LootGenControl_MoneyDropTable_DropAmountVariance: 95
+	#39: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 469
+		LootGenControl_MoneyDropTable_DropAmountVariance: 95
+	#40: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 476
+		LootGenControl_MoneyDropTable_DropAmountVariance: 95
+	#41: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 483
+		LootGenControl_MoneyDropTable_DropAmountVariance: 95
+	#42: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 500
+		LootGenControl_MoneyDropTable_DropAmountVariance: 100
+	#43: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 600
+		LootGenControl_MoneyDropTable_DropAmountVariance: 120
+	#44: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 630
+		LootGenControl_MoneyDropTable_DropAmountVariance: 130
+	#45: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 660
+		LootGenControl_MoneyDropTable_DropAmountVariance: 130
+	#46: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 700
+		LootGenControl_MoneyDropTable_DropAmountVariance: 140
+	#47: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 730
+		LootGenControl_MoneyDropTable_DropAmountVariance: 150
+	#48: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 770
+		LootGenControl_MoneyDropTable_DropAmountVariance: 150
+	#49: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 800
+		LootGenControl_MoneyDropTable_DropAmountVariance: 160
+	#50: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 850
+		LootGenControl_MoneyDropTable_DropAmountVariance: 170
+	#51: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 900
+		LootGenControl_MoneyDropTable_DropAmountVariance: 180
+	#52: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 940
+		LootGenControl_MoneyDropTable_DropAmountVariance: 190
+	#53: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 990
+		LootGenControl_MoneyDropTable_DropAmountVariance: 200
+	#54: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 1035
+		LootGenControl_MoneyDropTable_DropAmountVariance: 210
+	#55: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 1090
+		LootGenControl_MoneyDropTable_DropAmountVariance: 220
+	#56: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 1140
+		LootGenControl_MoneyDropTable_DropAmountVariance: 230
+	#57: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 1200
+		LootGenControl_MoneyDropTable_DropAmountVariance: 240
+	#58: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 1260
+		LootGenControl_MoneyDropTable_DropAmountVariance: 250
+	#59: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 1320
+		LootGenControl_MoneyDropTable_DropAmountVariance: 260
+	#60: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 1390
+		LootGenControl_MoneyDropTable_DropAmountVariance: 280
+	#61: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 1450
+		LootGenControl_MoneyDropTable_DropAmountVariance: 290
+	#62: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 1530
+		LootGenControl_MoneyDropTable_DropAmountVariance: 310
+	#63: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 1650
+		LootGenControl_MoneyDropTable_DropAmountVariance: 330
+	#64: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 1770
+		LootGenControl_MoneyDropTable_DropAmountVariance: 350
+	#65: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 1890
+		LootGenControl_MoneyDropTable_DropAmountVariance: 380
+	#66: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 2010
+		LootGenControl_MoneyDropTable_DropAmountVariance: 400
+	#67: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 2130
+		LootGenControl_MoneyDropTable_DropAmountVariance: 430
+	#68: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 2250
+		LootGenControl_MoneyDropTable_DropAmountVariance: 450
+	#69: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 2370
+		LootGenControl_MoneyDropTable_DropAmountVariance: 470
+	#70: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 2490
+		LootGenControl_MoneyDropTable_DropAmountVariance: 500
+	#71: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 2610
+		LootGenControl_MoneyDropTable_DropAmountVariance: 520
+	#72: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 2730
+		LootGenControl_MoneyDropTable_DropAmountVariance: 550
+	#73: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 2850
+		LootGenControl_MoneyDropTable_DropAmountVariance: 570
+	#74: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 2970
+		LootGenControl_MoneyDropTable_DropAmountVariance: 590
+	#75: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 3090
+		LootGenControl_MoneyDropTable_DropAmountVariance: 620
+	#76: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 3210
+		LootGenControl_MoneyDropTable_DropAmountVariance: 640
+	#77: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 3330
+		LootGenControl_MoneyDropTable_DropAmountVariance: 670
+	#78: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 3450
+		LootGenControl_MoneyDropTable_DropAmountVariance: 690
+	#79: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 3570
+		LootGenControl_MoneyDropTable_DropAmountVariance: 710
+	#80: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 3690
+		LootGenControl_MoneyDropTable_DropAmountVariance: 740
+	#81: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 3810
+		LootGenControl_MoneyDropTable_DropAmountVariance: 760
+	#82: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 3930
+		LootGenControl_MoneyDropTable_DropAmountVariance: 790
+	#83: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 4050
+		LootGenControl_MoneyDropTable_DropAmountVariance: 810
+	#84: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 4170
+		LootGenControl_MoneyDropTable_DropAmountVariance: 830
+	#85: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 4290
+		LootGenControl_MoneyDropTable_DropAmountVariance: 860
+	#86: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 4410
+		LootGenControl_MoneyDropTable_DropAmountVariance: 880
+	#87: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 4530
+		LootGenControl_MoneyDropTable_DropAmountVariance: 910
+	#88: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 4650
+		LootGenControl_MoneyDropTable_DropAmountVariance: 930
+	#89: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 4770
+		LootGenControl_MoneyDropTable_DropAmountVariance: 950
+	#90: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 4890
+		LootGenControl_MoneyDropTable_DropAmountVariance: 980
+	#91: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 5010
+		LootGenControl_MoneyDropTable_DropAmountVariance: 1000
+	#92: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 5130
+		LootGenControl_MoneyDropTable_DropAmountVariance: 1030
+	#93: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 5250
+		LootGenControl_MoneyDropTable_DropAmountVariance: 1050
+	#94: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 5370
+		LootGenControl_MoneyDropTable_DropAmountVariance: 1070
+	#95: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 5490
+		LootGenControl_MoneyDropTable_DropAmountVariance: 1100
+	#96: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 5610
+		LootGenControl_MoneyDropTable_DropAmountVariance: 1120
+	#97: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 5730
+		LootGenControl_MoneyDropTable_DropAmountVariance: 1150
+	#98: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 5850
+		LootGenControl_MoneyDropTable_DropAmountVariance: 1170
+	#99: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 5970
+		LootGenControl_MoneyDropTable_DropAmountVariance: 1190
+	#100: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 6090
+		LootGenControl_MoneyDropTable_DropAmountVariance: 1220
+	#101: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 6210
+		LootGenControl_MoneyDropTable_DropAmountVariance: 1240
+	#102: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 6330
+		LootGenControl_MoneyDropTable_DropAmountVariance: 1270
+	#103: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 6450
+		LootGenControl_MoneyDropTable_DropAmountVariance: 1290
+	#104: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 6570
+		LootGenControl_MoneyDropTable_DropAmountVariance: 1310
+	#105: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 6690
+		LootGenControl_MoneyDropTable_DropAmountVariance: 1340
+	#106: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 6810
+		LootGenControl_MoneyDropTable_DropAmountVariance: 1360
+	#107: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 6930
+		LootGenControl_MoneyDropTable_DropAmountVariance: 1390
+	#108: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 7050
+		LootGenControl_MoneyDropTable_DropAmountVariance: 1410
+	#109: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 7170
+		LootGenControl_MoneyDropTable_DropAmountVariance: 1430
+	#110: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 7290
+		LootGenControl_MoneyDropTable_DropAmountVariance: 1460
+	#111: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 7410
+		LootGenControl_MoneyDropTable_DropAmountVariance: 1480
+	#112: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 7530
+		LootGenControl_MoneyDropTable_DropAmountVariance: 1510
+	#113: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 7650
+		LootGenControl_MoneyDropTable_DropAmountVariance: 1530
+	#114: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 7770
+		LootGenControl_MoneyDropTable_DropAmountVariance: 1550
+	#115: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 7890
+		LootGenControl_MoneyDropTable_DropAmountVariance: 1580
+	#116: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 8010
+		LootGenControl_MoneyDropTable_DropAmountVariance: 1600
+	#117: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 8130
+		LootGenControl_MoneyDropTable_DropAmountVariance: 1630
+	#118: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 8250
+		LootGenControl_MoneyDropTable_DropAmountVariance: 1650
+	#119: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 8370
+		LootGenControl_MoneyDropTable_DropAmountVariance: 1670
+	#120: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 8490
+		LootGenControl_MoneyDropTable_DropAmountVariance: 1700
+	#121: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 8550
+		LootGenControl_MoneyDropTable_DropAmountVariance: 1710
+	#122: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 8610
+		LootGenControl_MoneyDropTable_DropAmountVariance: 1720
+	#123: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 8670
+		LootGenControl_MoneyDropTable_DropAmountVariance: 1730
+	#124: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 8730
+		LootGenControl_MoneyDropTable_DropAmountVariance: 1750
+	#125: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 8790
+		LootGenControl_MoneyDropTable_DropAmountVariance: 1760
+	#126: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 8850
+		LootGenControl_MoneyDropTable_DropAmountVariance: 1770
+	#127: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 8910
+		LootGenControl_MoneyDropTable_DropAmountVariance: 1780
+	#128: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 8970
+		LootGenControl_MoneyDropTable_DropAmountVariance: 1790
+	#129: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 9030
+		LootGenControl_MoneyDropTable_DropAmountVariance: 1810
+	#130: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 9090
+		LootGenControl_MoneyDropTable_DropAmountVariance: 1820
+	#131: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 9150
+		LootGenControl_MoneyDropTable_DropAmountVariance: 1830
+	#132: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 9210
+		LootGenControl_MoneyDropTable_DropAmountVariance: 1840
+	#133: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 9270
+		LootGenControl_MoneyDropTable_DropAmountVariance: 1850
+	#134: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 9330
+		LootGenControl_MoneyDropTable_DropAmountVariance: 1870
+	#135: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 9390
+		LootGenControl_MoneyDropTable_DropAmountVariance: 1880
+	#136: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 9450
+		LootGenControl_MoneyDropTable_DropAmountVariance: 1890
+	#137: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 9510
+		LootGenControl_MoneyDropTable_DropAmountVariance: 1900
+	#138: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 9570
+		LootGenControl_MoneyDropTable_DropAmountVariance: 1910
+	#139: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 9630
+		LootGenControl_MoneyDropTable_DropAmountVariance: 1930
+	#140: 
+		LootGenControl_MoneyDropTable_DropAmountMaximum: 9690
+		LootGenControl_MoneyDropTable_DropAmountVariance: 1940
