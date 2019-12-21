@@ -2273,6 +2273,7 @@
 2882 - ShowMayaStyleUIPlanes, type=boolean, data=0, default value=1
 2883 - World_RestartOnMigrationFailure, type=boolean, data=0, default value=1
 2884 - LoadAllBrushesOnStartup, type=boolean, data=0, default value=0
+2885 - CharGen_ConvertIID, type=InstanceID, data=0, default value=null
 2887 - WAL_Finger_CharDeleted, type=boolean, data=0, default value=0
 2888 - WAL_Finger_CharName, type=String, data=0, default value=null
 2889 - WAL_Finger_CharIID, type=Long 64bits, data=0, default value=null
@@ -2281,6 +2282,7 @@
 2892 - WAL_Finger_CharMetaName, type=String, data=0, default value=null
 2893 - WAL_Finger_Lock, type=Int, data=0, default value=null
 2894 - WAL_Finger_UpdateDate, type=String, data=0, default value=null
+2895 - Physics_MoveTo_GameRadiusOverride, type=Float, data=0, default value=-1.0
 2896 - World_SMTP_FullWSLFrameDumps, type=boolean, data=0, default value=null
 268435457 - Pedigree_Surname_LevelRestriction, type=Int, data=0, default value=0
 268435458 - Auction_ID, type=InstanceID, data=0, default value=[0,0]
@@ -23906,3 +23908,13 @@
 268462059 - WE_minas_morgul_instance_6man_leading_charge_lock, type=boolean, data=0, default value=null
 268462061 - PrivateEncounter_Control_RestrictMaxPlayersExclusionEntry, type=Data File ID, data=69, default value=null
 268462062 - PrivateEncounter_Control_RestrictMaxPlayersExclusionArray, type=Array, data=0, default value=null
+268462063 - WE_Minas_Morgul_Camp4_InvasionState, type=Int, data=0, default value=null
+268462064 - WE_Breeland_Wildwood_Active, type=boolean, data=0, default value=null
+268462065 - World_PopTrackMaxPlayer_Bree_Wildwoods, type=Int, data=0, default value=0
+268462066 - BoS_LowCapacity_Threshold, type=Float, data=0, default value=null
+268462067 - BoS_MediumCapacity_Threshold, type=Float, data=0, default value=null
+268462068 - WE_minas_morgul_instance_dark_archive_boss2_config, type=Int, data=0, default value=null
+268462069 - WE_minas_morgul_instance_dark_archive_boss1_config, type=Int, data=0, default value=null
+268462070 - Inventory_BoundToCharacterViaContainedItem, type=boolean, data=0, default value=0
+268462071 - Inventory_BoundToAccountViaContainedItem, type=boolean, data=0, default value=0
+268462076 - World_RaceChangeAccessLevel, type=Enum Mapper 1, data=587203628, default value=2

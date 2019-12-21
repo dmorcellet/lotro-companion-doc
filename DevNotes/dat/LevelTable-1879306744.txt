@@ -762,7 +762,7 @@ AdvTable_DerivedStat_Configuration:
 				AdvTable_DerivedStat_Formula_Value: 0.0
 			#5: 
 				AdvTable_DerivedStat_Formula_Stat: 3 (Fate)
-				AdvTable_DerivedStat_Formula_Value: 0.0
+				AdvTable_DerivedStat_Formula_Value: 0.5
 			#6: 
 				AdvTable_DerivedStat_Formula_Stat: 7 (War-steed Strength)
 				AdvTable_DerivedStat_Formula_Value: 0.0
