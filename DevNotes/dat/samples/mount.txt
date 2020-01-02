@@ -1,0 +1,350 @@
+******** Properties: 1879159992
+Collection_Hide_Entry: 0
+Collection_Piece_CustomCamera: 268435489 (Camera_2)
+Collection_Piece_DisplayEntDID: 1191198634
+Collection_Piece_SourceDesc: 
+	#1: Available for barter from the Iron Garrison Miners reputation barterers.
+Collection_Webstore_Item: 0
+Combat_ClientCombatLog_HitDisplayType: 3 (Disabled)
+Skill_ActionDurationContribution: 3.5
+Skill_AllowedLHImplement: -2147221505 (AnyAndNone)
+Skill_AllowedRHImplement: -2147221505 (AnyAndNone)
+Skill_AllowedRangedImplement: -2147221505 (AnyAndNone)
+Skill_AllowedWhileMounted: 0
+Skill_AllowedWhileSwimming: 0
+Skill_Allowed_When_Not_Violent: 1
+Skill_Allowed_When_Not_Violent_Override: 0 (Invalid)
+Skill_Allowed_When_Violent: 0
+Skill_Allowed_When_Violent_Override: 0 (Invalid)
+Skill_AlwaysApplyUserEffects: 0
+Skill_AnimationDurationMultiplierModOverride: -1.0
+Skill_AnimationMayFail: 1
+Skill_AnimationMode: 4 (Unarmed)
+Skill_ApplyCriticalEffectsPerHook: 1
+Skill_AreaConcerned: 1
+Skill_AreaEffectDetectionAnchor: 0 (Undef)
+Skill_AreaEffectMaxTargets: 0
+Skill_AttackHookList: 
+	#1: 
+		Skill_AttackHook_ActionDurationContributionMultiplier: 0.0
+		Skill_AttackHook_AdditionalThreatMod_Array: 
+			#1: 268440650 (Skill_AdditionalThreat_AllSkillsMod)
+			#2: 0 (Invalid)
+			#3: 0 (Invalid)
+			#4: 0 (Invalid)
+		Skill_AttackHook_AdditionalThreatType: 0 (Undef)
+		Skill_AttackHook_AdditionalThreatValue: 0.0
+		Skill_AttackHook_AdditionalThreatValue_Progression: 0
+		Skill_AttackHook_AdditionalThreat_AbsMultiplier_List: 
+			#1: 268454478 (Combat_GearScore_ThreatMult_Value)
+		Skill_AttackHook_AnimationHookIndex: 1
+		Skill_AttackHook_BehaviorTargetHit: 0
+		Skill_AttackHook_BehaviorWeaponHit: 0
+		Skill_AttackHook_ChanceCriticalHit: 0.0
+		Skill_AttackHook_Cosmetic: 0
+		Skill_AttackHook_CriticalDamageMultiplier: 1.5
+		Skill_AttackHook_CriticalDamageMultiplier_Mod_Array: 
+			#1: 0 (Invalid)
+			#2: 0 (Invalid)
+			#3: 0 (Invalid)
+		Skill_AttackHook_CriticalHitPoints_Mod_Array: 
+			#1: 0 (Invalid)
+			#2: 0 (Invalid)
+			#3: 0 (Invalid)
+		Skill_AttackHook_CriticalHit_Mod_Array: 
+			#1: 0 (Invalid)
+			#2: 0 (Invalid)
+			#3: 0 (Invalid)
+		Skill_AttackHook_CriticalTargetEffectList: 
+			#1: 
+				Skill_Effect: 0
+				Skill_EffectDuration: -1.0
+				Skill_EffectImplementUsage: 0 (Undef)
+				Skill_EffectSpellcraft: -1.0
+			#2: 
+				Skill_Effect: 0
+				Skill_EffectDuration: -1.0
+				Skill_EffectImplementUsage: 0 (Undef)
+				Skill_EffectSpellcraft: -1.0
+		Skill_AttackHook_CriticalTargetEffectList_AdditiveArray: 
+			#1: 0 (Invalid)
+			#2: 0 (Invalid)
+			#3: 0 (Invalid)
+		Skill_AttackHook_CriticalTargetEffectList_Override: 0 (Invalid)
+		Skill_AttackHook_DPSAddMod_Mod_Array: 
+			#1: 0 (Invalid)
+			#2: 0 (Invalid)
+			#3: 0 (Invalid)
+		Skill_AttackHook_DPSAddMod_Progression: 0
+		Skill_AttackHook_DamageAddContributionMultiplier: 0.0
+		Skill_AttackHook_DamageQualifier: 0 (Undef)
+		Skill_AttackHook_DamageType: 0 (Undef)
+		Skill_AttackHook_DamageTypeOverride: 0 (Invalid)
+		Skill_AttackHook_DefensePointsModifier: 0.0
+		Skill_AttackHook_DefensePointsModifier_Mod_Array: 
+			#1: 0 (Invalid)
+			#2: 0 (Invalid)
+			#3: 0 (Invalid)
+		Skill_AttackHook_DefensePointsModifier_Progression: 0
+		Skill_AttackHook_HookDamageMax: 0.0
+		Skill_AttackHook_HookDamageMaxVariance: 0.0
+		Skill_AttackHook_HookDamageMax_Mod_Array: 
+			#1: 0 (Invalid)
+			#2: 0 (Invalid)
+			#3: 0 (Invalid)
+		Skill_AttackHook_HookDamageMax_Progression: 0
+		Skill_AttackHook_HookDamageModifier: 1.0
+		Skill_AttackHook_HookDamageModifier_Mod_Array: 
+			#1: 0 (Invalid)
+			#2: 0 (Invalid)
+			#3: 0 (Invalid)
+			#4: 0 (Invalid)
+			#5: 0 (Invalid)
+		Skill_AttackHook_ImplementContributionMultiplier: 0.0
+		Skill_AttackHook_MitigationModifier: 0.0
+		Skill_AttackHook_MitigationModifier_Mod_Array: 
+			#1: 0 (Invalid)
+			#2: 0 (Invalid)
+			#3: 0 (Invalid)
+		Skill_AttackHook_PointsCriticalHit: 0.0
+		Skill_AttackHook_PositionalDamageMultiplier: 1.0
+		Skill_AttackHook_PositionalDamageMultiplier_Mod_Array: 
+			#1: 0 (Invalid)
+			#2: 0 (Invalid)
+			#3: 0 (Invalid)
+		Skill_AttackHook_PositionalTargetEffectList: 
+			#1: 
+				Skill_Effect: 0
+				Skill_EffectDuration: -1.0
+				Skill_EffectImplementUsage: 0 (Undef)
+				Skill_EffectSpellcraft: -1.0
+			#2: 
+				Skill_Effect: 0
+				Skill_EffectDuration: -1.0
+				Skill_EffectImplementUsage: 0 (Undef)
+				Skill_EffectSpellcraft: -1.0
+		Skill_AttackHook_PositionalTargetEffectList_AdditiveArray: 
+			#1: 0 (Invalid)
+			#2: 0 (Invalid)
+			#3: 0 (Invalid)
+		Skill_AttackHook_PositionalTargetEffectList_Override: 0 (Invalid)
+		Skill_AttackHook_SuperCriticalDamageMultiplier: 2.0
+		Skill_AttackHook_SuperCriticalDamageMultiplier_Mod_Array: 
+			#1: 0 (Invalid)
+			#2: 0 (Invalid)
+			#3: 0 (Invalid)
+		Skill_AttackHook_SuperCriticalTargetEffectList: 
+			#1: 
+				Skill_Effect: 0
+				Skill_EffectDuration: -1.0
+				Skill_EffectImplementUsage: 0 (Undef)
+				Skill_EffectSpellcraft: -1.0
+			#2: 
+				Skill_Effect: 0
+				Skill_EffectDuration: -1.0
+				Skill_EffectImplementUsage: 0 (Undef)
+				Skill_EffectSpellcraft: -1.0
+		Skill_AttackHook_SuperCriticalTargetEffectList_AdditiveArray: 
+			#1: 0 (Invalid)
+			#2: 0 (Invalid)
+			#3: 0 (Invalid)
+		Skill_AttackHook_SuperCriticalTargetEffectList_Override: 0 (Invalid)
+		Skill_AttackHook_TargetEffectList: 
+			#1: 
+				Skill_Effect: 0
+				Skill_EffectDuration: -1.0
+				Skill_EffectImplementUsage: 0 (Undef)
+				Skill_EffectSpellcraft: -1.0
+			#2: 
+				Skill_Effect: 0
+				Skill_EffectDuration: -1.0
+				Skill_EffectImplementUsage: 0 (Undef)
+				Skill_EffectSpellcraft: -1.0
+			#3: 
+				Skill_Effect: 0
+				Skill_EffectDuration: -1.0
+				Skill_EffectImplementUsage: 0 (Undef)
+				Skill_EffectSpellcraft: -1.0
+			#4: 
+				Skill_Effect: 0
+				Skill_EffectDuration: -1.0
+				Skill_EffectImplementUsage: 0 (Undef)
+				Skill_EffectSpellcraft: -1.0
+			#5: 
+				Skill_Effect: 0
+				Skill_EffectDuration: -1.0
+				Skill_EffectImplementUsage: 0 (Undef)
+				Skill_EffectSpellcraft: -1.0
+			#6: 
+				Skill_Effect: 0
+				Skill_EffectDuration: -1.0
+				Skill_EffectImplementUsage: 0 (Undef)
+				Skill_EffectSpellcraft: -1.0
+		Skill_AttackHook_TargetEffectList_AdditiveArray: 
+			#1: 0 (Invalid)
+			#2: 0 (Invalid)
+			#3: 0 (Invalid)
+			#4: 0 (Invalid)
+			#5: 0 (Invalid)
+			#6: 0 (Invalid)
+		Skill_AttackHook_TargetEffectList_Override: 0 (Invalid)
+		Skill_AttackHook_UsesNatural: 0
+		Skill_AttackHook_UsesPrimaryImplement: 0
+		Skill_AttackHook_UsesRangedImplement: 0
+		Skill_AttackHook_UsesSecondaryImplement: 0
+		Skill_AttackHook_UsesTactical: 0
+		Skill_AttackHook_fxAttackerHit: 0
+		Skill_AttackHook_fxTargetHit: 0
+		Skill_AttackHook_fxWeaponHit: 0
+		Skill_CanCriticalHit: 0
+Skill_BarringEffectList: 
+	#1: 1879174081
+Skill_BarringTargetEquivClass: 0 (Undef)
+Skill_BarringTargetEquivClass_MustBeSource: 0
+Skill_BehaviorOtherList: 
+	#1: 
+		Skill_Behavior: 268436170 (Cbt_Null_Behavior)
+Skill_BehaviorSelfList: 
+	#1: 
+		Skill_Behavior: 268436170 (Cbt_Null_Behavior)
+Skill_BlockChanceModifier: 0.0
+Skill_BlockPointsModifier: 0.0
+Skill_BlockPointsModifier_Progression: 0
+Skill_BreaksSourceStealthOnUse: 1
+Skill_BreaksTargetStealthOnUse: 1
+Skill_CanBeBlocked: 0
+Skill_CanBeEvaded: 0
+Skill_CanBeParried: 0
+Skill_CanMiss: 0
+Skill_Category: 88 (Standard Mounts:)
+Skill_CheckTriggeredEffectUsability: 1
+Skill_Combo_DisplayComboOverlay: 1
+Skill_Combo_StateProperty: 0 (Invalid)
+Skill_ConjunctionWindupScript: 0
+Skill_CriticalEffectListOverride: 0 (Invalid)
+Skill_Desc: 
+	#1: As a great ally of the Iron Garrison Miners, one can expect access to their most well-trained and quickest goats.  This goat can move as fast as most horses.
+Skill_DisablesDefaultAttack: 1
+Skill_EnablesDefaultAttack: 0
+Skill_EvadeChanceModifier: 0.0
+Skill_EvadePointsModifier: 0.0
+Skill_EvadePointsModifier_Progression: 0
+Skill_ExecutionFailureScript: 0
+Skill_Executor_RequiredVital_Array: 
+	#1: 
+		Skill_Executor_RequiredVital_Operator: 0 (Undef)
+		Skill_Executor_RequiredVital_Type: 1 (Morale)
+		Skill_Executor_RequiredVital_Value: -1.0
+Skill_Harmful: 0
+Skill_Icon: 1092115678
+Skill_IgnoresPetAssist: 0
+Skill_IgnoresResetTime: 0
+Skill_Immediate: 0
+Skill_InductionAction: 1879089214
+Skill_IsConjunctionAction: 0
+Skill_IsConjunctionContribution: 0
+Skill_ItemWearGateType: 1 (Never)
+Skill_LargeIcon: 1092115678
+Skill_MaxRange: -1.0
+Skill_MinRange: -1.0
+Skill_MissChanceModifier: 0.0
+Skill_MovementMissChanceModifier: 0.0
+Skill_MustBeStealthed: 0
+Skill_MustBeStealthed_Override: 0 (Invalid)
+Skill_Name: 
+	#1: Prized Nimble Redhorn-goat
+Skill_ParryChanceModifier: 0.0
+Skill_ParryPointsModifier: 0.0
+Skill_ParryPointsModifier_Progression: 0
+Skill_Pip_Toward_Home: 0
+Skill_PositionalHeading: -1
+Skill_PositionalSpread: 0
+Skill_RequiredAreaEffectLineOfSight: 1
+Skill_RequiredDefeated: 0
+Skill_RequiredFellow: 0
+Skill_RequiredLineOfSight: 1
+Skill_RequiredTargetEquivClass: 0 (Undef)
+Skill_RequiredTargetEquivClass_MustBeSource: 0
+Skill_RequiresAIMoveTo: 0
+Skill_RequiresFacing: 0
+Skill_Resist_Category: 0
+Skill_Resist_Chance_Modifier: 0.0
+Skill_Resist_Points_Modifier: 0.0
+Skill_Resist_Points_Modifier_Progression: 0
+Skill_ShouldIgnoreRefreshingToggleEffect: 1
+Skill_SkillRecoveryTime: 0.0
+Skill_SkillType: 8796093022208 (Nonharmful)
+Skill_SmallIcon: 1092115678
+Skill_SubCategory: 6 (Reputation Mounts:)
+Skill_TargetMustBeInCombat: 0
+Skill_TargetMustNotBeInCombat: 0
+Skill_TargetSelectionMode: 5 (Self)
+Skill_Target_MustNotBeTappedToOther: 0
+Skill_Target_RestrictedCombatStates: 0
+Skill_Threat: 0
+Skill_Toggle_Effect_ImplementUsage: 0 (Undef)
+Skill_Toggle_Effect_List: 
+	#1: 
+		Skill_Toggle_Effect: 1879159968
+		Skill_Toggle_Effect_Spellcraft: -1.0
+Skill_Toggle_Hook_Number: 1
+Skill_Toggle_IgnoreCombatStateRequirements: 1
+Skill_Toggle_IgnoreViolenceRequirements: 1
+Skill_Toggle_User_Effect_ImplementUsage: 0 (Undef)
+Skill_Toggle_VitalCostPerSecondList: 
+	#1: 
+		Skill_Vital_Mod_Array: 
+			#1: 0 (Invalid)
+			#2: 0 (Invalid)
+			#3: 0 (Invalid)
+		Skill_Vital_Points: 0.0
+		Skill_Vital_Points_Progression: 0
+		Skill_Vital_Type: 2 (Power)
+	#2: 
+		Skill_Vital_Mod_Array: 
+			#1: 0 (Invalid)
+			#2: 0 (Invalid)
+			#3: 0 (Invalid)
+		Skill_Vital_Points: 0.0
+		Skill_Vital_Points_Progression: 0
+		Skill_Vital_Type: 1 (Morale)
+Skill_TravelLinkToCheckFor: 0 (Undef)
+Skill_UsableWhileMoving: 1
+Skill_UserEffectList_Override: 0 (Invalid)
+Skill_ValidTargetMonster: 0
+Skill_ValidTargetNPC: 0
+Skill_ValidTargetPet: 0
+Skill_ValidTargetPlayer: 1
+Skill_VitalCostList: 
+	#1: 
+		Skill_Vital_Mod_Array: 
+			#1: 0 (Invalid)
+			#2: 0 (Invalid)
+		Skill_Vital_Percent: 0.0
+		Skill_Vital_Points: 0.0
+		Skill_Vital_Points_Progression: 0
+		Skill_Vital_Type: 1 (Morale)
+	#2: 
+		Skill_Vital_Consumes_All: 0
+		Skill_Vital_Mod_Array: 
+			#1: 0 (Invalid)
+			#2: 0 (Invalid)
+			#3: 0 (Invalid)
+			#4: 0 (Invalid)
+		Skill_Vital_Percent: 0.0
+		Skill_Vital_Points: 0.0
+		Skill_Vital_Points_Progression: 0
+		Skill_Vital_Type: 2 (Power)
+Skill_VitalMaxList: 
+	#1: 
+		Skill_Vital_Percent: -1.0
+		Skill_Vital_Points: -1.0
+		Skill_Vital_Type: 1 (Morale)
+	#2: 
+		Skill_Vital_Percent: -1.0
+		Skill_Vital_Points: -1.0
+		Skill_Vital_Type: 2 (Power)
+UI_Examination_Tooltip_0Click_Element: 268437243 (Skill_ExamineLayout)
+UI_Examination_Tooltip_0Click_Layout: 570425344
+UI_Examination_Tooltip_1Click_Element: 268437243 (Skill_ExamineLayout)
+UI_Examination_Tooltip_1Click_Layout: 570425344
