@@ -6152,7 +6152,7 @@ AdvTable_StartingInventory_List:
 AdvTable_StatDescriptionArray: 
 	#1: 
 		AdvTable_StatDescription_Description: 
-			#1: As a Beorning, Might is very important for you. Might increases your Physical Mastery, Tactical Mastery, and Parry Rating.
+			#1: As a Beorning, Might is very important for you. Might increases your Physical Mastery, Tactical Mastery, Block, Parry, Evade, and Critical Ratings.
 		AdvTable_StatDescription_Stat: 4 (Might)
 	#2: 
 		AdvTable_StatDescription_Description: 

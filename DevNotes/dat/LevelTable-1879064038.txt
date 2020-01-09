@@ -6226,7 +6226,7 @@ AdvTable_StartingInventory_List:
 AdvTable_StatDescriptionArray: 
 	#1: 
 		AdvTable_StatDescription_Description: 
-			#1: As a Guardian, Might is very important for you. Might increases your Physical Mastery, Tactical Mastery, Block Rating, and Parry Rating.
+			#1: As a Guardian, Might is very important for you. Might increases your Physical Mastery, Block, and Parry Ratings.
 		AdvTable_StatDescription_Stat: 4 (Might)
 	#2: 
 		AdvTable_StatDescription_Description: 

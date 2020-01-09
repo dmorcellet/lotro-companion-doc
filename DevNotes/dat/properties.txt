@@ -23906,6 +23906,7 @@
 268462057 - Version_Title_StampProperty_52, type=boolean, data=0, default value=null
 268462058 - WE_minas_morgul_instance_raid_leading_charge_lock, type=boolean, data=0, default value=null
 268462059 - WE_minas_morgul_instance_6man_leading_charge_lock, type=boolean, data=0, default value=null
+268462060 - Set_MaxPlayerLevel, type=Int, data=0, default value=-1
 268462061 - PrivateEncounter_Control_RestrictMaxPlayersExclusionEntry, type=Data File ID, data=69, default value=null
 268462062 - PrivateEncounter_Control_RestrictMaxPlayersExclusionArray, type=Array, data=0, default value=null
 268462063 - WE_Minas_Morgul_Camp4_InvasionState, type=Int, data=0, default value=null
@@ -23917,4 +23918,7 @@
 268462069 - WE_minas_morgul_instance_dark_archive_boss1_config, type=Int, data=0, default value=null
 268462070 - Inventory_BoundToCharacterViaContainedItem, type=boolean, data=0, default value=0
 268462071 - Inventory_BoundToAccountViaContainedItem, type=boolean, data=0, default value=0
+268462072 - Discount_Housing_Rohan_foothills, type=Float, data=0, default value=0.0
+268462073 - Discount_Housing_Rohan_plains, type=Float, data=0, default value=0.0
 268462076 - World_RaceChangeAccessLevel, type=Enum Mapper 1, data=587203628, default value=2
+268462078 - Trait_CleanupRacialTraits, type=boolean, data=0, default value=null
