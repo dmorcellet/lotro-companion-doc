@@ -23922,3 +23922,7 @@
 268462073 - Discount_Housing_Rohan_plains, type=Float, data=0, default value=0.0
 268462076 - World_RaceChangeAccessLevel, type=Enum Mapper 1, data=587203628, default value=2
 268462078 - Trait_CleanupRacialTraits, type=boolean, data=0, default value=null
+268462144 - Version_POItem_StampProperty_220, type=boolean, data=0, default value=null
+268462145 - Version_POItem_StampProperty_219, type=boolean, data=0, default value=null
+268462146 - Version_POItem_StampProperty_221, type=boolean, data=0, default value=null
+268462147 - Version_POItem_StampProperty_222, type=boolean, data=0, default value=null
