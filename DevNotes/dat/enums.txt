@@ -60420,6 +60420,10 @@ GameUI [ UI_StablesCollection_TravelNPC [ entity/npc/npc_travel/npc_travel_gondo
 	268453437 => shelobs_lair_button
 	268453438 => area_shelobs_lair
 	268453439 => toggle_area_shelobs_lair
+	268453440 => toggle_shelobs_lair
+	268453441 => Craft_Recipe_OptionalIngredient5
+	268453442 => Craft_Recipe_OptionalIngredient_PageCtrl
+	268453443 => Craft_Recipe_Checkbox_TextLabel
 Enum: UIElementMessage, (id=587202768)
 	268435457 => CharGen_FadeOut_Done
 	268435458 => combo_completion_done
