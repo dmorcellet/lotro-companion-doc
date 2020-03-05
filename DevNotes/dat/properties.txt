@@ -2284,6 +2284,8 @@
 2894 - WAL_Finger_UpdateDate, type=String, data=0, default value=null
 2895 - Physics_MoveTo_GameRadiusOverride, type=Float, data=0, default value=-1.0
 2896 - World_SMTP_FullWSLFrameDumps, type=boolean, data=0, default value=null
+2898 - World_Havok_Remove_Degenerate_MOPP_Triangles, type=boolean, data=0, default value=0
+2900 - World_Landscape_Update_Enable_Amortization, type=boolean, data=0, default value=1
 268435457 - Pedigree_Surname_LevelRestriction, type=Int, data=0, default value=0
 268435458 - Auction_ID, type=InstanceID, data=0, default value=[0,0]
 268435459 - MiniGame.FreezeTag@Player.m_bIsPlaying, type=boolean, data=0, default value=null
@@ -23922,7 +23924,73 @@
 268462073 - Discount_Housing_Rohan_plains, type=Float, data=0, default value=0.0
 268462076 - World_RaceChangeAccessLevel, type=Enum Mapper 1, data=587203628, default value=2
 268462078 - Trait_CleanupRacialTraits, type=boolean, data=0, default value=null
+268462079 - World_Webstore_BaseUrl_SystemBrowser, type=String, data=0, default value=null
+268462080 - World_PopTrackMaxPlayer_Wells_of_Anduin_Gundabad, type=Int, data=0, default value=0
+268462081 - World_PopTrackMaxPlayer_Wells_of_Anduin_All, type=Int, data=0, default value=0
+268462082 - Reputation_Faction_Housing_Rohan_Foothills_EarnedReputation, type=Long 64bits, data=0, default value=null
+268462083 - Reputation_Faction_Housing_Rohan_Plains_CurrentTier, type=Enum Mapper 1, data=587203059, default value=null
+268462084 - Reputation_Faction_Housing_Rohan_Plains_EarnedReputation, type=Long 64bits, data=0, default value=null
+268462085 - Reputation_Faction_Housing_Rohan_Foothills_CurrentTier, type=Enum Mapper 1, data=587203059, default value=null
+268462086 - World_Reputation_Housing_Rohan_Plains_Cap, type=Enum Mapper 1, data=587203059, default value=null
+268462087 - World_Reputation_Housing_Rohan_Foothills_Cap, type=Enum Mapper 1, data=587203059, default value=null
+268462088 - CraftRecipe_Cooldown_MithrilResetCost, type=Int, data=0, default value=0
+268462089 - Account_RaceChangeCredits, type=Int, data=0, default value=null
+268462090 - WE_minas_morgul_instance_raid_boss_one_config, type=Int, data=0, default value=null
+268462092 - Character_PreviousRace, type=Enum Mapper 1, data=587202571, default value=null
+268462094 - Character_PreviousRaceGender_Array, type=Array, data=0, default value=null
+268462095 - Character_PreviousRaceGender_Struct, type=Struct, data=0, default value=null
+268462096 - Character_PreviousGender, type=Enum Mapper 1, data=587202576, default value=null
+268462097 - WE_Treasure_Bugan_Active, type=boolean, data=0, default value=null
+268462098 - Character_HasNotEnteredWorldSinceRaceChange, type=boolean, data=0, default value=null
+268462099 - Skill_Beorning_PipGen_Transform, type=Int, data=0, default value=0
+268462100 - ze_instance_int_checkpoint_defeat, type=Int, data=0, default value=null
+268462101 - Skill_Beorning_ItemSet_ShakeFree_CD, type=Float, data=0, default value=0.0
+268462102 - Skill_Beorning_Itemset_Counter_CD_Reduction, type=Array, data=0, default value=null
+268462103 - Skill_Burglar_Itemset_Gamble_Loaded_Red, type=Array, data=0, default value=null
+268462104 - Skill_Burglar_Itemset_Gamble_Loaded_Blue_Distraction, type=Array, data=0, default value=null
+268462105 - Skill_Burglar_Itemset_Gamble_Loaded_Any, type=Array, data=0, default value=null
+268462106 - Skill_Burglar_Itemset_Gamble_Loaded_Green, type=Array, data=0, default value=null
+268462107 - Skill_Burglar_Itemset_Gamble_Loaded_Blue, type=Array, data=0, default value=null
+268462109 - Skill_Burglar_Itemset_Aim_Cooldown, type=Float, data=0, default value=0.0
+268462110 - Skill_Burglar_Itemset_Trickster_Duration, type=Float, data=0, default value=0.0
+268462111 - Skill_Warden_Neversurrender_Mitigation, type=Float, data=0, default value=0.0
+268462112 - WE_minas_morgul_instance_raid_boss1_active, type=boolean, data=0, default value=null
+268462113 - WE_minas_morgul_instance_raid_boss4_active, type=boolean, data=0, default value=null
+268462114 - WE_minas_morgul_instance_raid_boss3_active, type=boolean, data=0, default value=null
+268462115 - WE_minas_morgul_instance_raid_boss2_active, type=boolean, data=0, default value=null
+268462116 - Itemset_AdditivePulseCountModifier_Hunter_Bleeds, type=Int, data=0, default value=0
+268462117 - Itemset_Hunter_Override_Pressonward_Runspeed, type=Array, data=0, default value=null
+268462118 - Itemset_Captain_Battleshout_ForceAttack, type=Array, data=0, default value=null
+268462119 - Itemset_Captain_Battleshout_CD, type=Float, data=0, default value=0.0
+268462120 - Itemset_Captain_StandardOfHonour_CD, type=Float, data=0, default value=0.0
+268462121 - Itemset_Guardian_Juggernaut_CD, type=Float, data=0, default value=0.0
+268462122 - Itemset_AdditivePulseCountModifier_Guardian_Bleeds, type=Int, data=0, default value=0
+268462123 - Itemset_Guardian_Protection_Mitigation, type=Array, data=0, default value=null
+268462124 - Itemset_Minstrel_CryResonance_Inductions, type=Array, data=0, default value=null
+268462125 - Itemset_Minstrel_AnthemOfProwess_AttackDuration, type=Float, data=0, default value=0.0
+268462127 - Itemset_Minstrel_TimelessEcho_HoT, type=Array, data=0, default value=null
+268462129 - Itemset_Champion_BattleFrenzy_Duration, type=Int, data=0, default value=0
+268462131 - Reputation_Faction_Wells_Of_Anduin_EarnedReputation, type=Long 64bits, data=0, default value=null
+268462132 - Discount_Wells_Of_Anduin, type=Float, data=0, default value=0.0
+268462133 - Reputation_Faction_Wells_Of_Anduin_CurrentTier, type=Enum Mapper 1, data=587203059, default value=null
+268462134 - Discount_Travel_Wells_Of_Anduin, type=Float, data=0, default value=0.0
+268462135 - Reputation_Faction_Wells_Of_Anduin_Cap, type=Enum Mapper 1, data=587203059, default value=null
+268462136 - Itemset_Champion_FeralStrikes_Fervour, type=Int, data=0, default value=0
+268462137 - Itemset_Champion_Challenge_Fervour, type=Int, data=0, default value=0
+268462139 - Itemset_Loremaster_AncientLore_Lightning_Reset, type=Array, data=0, default value=null
+268462140 - Itemset_Loremaster_Searing_Gust, type=Array, data=0, default value=null
+268462141 - Itemset_Loremaster_Catmint_Duration, type=Float, data=0, default value=0.0
+268462142 - LootGen_RaidLock_Reset_Array, type=Array, data=0, default value=null
+268462143 - LootGen_RaidLock_Reset_Entry, type=Data File ID, data=69, default value=null
 268462144 - Version_POItem_StampProperty_220, type=boolean, data=0, default value=null
 268462145 - Version_POItem_StampProperty_219, type=boolean, data=0, default value=null
 268462146 - Version_POItem_StampProperty_221, type=boolean, data=0, default value=null
 268462147 - Version_POItem_StampProperty_222, type=boolean, data=0, default value=null
+268462148 - LootGen_RaidLock_Reset_All, type=boolean, data=0, default value=1
+268462149 - Itemset_Runekeeper_StaticSurge_Proc_Chance, type=Float, data=0, default value=0.0
+268462150 - Itemset_Runekeeper_FireyRidicule_Attunement_Mod, type=Int, data=0, default value=0
+268462151 - HousingPropertyHook_IntColumnColor, type=Enum Mapper 1, data=587203182, default value=null
+268462152 - HousingPropertyHook_IntWindow, type=Enum Mapper 1, data=587203182, default value=null
+268462153 - HousingPropertyHook_IntColumnTexture, type=Enum Mapper 1, data=587203182, default value=null
+268462155 - Itemset_Champion_SuddenDefense_Mitigation, type=Array, data=0, default value=null
+268462156 - Itemset_Runekeeper_VolcanicRunestone_Cooldown, type=Float, data=0, default value=0.0

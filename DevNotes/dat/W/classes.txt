@@ -3654,8 +3654,7 @@ Class index=1170, name=Hotspot, raw size=24, parent=1733
 	REFERENCE m_regEffect (2)
 	REFERENCE m_logInfo (0)
 	REFERENCE m_rBaseEffectReg (1)
-Class index=1181, name=House, raw size=8, parent=486
-	REFERENCE 81071347 (0)
+Class index=1181, name=House, raw size=0, parent=486
 Class index=1183, name=HousingAuthority, raw size=24, parent=788
 	REFERENCE m_regEffect (2)
 	REFERENCE m_logInfo (0)
@@ -9634,3 +9633,6 @@ Class index=4181, raw size=0
 Class index=4182, raw size=0, parent=1620
 Class index=4183, raw size=0, parent=1597
 Class index=4184, raw size=0, parent=1603
+Class index=4186, raw size=0
+Class index=4187, raw size=0, parent=1597
+Class index=4189, raw size=0, parent=1597

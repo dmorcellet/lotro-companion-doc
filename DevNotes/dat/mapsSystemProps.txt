@@ -1364,6 +1364,8 @@ UI_Map_AreaData:
 							UI_Map_ActiveElement: 268449746 (area_rohan_west_kingstead)
 							UI_Map_AreaDIDs_Array: 
 								#1: 1879256900
+								#2: 1879399332
+								#3: 1879399333
 							UI_Map_AreaData_Array: 
 								#1: 
 									UI_Map_ActiveElement: 268449761 (CityMap_Rohan_kingstead_edoras)
@@ -2672,6 +2674,23 @@ UI_Map_AreaData:
 									UI_Map_PixelWidth: 1024
 									UI_Map_RegionID: 4
 									UI_Map_Scale: 0.6
+								#3: 
+									UI_Map_ActiveElement: 268453438 (area_shelobs_lair)
+									UI_Map_AreaDIDs_Array: 
+										#1: 1879401897
+									UI_Map_BlockOffsetX: 8
+									UI_Map_BlockOffsetY: 176
+									UI_Map_MapImage: 1092537315
+									UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+									UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
+									UI_Map_MenuName: 
+										#1: Shelob's Lair
+									UI_Map_PixelHeight: 768
+									UI_Map_PixelOffsetX: 458
+									UI_Map_PixelOffsetY: 768
+									UI_Map_PixelWidth: 1024
+									UI_Map_RegionID: 4
+									UI_Map_Scale: 0.30625
 							UI_Map_BlockOffsetX: 176
 							UI_Map_BlockOffsetY: 59
 							UI_Map_MapImage: 1092524609

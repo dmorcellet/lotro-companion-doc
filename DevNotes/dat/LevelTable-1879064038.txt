@@ -730,7 +730,7 @@ AdvTable_DerivedStat_Configuration:
 				AdvTable_DerivedStat_Formula_Value: 0.0
 			#3: 
 				AdvTable_DerivedStat_Formula_Stat: 1 (Vitality)
-				AdvTable_DerivedStat_Formula_Value: 5.0
+				AdvTable_DerivedStat_Formula_Value: 4.8
 			#4: 
 				AdvTable_DerivedStat_Formula_Stat: 5 (Will)
 				AdvTable_DerivedStat_Formula_Value: 0.0
