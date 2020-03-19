@@ -12809,6 +12809,7 @@ Enum: BillingGroup, (id=587202756)
 	595 => Rohan_VIP_2020
 	596 => AG_2020_13YEAR
 	597 => AGGranted_2020
+	598 => WSRHELMcontent
 Enum: BlockAllocationRegion, (id=587202919)
 	268435457 => Angmar_CarnDum_Instance
 	268435458 => Ettenmoors_Northeast
@@ -21717,6 +21718,7 @@ Enum: EffectEquivalenceClasses, (id=587202565)
 	2708 => skillproc_essences_onhit
 	2709 => skillproc_essences_ongethit
 	2710 => skillproc_essences_onheal
+	2711 => Beorning_Bees_Induction
 Enum: EffectFlags, (id=587202566)
 *** enum not found: EffectFlags ***
 Enum: EffectImpulseDirection, (id=587202626)
