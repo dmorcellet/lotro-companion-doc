@@ -2286,6 +2286,9 @@
 2896 - World_SMTP_FullWSLFrameDumps, type=boolean, data=0, default value=null
 2898 - World_Havok_Remove_Degenerate_MOPP_Triangles, type=boolean, data=0, default value=0
 2900 - World_Landscape_Update_Enable_Amortization, type=boolean, data=0, default value=1
+2901 - PhysObj_Override, type=Data File ID, data=57, default value=null
+2902 - Entity_ClassScriptTable_Override, type=Struct, data=0, default value=null
+2903 - Render_AdjustableScale_Checkpointed, type=Vector, data=0, default value=null
 268435457 - Pedigree_Surname_LevelRestriction, type=Int, data=0, default value=0
 268435458 - Auction_ID, type=InstanceID, data=0, default value=[0,0]
 268435459 - MiniGame.FreezeTag@Player.m_bIsPlaying, type=boolean, data=0, default value=null
@@ -6073,7 +6076,6 @@
 268439463 - Resist_Base_Resistance_Song, type=Float, data=0, default value=0.0
 268439464 - Container_RotTime, type=Timestamp, data=0, default value=null
 268439465 - ExaminationElement_Indestructible_Struct, type=Struct, data=0, default value=null
-268439466 - ExaminationElement_LFG_Struct, type=Struct, data=0, default value=null
 268439467 - ExaminationElement_ModStatType_Struct, type=Struct, data=0, default value=null
 268439468 - Examination_GeneroPropertyServerData, type=boolean, data=0, default value=null
 268439469 - Examination_UsageInfo_Array, type=Array, data=0, default value=null
@@ -6507,7 +6509,6 @@
 268439920 - Interaction_Permission_SubSpecies, type=Enum Mapper 1, data=587202572, default value=null
 268439921 - Interaction_Permission_Genus, type=Bit Field 32bits, data=587202570, default value=null
 268439922 - Perk_Desc, type=String Info, data=0, default value=null
-268439924 - Examination_LFG, type=boolean, data=0, default value=null
 268439925 - Examination_DamageType, type=Enum Mapper 1, data=587202600, default value=null
 268439926 - ExaminationElement_Skill_RecoveryTime_Struct, type=Struct, data=0, default value=null
 268439927 - ItemMunging_Item_Quality, type=Enum Mapper 1, data=587202663, default value=null
@@ -8596,10 +8597,6 @@
 268442365 - Antispam_MailRequest, type=Struct, data=0, default value=null
 268442368 - Skill_RecoveryTime_Stormlore, type=Float, data=0, default value=0.0
 268442369 - Skill_LightningBurst_LoreMaster_PowerCost, type=Float, data=0, default value=0.0
-268442371 - HousingControl_StorageInfo_List, type=Array, data=0, default value=null
-268442372 - HousingControl_MaxStorage, type=Int, data=0, default value=null
-268442373 - HousingControl_StorageInfo, type=Struct, data=0, default value=null
-268442374 - HousingControl_StartingStorage, type=Int, data=0, default value=null
 268442375 - UI_QuestTree_FellowSharedElement, type=Enum Mapper 1, data=587202769, default value=null
 268442376 - UI_QuestTree_FellowSharedElementList, type=Array, data=0, default value=null
 268442377 - Fellowship_FellowshipLootType, type=Enum Mapper 1, data=587202667, default value=0
@@ -19973,7 +19970,6 @@
 268457522 - FormationLayout_Grid_DistanceBetweenRanks, type=Float, data=0, default value=1.0
 268457523 - World_Daily_Login_Reward_Cost, type=Int, data=0, default value=2
 268457524 - World_Daily_Login_Rewards_VIP_Cost, type=Int, data=0, default value=8
-268457525 - PaperItemServiceEntry_BalanceIconDID, type=Data File ID, data=5, default value=null
 268457526 - Effect_VitalThreshold_Instant, type=boolean, data=0, default value=0
 268457527 - Minstrel_Application_Coda_Reset, type=Float, data=0, default value=0.0
 268457528 - World_PaperItemService_Cost_HousingUpkeep, type=Int, data=0, default value=2
@@ -23994,3 +23990,39 @@
 268462153 - HousingPropertyHook_IntColumnTexture, type=Enum Mapper 1, data=587203182, default value=null
 268462155 - Itemset_Champion_SuddenDefense_Mitigation, type=Array, data=0, default value=null
 268462156 - Itemset_Runekeeper_VolcanicRunestone_Cooldown, type=Float, data=0, default value=0.0
+268462158 - World_PaperItemService_Cost_CraftRecipeReset, type=Int, data=0, default value=10
+268462159 - World_PaperItemService_Cost_CreateDecoFromSkill, type=Int, data=0, default value=100
+268462160 - WE_secret_stone_2_raid_boss_tier_gate, type=Int, data=0, default value=null
+268462161 - WE_secret_stone_2_active, type=boolean, data=0, default value=null
+268462162 - WE_secret_stone_2_raid_boss_active, type=boolean, data=0, default value=null
+268462164 - WE_Integer_PVP_Counter_Team_1, type=Int, data=0, default value=null
+268462165 - WE_Integer_PVP_Counter_Team_2, type=Int, data=0, default value=null
+268462166 - Icon_Layer_ImageOverrideDID_Checkpointed, type=Data File ID, data=5, default value=null
+268462167 - Quest_PVP_Score_Tracking, type=Int, data=0, default value=null
+268462168 - WE_PVP_Quest_Locked_Team_1, type=boolean, data=0, default value=null
+268462169 - WE_PVP_Quest_Locked_Team_2, type=boolean, data=0, default value=null
+268462170 - HousingDecoration_IsSkillSwap, type=boolean, data=0, default value=0
+268462171 - WE_PVP_War_Event_Control, type=boolean, data=0, default value=null
+268462172 - Communication_QuestScripting_TriggerPhrase, type=String, data=0, default value=
+268462176 - WE_WeddingFestival_Quest_Disable, type=boolean, data=0, default value=null
+268462177 - WE_WeddingFestival_FestivalActive, type=boolean, data=0, default value=null
+268462178 - RiddleBox_Active, type=boolean, data=0, default value=0
+268462179 - RiddleBox_Answer, type=String, data=0, default value=Mellon
+268462180 - RiddleBox_DeactivateOnIncorrect, type=boolean, data=0, default value=0
+268462181 - RiddleBox_DeactivateOnCorrect, type=boolean, data=0, default value=1
+268462182 - Bank_Repository_ChestAddress, type=Long 64bits, data=0, default value=0
+268462184 - World_InstanceLength_minas_morgul_dark_archive, type=Int, data=0, default value=0
+268462185 - World_InstanceLength_secret_stone_2_3man, type=Int, data=0, default value=0
+268462186 - World_InstanceLength_minas_morgul_remmorchant, type=Int, data=0, default value=0
+268462187 - HousingControl_SkillDeco_Mount_Tokens, type=Int, data=0, default value=null
+268462190 - HousingControl_MountSkillDecoTokenDataID, type=Data File ID, data=69, default value=null
+268462191 - HousingControl_PetSkillDecoTokenDataID, type=Data File ID, data=69, default value=null
+268462192 - World_PaperItemService_Cost_CreatePetDecoFromSkill, type=Int, data=0, default value=1
+268462193 - World_PaperItemService_Cost_CreateMountDecoFromSkill, type=Int, data=0, default value=1
+268462194 - WE_Integer_PVP_lock_threshold, type=Int, data=0, default value=null
+268462195 - WE_Integer_PVP_event_version, type=Int, data=0, default value=null
+268462196 - Quest_PVP_Event_Version, type=Int, data=0, default value=null
+268462200 - World_Housing_Standard_Storage_Enabled, type=boolean, data=0, default value=1
+268462201 - World_Housing_SkillDeco_Creation_Enabled, type=boolean, data=0, default value=1
+268462202 - Version_Title_StampProperty_53, type=boolean, data=0, default value=null
+268462203 - we_anniversaryreward_2020, type=boolean, data=0, default value=null
