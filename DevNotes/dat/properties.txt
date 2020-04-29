@@ -24026,3 +24026,4 @@
 268462201 - World_Housing_SkillDeco_Creation_Enabled, type=boolean, data=0, default value=1
 268462202 - Version_Title_StampProperty_53, type=boolean, data=0, default value=null
 268462203 - we_anniversaryreward_2020, type=boolean, data=0, default value=null
+268462214 - Render_SelectionDecal_ForceVisible, type=boolean, data=0, default value=0

@@ -62642,6 +62642,7 @@ Enum: VersionNumber, (id=587202678)
 	2432 => Update24.3.2
 	2500 => Update25
 	2510 => Update25.1
+	2601 => Update26.0.1
 Enum: VeryDynamicTargetFlags, (id=587203553)
 	0 => Undef
 	1 => IsMoving
