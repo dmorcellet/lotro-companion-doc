@@ -42098,6 +42098,7 @@ Enum: SubspeciesType, (id=587202572)
 	686 => null
 	687 => Insects of Cirith Ungol
 	688 => Mistress of Lamentation
+	689 => Hobgoblin
 Enum: SwitchScriptNodeOperator, (id=587202722)
 	1 => AllBitsSet
 	2 => AnyBitSet
