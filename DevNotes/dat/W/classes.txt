@@ -9640,3 +9640,9 @@ Class index=4190, raw size=8, parent=3738
 	REFERENCE 187092872 (0)
 Class index=4191, raw size=8, parent=3738
 	REFERENCE 187092872 (0)
+Class index=4192, raw size=24, parent=788
+	REFERENCE m_regEffect (2)
+	REFERENCE m_logInfo (0)
+	REFERENCE m_rBaseEffectReg (1)
+Class index=4194, raw size=0
+Class index=4195, raw size=0, parent=91

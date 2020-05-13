@@ -2284,7 +2284,6 @@
 2894 - WAL_Finger_UpdateDate, type=String, data=0, default value=null
 2895 - Physics_MoveTo_GameRadiusOverride, type=Float, data=0, default value=-1.0
 2896 - World_SMTP_FullWSLFrameDumps, type=boolean, data=0, default value=null
-2898 - World_Havok_Remove_Degenerate_MOPP_Triangles, type=boolean, data=0, default value=0
 2900 - World_Landscape_Update_Enable_Amortization, type=boolean, data=0, default value=1
 2901 - PhysObj_Override, type=Data File ID, data=57, default value=null
 2902 - Entity_ClassScriptTable_Override, type=Struct, data=0, default value=null
@@ -24022,8 +24021,35 @@
 268462194 - WE_Integer_PVP_lock_threshold, type=Int, data=0, default value=null
 268462195 - WE_Integer_PVP_event_version, type=Int, data=0, default value=null
 268462196 - Quest_PVP_Event_Version, type=Int, data=0, default value=null
+268462198 - WE_Event_Control_EyeOfSauron, type=boolean, data=0, default value=null
+268462199 - Event_EyeOfSauron_Effect_Counter, type=Int, data=0, default value=null
 268462200 - World_Housing_Standard_Storage_Enabled, type=boolean, data=0, default value=1
 268462201 - World_Housing_SkillDeco_Creation_Enabled, type=boolean, data=0, default value=1
 268462202 - Version_Title_StampProperty_53, type=boolean, data=0, default value=null
 268462203 - we_anniversaryreward_2020, type=boolean, data=0, default value=null
+268462207 - WE_secret_stone_2_puzzle_leading_the_charge_lock, type=boolean, data=0, default value=null
+268462208 - Script_WeaponImbueType_IA_Primary, type=Enum Mapper 1, data=587202888, default value=null
+268462209 - Script_WeaponImbueLevel_IA_Ranged, type=Enum Mapper 1, data=587202889, default value=null
+268462210 - Script_WeaponImbueType_IA_Secondary, type=Enum Mapper 1, data=587202888, default value=null
+268462211 - Script_WeaponImbueLevel_IA_Primary, type=Enum Mapper 1, data=587202889, default value=null
+268462212 - Script_WeaponImbueType_IA_Ranged, type=Enum Mapper 1, data=587202888, default value=null
+268462213 - Script_WeaponImbueLevel_IA_Secondary, type=Enum Mapper 1, data=587202889, default value=null
 268462214 - Render_SelectionDecal_ForceVisible, type=boolean, data=0, default value=0
+268462215 - DRS_AccountName, type=String, data=0, default value=null
+268462216 - PVP_Leaderboard_List_Entry, type=Struct, data=0, default value=null
+268462217 - PVP_Leaderboard_Score, type=Int, data=0, default value=null
+268462218 - DRS_CharacterName, type=String Info, data=0, default value=null
+268462219 - PVP_Leaderboard_TableVersion, type=Int, data=0, default value=0
+268462220 - DRS_CharacterIID, type=InstanceID, data=0, default value=null
+268462221 - PVP_Leaderboard_List, type=Array, data=0, default value=null
+268462224 - Skirmish_Template_MaxLevelScale_Override_PropertyName, type=Property ID, data=872415232, default value=null
+268462225 - Skirmish_Template_LevelScale_Override_PropertyName, type=Property ID, data=872415232, default value=null
+268462226 - Skirmish_Template_MinLevelScale_Override_PropertyName, type=Property ID, data=872415232, default value=null
+268462230 - World_PublicInstanceMaxPlayer_Wedding_Festival_Minas_Tirith, type=Int, data=0, default value=0
+268462231 - WE_server_pe_lvl_scaling_limited, type=boolean, data=0, default value=null
+268462232 - WE_pe_greatbarrows_max_lvl_override, type=Int, data=0, default value=null
+268462233 - WE_pe_annuminas_max_lvl_override, type=Int, data=0, default value=null
+268462234 - WE_pe_innforsaken_max_lvl_override, type=Int, data=0, default value=null
+268462235 - WE_pe_fornost_min_lvl_override, type=Int, data=0, default value=null
+268462236 - WE_pe_hallsofnight_max_lvl_override, type=Int, data=0, default value=null
+268462237 - WE_pe_fornost_max_lvl_override, type=Int, data=0, default value=null
