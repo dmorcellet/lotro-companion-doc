@@ -61025,6 +61025,13 @@ GameUI [ UI_StablesCollection_TravelNPC [ entity/npc/npc_travel/npc_travel_gondo
 	268453474 => GuildVisitMemberButton
 	268453475 => AllegiancePanel_ThreePeaks_Tab
 	268453476 => AllegiancePanel_ThreePeaks_Tab_Icon
+	268453477 => RootQuest_MissionTwistPane
+	268453478 => QuestDispenserTwistNameText
+	268453479 => QuestDispenserTwistDescriptionText
+	268453480 => QuestDispenserTwistIcon
+	268453481 => RootQuest_TextPane_StandardSizeHint
+	268453482 => RootQuest_Mission_TextPane
+	268453483 => QuestDispenserMissionText
 Enum: UIElementMessage, (id=587202768)
 	268435457 => CharGen_FadeOut_Done
 	268435458 => combo_completion_done
