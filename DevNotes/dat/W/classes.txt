@@ -3592,7 +3592,7 @@ Class index=1161, name=GlorySystem, raw size=0
 Class index=1164, name=Guild, raw size=240
 	LONG m_iidLeader (2)
 	REFERENCE m_name (29)
-	LONG2 76159925 (4)
+	SIGNED_DOUBLE 76159925 (4)
 	INTEGER m_tLastMailSent (13)
 	INTEGER m_officerRoomID (14)
 	LONG m_id (17)
@@ -7233,9 +7233,9 @@ Class index=2571, raw size=16, parent=486
 	INTEGER 98563708 (0)
 	INTEGER 134181209 (1)
 Class index=2572, raw size=40
-	LONG2 96120740 (3)
+	SIGNED_DOUBLE 96120740 (3)
 	INTEGER 59100949 (0)
-	LONG2 67223077 (1)
+	SIGNED_DOUBLE 67223077 (1)
 Class index=2573, raw size=32, parent=2571
 	INTEGER 98563708 (0)
 	INTEGER 134181209 (1)

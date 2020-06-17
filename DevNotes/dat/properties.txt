@@ -24068,3 +24068,4 @@
 268462260 - PVP_Event_Safezone, type=boolean, data=0, default value=0
 268462261 - PVP_Event_Safezone_Cached, type=boolean, data=0, default value=0
 268462262 - PVP_Event_Team_ID_Cached, type=Int, data=0, default value=0
+268462279 - Antispam_FilterRequest, type=Struct, data=0, default value=null
