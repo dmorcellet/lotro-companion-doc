@@ -2288,6 +2288,8 @@
 2901 - PhysObj_Override, type=Data File ID, data=57, default value=null
 2902 - Entity_ClassScriptTable_Override, type=Struct, data=0, default value=null
 2903 - Render_AdjustableScale_Checkpointed, type=Vector, data=0, default value=null
+2904 - UICore_Element_IgnoreParentStateChange, type=boolean, data=0, default value=0
+2906 - Character_GameCompatibilityVersion, type=String, data=0, default value=null
 268435457 - Pedigree_Surname_LevelRestriction, type=Int, data=0, default value=0
 268435458 - Auction_ID, type=InstanceID, data=0, default value=[0,0]
 268435459 - MiniGame.FreezeTag@Player.m_bIsPlaying, type=boolean, data=0, default value=null
@@ -23562,7 +23564,7 @@
 268461610 - PackageItem_ShowRewardsInUI, type=boolean, data=0, default value=0
 268461611 - PackageItem_GeneratedItemList_Transient, type=Array, data=0, default value=null
 268461612 - WE_dwarfholds_anvil_raid_dwarf_kings_driver, type=Int, data=0, default value=null
-268461613 - World_PaperItemService_Enabled_MailStoreItem, type=boolean, data=0, default value=1
+268461613 - World_PaperItemService_Enabled_MailStoreItem, type=boolean, data=0, default value=0
 268461614 - World_PublicInstanceMaxPlayer_Utterby, type=Int, data=0, default value=0
 268461615 - Skirmish_Template_DifficultyRestrictionTier, type=Enum Mapper 1, data=587203292, default value=0
 268461616 - Skirmish_Template_DifficultyRestrictionLevel, type=Int, data=0, default value=0
@@ -23990,7 +23992,7 @@
 268462155 - Itemset_Champion_SuddenDefense_Mitigation, type=Array, data=0, default value=null
 268462156 - Itemset_Runekeeper_VolcanicRunestone_Cooldown, type=Float, data=0, default value=0.0
 268462158 - World_PaperItemService_Cost_CraftRecipeReset, type=Int, data=0, default value=10
-268462159 - World_PaperItemService_Cost_CreateDecoFromSkill, type=Int, data=0, default value=100
+268462159 - World_PaperItemService_Cost_CreateDecoFromSkill, type=Int, data=0, default value=20
 268462160 - WE_secret_stone_2_raid_boss_tier_gate, type=Int, data=0, default value=null
 268462161 - WE_secret_stone_2_active, type=boolean, data=0, default value=null
 268462162 - WE_secret_stone_2_raid_boss_active, type=boolean, data=0, default value=null
@@ -24003,7 +24005,7 @@
 268462170 - HousingDecoration_IsSkillSwap, type=boolean, data=0, default value=0
 268462171 - WE_PVP_War_Event_Control, type=boolean, data=0, default value=null
 268462172 - Communication_QuestScripting_TriggerPhrase, type=String, data=0, default value=
-268462176 - WE_WeddingFestival_Quest_Disable, type=boolean, data=0, default value=null
+268462176 - WE_WeddingFestival_Quest_Disable, type=boolean, data=0, default value=1
 268462177 - WE_WeddingFestival_FestivalActive, type=boolean, data=0, default value=null
 268462178 - RiddleBox_Active, type=boolean, data=0, default value=0
 268462179 - RiddleBox_Answer, type=String, data=0, default value=Mellon
@@ -24053,6 +24055,8 @@
 268462235 - WE_pe_fornost_min_lvl_override, type=Int, data=0, default value=null
 268462236 - WE_pe_hallsofnight_max_lvl_override, type=Int, data=0, default value=null
 268462237 - WE_pe_fornost_max_lvl_override, type=Int, data=0, default value=null
+268462238 - HousingSystem_PrimaryResidenceAddress, type=Long 64bits, data=0, default value=null
+268462239 - Guild_MemberPrimaryResidence, type=Long 64bits, data=0, default value=null
 268462242 - Version_POItem_StampProperty_223, type=boolean, data=0, default value=null
 268462243 - Version_POItem_StampProperty_224, type=boolean, data=0, default value=null
 268462244 - Version_POItem_StampProperty_225, type=boolean, data=0, default value=null
@@ -24064,8 +24068,30 @@
 268462250 - Version_Title_StampProperty_57, type=boolean, data=0, default value=null
 268462251 - Version_Title_StampProperty_58, type=boolean, data=0, default value=null
 268462252 - WE_Integer_PVP_War_Event_Control, type=Int, data=0, default value=null
+268462253 - HousingSystem_PrimaryResidenceTargetAddress, type=Long 64bits, data=0, default value=null
+268462254 - Reputation_Faction_Elderslade_CurrentTier, type=Enum Mapper 1, data=587203059, default value=null
+268462255 - Reputation_Faction_Elderslade_Cap, type=Enum Mapper 1, data=587203059, default value=null
+268462256 - Reputation_Faction_Elderslade_EarnedReputation, type=Long 64bits, data=0, default value=null
+268462257 - Discount_Travel_Elderslade, type=Float, data=0, default value=0.0
+268462258 - Discount_Elderslade, type=Float, data=0, default value=0.0
 268462259 - PVP_Event_Team_ID, type=Int, data=0, default value=0
 268462260 - PVP_Event_Safezone, type=boolean, data=0, default value=0
 268462261 - PVP_Event_Safezone_Cached, type=boolean, data=0, default value=0
 268462262 - PVP_Event_Team_ID_Cached, type=Int, data=0, default value=0
+268462264 - Trait_Hunter_HailofArrows, type=Array, data=0, default value=null
+268462265 - PrivateEncounterTemplate_EncounterType, type=Enum Mapper 1, data=587203630, default value=0
+268462266 - Reputation_Faction_Elderslade_Missions_EarnedReputation, type=Long 64bits, data=0, default value=null
+268462267 - Reputation_Faction_Elderslade_Missions_CurrentTier, type=Enum Mapper 1, data=587203059, default value=null
+268462268 - Reputation_Faction_Elderslade_Missions_Cap, type=Enum Mapper 1, data=587203059, default value=null
+268462270 - HousingDecoration_DecorationDID_Override, type=Data File ID, data=69, default value=null
+268462271 - we_weddingfestival_winetasting_status, type=Int, data=0, default value=null
+268462272 - we_weddingfestival_taverncrawl_status, type=Int, data=0, default value=null
+268462273 - we_weddingfestival_taverncrawl_active, type=boolean, data=0, default value=null
+268462276 - QuestDispenser_MissionTwistName, type=String Info, data=0, default value=null
+268462277 - QuestDispenser_MissionTwistIcon, type=Data File ID, data=5, default value=null
+268462278 - QuestDispenser_MissionTwistDescription, type=String Info, data=0, default value=null
 268462279 - Antispam_FilterRequest, type=Struct, data=0, default value=null
+268462280 - WE_Elderslade_Missions_Active, type=boolean, data=0, default value=null
+268462281 - WE_Integer_Elderslade_Raid_Tier_Gate, type=Int, data=0, default value=null
+268462282 - WE_Integer_Elderslade_Mission_Config, type=Int, data=0, default value=null
+268462283 - World_RaceChangeMinCharacterLevel, type=Int, data=0, default value=10

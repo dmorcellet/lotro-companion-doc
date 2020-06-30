@@ -2406,6 +2406,23 @@ UI_Map_AreaData:
 									UI_Map_PixelWidth: 1024
 									UI_Map_RegionID: 3
 									UI_Map_Scale: 0.5625
+								#4: 
+									UI_Map_ActiveElement: 268453492 (area_gondor_old_anorien_minas_tirith_midsummer)
+									UI_Map_AreaDIDs_Array: 
+										#1: 1879407601
+									UI_Map_BlockOffsetX: 109
+									UI_Map_BlockOffsetY: 180
+									UI_Map_MapImage: 1092560926
+									UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+									UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
+									UI_Map_MenuName: 
+										#1: Minas Tirith Midsummer (The Great Wedding)
+									UI_Map_PixelHeight: 768
+									UI_Map_PixelOffsetX: 229
+									UI_Map_PixelOffsetY: 690
+									UI_Map_PixelWidth: 1024
+									UI_Map_RegionID: 4
+									UI_Map_Scale: 0.475
 							UI_Map_BlockOffsetX: 156
 							UI_Map_BlockOffsetY: 64
 							UI_Map_MapImage: 1091983088
