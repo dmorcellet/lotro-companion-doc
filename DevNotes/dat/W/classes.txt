@@ -124,7 +124,7 @@ Class index=460, name=CTravelSystem, raw size=0, parent=1507
 Class index=461, name=UsageSystem, raw size=0, parent=486
 Class index=462, name=VendorSystem, raw size=0
 Class index=470, name=gmWInterface, raw size=0, parent=486
-Class index=482, raw size=0
+Class index=482, name=$global, raw size=0
 Class index=483, name=CollectionProvider, raw size=8, parent=484
 	REFERENCE m_rcCollection (0)
 Class index=484, name=IPropertyProvider, raw size=0
@@ -3846,7 +3846,7 @@ Class index=1252, name=GWM_AreaSystem, raw size=0
 Class index=1253, name=GWM_Auction, raw size=0
 Class index=1256, name=GWM_ChannelingSystem, raw size=0
 Class index=1257, name=GWM_Combat, raw size=0
-Class index=1259, raw size=0
+Class index=1259, name=GWM_CombatState, raw size=0
 Class index=1260, name=GWM_Communication, raw size=0
 Class index=1261, name=GWM_Conjunction, raw size=0
 Class index=1262, name=GWM_Cooldown, raw size=0
@@ -3862,14 +3862,14 @@ Class index=1276, name=GWM_ErrorSystem, raw size=0
 Class index=1277, name=GWM_Examination, raw size=0
 Class index=1278, name=GWM_Fellowship, raw size=0
 Class index=1282, name=GWM_Guild, raw size=0
-Class index=1286, raw size=0
+Class index=1286, name=GWM_InductionSystem, raw size=0
 Class index=1287, name=GWM_InscriptionSystem, raw size=0
 Class index=1288, name=GWM_Interaction, raw size=0
 Class index=1290, name=GWM_InventorySystem, raw size=0
 Class index=1291, name=GWM_ItemWearSystem, raw size=0
 Class index=1292, name=GWM_LFG, raw size=0
 Class index=1294, name=GWM_Landmark, raw size=0
-Class index=1295, raw size=0
+Class index=1295, name=GWM_Listener, raw size=0
 Class index=1296, name=GWM_Logout, raw size=0
 Class index=1297, name=GWM_LootGenSystem, raw size=0
 Class index=1298, name=GWM_LootSystem, raw size=0
@@ -3965,7 +3965,7 @@ Class index=1355, name=MoodLevelData, raw size=80
 	FLOAT m_fMissChanceModifier (9)
 	FLOAT 219451154 (2)
 Class index=1356, name=MoodSystem, raw size=0
-Class index=1358, raw size=0
+Class index=1358, name=MountSystem, raw size=0
 Class index=1360, name=MusicSystem, raw size=0
 Class index=1366, name=PrivateEncounterControl, raw size=40, parent=486
 	REFERENCE m_rcLockableEncounters (3)
@@ -4417,7 +4417,7 @@ Class index=1445, name=Relay, raw size=24, parent=1733
 	REFERENCE m_regEffect (2)
 	REFERENCE m_logInfo (0)
 	REFERENCE m_rBaseEffectReg (1)
-Class index=1446, raw size=0
+Class index=1446, name=RelaySystem, raw size=0
 Class index=1447, name=ResistControlData, raw size=64
 	INTEGER 85587481 (7)
 	INTEGER 243534259 (6)
@@ -4455,7 +4455,7 @@ Class index=1467, name=TextItemSystem, raw size=0
 Class index=1468, name=Scene, raw size=16, parent=486
 	REFERENCE m_cSceneInfo (1)
 	REFERENCE m_actCompletionEffects (0)
-Class index=1469, raw size=0, parent=486
+Class index=1469, name=TimeSystem, raw size=0, parent=486
 Class index=1470, name=Title, raw size=0, parent=486
 Class index=1471, name=TitleAcquisitionData, raw size=24
 	DOUBLE m_ttAcquired (0)
@@ -4599,7 +4599,7 @@ Class index=1500, name=TravelDestinationRecord, raw size=24
 	INTEGER m_didRouteWC (2)
 Class index=1501, name=TravelHopAction, raw size=0, parent=1497
 Class index=1502, name=TravelPadAction, raw size=0, parent=1497
-Class index=1503, raw size=80
+Class index=1503, name=TravelRecord, raw size=80
 	REFERENCE 132849941 (0)
 	REFERENCE 211207474 (6)
 	REFERENCE 47172757 (5)
@@ -4609,7 +4609,7 @@ Class index=1503, raw size=80
 	LONG 220365428 (3)
 	REFERENCE m_name (8)
 	REFERENCE 120958099 (7)
-Class index=1504, raw size=16
+Class index=1504, name=TravelRegistry, raw size=16
 	REFERENCE 194458403 (1)
 	REFERENCE 143046562 (0)
 Class index=1505, name=TravelRoute, raw size=32, parent=486
@@ -4631,7 +4631,7 @@ Class index=1510, name=Tripwire, raw size=24, parent=1733
 	REFERENCE m_regEffect (2)
 	REFERENCE m_logInfo (0)
 	REFERENCE m_rBaseEffectReg (1)
-Class index=1511, raw size=0
+Class index=1511, name=TripwireSystem, raw size=0
 Class index=1527, name=TutorialHint, raw size=0, parent=486
 Class index=1528, name=TutorialSystem, raw size=0
 Class index=1529, name=ActivatorActionHandler, raw size=0, parent=506
@@ -5649,8 +5649,8 @@ Class index=1782, name=ErrorControl, raw size=8, parent=486
 	REFERENCE m_rcErrorTypeToErrorCategoryHash (0)
 Class index=1783, name=StrictAliasControl, raw size=8, parent=486
 	REFERENCE m_strictAliasTable (0)
-Class index=1784, raw size=0
-Class index=1787, raw size=224, parent=705
+Class index=1784, name=RecallSystem, raw size=0
+Class index=1787, name=AITauntEffect, raw size=224, parent=705
 	INTEGER m_uiResistLevel (23)
 	FLOAT m_fProbSpellcraftBegin (7)
 	FLOAT m_fResistChanceModifier (3)
@@ -5679,85 +5679,85 @@ Class index=1787, raw size=224, parent=705
 	REFERENCE 170624003 (6)
 	REFERENCE m_propertyList (17)
 	FLOAT m_fMinTsysSpellcraft (11)
-Class index=1788, raw size=40, parent=486
+Class index=1788, name=AccomplishmentControl, raw size=40, parent=486
 	REFERENCE 244505891 (0)
 	REFERENCE 232961305 (4)
 	REFERENCE 222530591 (3)
 	REFERENCE 210669709 (2)
 	REFERENCE 104947961 (1)
-Class index=1790, raw size=0, parent=1620
-Class index=1793, raw size=0, parent=1728
-Class index=1794, raw size=8, parent=1097
+Class index=1790, name=Version_GrantPreOrderItems, raw size=0, parent=1620
+Class index=1793, name=LeaveMPDialogCallback, raw size=0, parent=1728
+Class index=1794, name=ExaminationMoodDataGrabber, raw size=8, parent=1097
 	INTEGER m_propName (0)
-Class index=1795, raw size=0
-Class index=1796, raw size=8, parent=486
+Class index=1795, name=CommunicationSystem, raw size=0
+Class index=1796, name=PerkInventory, raw size=8, parent=486
 	REFERENCE 194041545 (0)
-Class index=1797, raw size=8, parent=1097
+Class index=1797, name=ExaminationKinshipLifespanRankBenefitsDataGrabber, raw size=8, parent=1097
 	INTEGER m_propName (0)
-Class index=1799, raw size=8, parent=1097
+Class index=1799, name=ExaminationOneShotRecipeDataGrabber, raw size=8, parent=1097
 	INTEGER m_propName (0)
-Class index=1803, raw size=0, parent=1728
+Class index=1803, name=FellowshipRecruitDialogCallback, raw size=0, parent=1728
 Class index=1805, name=MailControl, raw size=8, parent=486
 	REFERENCE 172825811 (0)
-Class index=1808, raw size=0, parent=91
-Class index=1811, raw size=24, parent=1733
+Class index=1808, name=IsWithinConsiderationRangeCallback, raw size=0, parent=91
+Class index=1811, name=WorldEventServer, raw size=24, parent=1733
 	REFERENCE m_regEffect (2)
 	REFERENCE m_logInfo (0)
 	REFERENCE m_rBaseEffectReg (1)
-Class index=1812, raw size=16, parent=2147
+Class index=1812, name=WorldEventControl, raw size=16, parent=2147
 	REFERENCE m_alEventList (0)
 	REFERENCE 223938964 (1)
-Class index=1815, raw size=8, parent=1816
+Class index=1815, name=BoolWorldEvent, raw size=8, parent=1816
 	REFERENCE 16670500 (0)
-Class index=1816, raw size=0, parent=486
-Class index=1817, raw size=24, parent=486
+Class index=1816, name=IWorldEvent, raw size=0, parent=486
+Class index=1817, name=GameSet, raw size=24, parent=486
 	REFERENCE 185205972 (1)
 	REFERENCE 119024836 (0)
 	REFERENCE 263781493 (2)
-Class index=1818, raw size=0
-Class index=1819, raw size=0
-Class index=1820, raw size=0
-Class index=1821, raw size=0, parent=1820
-Class index=1823, raw size=32
+Class index=1818, name=GWM_WorldEvent, raw size=0
+Class index=1819, name=WorldEventMessageSystem, raw size=0
+Class index=1820, name=WorldEventSystem, raw size=0
+Class index=1821, name=CWorldEventSystem, raw size=0, parent=1820
+Class index=1823, name=GameSetActiveCountData, raw size=32
 	INTEGER 113261412 (2)
 	INTEGER 204488660 (0)
 	REFERENCE m_rlEffectList (3)
 	REFERENCE 99697971 (1)
-Class index=1824, raw size=24, parent=1817
+Class index=1824, name=ItemGameSet, raw size=24, parent=1817
 	REFERENCE 185205972 (1)
 	REFERENCE 119024836 (0)
 	REFERENCE 263781493 (2)
-Class index=1827, raw size=16, parent=486
+Class index=1827, name=GameSetDirectory, raw size=16, parent=486
 	REFERENCE 241996755 (1)
 	REFERENCE 196075316 (0)
-Class index=1828, raw size=8
+Class index=1828, name=GameSetRegistry, raw size=8
 	REFERENCE 152290803 (0)
-Class index=1829, raw size=0
-Class index=1832, raw size=0
-Class index=1833, raw size=0
-Class index=1835, raw size=16, parent=1098
+Class index=1829, name=GameSetSystem, raw size=0
+Class index=1832, name=GWM_GameSet, raw size=0
+Class index=1833, name=CGameSetSystem, raw size=0
+Class index=1835, name=ExaminationGameSetDataGrabberBlob, raw size=16, parent=1098
 	INTEGER 244688434 (0)
 	INTEGER m_iLevel (1)
-Class index=1836, raw size=8, parent=1097
+Class index=1836, name=ExaminationGameSetMemberListDataGrabber, raw size=8, parent=1097
 	INTEGER m_propName (0)
-Class index=1837, raw size=8, parent=1097
+Class index=1837, name=ExaminationGameSetBonusListDataGrabber, raw size=8, parent=1097
 	INTEGER m_propName (0)
-Class index=1841, raw size=8, parent=1079
+Class index=1841, name=ExaminationSkillQualifierDataGrabber, raw size=8, parent=1079
 	INTEGER m_propName (0)
-Class index=1842, raw size=0, parent=91
-Class index=1843, raw size=24, parent=3668
+Class index=1842, name=SetBoolEventCallback, raw size=0, parent=91
+Class index=1843, name=BoolEventBox, raw size=24, parent=3668
 	REFERENCE m_regEffect (2)
 	REFERENCE m_logInfo (0)
 	REFERENCE m_rBaseEffectReg (1)
-Class index=1844, raw size=8, parent=486
+Class index=1844, name=TargetMarkControl, raw size=8, parent=486
 	REFERENCE 128008524 (0)
-Class index=1845, raw size=0, parent=486
-Class index=1846, raw size=0
-Class index=1849, raw size=0
-Class index=1857, raw size=16
+Class index=1845, name=TargetMark, raw size=0, parent=486
+Class index=1846, name=CTargetMarkingSystem, raw size=0
+Class index=1849, name=GWM_TargetMarking, raw size=0
+Class index=1857, name=TargetMarkRegistry, raw size=16
 	REFERENCE 86324440 (1)
 	REFERENCE 237275944 (0)
-Class index=1859, raw size=56, parent=1423
+Class index=1859, name=WorldEventConditionQuestEvent, raw size=56, parent=1423
 	REFERENCE m_collection (3)
 	REFERENCE m_rlLocations (4)
 	REFERENCE m_dependentEventIDs (0)
@@ -5765,10 +5765,10 @@ Class index=1859, raw size=56, parent=1423
 	INTEGER 39334036 (5)
 	INTEGER m_iEventOrder (1)
 	REFERENCE 202960052 (6)
-Class index=1860, raw size=8
+Class index=1860, name=AccomplishmentSet, raw size=8
 	REFERENCE 152110595 (0)
-Class index=1861, raw size=0
-Class index=1865, raw size=240, parent=705
+Class index=1861, name=CTargetListenerSystem, raw size=0
+Class index=1865, name=AIThreatTransferEffect, raw size=240, parent=705
 	INTEGER m_uiResistLevel (23)
 	FLOAT m_fProbSpellcraftBegin (7)
 	FLOAT m_fResistChanceModifier (3)
@@ -5799,19 +5799,19 @@ Class index=1865, raw size=240, parent=705
 	REFERENCE 170624003 (6)
 	REFERENCE m_propertyList (17)
 	FLOAT m_fMinTsysSpellcraft (11)
-Class index=1869, raw size=0, parent=1728
-Class index=1870, raw size=8, parent=1097
+Class index=1869, name=ReadyCheckDialogCallback, raw size=0, parent=1728
+Class index=1870, name=ExaminationAFKDataGrabber, raw size=8, parent=1097
 	INTEGER m_propName (0)
-Class index=1873, raw size=0, parent=1728
-Class index=1874, raw size=0
-Class index=1878, raw size=0, parent=1446
-Class index=1879, raw size=0, parent=1511
-Class index=1880, raw size=8, parent=486
+Class index=1873, name=MasterLootDialogCallback, raw size=0, parent=1728
+Class index=1874, name=QuestLockSystem, raw size=0
+Class index=1878, name=CRelaySystem, raw size=0, parent=1446
+Class index=1879, name=CTripwireSystem, raw size=0, parent=1511
+Class index=1880, name=TimeOfDayIndicatorControl, raw size=8, parent=486
 	REFERENCE 184746889 (0)
-Class index=1881, raw size=16
+Class index=1881, name=TimeOfDayData, raw size=16
 	INTEGER 25761213 (0)
 	FLOAT 98981573 (1)
-Class index=1882, raw size=56, parent=1423
+Class index=1882, name=ChannelingFailedQuestEvent, raw size=56, parent=1423
 	REFERENCE m_collection (3)
 	REFERENCE m_rlLocations (4)
 	REFERENCE m_dependentEventIDs (0)
@@ -5819,10 +5819,10 @@ Class index=1882, raw size=56, parent=1423
 	INTEGER 39334036 (5)
 	INTEGER m_iEventOrder (1)
 	REFERENCE 202960052 (6)
-Class index=1886, raw size=0
-Class index=1887, raw size=0, parent=1816
-Class index=1889, raw size=0, parent=486
-Class index=1890, raw size=0, parent=1620
+Class index=1886, name=CPropertyHandlerSystem, raw size=0
+Class index=1887, name=IntWorldEvent, raw size=0, parent=1816
+Class index=1889, name=Faction, raw size=0, parent=486
+Class index=1890, name=Version_UpdateChatWindowTextTags, raw size=0, parent=1620
 Class index=1891, name=ReputationControl, raw size=72, parent=486
 	REFERENCE 168935118 (8)
 	REFERENCE 190876128 (4)
@@ -5831,27 +5831,27 @@ Class index=1891, name=ReputationControl, raw size=72, parent=486
 	REFERENCE 94058014 (7)
 	REFERENCE 248962403 (6)
 	LONG 16243952 (0)
-Class index=1892, raw size=24, parent=3668
+Class index=1892, name=IntEventBox, raw size=24, parent=3668
 	REFERENCE m_regEffect (2)
 	REFERENCE m_logInfo (0)
 	REFERENCE m_rBaseEffectReg (1)
-Class index=1893, raw size=0, parent=91
-Class index=1894, raw size=0, parent=91
-Class index=1895, raw size=0, parent=91
-Class index=1897, raw size=0, parent=1899
-Class index=1898, raw size=40
+Class index=1893, name=DecIntEventCallback, raw size=0, parent=91
+Class index=1894, name=IncIntEventCallback, raw size=0, parent=91
+Class index=1895, name=ResetIntEventCallback, raw size=0, parent=91
+Class index=1897, name=CReputationSystem, raw size=0, parent=1899
+Class index=1898, name=WorldEventCondition, raw size=40
 	INTEGER 177404581 (3)
 	INTEGER 115703768 (4)
 	REFERENCE 55012599 (2)
 	INTEGER 141918132 (1)
 	INTEGER 99386501 (0)
-Class index=1899, raw size=0
-Class index=1903, raw size=8, parent=486
+Class index=1899, name=ReputationSystem, raw size=0
+Class index=1903, name=DiscoveryDistanceControl, raw size=8, parent=486
 	REFERENCE 36156673 (0)
-Class index=1904, raw size=16
+Class index=1904, name=DiscoveryDistancePair, raw size=16
 	INTEGER 91712341 (1)
 	FLOAT 14237221 (0)
-Class index=1905, raw size=56, parent=1423
+Class index=1905, name=SessionFinishedQuestEvent, raw size=56, parent=1423
 	REFERENCE m_collection (3)
 	REFERENCE m_rlLocations (4)
 	REFERENCE m_dependentEventIDs (0)
@@ -5859,25 +5859,25 @@ Class index=1905, raw size=56, parent=1423
 	INTEGER 39334036 (5)
 	INTEGER m_iEventOrder (1)
 	REFERENCE 202960052 (6)
-Class index=1913, raw size=8, parent=1097
+Class index=1913, name=ExaminationWorldEventProgressGrabber, raw size=8, parent=1097
 	INTEGER m_propName (0)
-Class index=1914, raw size=8, parent=486
+Class index=1914, name=TrackingStateControl, raw size=8, parent=486
 	REFERENCE 160902261 (0)
-Class index=1915, raw size=0
-Class index=1916, raw size=0
-Class index=1917, raw size=8, parent=1237
+Class index=1915, name=GWM_Reputation, raw size=0
+Class index=1916, name=BarterSystem, raw size=0
+Class index=1917, name=BarterTrophyListTemplate, raw size=8, parent=1237
 	REFERENCE 65082387 (0)
-Class index=1918, raw size=8, parent=1237
+Class index=1918, name=ReputationTrophyListTemplate, raw size=8, parent=1237
 	REFERENCE 65082387 (0)
-Class index=1919, raw size=0
-Class index=1924, raw size=0
-Class index=1925, raw size=8, parent=486
+Class index=1919, name=GWM_SessionPlaySystem, raw size=0
+Class index=1924, name=SessionPlaySystem, raw size=0
+Class index=1925, name=SessionPlayControl, raw size=8, parent=486
 	REFERENCE 249439203 (0)
-Class index=1926, raw size=0, parent=1924
-Class index=1927, raw size=0, parent=1931
-Class index=1930, raw size=0, parent=486
-Class index=1931, raw size=0
-Class index=1932, raw size=96, parent=486
+Class index=1926, name=CSessionPlaySystem, raw size=0, parent=1924
+Class index=1927, name=CAltPlaySystem, raw size=0, parent=1931
+Class index=1930, name=AltPlaySession, raw size=0, parent=486
+Class index=1931, name=AltPlaySystem, raw size=0
+Class index=1932, name=AltPlayerDesc, raw size=96, parent=486
 	REFERENCE m_rcStartingInventoryList (5)
 	REFERENCE m_rlVirtues (11)
 	REFERENCE m_rlSkills (9)
@@ -5890,47 +5890,47 @@ Class index=1932, raw size=96, parent=486
 	REFERENCE m_rlCharacteristics (3)
 	REFERENCE 198079045 (10)
 	REFERENCE m_arhTraitSlotSchedules (0)
-Class index=1934, raw size=0
-Class index=1939, raw size=0
-Class index=1940, raw size=0
-Class index=1941, raw size=0, parent=1916
-Class index=1943, raw size=16, parent=486
+Class index=1934, name=GWM_AltPlaySystem, raw size=0
+Class index=1939, name=GWM_Barter, raw size=0
+Class index=1940, name=BarterMessageSystem, raw size=0
+Class index=1941, name=CBarterSystem, raw size=0, parent=1916
+Class index=1943, name=BarterProfile, raw size=16, parent=486
 	REFERENCE m_rlBarterItemList (0)
 	REFERENCE m_rcPermissionBlob (1)
-Class index=1945, raw size=8, parent=1097
+Class index=1945, name=ExaminationWorldEventAdminGrabber, raw size=8, parent=1097
 	INTEGER m_propName (0)
-Class index=1946, raw size=8, parent=1097
+Class index=1946, name=ExaminationFactionNameDataGrabber, raw size=8, parent=1097
 	INTEGER m_propName (0)
-Class index=1947, raw size=48
+Class index=1947, name=BankSlotData, raw size=48
 	INTEGER 143471253 (3)
 	INTEGER 204894725 (2)
 	INTEGER 115489268 (4)
 	INTEGER 104576588 (0)
 	REFERENCE 134819813 (5)
 	INTEGER 154263746 (1)
-Class index=1949, raw size=0, parent=1620
-Class index=1950, raw size=8, parent=1097
+Class index=1949, name=Version_InitializeFactions, raw size=0, parent=1620
+Class index=1950, name=ExaminationItemSummoneeMaterialCostDataGrabber, raw size=8, parent=1097
 	INTEGER m_propName (0)
-Class index=1951, raw size=8, parent=1097
+Class index=1951, name=ExaminationItemSummonerMaterialCostDataGrabber, raw size=8, parent=1097
 	INTEGER m_propName (0)
-Class index=1952, raw size=24, parent=486
+Class index=1952, name=HouseList, raw size=24, parent=486
 	REFERENCE 15858755 (0)
 	REFERENCE 98748772 (1)
 	REFERENCE 204273459 (2)
-Class index=1953, raw size=0
+Class index=1953, name=HousingSystem, raw size=0
 Class index=1954, name=NeighbourhoodDirectory, raw size=8, parent=486
 	REFERENCE 209696468 (0)
-Class index=1955, raw size=0, parent=486
-Class index=1956, raw size=24, parent=486
+Class index=1955, name=NeighborhoodGate, raw size=0, parent=486
+Class index=1956, name=NeighborhoodTemplate, raw size=24, parent=486
 	REFERENCE 36511315 (0)
 	REFERENCE 18084270 (1)
 	REFERENCE 122576286 (2)
-Class index=1958, raw size=0, parent=1953
-Class index=1959, raw size=0
-Class index=1962, raw size=0
-Class index=1963, raw size=8, parent=1097
+Class index=1958, name=CHousingSystem, raw size=0, parent=1953
+Class index=1959, name=GWM_HousingSystem, raw size=0
+Class index=1962, name=ValidationSystem, raw size=0
+Class index=1963, name=ExaminationWorldEventDescriptionGrabber, raw size=8, parent=1097
 	INTEGER m_propName (0)
-Class index=1964, raw size=72, parent=2017
+Class index=1964, name=HouseKeeper, raw size=72, parent=2017
 	REFERENCE 143756627 (3)
 	INTEGER 200046091 (8)
 	REFERENCE 267492319 (4)
@@ -5940,7 +5940,7 @@ Class index=1964, raw size=72, parent=2017
 	REFERENCE 82244820 (5)
 	REFERENCE m_logInfo (0)
 	REFERENCE m_rBaseEffectReg (1)
-Class index=1965, raw size=208
+Class index=1965, name=HouseInfo, raw size=208
 	DOUBLE 260060240 (24)
 	DOUBLE 239256270 (15)
 	DOUBLE 257109173 (11)
@@ -5959,59 +5959,59 @@ Class index=1965, raw size=208
 	LONG 114320016 (1)
 	INTEGER 124733013 (19)
 	INTEGER 194869619 (18)
-Class index=1966, raw size=40
+Class index=1966, name=WorldEventInfo, raw size=40
 	INTEGER 160818044 (1)
 	INTEGER 164562787 (0)
 	REFERENCE 113118352 (2)
 	INTEGER 211678565 (4)
 	REFERENCE m_siPlayerName (3)
-Class index=1977, raw size=0
-Class index=1978, raw size=0, parent=486
-Class index=1982, raw size=0, parent=486
+Class index=1977, name=BillingSystem, raw size=0
+Class index=1978, name=AggroPingControl, raw size=0, parent=486
+Class index=1982, name=MovieFile, raw size=0, parent=486
 Class index=1983, name=MovieLibraryControl, raw size=16, parent=486
 	REFERENCE m_alCategories (1)
 	REFERENCE m_alMovies (0)
-Class index=1984, raw size=64
+Class index=1984, name=PlayerHousePermissionInfo, raw size=64
 	INTEGER 265254958 (0)
 	LONG 153210930 (4)
 	LONG 11376084 (6)
 	INTEGER 161973995 (3)
 	LONG 114320016 (1)
-Class index=1985, raw size=0
-Class index=1987, raw size=0, parent=1597
-Class index=1988, raw size=32, parent=1598
+Class index=1985, name=MovieLibrarySystem, raw size=0
+Class index=1987, name=NeighborhoodGateUsageAction, raw size=0, parent=1597
+Class index=1988, name=NeighborhoodGateUsageBlob, raw size=32, parent=1598
 	INTEGER m_userBehavior (1)
 	REFERENCE m_properties (2)
 	INTEGER 55216373 (3)
 	REFERENCE m_successMessage (0)
-Class index=1989, raw size=24, parent=1733
+Class index=1989, name=Hook, raw size=24, parent=1733
 	REFERENCE m_regEffect (2)
 	REFERENCE m_logInfo (0)
 	REFERENCE m_rBaseEffectReg (1)
-Class index=1991, raw size=16
+Class index=1991, name=GloryDamageContributorInfo, raw size=16
 	FLOAT 134874741 (1)
 	FLOAT 85809797 (0)
-Class index=1992, raw size=32, parent=960
+Class index=1992, name=SkillChannelingProgressController, raw size=32, parent=960
 	INTEGER m_didChannelingState (2)
 	FLOAT m_fDuration (1)
 	INTEGER m_uEffectID (3)
 	INTEGER 254316852 (0)
-Class index=1994, raw size=48
+Class index=1994, name=HookInfo, raw size=48
 	FLOAT 264420 (3)
 	LONG 267953931 (4)
 	LONG m_eCategory (1)
 	INTEGER 28435867 (0)
-Class index=1995, raw size=24, parent=1210
+Class index=1995, name=HousingLandmark, raw size=24, parent=1210
 	REFERENCE m_regEffect (2)
 	REFERENCE m_logInfo (0)
 	REFERENCE m_rBaseEffectReg (1)
-Class index=1996, raw size=0, parent=486
-Class index=1997, raw size=0, parent=91
-Class index=1998, raw size=0, parent=91
-Class index=1999, raw size=0, parent=1597
-Class index=2001, raw size=8, parent=3670
+Class index=1996, name=CurrencyControl, raw size=0, parent=486
+Class index=1997, name=PELockCallback, raw size=0, parent=91
+Class index=1998, name=RandomIntEventCallback, raw size=0, parent=91
+Class index=1999, name=HousingHookUsageAction, raw size=0, parent=1597
+Class index=2001, name=SpeciesLevelLootTable, raw size=8, parent=3670
 	REFERENCE 212781205 (0)
-Class index=2005, raw size=120, parent=1964
+Class index=2005, name=CHouseKeeper, raw size=120, parent=1964
 	REFERENCE 67831555 (13)
 	REFERENCE 68262964 (10)
 	REFERENCE 143756627 (3)
@@ -6027,7 +6027,7 @@ Class index=2005, raw size=120, parent=1964
 	REFERENCE 82244820 (5)
 	REFERENCE m_logInfo (0)
 	REFERENCE m_rBaseEffectReg (1)
-Class index=2007, raw size=120, parent=2005
+Class index=2007, name=IHouseKeeper, raw size=120, parent=2005
 	REFERENCE 67831555 (13)
 	REFERENCE 68262964 (10)
 	REFERENCE 143756627 (3)
@@ -6043,11 +6043,11 @@ Class index=2007, raw size=120, parent=2005
 	REFERENCE 82244820 (5)
 	REFERENCE m_logInfo (0)
 	REFERENCE m_rBaseEffectReg (1)
-Class index=2008, raw size=0
-Class index=2010, raw size=0, parent=1641
-Class index=2015, raw size=8, parent=1097
+Class index=2008, name=VMDataHandler, raw size=0
+Class index=2010, name=VMDataTest, raw size=0, parent=1641
+Class index=2015, name=ExaminationEffectResistanceDataGrabber, raw size=8, parent=1097
 	INTEGER m_propName (0)
-Class index=2017, raw size=56, parent=1733
+Class index=2017, name=BaseHouseKeeper, raw size=56, parent=1733
 	REFERENCE 143756627 (3)
 	REFERENCE 267492319 (4)
 	REFERENCE m_regEffect (2)
@@ -6055,9 +6055,9 @@ Class index=2017, raw size=56, parent=1733
 	REFERENCE 82244820 (5)
 	REFERENCE m_logInfo (0)
 	REFERENCE m_rBaseEffectReg (1)
-Class index=2024, raw size=0, parent=91
-Class index=2026, raw size=0, parent=1597
-Class index=2027, raw size=224, parent=705
+Class index=2024, name=PEShowNPCVitalsCallback, raw size=0, parent=91
+Class index=2026, name=HousingDecorationItemUsageAction, raw size=0, parent=1597
+Class index=2027, name=AnalyzeSkillEffect, raw size=224, parent=705
 	INTEGER m_uiResistLevel (23)
 	FLOAT m_fProbSpellcraftBegin (7)
 	FLOAT m_fResistChanceModifier (3)
@@ -6086,21 +6086,21 @@ Class index=2027, raw size=224, parent=705
 	REFERENCE 170624003 (6)
 	REFERENCE m_propertyList (17)
 	FLOAT m_fMinTsysSpellcraft (11)
-Class index=2030, raw size=0, parent=91
-Class index=2034, raw size=32
+Class index=2030, name=PEHideNPCVitalsCallback, raw size=0, parent=91
+Class index=2034, name=NeighborhoodInfo, raw size=32
 	REFERENCE 81073092 (0)
 	INTEGER 119203300 (3)
 	REFERENCE 124318212 (2)
 	INTEGER 90496644 (1)
-Class index=2035, raw size=8
+Class index=2035, name=NeighborhoodTemplateRolloutInfo, raw size=8
 	REFERENCE 229762115 (0)
-Class index=2036, raw size=24
+Class index=2036, name=UserChatChannel, raw size=24
 	INTEGER 177615540 (1)
 	REFERENCE 197161364 (0)
 	REFERENCE 179778901 (2)
-Class index=2038, raw size=8
+Class index=2038, name=UserChatChannelSlots, raw size=8
 	REFERENCE 156487587 (0)
-Class index=2046, raw size=224, parent=705
+Class index=2046, name=AIPetDispelByChannelEffect, raw size=224, parent=705
 	INTEGER m_uiResistLevel (23)
 	FLOAT m_fProbSpellcraftBegin (7)
 	FLOAT m_fResistChanceModifier (3)
@@ -6129,11 +6129,11 @@ Class index=2046, raw size=224, parent=705
 	REFERENCE 170624003 (6)
 	REFERENCE m_propertyList (17)
 	FLOAT m_fMinTsysSpellcraft (11)
-Class index=2048, raw size=0
-Class index=2053, raw size=8, parent=1097
+Class index=2048, name=GWM_MountSystem, raw size=0
+Class index=2053, name=ExaminationSummoningItemAreaRestrictionDataGrabber, raw size=8, parent=1097
 	INTEGER m_propName (0)
-Class index=2054, raw size=0, parent=1597
-Class index=2063, raw size=240, parent=705
+Class index=2054, name=HousingForSaleSignUsageAction, raw size=0, parent=1597
+Class index=2063, name=RandomEffect, raw size=240, parent=705
 	INTEGER m_uiResistLevel (23)
 	FLOAT m_fProbSpellcraftBegin (7)
 	FLOAT m_fResistChanceModifier (3)
@@ -6164,28 +6164,28 @@ Class index=2063, raw size=240, parent=705
 	REFERENCE 170624003 (6)
 	REFERENCE m_propertyList (17)
 	FLOAT m_fMinTsysSpellcraft (11)
-Class index=2064, raw size=24
+Class index=2064, name=RandomEffectData, raw size=24
 	INTEGER 65797490 (1)
 	INTEGER m_didEffect (2)
 	FLOAT m_fSpellcraft (0)
-Class index=2065, raw size=16
+Class index=2065, name=ClothingAppearance, raw size=16
 	INTEGER m_eAppearanceKey (1)
 	INTEGER m_didAppearanceFile (0)
-Class index=2070, raw size=16
+Class index=2070, name=OutfitData, raw size=16
 	FLOAT m_fColor (1)
 	INTEGER m_didItem (0)
-Class index=2071, raw size=8
+Class index=2071, name=OutfitRegistry, raw size=8
 	REFERENCE 64160996 (0)
-Class index=2073, raw size=0
-Class index=2074, raw size=8
+Class index=2073, name=OutfitSystem, raw size=0
+Class index=2074, name=Outfit, raw size=8
 	REFERENCE 249837057 (0)
-Class index=2075, raw size=0
-Class index=2076, raw size=0
-Class index=2078, raw size=24, parent=1817
+Class index=2075, name=GWM_OutfitSystem, raw size=0
+Class index=2076, name=AntiAddictionSystem, raw size=0
+Class index=2078, name=TraitGameSet, raw size=24, parent=1817
 	REFERENCE 185205972 (1)
 	REFERENCE 119024836 (0)
 	REFERENCE 263781493 (2)
-Class index=2080, raw size=224, parent=705
+Class index=2080, name=SendMailEffect, raw size=224, parent=705
 	INTEGER m_uiResistLevel (23)
 	FLOAT m_fProbSpellcraftBegin (7)
 	FLOAT m_fResistChanceModifier (3)
@@ -6214,35 +6214,35 @@ Class index=2080, raw size=224, parent=705
 	REFERENCE 170624003 (6)
 	REFERENCE m_propertyList (17)
 	FLOAT m_fMinTsysSpellcraft (11)
-Class index=2084, raw size=0, parent=3167
-Class index=2085, raw size=40, parent=486
+Class index=2084, name=Version_UpdateQuestReputation, raw size=0, parent=3167
+Class index=2085, name=OutfitControl, raw size=40, parent=486
 	REFERENCE 61777619 (2)
 	REFERENCE 256799733 (3)
 	REFERENCE 260357961 (4)
 	REFERENCE 165248697 (1)
 	REFERENCE 176743433 (0)
-Class index=2088, raw size=0, parent=3167
-Class index=2091, raw size=0
-Class index=2097, raw size=24, parent=1734
+Class index=2088, name=Version_UpdateBarterReputation, raw size=0, parent=3167
+Class index=2091, name=LockAndKeySystem, raw size=0
+Class index=2097, name=Activator, raw size=24, parent=1734
 	REFERENCE m_regEffect (2)
 	REFERENCE m_logInfo (0)
 	REFERENCE m_rBaseEffectReg (1)
-Class index=2099, raw size=0, parent=1728
-Class index=2100, raw size=40, parent=486
+Class index=2099, name=ReportSpammerConfirmationDialogCallback, raw size=0, parent=1728
+Class index=2100, name=AppearanceModControl, raw size=40, parent=486
 	REFERENCE 229019573 (2)
 	REFERENCE 63204036 (4)
 	REFERENCE 253561668 (3)
 	REFERENCE 218567236 (1)
 	REFERENCE 91413045 (0)
-Class index=2102, raw size=0
-Class index=2103, raw size=0, parent=2102
-Class index=2106, raw size=0
-Class index=2108, raw size=0, parent=1620
-Class index=2110, raw size=0, parent=1597
-Class index=2111, raw size=0
-Class index=2113, raw size=0, parent=1620
-Class index=2115, raw size=0
-Class index=2117, raw size=96
+Class index=2102, name=AppearanceModSystem, raw size=0
+Class index=2103, name=CAppearanceModSystem, raw size=0, parent=2102
+Class index=2106, name=GWM_AppearanceModSystem, raw size=0
+Class index=2108, name=Version_ReInitializeDamageFloatyText, raw size=0, parent=1620
+Class index=2110, name=NoUsageAction, raw size=0, parent=1597
+Class index=2111, name=EntityNotificationSystem, raw size=0
+Class index=2113, name=Version_RebuildAuctionBidList, raw size=0, parent=1620
+Class index=2115, name=ItemAdvancementSystem, raw size=0
+Class index=2117, name=ItemAdvancementRegistry, raw size=96
 	REFERENCE 262884911 (11)
 	REFERENCE 183417721 (7)
 	LONG 13048292 (8)
@@ -6258,47 +6258,47 @@ Class index=2119, name=QuestArc, raw size=8, parent=486
 	REFERENCE 26017587 (0)
 Class index=2120, name=QuestArcDirectory, raw size=8, parent=486
 	REFERENCE 233357331 (0)
-Class index=2121, raw size=0
-Class index=2122, raw size=0, parent=2115
-Class index=2123, raw size=0
-Class index=2124, raw size=0
-Class index=2126, raw size=0, parent=2124
-Class index=2127, raw size=8, parent=486
+Class index=2121, name=GWM_ItemAdvancement, raw size=0
+Class index=2122, name=CItemAdvancementSystem, raw size=0, parent=2115
+Class index=2123, name=ItemAdvancementMessageSystem, raw size=0
+Class index=2124, name=HobbySystem, raw size=0
+Class index=2126, name=CHobbySystem, raw size=0, parent=2124
+Class index=2127, name=WorldEventLevelLootTableTemplate, raw size=8, parent=486
 	REFERENCE 196806771 (0)
-Class index=2128, raw size=8, parent=486
+Class index=2128, name=WorldEventLootTableDirectory, raw size=8, parent=486
 	REFERENCE 248661022 (0)
-Class index=2129, raw size=8, parent=1097
+Class index=2129, name=ExaminationTraitSlottedDataGrabber, raw size=8, parent=1097
 	INTEGER m_propName (0)
-Class index=2130, raw size=0, parent=486
-Class index=2131, raw size=32, parent=486
+Class index=2130, name=TravelMode, raw size=0, parent=486
+Class index=2131, name=HobbyProfile, raw size=32, parent=486
 	REFERENCE m_alItemList (1)
 	REFERENCE m_rlTitleList (2)
 	REFERENCE m_aahTreasureHash (3)
 	FLOAT 153963765 (0)
-Class index=2132, raw size=8, parent=1097
+Class index=2132, name=ExaminationTraitNatureDataGrabber, raw size=8, parent=1097
 	INTEGER m_propName (0)
-Class index=2134, raw size=16, parent=486
+Class index=2134, name=ItemAdvancementProgressionList, raw size=16, parent=486
 	REFERENCE 142847928 (0)
 	REFERENCE 151447764 (1)
-Class index=2136, raw size=24
+Class index=2136, name=HobbyRegistry, raw size=24
 	REFERENCE 22644755 (2)
 	REFERENCE 125621779 (0)
 	INTEGER 19366533 (1)
-Class index=2137, raw size=0
-Class index=2138, raw size=8, parent=486
+Class index=2137, name=GWM_HobbySystem, raw size=0
+Class index=2138, name=ItemAdvancementProgressionTable, raw size=8, parent=486
 	REFERENCE 253721992 (0)
-Class index=2139, raw size=16, parent=486
+Class index=2139, name=ItemAdvancementProgressionGroup, raw size=16, parent=486
 	REFERENCE 220473608 (1)
 	REFERENCE 213948200 (0)
-Class index=2142, raw size=24, parent=1389
+Class index=2142, name=PropertyCostProgression, raw size=24, parent=1389
 	INTEGER m_iMinIndexValue (0)
 	REFERENCE m_raValues (1)
 	REFERENCE 123345379 (2)
-Class index=2146, raw size=8, parent=486
+Class index=2146, name=IHobbyPolicy, raw size=8, parent=486
 	REFERENCE 223562500 (0)
-Class index=2147, raw size=8, parent=486
+Class index=2147, name=SharedEventControl, raw size=8, parent=486
 	REFERENCE m_alEventList (0)
-Class index=2152, raw size=200, parent=486
+Class index=2152, name=ItemAdvancementControl, raw size=200, parent=486
 	REFERENCE 53786788 (20)
 	REFERENCE 158640085 (14)
 	REFERENCE 91368904 (7)
@@ -6324,17 +6324,17 @@ Class index=2152, raw size=200, parent=486
 	REFERENCE 85391107 (18)
 	REFERENCE m_aaRankMultipliers (16)
 	REFERENCE 267224510 (9)
-Class index=2153, raw size=16, parent=486
+Class index=2153, name=HobbyRewardProfile, raw size=16, parent=486
 	INTEGER 2560958 (1)
 	REFERENCE 82144851 (0)
-Class index=2154, raw size=32
+Class index=2154, name=HobbyRewardEntry, raw size=32
 	INTEGER 266039081 (1)
 	INTEGER 249269924 (0)
 	INTEGER 121335641 (3)
 	INTEGER m_didItem (2)
-Class index=2155, raw size=8, parent=2146
+Class index=2155, name=FishingHobbyPolicy, raw size=8, parent=2146
 	REFERENCE 223562500 (0)
-Class index=2156, raw size=232, parent=734
+Class index=2156, name=ReactiveResistCategoryEffect, raw size=232, parent=734
 	INTEGER m_uiResistLevel (23)
 	FLOAT m_fProbSpellcraftBegin (7)
 	FLOAT m_fResistChanceModifier (3)
@@ -6364,11 +6364,11 @@ Class index=2156, raw size=232, parent=734
 	REFERENCE 170624003 (6)
 	REFERENCE m_propertyList (17)
 	FLOAT m_fMinTsysSpellcraft (11)
-Class index=2157, raw size=8, parent=2146
+Class index=2157, name=DoNothingHobbyPolicy, raw size=8, parent=2146
 	REFERENCE 223562500 (0)
-Class index=2161, raw size=8, parent=2147
+Class index=2161, name=ZoneEventControl, raw size=8, parent=2147
 	REFERENCE m_alEventList (0)
-Class index=2163, raw size=56, parent=1423
+Class index=2163, name=ResourceSetQuestEvent, raw size=56, parent=1423
 	REFERENCE m_collection (3)
 	REFERENCE m_rlLocations (4)
 	REFERENCE m_dependentEventIDs (0)
@@ -6376,71 +6376,71 @@ Class index=2163, raw size=56, parent=1423
 	INTEGER 39334036 (5)
 	INTEGER m_iEventOrder (1)
 	REFERENCE 202960052 (6)
-Class index=2164, raw size=0, parent=1620
+Class index=2164, name=Version_OutfitSlotVisibility, raw size=0, parent=1620
 Class index=2168, name=ProgressionControl, raw size=32, parent=486
 	REFERENCE 51135988 (2)
 	REFERENCE m_aahTypeStartingLevel (1)
 	REFERENCE m_aahTypeMultiplier (0)
 	REFERENCE m_aahTierPoint (3)
-Class index=2174, raw size=0, parent=1728
-Class index=2177, raw size=24
+Class index=2174, name=GuildConfirmationDialogCallback, raw size=0, parent=1728
+Class index=2177, name=NameRuleProperties, raw size=24
 	INTEGER m_eNameRule (0)
 	INTEGER 107440824 (2)
 	INTEGER 3913048 (1)
-Class index=2178, raw size=0
-Class index=2180, raw size=8, parent=486
+Class index=2178, name=NameRuleSystem, raw size=0
+Class index=2180, name=HobbyControl, raw size=8, parent=486
 	REFERENCE 205748233 (0)
-Class index=2181, raw size=16
+Class index=2181, name=HobbyTitleEntry, raw size=16
 	INTEGER m_nProficiency (1)
 	INTEGER m_didTitle (0)
-Class index=2183, raw size=16, parent=486
+Class index=2183, name=IPropertyResponseCallback, raw size=16, parent=486
 	REFERENCE 67561957 (0)
 	REFERENCE 197598002 (1)
-Class index=2184, raw size=8
+Class index=2184, name=PropertyResponseMap, raw size=8
 	REFERENCE 135663445 (0)
-Class index=2187, raw size=0
-Class index=2191, raw size=16, parent=1620
+Class index=2187, name=PropertyResponseSystem, raw size=0
+Class index=2191, name=Version_DiscoverTravelDestinations, raw size=16, parent=1620
 	REFERENCE 28305171 (0)
 	REFERENCE 45331699 (1)
-Class index=2192, raw size=8, parent=486
+Class index=2192, name=WorldEventResponseMap, raw size=8, parent=486
 	REFERENCE 129264896 (0)
-Class index=2193, raw size=16, parent=2197
+Class index=2193, name=AIHintPropertyResponseCallback, raw size=16, parent=2197
 	REFERENCE 67561957 (0)
 	REFERENCE 197598002 (1)
 Class index=2194, name=NameRulePropertyControl, raw size=8, parent=486
 	REFERENCE m_arhNameRules (0)
-Class index=2197, raw size=16, parent=2183
+Class index=2197, name=BoolPropertyResponseCallback, raw size=16, parent=2183
 	REFERENCE 67561957 (0)
 	REFERENCE 197598002 (1)
-Class index=2199, raw size=16, parent=2197
+Class index=2199, name=GeneratorPropertyResponseCallback, raw size=16, parent=2197
 	REFERENCE 67561957 (0)
 	REFERENCE 197598002 (1)
-Class index=2200, raw size=16, parent=2197
+Class index=2200, name=HotspotPropertyResponseCallback, raw size=16, parent=2197
 	REFERENCE 67561957 (0)
 	REFERENCE 197598002 (1)
-Class index=2201, raw size=16, parent=2197
+Class index=2201, name=DoorPropertyResponseCallback, raw size=16, parent=2197
 	REFERENCE 67561957 (0)
 	REFERENCE 197598002 (1)
-Class index=2202, raw size=16, parent=2197
+Class index=2202, name=ActivatorPropertyResponseCallback, raw size=16, parent=2197
 	REFERENCE 67561957 (0)
 	REFERENCE 197598002 (1)
-Class index=2204, raw size=16, parent=486
+Class index=2204, name=ItemAdvancementReforgeTable, raw size=16, parent=486
 	REFERENCE 230486953 (1)
 	REFERENCE 156774856 (0)
-Class index=2205, raw size=16, parent=2197
+Class index=2205, name=RelayPropertyResponseCallback, raw size=16, parent=2197
 	REFERENCE 67561957 (0)
 	REFERENCE 197598002 (1)
-Class index=2206, raw size=16, parent=2197
+Class index=2206, name=TripwirePropertyResponseCallback, raw size=16, parent=2197
 	REFERENCE 67561957 (0)
 	REFERENCE 197598002 (1)
-Class index=2207, raw size=0
-Class index=2210, raw size=0, parent=1597
+Class index=2207, name=LandmarkSystem, raw size=0
+Class index=2210, name=ShowUserAnimationUsageAction, raw size=0, parent=1597
 Class index=2219, name=Relic, raw size=8, parent=486
 	REFERENCE m_rlEffects (0)
-Class index=2225, raw size=16, parent=2197
+Class index=2225, name=DramaPropertyResponseCallback, raw size=16, parent=2197
 	REFERENCE 67561957 (0)
 	REFERENCE 197598002 (1)
-Class index=2226, raw size=56, parent=1423
+Class index=2226, name=HobbyItemQuestEvent, raw size=56, parent=1423
 	REFERENCE m_collection (3)
 	REFERENCE m_rlLocations (4)
 	REFERENCE m_dependentEventIDs (0)
@@ -6448,11 +6448,11 @@ Class index=2226, raw size=56, parent=1423
 	INTEGER 39334036 (5)
 	INTEGER m_iEventOrder (1)
 	REFERENCE 202960052 (6)
-Class index=2227, raw size=16, parent=486
+Class index=2227, name=RunicLevelLootTable, raw size=16, parent=486
 	REFERENCE m_aahTrophyLootTable (1)
 	REFERENCE 260200933 (0)
-Class index=2229, raw size=0, parent=486
-Class index=2231, raw size=224, parent=705
+Class index=2229, name=RunicListTemplate, raw size=0, parent=486
+Class index=2231, name=AIZeroOutThreatEffect, raw size=224, parent=705
 	INTEGER m_uiResistLevel (23)
 	FLOAT m_fProbSpellcraftBegin (7)
 	FLOAT m_fResistChanceModifier (3)
@@ -6481,7 +6481,7 @@ Class index=2231, raw size=224, parent=705
 	REFERENCE 170624003 (6)
 	REFERENCE m_propertyList (17)
 	FLOAT m_fMinTsysSpellcraft (11)
-Class index=2233, raw size=224, parent=705
+Class index=2233, name=AIZeroOutThreatForTargetEffect, raw size=224, parent=705
 	INTEGER m_uiResistLevel (23)
 	FLOAT m_fProbSpellcraftBegin (7)
 	FLOAT m_fResistChanceModifier (3)
@@ -6510,24 +6510,24 @@ Class index=2233, raw size=224, parent=705
 	REFERENCE 170624003 (6)
 	REFERENCE m_propertyList (17)
 	FLOAT m_fMinTsysSpellcraft (11)
-Class index=2239, raw size=0, parent=486
-Class index=2244, raw size=32
+Class index=2239, name=RunicTreasureGroup, raw size=0, parent=486
+Class index=2244, name=AccountTitleBestowEntry, raw size=32
 	REFERENCE 51014227 (3)
 	REFERENCE 51210835 (1)
 	INTEGER 62123001 (2)
 	REFERENCE 53981760 (0)
-Class index=2245, raw size=0, parent=1620
-Class index=2246, raw size=8, parent=486
+Class index=2245, name=Version_AccountTitleBestow, raw size=0, parent=1620
+Class index=2246, name=NPCComment, raw size=8, parent=486
 	REFERENCE m_rcPermissionBlob (0)
-Class index=2247, raw size=8, parent=486
+Class index=2247, name=NPCCommentArray, raw size=8, parent=486
 	REFERENCE 238063971 (0)
-Class index=2248, raw size=0
-Class index=2251, raw size=0
-Class index=2252, raw size=0, parent=2248
-Class index=2254, raw size=16
+Class index=2248, name=NPCCommentSystem, raw size=0
+Class index=2251, name=GWM_NPCComment, raw size=0
+Class index=2252, name=CNPCCommentSystem, raw size=0, parent=2248
+Class index=2254, name=ExpirationEffectRegistry, raw size=16
 	REFERENCE m_expireEffects (0)
 	INTEGER 267111236 (1)
-Class index=2258, raw size=240, parent=734
+Class index=2258, name=SkillListenerEffect, raw size=240, parent=734
 	INTEGER m_uiResistLevel (23)
 	FLOAT m_fProbSpellcraftBegin (7)
 	FLOAT m_fResistChanceModifier (3)
@@ -6558,7 +6558,7 @@ Class index=2258, raw size=240, parent=734
 	REFERENCE 170624003 (6)
 	REFERENCE m_propertyList (17)
 	FLOAT m_fMinTsysSpellcraft (11)
-Class index=2259, raw size=264, parent=2258
+Class index=2259, name=ThreateningSkillHintEffect, raw size=264, parent=2258
 	INTEGER m_uiResistLevel (23)
 	FLOAT m_fProbSpellcraftBegin (7)
 	FLOAT m_fResistChanceModifier (3)
@@ -6592,9 +6592,9 @@ Class index=2259, raw size=264, parent=2258
 	REFERENCE 170624003 (6)
 	FLOAT 46083465 (31)
 	FLOAT m_fMinTsysSpellcraft (11)
-Class index=2263, raw size=0, parent=91
-Class index=2264, raw size=0, parent=91
-Class index=2265, raw size=56, parent=1423
+Class index=2263, name=PEBillboardCallback, raw size=0, parent=91
+Class index=2264, name=PEPlayVOCallback, raw size=0, parent=91
+Class index=2265, name=ItemAdvancementQuestEvent, raw size=56, parent=1423
 	REFERENCE m_collection (3)
 	REFERENCE m_rlLocations (4)
 	REFERENCE m_dependentEventIDs (0)
@@ -6602,9 +6602,9 @@ Class index=2265, raw size=56, parent=1423
 	INTEGER 39334036 (5)
 	INTEGER m_iEventOrder (1)
 	REFERENCE 202960052 (6)
-Class index=2266, raw size=0
-Class index=2268, raw size=0
-Class index=2269, raw size=224, parent=698
+Class index=2266, name=CCombatStateSystem, raw size=0
+Class index=2268, name=GambitSystem, raw size=0
+Class index=2269, name=GambitModEffect, raw size=224, parent=698
 	INTEGER m_uiResistLevel (23)
 	FLOAT m_fProbSpellcraftBegin (7)
 	FLOAT m_fResistChanceModifier (3)
@@ -6633,17 +6633,17 @@ Class index=2269, raw size=224, parent=698
 	REFERENCE 170624003 (6)
 	REFERENCE m_propertyList (17)
 	FLOAT m_fMinTsysSpellcraft (11)
-Class index=2272, raw size=0, parent=2268
-Class index=2274, raw size=8, parent=1097
+Class index=2272, name=CGambitSystem, raw size=0, parent=2268
+Class index=2274, name=ExaminationRecipeCooldownDataGrabber, raw size=8, parent=1097
 	INTEGER m_propName (0)
-Class index=2275, raw size=24
+Class index=2275, name=GambitClassInfo, raw size=24
 	INTEGER 93990803 (2)
 	REFERENCE 76388460 (1)
 	INTEGER 62731756 (0)
-Class index=2276, raw size=8, parent=486
+Class index=2276, name=GambitControl, raw size=8, parent=486
 	REFERENCE 154190431 (0)
-Class index=2278, raw size=0, parent=486
-Class index=2281, raw size=312, parent=705
+Class index=2278, name=CraftGuild, raw size=0, parent=486
+Class index=2281, name=InstantThreatEffect, raw size=312, parent=705
 	INTEGER m_uiResistLevel (23)
 	FLOAT m_fProbSpellcraftBegin (7)
 	REFERENCE 234702051 (35)
@@ -6683,7 +6683,7 @@ Class index=2281, raw size=312, parent=705
 	FLOAT m_fInitialChangeVar (31)
 	INTEGER 225250958 (34)
 	FLOAT m_fMinTsysSpellcraft (11)
-Class index=2282, raw size=384, parent=698
+Class index=2282, name=ThreatOverTimeEffect, raw size=384, parent=698
 	REFERENCE m_alChangePerIntCritMultMods (37)
 	INTEGER m_iPriority (24)
 	INTEGER 8394718 (30)
@@ -6732,36 +6732,36 @@ Class index=2282, raw size=384, parent=698
 	REFERENCE 170624003 (6)
 	FLOAT m_fInitialChangeMin (46)
 	FLOAT m_fMinTsysSpellcraft (11)
-Class index=2284, raw size=0
-Class index=2287, raw size=24, parent=1205
+Class index=2284, name=ProgressionGatingSystem, raw size=0
+Class index=2287, name=AdvanceableItemFilter, raw size=24, parent=1205
 	LONG 153210930 (1)
 	REFERENCE 217457433 (0)
-Class index=2289, raw size=0, parent=1728
-Class index=2290, raw size=8, parent=1079
+Class index=2289, name=ItemAdvancementBindDialogCallback, raw size=0, parent=1728
+Class index=2290, name=ExaminationSkillAppliedGambitDataGrabber, raw size=8, parent=1079
 	INTEGER m_propName (0)
-Class index=2291, raw size=8, parent=1079
+Class index=2291, name=ExaminationSkillRequiredGambitDataGrabber, raw size=8, parent=1079
 	INTEGER m_propName (0)
-Class index=2292, raw size=8, parent=1079
+Class index=2292, name=ExaminationSkillCostsPipDataGrabber, raw size=8, parent=1079
 	INTEGER m_propName (0)
-Class index=2293, raw size=8, parent=1079
+Class index=2293, name=ExaminationSkillRequiredPipDataGrabber, raw size=8, parent=1079
 	INTEGER m_propName (0)
-Class index=2296, raw size=0, parent=486
-Class index=2300, raw size=8, parent=486
+Class index=2296, name=ProgressionGatingControl, raw size=0, parent=486
+Class index=2300, name=RunicCombinationControl, raw size=8, parent=486
 	REFERENCE 174221480 (0)
-Class index=2301, raw size=8, parent=486
+Class index=2301, name=RunicCombinationInfo, raw size=8, parent=486
 	REFERENCE 238181939 (0)
-Class index=2308, raw size=8, parent=1079
+Class index=2308, name=ExaminationSkillSpellcraftModDataGrabber, raw size=8, parent=1079
 	INTEGER m_propName (0)
-Class index=2312, raw size=0
-Class index=2313, raw size=0, parent=2314
-Class index=2314, raw size=0
-Class index=2315, raw size=0, parent=486
-Class index=2316, raw size=0, parent=486
-Class index=2317, raw size=0, parent=2318
-Class index=2318, raw size=0
-Class index=2321, raw size=8, parent=486
+Class index=2312, name=GWM_AccountSystem, raw size=0
+Class index=2313, name=CAccountSystem, raw size=0, parent=2314
+Class index=2314, name=AccountSystem, raw size=0
+Class index=2315, name=QuestItemDirectory, raw size=0, parent=486
+Class index=2316, name=QuestItemRegionDirectory, raw size=0, parent=486
+Class index=2317, name=EffectListenerFilter, raw size=0, parent=2318
+Class index=2318, name=IEffectRecordFilter, raw size=0
+Class index=2321, name=ItemAdvancementLevelInfo, raw size=8, parent=486
 	REFERENCE 128672776 (0)
-Class index=2322, raw size=80
+Class index=2322, name=IALevelInfo, raw size=80
 	INTEGER 156297988 (5)
 	INTEGER 221330164 (3)
 	INTEGER m_iMaxLevel (4)
@@ -6772,37 +6772,37 @@ Class index=2322, raw size=80
 	INTEGER 182367872 (6)
 	INTEGER 74283284 (0)
 	INTEGER 2267396 (9)
-Class index=2323, raw size=24, parent=788
+Class index=2323, name=CharacterSheetManager, raw size=24, parent=788
 	REFERENCE m_regEffect (2)
 	REFERENCE m_logInfo (0)
 	REFERENCE m_rBaseEffectReg (1)
-Class index=2327, raw size=8, parent=486
+Class index=2327, name=ItemAdvancementReforgeSlotInfo, raw size=8, parent=486
 	REFERENCE 214400456 (0)
-Class index=2328, raw size=24, parent=788
+Class index=2328, name=PopulationTrackingManager, raw size=24, parent=788
 	REFERENCE m_regEffect (2)
 	REFERENCE m_logInfo (0)
 	REFERENCE m_rBaseEffectReg (1)
-Class index=2329, raw size=8, parent=1097
+Class index=2329, name=ExaminationTraitSetRequirementsDataGrabber, raw size=8, parent=1097
 	INTEGER m_propName (0)
-Class index=2335, raw size=0
-Class index=2337, raw size=48
+Class index=2335, name=PopulationTrackingSystem, raw size=0
+Class index=2337, name=IAItemRegistryInfo, raw size=48
 	INTEGER 57320212 (4)
 	REFERENCE 18304467 (5)
 	REFERENCE 224277884 (0)
 	INTEGER m_didTitle (2)
 	REFERENCE 40715683 (1)
 	REFERENCE 20012243 (3)
-Class index=2338, raw size=8, parent=486
+Class index=2338, name=IATitle, raw size=8, parent=486
 	REFERENCE m_rlEffects (0)
-Class index=2339, raw size=0, parent=2335
-Class index=2340, raw size=0, parent=2670
-Class index=2342, raw size=32, parent=1598
+Class index=2339, name=CPopulationTrackingSystem, raw size=0, parent=2335
+Class index=2340, name=IATitleUsageAction, raw size=0, parent=2670
+Class index=2342, name=IATitleUsageBlob, raw size=32, parent=1598
 	INTEGER m_userBehavior (1)
 	REFERENCE m_properties (2)
 	REFERENCE m_successMessage (0)
 	INTEGER m_didTitle (3)
-Class index=2345, raw size=0, parent=1728
-Class index=2346, raw size=80, parent=486
+Class index=2345, name=IATargetUsageConfirmation, raw size=0, parent=1728
+Class index=2346, name=GRSControl, raw size=80, parent=486
 	REFERENCE 227199203 (4)
 	REFERENCE 19534163 (1)
 	REFERENCE 18301603 (0)
@@ -6813,122 +6813,122 @@ Class index=2346, raw size=80, parent=486
 	REFERENCE 5167443 (3)
 	REFERENCE 178091427 (8)
 	REFERENCE 141576521 (6)
-Class index=2350, raw size=0, parent=372
-Class index=2351, raw size=0, parent=1620
-Class index=2352, raw size=16, parent=2183
+Class index=2350, name=CMEOInventorySystem, raw size=0, parent=372
+Class index=2351, name=Version_UpdateMonsterPlayerLevel, raw size=0, parent=1620
+Class index=2352, name=IntPropertyResponseCallback, raw size=16, parent=2183
 	REFERENCE 67561957 (0)
 	REFERENCE 197598002 (1)
-Class index=2353, raw size=16, parent=2352
+Class index=2353, name=EffectPropertyResponseCallback, raw size=16, parent=2352
 	REFERENCE 67561957 (0)
 	REFERENCE 197598002 (1)
-Class index=2354, raw size=16
+Class index=2354, name=ForwardedPropertyListEntry, raw size=16
 	INTEGER m_eWeenieType (0)
 	REFERENCE m_aaProperties (1)
 Class index=2362, raw size=16
 	REFERENCE 181758079 (0)
 	INTEGER 266828703 (1)
-Class index=2365, raw size=0, parent=91
-Class index=2368, raw size=0, parent=2670
-Class index=2369, raw size=40, parent=1598
+Class index=2365, name=HasActiveTraitCallback, raw size=0, parent=91
+Class index=2368, name=IAXPUsageAction, raw size=0, parent=2670
+Class index=2369, name=IAXPUsageBlob, raw size=40, parent=1598
 	INTEGER 96862051 (4)
 	INTEGER m_userBehavior (1)
 	REFERENCE m_properties (2)
 	REFERENCE m_successMessage (0)
 	INTEGER 226361604 (3)
-Class index=2370, raw size=0, parent=2670
-Class index=2372, raw size=16, parent=1235
+Class index=2370, name=IALPResetUsageAction, raw size=0, parent=2670
+Class index=2372, name=BarterTreasureGroupProfile, raw size=16, parent=1235
 	REFERENCE 212438260 (0)
 	REFERENCE m_rChooser (1)
-Class index=2375, raw size=0, parent=1620
-Class index=2376, raw size=8, parent=1097
+Class index=2375, name=Version_UpdateChatWindowTextType, raw size=0, parent=1620
+Class index=2376, name=ExaminationLegacyListDataGrabber, raw size=8, parent=1097
 	INTEGER m_propName (0)
-Class index=2377, raw size=24
+Class index=2377, name=ExaminationLegacyStruct, raw size=24
 	INTEGER 56469204 (1)
 	REFERENCE 143437828 (2)
 	INTEGER 56526907 (0)
-Class index=2378, raw size=8, parent=1097
+Class index=2378, name=ExaminationReforgeDataGrabber, raw size=8, parent=1097
 	INTEGER m_propName (0)
-Class index=2379, raw size=8, parent=1097
+Class index=2379, name=ExaminationIALegacyDescriptionDataGrabber, raw size=8, parent=1097
 	INTEGER m_propName (0)
-Class index=2381, raw size=48
+Class index=2381, name=WeaponStrikeModifierData, raw size=48
 	INTEGER 191503444 (5)
 	INTEGER 115947700 (1)
 	INTEGER 40458740 (4)
 	INTEGER 160346740 (2)
 	INTEGER 124602484 (3)
 	INTEGER 57023908 (0)
-Class index=2382, raw size=8, parent=1097
+Class index=2382, name=ExaminationLegendaryPointsDataGrabber, raw size=8, parent=1097
 	INTEGER m_propName (0)
-Class index=2384, raw size=8, parent=1097
+Class index=2384, name=ExaminationItemTitleDataGrabber, raw size=8, parent=1097
 	INTEGER m_propName (0)
-Class index=2385, raw size=8, parent=1097
+Class index=2385, name=ExaminationItemXPBarDataGrabber, raw size=8, parent=1097
 	INTEGER m_propName (0)
-Class index=2386, raw size=8, parent=1079
+Class index=2386, name=ExaminationSkillMaxRangeDataGrabber, raw size=8, parent=1079
 	INTEGER m_propName (0)
-Class index=2387, raw size=8, parent=1097
+Class index=2387, name=ExaminationRunicListDataGrabber, raw size=8, parent=1097
 	INTEGER m_propName (0)
-Class index=2388, raw size=8
+Class index=2388, name=AdvancementLineEntry, raw size=8
 	INTEGER 260927033 (0)
-Class index=2389, raw size=8, parent=486
+Class index=2389, name=IAdvancementLine, raw size=8, parent=486
 	REFERENCE 70850611 (0)
-Class index=2390, raw size=8, parent=2389
+Class index=2390, name=SkillAdvancementLine, raw size=8, parent=2389
 	REFERENCE 70850611 (0)
-Class index=2391, raw size=8, parent=486
+Class index=2391, name=AdvancementLineDirectory, raw size=8, parent=486
 	REFERENCE 159335077 (0)
-Class index=2392, raw size=0
-Class index=2393, raw size=0
-Class index=2395, raw size=8, parent=486
+Class index=2392, name=GWM_ShortcutSystem, raw size=0
+Class index=2393, name=CShortcutSystem, raw size=0
+Class index=2395, name=RegionControl, raw size=8, parent=486
 	REFERENCE 120496448 (0)
-Class index=2398, raw size=8, parent=1097
+Class index=2398, name=ExaminationIAIdentifyHintDataGrabber, raw size=8, parent=1097
 	INTEGER m_propName (0)
-Class index=2399, raw size=8, parent=2389
+Class index=2399, name=TraitAdvancementLine, raw size=8, parent=2389
 	REFERENCE 70850611 (0)
-Class index=2400, raw size=8, parent=1098
+Class index=2400, name=ExaminationIALegacyRankListBlob, raw size=8, parent=1098
 	REFERENCE 20782148 (0)
-Class index=2401, raw size=8, parent=1097
+Class index=2401, name=ExaminationIALegacyRankListDataGrabber, raw size=8, parent=1097
 	INTEGER m_propName (0)
-Class index=2402, raw size=16, parent=1386
+Class index=2402, name=StringInfoProgression, raw size=16, parent=1386
 	INTEGER m_iMinIndexValue (0)
 	REFERENCE m_raValues (1)
-Class index=2403, raw size=8, parent=2404
+Class index=2403, name=ConstModDescOverride, raw size=8, parent=2404
 	REFERENCE m_siDescOverride (0)
-Class index=2404, raw size=0
-Class index=2405, raw size=8, parent=2404
+Class index=2404, name=IModDescOverride, raw size=0
+Class index=2405, name=ProgressionModDescOverride, raw size=8, parent=2404
 	INTEGER 151856039 (0)
-Class index=2406, raw size=8, parent=1079
+Class index=2406, name=ExaminationSkillCastingTimeDataGrabber, raw size=8, parent=1079
 	INTEGER m_propName (0)
-Class index=2407, raw size=24, parent=788
+Class index=2407, name=RepositoryManager, raw size=24, parent=788
 	REFERENCE m_regEffect (2)
 	REFERENCE m_logInfo (0)
 	REFERENCE m_rBaseEffectReg (1)
-Class index=2409, raw size=0, parent=1620
-Class index=2410, raw size=8, parent=1097
+Class index=2409, name=Version_InvokeCraftProficiencyTutorials, raw size=0, parent=1620
+Class index=2410, name=ExaminationMaxQuestDataGrabber, raw size=8, parent=1097
 	INTEGER m_propName (0)
-Class index=2413, raw size=0
-Class index=2415, raw size=0, parent=2416
-Class index=2416, raw size=0
-Class index=2418, raw size=0, parent=486
-Class index=2419, raw size=0, parent=486
-Class index=2420, raw size=0
-Class index=2421, raw size=0, parent=2419
-Class index=2422, raw size=0, parent=2418
-Class index=2424, raw size=0, parent=2419
-Class index=2425, raw size=0, parent=2422
-Class index=2426, raw size=0, parent=2419
-Class index=2427, raw size=0
-Class index=2429, raw size=8, parent=486
+Class index=2413, name=GWM_RepositorySystem, raw size=0
+Class index=2415, name=CRepositorySystem, raw size=0, parent=2416
+Class index=2416, name=RepositorySystem, raw size=0
+Class index=2418, name=IAESelector, raw size=0, parent=486
+Class index=2419, name=IAECommand, raw size=0, parent=486
+Class index=2420, name=IAECommandParams, raw size=0
+Class index=2421, name=AECDoNothing, raw size=0, parent=2419
+Class index=2422, name=IAESAreaSelector, raw size=0, parent=2418
+Class index=2424, name=AECRunScript, raw size=0, parent=2419
+Class index=2425, name=AESGameplayAreaSelector, raw size=0, parent=2422
+Class index=2426, name=AECGrantTrophy, raw size=0, parent=2419
+Class index=2427, name=PostprocUtils, raw size=0
+Class index=2429, name=IALegendaryPointInfo, raw size=8, parent=486
 	REFERENCE 214400456 (0)
-Class index=2430, raw size=0, parent=1620
-Class index=2431, raw size=8, parent=1097
+Class index=2430, name=Version_QuestTokens, raw size=0, parent=1620
+Class index=2431, name=ExaminationDPSRankListDataGrabber, raw size=8, parent=1097
 	INTEGER m_propName (0)
-Class index=2433, raw size=8, parent=1097
+Class index=2433, name=ExaminationItemTitleTierDataGrabber, raw size=8, parent=1097
 	INTEGER m_propName (0)
-Class index=2435, raw size=8, parent=1205
+Class index=2435, name=QuestItemFilter, raw size=8, parent=1205
 	INTEGER 262113540 (0)
-Class index=2437, raw size=0, parent=2419
-Class index=2438, raw size=0, parent=1620
-Class index=2439, raw size=0, parent=371
-Class index=2441, raw size=248, parent=734
+Class index=2437, name=AECPortalStorm, raw size=0, parent=2419
+Class index=2438, name=Version_IALegacyEffects, raw size=0, parent=1620
+Class index=2439, name=CMailSystem, raw size=0, parent=371
+Class index=2441, name=ReviveOnDefeatEffect, raw size=248, parent=734
 	INTEGER m_uiResistLevel (23)
 	FLOAT m_fProbSpellcraftBegin (7)
 	REFERENCE m_arhVitalData (30)
@@ -6960,7 +6960,7 @@ Class index=2441, raw size=248, parent=734
 	REFERENCE 170624003 (6)
 	REFERENCE m_propertyList (17)
 	FLOAT m_fMinTsysSpellcraft (11)
-Class index=2448, raw size=224, parent=705
+Class index=2448, name=GrantCraftXPEffect, raw size=224, parent=705
 	INTEGER m_uiResistLevel (23)
 	FLOAT m_fProbSpellcraftBegin (7)
 	FLOAT m_fResistChanceModifier (3)
@@ -6989,8 +6989,8 @@ Class index=2448, raw size=224, parent=705
 	REFERENCE 170624003 (6)
 	REFERENCE m_propertyList (17)
 	FLOAT m_fMinTsysSpellcraft (11)
-Class index=2455, raw size=0, parent=1620
-Class index=2459, raw size=240, parent=734
+Class index=2455, name=Version_IAClassItems, raw size=0, parent=1620
+Class index=2459, name=MountEffect, raw size=240, parent=734
 	INTEGER m_uiResistLevel (23)
 	FLOAT m_fProbSpellcraftBegin (7)
 	FLOAT m_fResistChanceModifier (3)
@@ -7025,16 +7025,16 @@ Class index=2461, name=QuestEventTargetLocationControl, raw size=24, parent=486
 	REFERENCE 265454674 (2)
 	REFERENCE 134642488 (1)
 	REFERENCE 30897112 (0)
-Class index=2462, raw size=0, parent=91
-Class index=2464, raw size=48
+Class index=2462, name=MountCleanupCallback, raw size=0, parent=91
+Class index=2464, name=MountData, raw size=48
 	INTEGER 235356451 (2)
 	REFERENCE 243065538 (4)
 	REFERENCE 198136293 (1)
 	REFERENCE 184178110 (0)
 	INTEGER 237533842 (3)
 	REFERENCE 182577790 (5)
-Class index=2469, raw size=0, parent=1358
-Class index=2472, raw size=56, parent=1423
+Class index=2469, name=CMountSystem, raw size=0, parent=1358
+Class index=2472, name=DismountedQuestEvent, raw size=56, parent=1423
 	REFERENCE m_collection (3)
 	REFERENCE m_rlLocations (4)
 	REFERENCE m_dependentEventIDs (0)
@@ -7042,8 +7042,8 @@ Class index=2472, raw size=56, parent=1423
 	INTEGER 39334036 (5)
 	INTEGER m_iEventOrder (1)
 	REFERENCE 202960052 (6)
-Class index=2475, raw size=0, parent=916
-Class index=2477, raw size=232, parent=734
+Class index=2475, name=NPCBehavior_Patrol_StartIfValid_Callback, raw size=0, parent=916
+Class index=2477, name=DefeatBlockSelfReviveEffect, raw size=232, parent=734
 	INTEGER m_uiResistLevel (23)
 	FLOAT m_fProbSpellcraftBegin (7)
 	FLOAT m_fResistChanceModifier (3)
@@ -7073,21 +7073,21 @@ Class index=2477, raw size=232, parent=734
 	REFERENCE 170624003 (6)
 	REFERENCE m_propertyList (17)
 	FLOAT m_fMinTsysSpellcraft (11)
-Class index=2480, raw size=0, parent=486
-Class index=2490, raw size=8, parent=1097
+Class index=2480, name=ITeaRpc, raw size=0, parent=486
+Class index=2490, name=ExaminationWeaponPropertyModDataGrabber, raw size=8, parent=1097
 	INTEGER m_propName (0)
-Class index=2491, raw size=0
-Class index=2493, raw size=0, parent=486
-Class index=2497, raw size=0, parent=1728
-Class index=2503, raw size=0, parent=1597
-Class index=2504, raw size=0, parent=1728
-Class index=2507, raw size=40
+Class index=2491, name=GWM_Tea, raw size=0
+Class index=2493, name=CTeaMgr, raw size=0, parent=486
+Class index=2497, name=PetRenameConfirmationDialogCallback, raw size=0, parent=1728
+Class index=2503, name=MountItemUsageAction, raw size=0, parent=1597
+Class index=2504, name=UsageConfirmationDialogCallback, raw size=0, parent=1728
+Class index=2507, name=ContentLayerPosition, raw size=40
 	REFERENCE 11351881 (2)
 	REFERENCE 259645257 (4)
 	REFERENCE m_rcPosition (3)
 	FLOAT 193454995 (0)
 	REFERENCE 52299971 (1)
-Class index=2515, raw size=128, parent=486
+Class index=2515, name=SkirmishControl, raw size=128, parent=486
 	REFERENCE 210441133 (7)
 	REFERENCE 13911107 (5)
 	REFERENCE 69537074 (6)
@@ -7104,27 +7104,27 @@ Class index=2515, raw size=128, parent=486
 	INTEGER 117216340 (15)
 	REFERENCE 134733939 (14)
 	INTEGER 103834708 (10)
-Class index=2516, raw size=24, parent=1113
+Class index=2516, name=WorldEventGenerator, raw size=24, parent=1113
 	REFERENCE m_regEffect (2)
 	REFERENCE m_logInfo (0)
 	REFERENCE m_rBaseEffectReg (1)
-Class index=2517, raw size=16, parent=2352
+Class index=2517, name=CalculatePropertyValueCallback, raw size=16, parent=2352
 	REFERENCE 67561957 (0)
 	REFERENCE 197598002 (1)
-Class index=2518, raw size=16, parent=2352
+Class index=2518, name=MapPropertyValueCallback, raw size=16, parent=2352
 	REFERENCE 67561957 (0)
 	REFERENCE 197598002 (1)
-Class index=2519, raw size=16, parent=1386
+Class index=2519, name=DataIDProgression, raw size=16, parent=1386
 	INTEGER m_iMinIndexValue (0)
 	REFERENCE m_aaValues (1)
-Class index=2520, raw size=8, parent=2521
+Class index=2520, name=CompletedQuestRecord, raw size=8, parent=2521
 	INTEGER 262113540 (0)
-Class index=2521, raw size=0
-Class index=2524, raw size=24, parent=2520
+Class index=2521, name=IQuestRecord, raw size=0
+Class index=2524, name=RepeatableCompletedQuestRecord, raw size=24, parent=2520
 	INTEGER 240034292 (1)
 	INTEGER 212351221 (2)
 	INTEGER 262113540 (0)
-Class index=2525, raw size=96, parent=1494
+Class index=2525, name=SkirmishTrait, raw size=96, parent=1494
 	REFERENCE m_alPrerequisiteTraits (6)
 	REFERENCE m_rlEffects (8)
 	REFERENCE 102017907 (5)
@@ -7137,34 +7137,34 @@ Class index=2525, raw size=96, parent=1494
 	REFERENCE 6984084 (4)
 	REFERENCE 95976075 (3)
 	REFERENCE 74196803 (9)
-Class index=2532, raw size=24, parent=2541
+Class index=2532, name=WebStoreAccountItem, raw size=24, parent=2541
 	REFERENCE 192172387 (2)
 	REFERENCE 197598002 (0)
 	INTEGER 129987604 (1)
-Class index=2533, raw size=0, parent=486
-Class index=2534, raw size=40, parent=486
+Class index=2533, name=WebStoreItem, raw size=0, parent=486
+Class index=2534, name=WebStoreItemDirectory, raw size=40, parent=486
 	REFERENCE 131876616 (2)
 	REFERENCE 20643033 (1)
 	REFERENCE 128197076 (0)
 	REFERENCE 207328921 (3)
 	REFERENCE 87984984 (4)
-Class index=2535, raw size=0
-Class index=2536, raw size=0, parent=2535
-Class index=2537, raw size=0, parent=91
-Class index=2539, raw size=0
-Class index=2540, raw size=0
-Class index=2541, raw size=16, parent=2533
+Class index=2535, name=WebStoreSystem, raw size=0
+Class index=2536, name=CWebStoreSystem, raw size=0, parent=2535
+Class index=2537, name=AwardSkirmishPointsCallback, raw size=0, parent=91
+Class index=2539, name=GWM_WebStoreSystem, raw size=0
+Class index=2540, name=GWM_Skirmish, raw size=0
+Class index=2541, name=WebStoreInventoryItem, raw size=16, parent=2533
 	REFERENCE 197598002 (0)
 	INTEGER 129987604 (1)
-Class index=2542, raw size=0, parent=1620
-Class index=2543, raw size=48
+Class index=2542, name=Version_IAResetItemsForClass, raw size=0, parent=1620
+Class index=2543, name=PopulationDurationTableEntry, raw size=48
 	INTEGER 171842564 (0)
 	INTEGER 67410437 (2)
 	INTEGER 162758041 (1)
 	INTEGER 59415045 (5)
 	INTEGER 42910645 (4)
 	INTEGER 174837804 (3)
-Class index=2544, raw size=232, parent=698
+Class index=2544, name=PopulationControlEffect, raw size=232, parent=698
 	INTEGER m_uiResistLevel (23)
 	FLOAT m_fProbSpellcraftBegin (7)
 	FLOAT m_fResistChanceModifier (3)
@@ -7194,11 +7194,11 @@ Class index=2544, raw size=232, parent=698
 	REFERENCE 170624003 (6)
 	REFERENCE m_propertyList (17)
 	FLOAT m_fMinTsysSpellcraft (11)
-Class index=2545, raw size=0, parent=486
-Class index=2546, raw size=0
-Class index=2552, raw size=0
-Class index=2555, raw size=0, parent=2546
-Class index=2559, raw size=224, parent=698
+Class index=2545, name=CharacterSlotControl, raw size=0, parent=486
+Class index=2546, name=CharacterSlotSystem, raw size=0
+Class index=2552, name=AdminUtils, raw size=0
+Class index=2555, name=CCharacterSlotSystem, raw size=0, parent=2546
+Class index=2559, name=FearEffect, raw size=224, parent=698
 	INTEGER m_uiResistLevel (23)
 	FLOAT m_fProbSpellcraftBegin (7)
 	FLOAT m_fResistChanceModifier (3)
@@ -7227,9 +7227,9 @@ Class index=2559, raw size=224, parent=698
 	REFERENCE 170624003 (6)
 	REFERENCE m_propertyList (17)
 	FLOAT m_fMinTsysSpellcraft (11)
-Class index=2560, raw size=0
-Class index=2562, raw size=0, parent=2560
-Class index=2564, raw size=0
+Class index=2560, name=BankRepositorySystem, raw size=0
+Class index=2562, name=CBankRepositorySystem, raw size=0, parent=2560
+Class index=2564, name=GWM_BankRepositorySystem, raw size=0
 Class index=2571, raw size=16, parent=486
 	INTEGER 98563708 (0)
 	INTEGER 134181209 (1)
@@ -7252,14 +7252,14 @@ Class index=2576, raw size=24, parent=2571
 	INTEGER 98563708 (0)
 	INTEGER 262608441 (2)
 	INTEGER 134181209 (1)
-Class index=2581, raw size=0, parent=486
-Class index=2582, raw size=24
+Class index=2581, name=BankRepositoryControl, raw size=0, parent=486
+Class index=2582, name=BankBillingTokenEntry, raw size=24
 	INTEGER 138672613 (1)
 	INTEGER 207312355 (2)
 	INTEGER 94278128 (0)
-Class index=2583, raw size=0
-Class index=2588, raw size=0, parent=1620
-Class index=2589, raw size=56, parent=1423
+Class index=2583, name=BitUtils, raw size=0
+Class index=2588, name=Version_ItemLevelRequirements, raw size=0, parent=1620
+Class index=2589, name=FactionLevelQuestEvent, raw size=56, parent=1423
 	REFERENCE m_collection (3)
 	REFERENCE m_rlLocations (4)
 	REFERENCE m_dependentEventIDs (0)
@@ -7267,21 +7267,21 @@ Class index=2589, raw size=56, parent=1423
 	INTEGER 39334036 (5)
 	INTEGER m_iEventOrder (1)
 	REFERENCE 202960052 (6)
-Class index=2592, raw size=32, parent=1733
+Class index=2592, name=PatrolBox, raw size=32, parent=1733
 	INTEGER 172812866 (3)
 	REFERENCE m_regEffect (2)
 	REFERENCE m_logInfo (0)
 	REFERENCE m_rBaseEffectReg (1)
-Class index=2594, raw size=0, parent=916
-Class index=2595, raw size=0, parent=91
-Class index=2602, raw size=0
-Class index=2603, raw size=0, parent=2602
-Class index=2604, raw size=0
-Class index=2606, raw size=24, parent=486
+Class index=2594, name=NPCBehavior_Patrol_QueryForPatrol_Callback, raw size=0, parent=916
+Class index=2595, name=SetPatrolBoxCallback, raw size=0, parent=91
+Class index=2602, name=WorldJoinSystem, raw size=0
+Class index=2603, name=CWorldJoinSystem, raw size=0, parent=2602
+Class index=2604, name=GWM_WorldJoinSystem, raw size=0
+Class index=2606, name=WorldJoinControl, raw size=24, parent=486
 	REFERENCE 87054608 (1)
 	REFERENCE 172846579 (2)
 	REFERENCE 228422259 (0)
-Class index=2607, raw size=240, parent=715
+Class index=2607, name=DismountEffect, raw size=240, parent=715
 	INTEGER m_uiResistLevel (23)
 	FLOAT m_fProbSpellcraftBegin (7)
 	REFERENCE 48160275 (29)
@@ -7312,28 +7312,28 @@ Class index=2607, raw size=240, parent=715
 	REFERENCE 170624003 (6)
 	REFERENCE m_propertyList (17)
 	FLOAT m_fMinTsysSpellcraft (11)
-Class index=2618, raw size=8, parent=486
+Class index=2618, name=WeaponDamageVarianceTable, raw size=8, parent=486
 	REFERENCE 53071413 (0)
-Class index=2619, raw size=24, parent=788
+Class index=2619, name=WorldJoinManager, raw size=24, parent=788
 	REFERENCE m_regEffect (2)
 	REFERENCE m_logInfo (0)
 	REFERENCE m_rBaseEffectReg (1)
-Class index=2621, raw size=16, parent=2622
+Class index=2621, name=TraitSlottedCallback, raw size=16, parent=2622
 	REFERENCE 217457433 (0)
 	REFERENCE 146917603 (1)
-Class index=2622, raw size=0
-Class index=2623, raw size=32
+Class index=2622, name=IPropertyLogicCallback, raw size=0
+Class index=2623, name=PropertyLogic, raw size=32
 	INTEGER 120952900 (2)
 	INTEGER 7559778 (3)
 	INTEGER 120955746 (1)
 	REFERENCE 19136523 (0)
-Class index=2624, raw size=8, parent=1097
+Class index=2624, name=ExaminationTraitPreRequisitesDataGrabber, raw size=8, parent=1097
 	INTEGER m_propName (0)
-Class index=2626, raw size=0
-Class index=2627, raw size=0, parent=2626
-Class index=2629, raw size=0
-Class index=2631, raw size=0, parent=2670
-Class index=2633, raw size=56, parent=2621
+Class index=2626, name=WardrobeSystem, raw size=0
+Class index=2627, name=CWardrobeSystem, raw size=0, parent=2626
+Class index=2629, name=GWM_WardrobeSystem, raw size=0
+Class index=2631, name=IAReplaceLegacyUsageAction, raw size=0, parent=2670
+Class index=2633, name=ExaminationTraitRerequisiteSlottedCallback, raw size=56, parent=2621
 	INTEGER 99271492 (6)
 	REFERENCE 148140567 (5)
 	REFERENCE 217457433 (0)
@@ -7341,24 +7341,24 @@ Class index=2633, raw size=56, parent=2621
 	INTEGER 6505924 (2)
 	REFERENCE 146917603 (1)
 	INTEGER 148919747 (3)
-Class index=2634, raw size=32
+Class index=2634, name=CraftingParams, raw size=32
 	INTEGER 52630099 (0)
 	REFERENCE 87324409 (1)
 	INTEGER 56274866 (3)
 	INTEGER 58258936 (2)
-Class index=2635, raw size=24
+Class index=2635, name=CraftMultiOutputStruct, raw size=24
 	INTEGER m_didCritResultItem (2)
 	INTEGER m_didIngredient (1)
 	INTEGER m_didResultItem (0)
-Class index=2637, raw size=0
-Class index=2639, raw size=32, parent=486
+Class index=2637, name=SkirmishStatRepositorySystem, raw size=0
+Class index=2639, name=WardrobeControl, raw size=32, parent=486
 	REFERENCE 84493091 (0)
 	REFERENCE 189574291 (3)
 	INTEGER 183941237 (1)
 	REFERENCE 207328921 (2)
-Class index=2640, raw size=0, parent=91
-Class index=2642, raw size=0, parent=2668
-Class index=2643, raw size=56, parent=1423
+Class index=2640, name=IncrementSkirmishStatCallback, raw size=0, parent=91
+Class index=2642, name=CSkirmishSystem, raw size=0, parent=2668
+Class index=2643, name=TeleportedQuestEvent, raw size=56, parent=1423
 	REFERENCE m_collection (3)
 	REFERENCE m_rlLocations (4)
 	REFERENCE m_dependentEventIDs (0)
@@ -7366,8 +7366,8 @@ Class index=2643, raw size=56, parent=1423
 	INTEGER 39334036 (5)
 	INTEGER m_iEventOrder (1)
 	REFERENCE 202960052 (6)
-Class index=2649, raw size=0, parent=2670
-Class index=2651, raw size=112, parent=1368
+Class index=2649, name=IAUpgradeLegacyUsageAction, raw size=0, parent=2670
+Class index=2651, name=SkirmishEncounterTemplate, raw size=112, parent=1368
 	REFERENCE 1636371 (9)
 	REFERENCE 207773105 (8)
 	REFERENCE 226807297 (4)
@@ -7382,19 +7382,19 @@ Class index=2651, raw size=112, parent=1368
 	REFERENCE 128154231 (3)
 	REFERENCE 70083153 (0)
 	REFERENCE 69120467 (5)
-Class index=2653, raw size=8
+Class index=2653, name=ClassResistControl, raw size=8
 	FLOAT 44730476 (0)
-Class index=2662, raw size=0, parent=1620
-Class index=2663, raw size=0, parent=486
-Class index=2664, raw size=0, parent=2663
-Class index=2665, raw size=0, parent=2663
-Class index=2666, raw size=0, parent=1728
-Class index=2668, raw size=0
-Class index=2669, raw size=8, parent=486
+Class index=2662, name=Version_UpdateGameplayOptionsProfileProperties, raw size=0, parent=1620
+Class index=2663, name=IEffectSorter, raw size=0, parent=486
+Class index=2664, name=EffectSorter_Default, raw size=0, parent=2663
+Class index=2665, name=EffectSorter_OldestOnly, raw size=0, parent=2663
+Class index=2666, name=WardrobeRemoveItemDialogCallback, raw size=0, parent=1728
+Class index=2668, name=SkirmishSystem, raw size=0
+Class index=2669, name=SkillTrainerProfile, raw size=8, parent=486
 	REFERENCE 147535683 (0)
-Class index=2670, raw size=0, parent=3980
-Class index=2675, raw size=0, parent=1728
-Class index=2676, raw size=224, parent=705
+Class index=2670, name=IATargettedUsageAction, raw size=0, parent=3980
+Class index=2675, name=WardrobeUseDyeDialogCallback, raw size=0, parent=1728
+Class index=2676, name=PetForceAttackEffect, raw size=224, parent=705
 	INTEGER m_uiResistLevel (23)
 	FLOAT m_fProbSpellcraftBegin (7)
 	FLOAT m_fResistChanceModifier (3)
@@ -7423,13 +7423,13 @@ Class index=2676, raw size=224, parent=705
 	REFERENCE 170624003 (6)
 	REFERENCE m_propertyList (17)
 	FLOAT m_fMinTsysSpellcraft (11)
-Class index=2678, raw size=8, parent=486
+Class index=2678, name=IAPointTable, raw size=8, parent=486
 	REFERENCE m_hashLevelToPoints (0)
-Class index=2679, raw size=0, parent=1620
-Class index=2681, raw size=0, parent=2670
-Class index=2685, raw size=0
+Class index=2679, name=Version_V2Book9IAItems, raw size=0, parent=1620
+Class index=2681, name=IAIncreaseMaxLevelUsageAction, raw size=0, parent=2670
+Class index=2685, name=CSelectionSystem, raw size=0
 Class index=2692, raw size=0
-Class index=2696, raw size=40
+Class index=2696, name=PrivateEncounterQuestBestowalData, raw size=40
 	REFERENCE 13756963 (3)
 	REFERENCE 207887113 (0)
 	REFERENCE 157404595 (4)
@@ -7437,7 +7437,7 @@ Class index=2696, raw size=40
 	REFERENCE 75624195 (1)
 Class index=2701, name=CombatPropertyModControl, raw size=8, parent=486
 	REFERENCE 33630180 (0)
-Class index=2703, raw size=16, parent=486
+Class index=2703, name=RequiredCombatPropertyModLookup, raw size=16, parent=486
 	REFERENCE 65815070 (1)
 	REFERENCE 266986532 (0)
 Class index=2708, name=PVPControl, raw size=48, parent=486
@@ -7447,17 +7447,17 @@ Class index=2708, name=PVPControl, raw size=48, parent=486
 	REFERENCE 183216852 (1)
 	REFERENCE 222745332 (0)
 	REFERENCE 65682373 (3)
-Class index=2721, raw size=0, parent=509
-Class index=2725, raw size=0
-Class index=2727, raw size=0, parent=486
-Class index=2728, raw size=0, parent=486
-Class index=2729, raw size=0, parent=486
-Class index=2732, raw size=8
+Class index=2721, name=gmPropertyUtils, raw size=0, parent=509
+Class index=2725, name=CharacterTransferSystem, raw size=0
+Class index=2727, name=SkirmishMatchParams, raw size=0, parent=486
+Class index=2728, name=SkirmishTreasureLookup, raw size=0, parent=486
+Class index=2729, name=SkirmishCustomLootLookupTable, raw size=0, parent=486
+Class index=2732, name=IQuestMsgFilter, raw size=8
 	INTEGER 31487525 (0)
-Class index=2733, raw size=16, parent=2732
+Class index=2733, name=GenericQuestMsgFilter, raw size=16, parent=2732
 	INTEGER 31487525 (0)
 	REFERENCE 201331833 (1)
-Class index=2734, raw size=88, parent=2732
+Class index=2734, name=MonsterDiedQuestMsgFilter, raw size=88, parent=2732
 	REFERENCE 122548328 (7)
 	REFERENCE 112170312 (1)
 	REFERENCE 183133304 (9)
@@ -7469,11 +7469,11 @@ Class index=2734, raw size=88, parent=2732
 	REFERENCE 67380696 (10)
 	REFERENCE 168674537 (8)
 	REFERENCE 251984456 (4)
-Class index=2735, raw size=0, parent=1620
-Class index=2746, raw size=0, parent=1620
-Class index=2747, raw size=0
-Class index=2748, raw size=0, parent=1620
-Class index=2751, raw size=224, parent=698
+Class index=2735, name=Version_TurnOnFloatyTextType, raw size=0, parent=1620
+Class index=2746, name=Version_China_TurnOffGore, raw size=0, parent=1620
+Class index=2747, name=SkirmishTraitSPRepositorySystem, raw size=0
+Class index=2748, name=Version_SkirmishTraitPoints, raw size=0, parent=1620
+Class index=2751, name=GrantTraitRankEffect, raw size=224, parent=698
 	INTEGER m_uiResistLevel (23)
 	FLOAT m_fProbSpellcraftBegin (7)
 	FLOAT m_fResistChanceModifier (3)
@@ -7502,14 +7502,14 @@ Class index=2751, raw size=224, parent=698
 	REFERENCE 170624003 (6)
 	REFERENCE m_propertyList (17)
 	FLOAT m_fMinTsysSpellcraft (11)
-Class index=2752, raw size=8, parent=1097
+Class index=2752, name=ExaminationTraitRankToLevelEquivalenceDataGrabber, raw size=8, parent=1097
 	INTEGER m_propName (0)
-Class index=2753, raw size=0, parent=1728
-Class index=2754, raw size=0
-Class index=2757, raw size=0, parent=1728
-Class index=2759, raw size=0, parent=1728
-Class index=2761, raw size=0, parent=91
-Class index=2762, raw size=256, parent=705
+Class index=2753, name=WJQueueDialogCallback, raw size=0, parent=1728
+Class index=2754, name=AlertSystem, raw size=0
+Class index=2757, name=WJRequestDialogCallback, raw size=0, parent=1728
+Class index=2759, name=WJDequeueDialogCallback, raw size=0, parent=1728
+Class index=2761, name=SkirmishStartBestTimeTimer, raw size=0, parent=91
+Class index=2762, name=AreaEffect, raw size=256, parent=705
 	INTEGER m_uiResistLevel (23)
 	FLOAT m_fProbSpellcraftBegin (7)
 	REFERENCE 170454725 (30)
@@ -7542,28 +7542,28 @@ Class index=2762, raw size=256, parent=705
 	REFERENCE 170624003 (6)
 	REFERENCE m_propertyList (17)
 	FLOAT m_fMinTsysSpellcraft (11)
-Class index=2763, raw size=0
-Class index=2767, raw size=0, parent=1620
-Class index=2769, raw size=0, parent=91
-Class index=2772, raw size=0, parent=1620
-Class index=2774, raw size=8, parent=486
+Class index=2763, name=DetectionUtils, raw size=0
+Class index=2767, name=Version_Property, raw size=0, parent=1620
+Class index=2769, name=ResetPatrolBoxCallback, raw size=0, parent=91
+Class index=2772, name=Version_BankRepository_DestroyExcludedItems, raw size=0, parent=1620
+Class index=2774, name=AccountTypeRestrictionsControl, raw size=8, parent=486
 	REFERENCE 97237138 (0)
-Class index=2776, raw size=16, parent=2541
+Class index=2776, name=WebStoreGenericInventoryItem, raw size=16, parent=2541
 	REFERENCE 197598002 (0)
 	INTEGER 129987604 (1)
-Class index=2779, raw size=0
-Class index=2781, raw size=0, parent=2779
-Class index=2783, raw size=0, parent=1977
-Class index=2784, raw size=24, parent=2532
+Class index=2779, name=BindingSystem, raw size=0
+Class index=2781, name=CBindingSystem, raw size=0, parent=2779
+Class index=2783, name=CBillingSystem, raw size=0, parent=1977
+Class index=2784, name=WebStoreFreeAccountItem, raw size=24, parent=2532
 	REFERENCE 192172387 (2)
 	REFERENCE 197598002 (0)
 	INTEGER 129987604 (1)
-Class index=2787, raw size=16
+Class index=2787, name=AuctionWebstoreItemMaxAuctionsEntry, raw size=16
 	INTEGER 131738499 (0)
 	INTEGER m_didWebstoreItem (1)
-Class index=2790, raw size=0
-Class index=2791, raw size=0
-Class index=2796, raw size=224, parent=2751
+Class index=2790, name=GWM_TeaPropertyInterface, raw size=0
+Class index=2791, name=TeaPropertyMessaging, raw size=0
+Class index=2796, name=GrantPurchasedTraitRankEffect, raw size=224, parent=2751
 	INTEGER m_uiResistLevel (23)
 	FLOAT m_fProbSpellcraftBegin (7)
 	FLOAT m_fResistChanceModifier (3)
@@ -7592,25 +7592,25 @@ Class index=2796, raw size=224, parent=2751
 	REFERENCE 170624003 (6)
 	REFERENCE m_propertyList (17)
 	FLOAT m_fMinTsysSpellcraft (11)
-Class index=2797, raw size=0, parent=2798
-Class index=2798, raw size=0, parent=486
-Class index=2799, raw size=0, parent=2798
-Class index=2800, raw size=0, parent=486
-Class index=2801, raw size=0, parent=486
-Class index=2802, raw size=0
-Class index=2804, raw size=0, parent=368
-Class index=2805, raw size=0
-Class index=2808, raw size=8, parent=1097
+Class index=2797, name=AccountBankPolicy, raw size=0, parent=2798
+Class index=2798, name=IBankPolicy, raw size=0, parent=486
+Class index=2799, name=CharacterBankPolicy, raw size=0, parent=2798
+Class index=2800, name=BankUpgradeProgression, raw size=0, parent=486
+Class index=2801, name=RipCord, raw size=0, parent=486
+Class index=2802, name=CRipCordSystem, raw size=0
+Class index=2804, name=CInventorySystem, raw size=0, parent=368
+Class index=2805, name=ItemDecaySystem, raw size=0
+Class index=2808, name=ExaminationItemDecayDataGrabber, raw size=8, parent=1097
 	INTEGER m_propName (0)
-Class index=2809, raw size=8, parent=486
+Class index=2809, name=ItemDecayControl, raw size=8, parent=486
 	REFERENCE m_aahDurationToSeconds (0)
-Class index=2810, raw size=16
+Class index=2810, name=TreasureGroupProfileEntry, raw size=16
 	INTEGER 120993977 (0)
 	INTEGER m_didItem (1)
-Class index=2812, raw size=8, parent=486
+Class index=2812, name=TurbinePointsControl, raw size=8, parent=486
 	REFERENCE 208963427 (0)
-Class index=2813, raw size=0, parent=1597
-Class index=2814, name=MordorAdvancementItemGrant, raw size=72, parent=1734
+Class index=2813, name=GrantTurbinePointsUsageAction, raw size=0, parent=1597
+Class index=2814, name=PackageItem, raw size=72, parent=1734
 	INTEGER 199664708 (8)
 	REFERENCE 182408131 (3)
 	REFERENCE m_regEffect (2)
@@ -7620,21 +7620,21 @@ Class index=2814, name=MordorAdvancementItemGrant, raw size=72, parent=1734
 	INTEGER 56572392 (4)
 	REFERENCE m_logInfo (0)
 	REFERENCE m_rBaseEffectReg (1)
-Class index=2815, raw size=0, parent=3928
-Class index=2816, raw size=0, parent=1597
-Class index=2818, raw size=32
+Class index=2815, name=OpenPackageUsageAction, raw size=0, parent=3928
+Class index=2816, name=BankUpgradeUsageAction, raw size=0, parent=1597
+Class index=2818, name=AAPropertyHash, raw size=32
 	INTEGER 47062169 (2)
 	INTEGER 76429929 (3)
 	INTEGER 247922937 (1)
 	REFERENCE 93646760 (0)
-Class index=2824, raw size=0, parent=1597
-Class index=3030, raw size=0
-Class index=3031, raw size=8, parent=3032
+Class index=2824, name=GrantTraitSlotUsageAction, raw size=0, parent=1597
+Class index=3030, name=RipCordSystem, raw size=0
+Class index=3031, name=AlignmentEntityFilter, raw size=8, parent=3032
 	INTEGER m_eAlignmentType (0)
-Class index=3032, raw size=0
-Class index=3033, raw size=8
+Class index=3032, name=IEntityFilter, raw size=0
+Class index=3033, name=EntityFilterTable, raw size=8
 	REFERENCE 70518857 (0)
-Class index=3034, raw size=40
+Class index=3034, name=TriggerResponse, raw size=40
 	REFERENCE 67561957 (3)
 	REFERENCE 194112789 (2)
 	INTEGER 35760136 (4)
@@ -7643,17 +7643,17 @@ Class index=3034, raw size=40
 Class index=3035, name=PlayerTriggerResponseSet, raw size=16, parent=486
 	REFERENCE 5837989 (0)
 	REFERENCE 22060739 (1)
-Class index=3036, raw size=0
-Class index=3037, raw size=8
+Class index=3036, name=TriggerResponseSystem, raw size=0
+Class index=3037, name=IResponse, raw size=8
 	REFERENCE 141541076 (0)
-Class index=3038, raw size=8
+Class index=3038, name=ITrigger, raw size=8
 	REFERENCE 141541076 (0)
-Class index=3039, raw size=8, parent=3037
+Class index=3039, name=ApplyEffectsResponse, raw size=8, parent=3037
 	REFERENCE 141541076 (0)
-Class index=3040, raw size=16, parent=3038
+Class index=3040, name=PropertyChangeTrigger, raw size=16, parent=3038
 	REFERENCE 5463097 (1)
 	REFERENCE 141541076 (0)
-Class index=3042, raw size=8, parent=3032
+Class index=3042, name=ClassEntityFilter, raw size=8, parent=3032
 	INTEGER 93990803 (0)
 Class index=3044, name=RandomNameGenerationDirectory, raw size=40, parent=486
 	REFERENCE 7306531 (0)
@@ -7661,32 +7661,32 @@ Class index=3044, name=RandomNameGenerationDirectory, raw size=40, parent=486
 	REFERENCE 120423475 (3)
 	REFERENCE 237324435 (2)
 	REFERENCE 114380307 (1)
-Class index=3046, raw size=8, parent=486
+Class index=3046, name=ChargenClassPriorityControl, raw size=8, parent=486
 	REFERENCE 87690201 (0)
-Class index=3047, raw size=16
+Class index=3047, name=RandomNameGenerationCategory, raw size=16
 	REFERENCE 101297715 (0)
 	REFERENCE 153574229 (1)
-Class index=3048, raw size=16
+Class index=3048, name=RandomNameGenerationOption, raw size=16
 	REFERENCE 58760515 (0)
 	REFERENCE 172544995 (1)
-Class index=3049, raw size=16, parent=486
+Class index=3049, name=PEWhiteList, raw size=16, parent=486
 	REFERENCE 68527539 (1)
 	REFERENCE 4821875 (0)
-Class index=3050, raw size=0
-Class index=3052, raw size=16, parent=2541
+Class index=3050, name=WhiteListSystem, raw size=0
+Class index=3052, name=WebStoreGrantSkillInventoryItem, raw size=16, parent=2541
 	REFERENCE 197598002 (0)
 	INTEGER 129987604 (1)
-Class index=3054, raw size=16, parent=2541
+Class index=3054, name=WebStoreGrantTraitInventoryItem, raw size=16, parent=2541
 	REFERENCE 197598002 (0)
 	INTEGER 129987604 (1)
-Class index=3055, raw size=0, parent=1603
-Class index=3057, raw size=16
+Class index=3055, name=TravelToEttenmoorsUsagePermission, raw size=0, parent=1603
+Class index=3057, name=WardrobeAccountItemEntry, raw size=16
 	INTEGER 253897437 (0)
 	INTEGER 207312355 (1)
-Class index=3058, raw size=0, parent=2670
-Class index=3059, raw size=0, parent=3204
-Class index=3060, raw size=0, parent=1728
-Class index=3061, raw size=0, parent=91
+Class index=3058, name=IAIncreaseItemLevelUsageAction, raw size=0, parent=2670
+Class index=3059, name=WebstoreExclusionFilteringUsagePermission, raw size=0, parent=3204
+Class index=3060, name=AbandonPrivateEncounterDialogCallback, raw size=0, parent=1728
+Class index=3061, name=AssignLootRightsCallback, raw size=0, parent=91
 Class index=3063, raw size=0
 Class index=3070, raw size=64, parent=518
 	REFERENCE m_AttitudeTable (5)
@@ -7724,18 +7724,18 @@ Class index=3075, raw size=64, parent=3071
 	REFERENCE m_rProgressData (7)
 	REFERENCE m_logInfo (0)
 	REFERENCE m_rBaseEffectReg (1)
-Class index=3081, raw size=0
-Class index=3084, raw size=0, parent=3081
-Class index=3085, raw size=0
-Class index=3086, raw size=0
-Class index=3087, raw size=16, parent=486
+Class index=3081, name=PaperItemSystem, raw size=0
+Class index=3084, name=CPaperItemSystem, raw size=0, parent=3081
+Class index=3085, name=GWM_PaperItemSystem, raw size=0
+Class index=3086, name=QuestCategoryLimiterSystem, raw size=0
+Class index=3087, name=QuestCategoryLimiterControl, raw size=16, parent=486
 	REFERENCE 221944196 (1)
 	REFERENCE 7861363 (0)
-Class index=3088, raw size=0, parent=1597
-Class index=3089, raw size=0, parent=1597
-Class index=3094, raw size=0
-Class index=3095, raw size=0
-Class index=3099, raw size=224, parent=705
+Class index=3088, name=ResetQuestCategoryCountUsageAction, raw size=0, parent=1597
+Class index=3089, name=SetMaxQuestCategoryLimitUsageAction, raw size=0, parent=1597
+Class index=3094, name=CLuaCommunicationSystem, raw size=0
+Class index=3095, name=GWM_LuaCommunicationSystem, raw size=0
+Class index=3099, name=PetRecallEffect, raw size=224, parent=705
 	INTEGER m_uiResistLevel (23)
 	FLOAT m_fProbSpellcraftBegin (7)
 	FLOAT m_fResistChanceModifier (3)
@@ -7764,8 +7764,8 @@ Class index=3099, raw size=224, parent=705
 	REFERENCE 170624003 (6)
 	REFERENCE m_propertyList (17)
 	FLOAT m_fMinTsysSpellcraft (11)
-Class index=3102, raw size=0
-Class index=3104, raw size=0
+Class index=3102, name=BankChestInfoRepositorySystem, raw size=0
+Class index=3104, name=GWM_BankChestInfoRepositorySystem, raw size=0
 Class index=3105, name=PaperItemControl, raw size=48, parent=486
 	REFERENCE 251646707 (4)
 	INTEGER 42116397 (1)
@@ -7773,21 +7773,21 @@ Class index=3105, name=PaperItemControl, raw size=48, parent=486
 	REFERENCE 83734899 (5)
 	REFERENCE 144249992 (3)
 	INTEGER 184986754 (2)
-Class index=3107, raw size=0, parent=3102
-Class index=3109, raw size=0, parent=2533
-Class index=3113, raw size=8, parent=3032
+Class index=3107, name=CBankChestInfoRepositorySystem, raw size=0, parent=3102
+Class index=3109, name=WebStoreRenameItem, raw size=0, parent=2533
+Class index=3113, name=IsPlayerPetEntityFilter, raw size=8, parent=3032
 	INTEGER 79828035 (0)
-Class index=3114, raw size=8, parent=1620
+Class index=3114, name=Version_RefreshPlayerAutoTrainSkills, raw size=8, parent=1620
 	REFERENCE 32338611 (0)
-Class index=3117, raw size=0
-Class index=3118, raw size=0, parent=1620
-Class index=3119, raw size=8, parent=2664
+Class index=3117, name=NameCreditSystem, raw size=0
+Class index=3118, name=Version_V3B2_5_UpdateNameCredits, raw size=0, parent=1620
+Class index=3119, name=EffectSorter_PropertyMod, raw size=8, parent=2664
 	REFERENCE 186297795 (0)
-Class index=3121, raw size=16
+Class index=3121, name=ModEffectPropertySortStruct, raw size=16
 	INTEGER 264579013 (1)
 	INTEGER 114277634 (0)
-Class index=3123, raw size=0, parent=91
-Class index=3124, raw size=248, parent=698
+Class index=3123, name=PEResetPlayerSkillsCallback, raw size=0, parent=91
+Class index=3124, name=PersistentComboEffect, raw size=248, parent=698
 	INTEGER m_uiResistLevel (23)
 	FLOAT m_fProbSpellcraftBegin (7)
 	REFERENCE 145957012 (28)
@@ -7819,23 +7819,23 @@ Class index=3124, raw size=248, parent=698
 	REFERENCE 170624003 (6)
 	REFERENCE m_propertyList (17)
 	FLOAT m_fMinTsysSpellcraft (11)
-Class index=3126, raw size=0
-Class index=3130, raw size=0, parent=2663
-Class index=3131, raw size=0
-Class index=3133, raw size=0, parent=3131
-Class index=3134, raw size=0
-Class index=3136, raw size=24, parent=788
+Class index=3126, name=StringInfoUtils, raw size=0
+Class index=3130, name=EffectSorter_LongestRemainingDuration, raw size=0, parent=2663
+Class index=3131, name=FellowshipMakerSystem, raw size=0
+Class index=3133, name=CFellowshipMakerSystem, raw size=0, parent=3131
+Class index=3134, name=RelicSystem, raw size=0
+Class index=3136, name=FellowshipMakerManager, raw size=24, parent=788
 	REFERENCE m_regEffect (2)
 	REFERENCE m_logInfo (0)
 	REFERENCE m_rBaseEffectReg (1)
 Class index=3137, raw size=0
-Class index=3138, raw size=24, parent=486
+Class index=3138, name=RelicTransmutationRecipe, raw size=24, parent=486
 	REFERENCE 198532131 (1)
 	REFERENCE 141263172 (0)
 	REFERENCE 48561763 (2)
 Class index=3139, name=RelicTransmutationDirectory, raw size=8, parent=486
 	REFERENCE 64783376 (0)
-Class index=3140, raw size=88
+Class index=3140, name=FellowshipMakerRequest, raw size=88
 	REFERENCE 77600083 (9)
 	INTEGER 23290878 (8)
 	INTEGER 146908812 (2)
@@ -7845,27 +7845,27 @@ Class index=3140, raw size=88
 	DOUBLE 120657381 (6)
 	LONG 268256052 (3)
 	REFERENCE 110377904 (5)
-Class index=3141, raw size=16
+Class index=3141, name=FellowshipMakerEncounterParams, raw size=16
 	INTEGER 19925294 (1)
 	INTEGER 231069618 (0)
-Class index=3143, raw size=0, parent=1597
-Class index=3144, raw size=0, parent=1603
-Class index=3146, raw size=0, parent=1620
-Class index=3147, raw size=0, parent=1597
-Class index=3148, raw size=0, parent=1620
-Class index=3149, raw size=16
+Class index=3143, name=HunterCampUsageAction, raw size=0, parent=1597
+Class index=3144, name=SetMaxQuestCategoryLimitUsagePermission, raw size=0, parent=1603
+Class index=3146, name=Version_UnslotAllRelics, raw size=0, parent=1620
+Class index=3147, name=UnlockLegendarySlotUsageAction, raw size=0, parent=1597
+Class index=3148, name=Version_UpdateTravelRegistry, raw size=0, parent=1620
+Class index=3149, name=LegacyReplacementLevelTableEntry, raw size=16
 	INTEGER m_iMaxItemLevel (0)
 	INTEGER 35860476 (1)
-Class index=3150, raw size=0, parent=3134
-Class index=3151, raw size=0
-Class index=3152, raw size=0, parent=91
-Class index=3154, raw size=0
-Class index=3155, raw size=0, parent=91
-Class index=3156, raw size=0, parent=2670
-Class index=3158, raw size=0
+Class index=3150, name=CRelicSystem, raw size=0, parent=3134
+Class index=3151, name=GWM_RelicSystem, raw size=0
+Class index=3152, name=IsIgnoringCallback, raw size=0, parent=91
+Class index=3154, name=ClientCompatibilityTester, raw size=0
+Class index=3155, name=PEBestowQuestCallback, raw size=0, parent=91
+Class index=3156, name=RelicUnslotUsageAction, raw size=0, parent=2670
+Class index=3158, name=gmTimeUtils, raw size=0
 Class index=3159, raw size=0, parent=1597
-Class index=3160, raw size=0, parent=91
-Class index=3161, raw size=80
+Class index=3160, name=UpdateQuestScriptsCallback, raw size=0, parent=91
+Class index=3161, name=PrivateInstanceData, raw size=80
 	REFERENCE 232866019 (6)
 	INTEGER 109289170 (3)
 	INTEGER 50500562 (4)
@@ -7874,20 +7874,20 @@ Class index=3161, raw size=80
 	REFERENCE 164122558 (5)
 	INTEGER 201141276 (0)
 	INTEGER 91922709 (9)
-Class index=3162, raw size=24, parent=1815
+Class index=3162, name=BoolTestStateWorldEvent, raw size=24, parent=1815
 	REFERENCE 16670500 (0)
 	INTEGER 267256628 (1)
 	REFERENCE 8066228 (2)
-Class index=3163, raw size=16, parent=1887
+Class index=3163, name=IntTestStateWorldEvent, raw size=16, parent=1887
 	INTEGER 257819444 (0)
 	REFERENCE 8066228 (1)
 Class index=3166, raw size=0, parent=2801
-Class index=3167, raw size=0, parent=1620
+Class index=3167, name=PlayerVersion_ProcessQuestList, raw size=0, parent=1620
 Class index=3168, raw size=24, parent=1733
 	REFERENCE m_regEffect (2)
 	REFERENCE m_logInfo (0)
 	REFERENCE m_rBaseEffectReg (1)
-Class index=3169, raw size=0, parent=3167
+Class index=3169, name=Version_ReawardCompletedQuestRewards, raw size=0, parent=3167
 Class index=3172, raw size=0, parent=91
 Class index=3173, raw size=224, parent=705
 	INTEGER m_uiResistLevel (23)
