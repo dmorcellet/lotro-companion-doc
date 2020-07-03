@@ -24095,3 +24095,4 @@
 268462281 - WE_Integer_Elderslade_Raid_Tier_Gate, type=Int, data=0, default value=null
 268462282 - WE_Integer_Elderslade_Mission_Config, type=Int, data=0, default value=null
 268462283 - World_RaceChangeMinCharacterLevel, type=Int, data=0, default value=10
+268462291 - World_PopTrackMaxPlayer_Midsummer_Minas_Tirith, type=Int, data=0, default value=0
