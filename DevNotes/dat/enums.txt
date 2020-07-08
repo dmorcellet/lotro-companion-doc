@@ -21940,6 +21940,7 @@ Enum: EffectEquivalenceClasses, (id=587202565)
 	2715 => Warden_Bleed_Javelin3_BarbedJavelins
 	2716 => Warden_Bleed_Javelin2_BarbedJavelins
 	2717 => PVP_Event_Safezone_Equiv
+	2718 => MTX_RapidCraft
 Enum: EffectFlags, (id=587202566)
 *** enum not found: EffectFlags ***
 Enum: EffectImpulseDirection, (id=587202626)
@@ -35645,6 +35646,7 @@ Enum: ItemDecayDuration, (id=587203340)
 	14 => 12h
 	15 => 10m
 	16 => 5s
+	17 => 48h
 Enum: ItemDistributionType, (id=587203212)
 	0 => Undef
 	1 => Cosmetic
