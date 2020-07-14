@@ -45,7 +45,7 @@
 49 - BeamScript_SourceBoneOffset, type=Vector, data=0, default value=null
 50 - BeamScript_TailMaterial, type=Data File ID, data=54, default value=822083595
 51 - EntityVFXScript_LightShaft_Opacity, type=Wave Form, data=0, default value=[1,0.15]
-52 - EntityVFXScript_Rotate_CustomRotationAxis, type=Vector, data=0, default value=null
+52 - EntityVFXScript_Rotate_CustomRotationAxis, type=Vector, data=0, default value=x=0.0,y=0.0,z=1.0
 53 - WhileScript_Inverse, type=boolean, data=0, default value=null
 54 - AfterEffectScript_OverlayUseTextureAlpha, type=boolean, data=0, default value=0
 55 - AfterEffectScript_MotionBlurAmount, type=Wave Form, data=0, default value=[1,0.85]
@@ -64,12 +64,12 @@
 68 - ParticleScript_BoneType, type=Enum Mapper 1, data=587202694, default value=0
 69 - Script_ScriptLinkEnd_Persistent, type=boolean, data=0, default value=1
 70 - Ambient_SoundEnum_BlockMapOverride, type=Enum Mapper 1, data=587202923, default value=null
-71 - UnControlledEarthAccel, type=Vector, data=0, default value=null
+71 - UnControlledEarthAccel, type=Vector, data=0, default value=x=0.0,y=0.0,z=0.0
 72 - ClearanceCylHeight1, type=Float, data=0, default value=0.0
 73 - CameraNearDistance, type=Float, data=0, default value=0.1
 75 - UIViewport_EntityProperties, type=Array, data=0, default value=null
 76 - StringInfoRendering_VarStruct, type=Struct, data=0, default value=null
-78 - PathMap_BlockingBoxMin, type=Vector, data=0, default value=null
+78 - PathMap_BlockingBoxMin, type=Vector, data=0, default value=x=-0.25,y=-1.0,z=0.0
 79 - Option_Description, type=String Info, data=0, default value=null
 81 - PreprocOptions_PlaceGen_Farview, type=boolean, data=0, default value=0
 82 - PreprocOptions_FontGen_BackgroundVertBorderPixels, type=Int, data=0, default value=0
@@ -136,7 +136,7 @@
 145 - ContentDescription, type=String, data=0, default value=null
 146 - Area_DID, type=Data File ID, data=69, default value=null
 147 - ClearanceCylHeight2, type=Float, data=0, default value=0.0
-148 - ClearanceBBoxMax1, type=Vector, data=0, default value=null
+148 - ClearanceBBoxMax1, type=Vector, data=0, default value=x=0.0,y=0.0,z=0.0
 149 - Light_AllowBakedShadows, type=boolean, data=0, default value=1
 150 - CoronaFadeSpeed, type=Float, data=0, default value=3.0
 152 - UIViewport_EntityStruct, type=Struct, data=0, default value=null
@@ -223,9 +223,9 @@
 239 - BlockY, type=Int, data=0, default value=null
 240 - MaximumDegradeLevel, type=Enum Mapper 1, data=587202921, default value=1
 241 - Passability, type=Enum Mapper 1, data=587202918, default value=null
-242 - UnControlledGeneralAccel, type=Vector, data=0, default value=null
+242 - UnControlledGeneralAccel, type=Vector, data=0, default value=x=0.0,y=0.0,z=0.0
 243 - ClearanceCylRadius1, type=Float, data=0, default value=0.0
-244 - ClearanceBBoxMax2, type=Vector, data=0, default value=null
+244 - ClearanceBBoxMax2, type=Vector, data=0, default value=x=0.0,y=0.0,z=0.0
 245 - LightFalloff, type=Float, data=0, default value=1.0
 248 - TerrainTypeDesc_AlphaTestThreshold, type=Float, data=0, default value=[0.0,0.0,1.0]
 249 - UI_Map_BlockOffsetX, type=Int, data=0, default value=null
@@ -259,7 +259,7 @@
 277 - Render_ForceAnimateNormals, type=boolean, data=0, default value=0
 278 - Slider_HeadZ, type=Float, data=0, default value=null
 279 - Entity_CollisionStartScript, type=Enum Mapper 1, data=587202711, default value=null
-280 - Physics_AdjustableScale, type=Vector, data=0, default value=null
+280 - Physics_AdjustableScale, type=Vector, data=0, default value=x=1.0,y=1.0,z=1.0
 281 - Physics_InWorld, type=boolean, data=0, default value=null
 282 - UICore_ColorPicker_current_selection, type=Color, data=0, default value=[0,0,0,255]
 283 - UICore_Dialog_UIElement_Override, type=Enum Mapper 1, data=587202769, default value=null
@@ -304,11 +304,11 @@
 323 - ParticleScript_RemoveRotation, type=boolean, data=0, default value=0
 324 - ParticleScript_HoldingLocation, type=Enum Mapper 1, data=587202664, default value=0
 325 - Account_TestProperty, type=boolean, data=0, default value=null
-326 - UnControlledSeafloorAccel, type=Vector, data=0, default value=null
-327 - UnControlledSeafloorVel, type=Vector, data=0, default value=null
+326 - UnControlledSeafloorAccel, type=Vector, data=0, default value=x=0.0,y=0.0,z=0.0
+327 - UnControlledSeafloorVel, type=Vector, data=0, default value=x=0.0,y=0.0,z=0.0
 328 - ClearanceCylRadius2, type=Float, data=0, default value=0.0
-329 - ClearanceBBoxMax3, type=Vector, data=0, default value=null
-330 - ClearanceBBoxMin1, type=Vector, data=0, default value=null
+329 - ClearanceBBoxMax3, type=Vector, data=0, default value=x=0.0,y=0.0,z=0.0
+330 - ClearanceBBoxMin1, type=Vector, data=0, default value=x=0.0,y=0.0,z=0.0
 331 - CoronaOpacity, type=Float, data=0, default value=0.2
 332 - AnimConfigurableType, type=Enum Mapper 1, data=587202962, default value=null
 333 - TerrainTypeDesc_TextureVOffset, type=Float, data=0, default value=0.0
@@ -372,11 +372,11 @@
 395 - BlockAllocationRegion, type=Enum Mapper 1, data=587202919, default value=0
 396 - WaterType, type=Int, data=0, default value=null
 397 - Environment_PlayerIndoorAmbianceOverride, type=Enum Mapper 1, data=587202793, default value=null
-398 - UnControlledGeneralVel, type=Vector, data=0, default value=null
+398 - UnControlledGeneralVel, type=Vector, data=0, default value=x=0.0,y=0.0,z=0.0
 399 - LocalSpace, type=boolean, data=0, default value=0
-400 - ClearanceCylCenter1, type=Vector, data=0, default value=null
-401 - ClearanceBBoxMax4, type=Vector, data=0, default value=null
-402 - ClearanceBBoxMin2, type=Vector, data=0, default value=null
+400 - ClearanceCylCenter1, type=Vector, data=0, default value=x=0.0,y=0.0,z=0.0
+401 - ClearanceBBoxMax4, type=Vector, data=0, default value=x=0.0,y=0.0,z=0.0
+402 - ClearanceBBoxMin2, type=Vector, data=0, default value=x=0.0,y=0.0,z=0.0
 403 - ExecuteScript_ReturnValue_Bool, type=boolean, data=0, default value=null
 404 - UIViewport_StartingIdle, type=Enum Mapper 1, data=587202711, default value=null
 405 - TerrainTypeDesc_NormalTexture, type=Data File ID, data=10, default value=null
@@ -445,9 +445,9 @@
 470 - Account_BillingRoles, type=Bit Field, data=587202756, default value=null
 471 - Account_ClientLanguage, type=Enum Mapper 1, data=587202737, default value=null
 472 - Environment_LocalSky, type=Enum Mapper 1, data=587202793, default value=null
-473 - Gravity, type=Vector, data=0, default value=null
-474 - ClearanceCylCenter2, type=Vector, data=0, default value=null
-475 - ClearanceBBoxMin3, type=Vector, data=0, default value=null
+473 - Gravity, type=Vector, data=0, default value=x=0.0,y=0.0,z=-9.8
+474 - ClearanceCylCenter2, type=Vector, data=0, default value=x=0.0,y=0.0,z=0.0
+475 - ClearanceBBoxMin3, type=Vector, data=0, default value=x=0.0,y=0.0,z=0.0
 476 - Light_LODClass, type=Enum Mapper 1, data=587202701, default value=3
 479 - StringInfoRendering_VarName, type=String, data=0, default value=null
 480 - UI_Map_PixelOffsetX, type=Int, data=0, default value=null
@@ -512,9 +512,9 @@
 544 - Script_DrivenProperties, type=Array, data=0, default value=null
 545 - Script_ExposeAsScriptLinkEnd, type=boolean, data=0, default value=0
 546 - Volume_WaterDeep, type=boolean, data=0, default value=0
-547 - TerrainType, type=Enum Mapper 2, data=587202618, default value=null
+547 - TerrainType, type=Bit Field 64bits, data=587202618, default value=null
 548 - SceneRandomSeed, type=Int, data=0, default value=0
-549 - ClearanceBBoxMin4, type=Vector, data=0, default value=null
+549 - ClearanceBBoxMin4, type=Vector, data=0, default value=x=0.0,y=0.0,z=0.0
 550 - CoronaOcclusion, type=boolean, data=0, default value=1
 551 - ProjectorTexture, type=Data File ID, data=10, default value=1073741828
 552 - UIB_MediaDesc_has_alpha, type=boolean, data=0, default value=null
@@ -573,7 +573,7 @@
 607 - BeamScript_TargetUseBoundingBoxCenter, type=boolean, data=0, default value=0
 608 - BeamScript_SourceUseBoundingBoxCenter, type=boolean, data=0, default value=0
 609 - MaterialModifierScript_MaterialTemplate, type=Data File ID, data=81, default value=null
-610 - EntityVFXScript_LightShaft_LightSourceOrigin, type=Vector, data=0, default value=null
+610 - EntityVFXScript_LightShaft_LightSourceOrigin, type=Vector, data=0, default value=x=0.0,y=0.0,z=0.0
 611 - EntityVFXScript_ColorModify_Color, type=Color, data=0, default value=[0,0,0,255]
 612 - EntityVFXScript_SustainTime, type=Float, data=0, default value=[1.0,0.0]
 613 - EditMaterialScript_WaveformValue, type=Wave Form, data=0, default value=[1,0.0]
@@ -594,7 +594,7 @@
 628 - Volume_PlayersResidentInBlock, type=Int, data=0, default value=null
 629 - ContentName, type=String, data=0, default value=null
 630 - InteriorFogNear, type=Float, data=0, default value=0.0
-631 - UnControlledWaterVel, type=Vector, data=0, default value=null
+631 - UnControlledWaterVel, type=Vector, data=0, default value=x=0.0,y=0.0,z=0.0
 632 - CoronaSize, type=Float, data=0, default value=0.4
 634 - WB_WorldBuilderProperty, type=Property ID, data=872415232, default value=null
 635 - TerrainTypeDesc_AllowProceduralContent, type=boolean, data=0, default value=1
@@ -605,7 +605,7 @@
 643 - PathMap_PathHintUnidirectional, type=boolean, data=0, default value=0
 646 - PreprocOptions_Lbo2Lbi_IncrementalKynGen, type=boolean, data=0, default value=0
 647 - PreprocOptions_Lbo2Lbi_ForceLightShell, type=boolean, data=0, default value=1
-648 - MapNote_Type, type=Enum Mapper 2, data=587202775, default value=null
+648 - MapNote_Type, type=Bit Field 64bits, data=587202775, default value=null
 649 - Appearance_Modifier, type=Float, data=0, default value=[0.0,0.0,1.0]
 650 - Tools_Map_World_3x3_Landblocks, type=boolean, data=0, default value=0
 651 - Preproc_AnimationNamingConvention, type=Struct, data=0, default value=null
@@ -736,13 +736,13 @@
 782 - PropertyTarget_PropertyName, type=Property ID, data=872415232, default value=null
 783 - DistanceFitTarget_MaximumRange, type=Float, data=0, default value=10.0
 784 - CinematicCameraScript_Offset, type=Vector, data=0, default value=null
-785 - AnimationScript_RandomizeStartTime, type=boolean, data=0, default value=65536
+785 - AnimationScript_RandomizeStartTime, type=boolean, data=0, default value=[0,0,1]
 786 - AnimationScript_StartTime, type=Float, data=0, default value=[0.0,0.0,1.0]
 787 - AnimationScript_Speed, type=Float, data=0, default value=[1.0,0.1]
-788 - MeshFXScript_Scale, type=Vector, data=0, default value=null
+788 - MeshFXScript_Scale, type=Vector, data=0, default value=x=1.0,y=1.0,z=1.0
 789 - MeshFXScript_OffsetRotationYaw, type=Float, data=0, default value=0.0
 790 - MeshFXScript_Entity, type=Data File ID, data=57, default value=null
-791 - DecalScript_Size3D, type=Vector, data=0, default value=null
+791 - DecalScript_Size3D, type=Vector, data=0, default value=x=1.0,y=1.0,z=1.0
 792 - Script_DrivenPropertyEntry, type=Struct, data=0, default value=null
 793 - Account_AllAdditionalInfo, type=Array, data=0, default value=null
 794 - PortalDestination, type=String, data=0, default value=null
@@ -774,9 +774,9 @@
 822 - LedgePhysicsController_LedgeHeightOffset, type=Float, data=0, default value=null
 823 - GenericPhysicsController_ForceStrafe, type=boolean, data=0, default value=null
 824 - CMoveKeys_Left, type=boolean, data=0, default value=null
-825 - DecalVolume_OrthoScale, type=Vector, data=0, default value=null
+825 - DecalVolume_OrthoScale, type=Vector, data=0, default value=x=1.0,y=1.0,z=1.0
 826 - Render_AlwaysSelectable, type=boolean, data=0, default value=0
-827 - Render_AdjustableScale, type=Vector, data=0, default value=null
+827 - Render_AdjustableScale, type=Vector, data=0, default value=x=1.0,y=1.0,z=1.0
 828 - Render_FarViewDistance, type=Float, data=0, default value=[0.0,0.0,4000.0]
 829 - Physics_CollisionReports, type=boolean, data=0, default value=0
 830 - UICore_Dialog_message_duration, type=Float, data=0, default value=null
@@ -814,7 +814,7 @@
 864 - SwitchScript_Autonomous, type=boolean, data=0, default value=1
 865 - DecalScript_StickToCells, type=boolean, data=0, default value=1
 866 - DecalScript_StickToWorldEntities, type=boolean, data=0, default value=1
-867 - UnControlledAirAccel, type=Vector, data=0, default value=null
+867 - UnControlledAirAccel, type=Vector, data=0, default value=x=0.0,y=0.0,z=0.0
 868 - ProjectorYaw, type=Wave Form, data=0, default value=[1,0.0]
 869 - UIViewport_UISceneOverride, type=Data File ID, data=67, default value=null
 870 - AnimConfigurableFileType, type=Enum Mapper 1, data=587202685, default value=null
@@ -879,7 +879,7 @@
 932 - InteriorFogColor, type=Color, data=0, default value=[255,255,255,255]
 933 - UIViewport_Type, type=Enum Mapper 1, data=587202964, default value=null
 934 - UISkin_SkinID, type=Enum Mapper 1, data=587202961, default value=null
-935 - PathMap_BlockingCylinder_LowPoint, type=Vector, data=0, default value=null
+935 - PathMap_BlockingCylinder_LowPoint, type=Vector, data=0, default value=x=0.0,y=0.0,z=0.0
 936 - Option_PropertyName, type=Property ID, data=872415232, default value=null
 938 - PreprocOptions_FontGen_FontRange_Begin, type=Int, data=0, default value=null
 939 - PreprocOptions_FontGen_FontHeights, type=Array, data=0, default value=null
@@ -960,7 +960,7 @@
 1016 - Ambient_MusicType, type=Enum Mapper 1, data=587202880, default value=null
 1017 - Ambient_SoundEnum, type=Enum Mapper 1, data=587202923, default value=null
 1018 - InteriorFogFar, type=Float, data=0, default value=0.0
-1019 - UnControlledWaterAccel, type=Vector, data=0, default value=null
+1019 - UnControlledWaterAccel, type=Vector, data=0, default value=x=0.0,y=0.0,z=0.0
 1020 - CoronaTexture, type=Data File ID, data=10, default value=1073741827
 1021 - LightDiffuse, type=Color, data=0, default value=[255,255,255,255]
 1022 - LightRange, type=Float, data=0, default value=[25.0,1.0,100.0]
@@ -1039,7 +1039,7 @@
 1100 - TimerScript_Duration, type=Float, data=0, default value=0.0
 1101 - DecalScript_UseBackfaceCulling, type=boolean, data=0, default value=1
 1102 - TimerScriptPort_Time, type=Float, data=0, default value=0.0
-1103 - SoundScript_Offset, type=Vector, data=0, default value=null
+1103 - SoundScript_Offset, type=Vector, data=0, default value=x=0.0,y=0.0,z=0.0
 1104 - Script_TimeToRot, type=Float, data=0, default value=0.0
 1105 - Account_AdditionalInfoSectionName, type=String Info, data=0, default value=null
 1106 - Ambient_MusicRegion, type=Enum Mapper 1, data=587202924, default value=null
@@ -1050,7 +1050,7 @@
 1112 - UIB_MD_Animation, type=Struct, data=0, default value=null
 1113 - UIB_MediaDesc_minimum_duration, type=Float, data=0, default value=null
 1114 - UIB_MediaDesc_probability, type=Float, data=0, default value=1.0
-1115 - UIB_MediaDesc_cursor_hotspot, type=Vector, data=0, default value=null
+1115 - UIB_MediaDesc_cursor_hotspot, type=Vector, data=0, default value=x=0.0,y=0.0,z=0.0
 1116 - VoiceChat_MicMaxLevel, type=Float, data=0, default value=1.0
 1117 - VoiceChat_MicLevel, type=Float, data=0, default value=0.0
 1118 - PathMap_BlockingCylinder_Radius, type=Float, data=0, default value=0.5
@@ -1113,7 +1113,7 @@
 1176 - Volume_InstanceResidesOnSingleServer, type=boolean, data=0, default value=1
 1177 - Account_NumCharactersAllowed, type=Int, data=0, default value=null
 1178 - Encounter-Block, type=Int, data=0, default value=null
-1179 - UnControlledEarthVel, type=Vector, data=0, default value=null
+1179 - UnControlledEarthVel, type=Vector, data=0, default value=x=0.0,y=0.0,z=0.0
 1180 - ForceOutside, type=boolean, data=0, default value=0
 1182 - UIViewport_EntityArray, type=Array, data=0, default value=null
 1183 - TerrainTypeDesc_TextureUScale, type=Float, data=0, default value=0.1
@@ -1121,7 +1121,7 @@
 1186 - UIB_MediaDesc_start_alpha, type=Float, data=0, default value=0.0
 1187 - UIB_MediaDesc_duration, type=Float, data=0, default value=0.0
 1189 - PathMap_BlockingCylinder_Height, type=Float, data=0, default value=1.0
-1190 - PathMap_BlockingBoxMax, type=Vector, data=0, default value=null
+1190 - PathMap_BlockingBoxMax, type=Vector, data=0, default value=x=0.25,y=1.0,z=1.0
 1191 - CAdderOptions_CreateCompressedDatFiles, type=boolean, data=0, default value=0
 1193 - PreprocOptions_PlaceGen_Destinations, type=boolean, data=0, default value=0
 1194 - MapNote_MinRange, type=Float, data=0, default value=0.0
@@ -1133,7 +1133,7 @@
 1200 - Thrown_Sticky, type=boolean, data=0, default value=null
 1201 - Missile_InitialSpeed, type=Float, data=0, default value=null
 1202 - World_NameRule, type=Enum Mapper 1, data=587202738, default value=1
-1203 - World_Selection, type=InstanceID, data=0, default value=[0,0]
+1203 - World_Selection, type=InstanceID, data=0, default value=0
 1204 - StartPosition, type=Position, data=0, default value=null
 1205 - AdminPowerConfig, type=Struct, data=0, default value=null
 1206 - Server_World_EnableStressAuth, type=boolean, data=0, default value=0
@@ -1190,8 +1190,8 @@
 1258 - SoundScript_Channel, type=Enum Mapper 1, data=587203405, default value=0
 1259 - PortalPlaceName, type=String, data=0, default value=null
 1260 - Humidity, type=Float, data=0, default value=null
-1261 - UnControlledAirVel, type=Vector, data=0, default value=null
-1262 - ControlledVelocity, type=Vector, data=0, default value=null
+1261 - UnControlledAirVel, type=Vector, data=0, default value=x=0.0,y=0.0,z=0.0
+1262 - ControlledVelocity, type=Vector, data=0, default value=x=0.0,y=0.0,z=0.0
 1263 - LightSpecular, type=Color, data=0, default value=[255,255,255,255]
 1264 - LightDiffuseIntensity, type=Wave Form, data=0, default value=[1,0.5]
 1265 - CameraVerticalScale, type=Float, data=0, default value=1.0
@@ -1268,7 +1268,7 @@
 1340 - ContentType, type=Int, data=0, default value=null
 1341 - Environment_PlayerLocalSkyOverride, type=Enum Mapper 1, data=587202793, default value=2
 1342 - EncounterRandomSeed, type=Int, data=0, default value=0
-1343 - ControlledAcceleration, type=Vector, data=0, default value=null
+1343 - ControlledAcceleration, type=Vector, data=0, default value=x=0.0,y=0.0,z=0.0
 1344 - StringInfoRendering_VarArray, type=Array, data=0, default value=null
 1345 - WB_Impulse, type=Vector, data=0, default value=null
 1346 - WB_Gravity, type=Float, data=0, default value=null
@@ -1318,7 +1318,7 @@
 1392 - AfterEffectScript_Persistent, type=boolean, data=0, default value=0
 1393 - FireMissileScript_AlwaysFireAtTarget, type=boolean, data=0, default value=0
 1394 - FireMissileScript_MaxRange, type=Float, data=0, default value=-1.0
-1395 - FireMissileScript_InitialOffset, type=Vector, data=0, default value=null
+1395 - FireMissileScript_InitialOffset, type=Vector, data=0, default value=x=0.0,y=0.0,z=0.0
 1396 - MoveToScript_GoStraightIfPathPlanningFails, type=boolean, data=0, default value=0
 1397 - MoveToScript_FailureDistance, type=Float, data=0, default value=[100.0,0.0]
 1398 - MoveToScript_TurnOffset, type=Float, data=0, default value=[0.0,-180.0,180.0]
@@ -1577,7 +1577,7 @@
 1667 - Server_World_DefaultMaxCharacters, type=Int, data=0, default value=5
 1668 - Server_DisableBlockCheckpointing, type=boolean, data=0, default value=0
 1669 - GridSnap, type=boolean, data=0, default value=0
-1670 - EntityPasteOffset, type=Vector, data=0, default value=null
+1670 - EntityPasteOffset, type=Vector, data=0, default value=x=1.0,y=1.0,z=1.0
 1671 - Movement_MovementStyle, type=Enum Mapper 1, data=587202943, default value=2
 1672 - MoveToController_PerformingMoveTo, type=boolean, data=0, default value=null
 1673 - Movement_TurnSpeedMultiplier, type=Float, data=0, default value=[1.0,0.0]
@@ -1776,7 +1776,7 @@
 1896 - WB_LightSource_Entity, type=Data File ID, data=57, default value=null
 1897 - WB_Script_Entity, type=Data File ID, data=57, default value=null
 1898 - WB_LoadError_Entity, type=Data File ID, data=57, default value=null
-1900 - ToolsEntityPlacementErrors, type=Enum Mapper 2, data=587203166, default value=null
+1900 - ToolsEntityPlacementErrors, type=Bit Field 64bits, data=587203166, default value=null
 1901 - PreprocIDE_PPInfoDirectory, type=String, data=0, default value=null
 1902 - PreprocIDE_WriteAdderlistsForCDBs, type=boolean, data=0, default value=0
 1903 - PreprocIDE_ShowStatusOnFocus, type=boolean, data=0, default value=0
@@ -2069,7 +2069,7 @@
 2485 - AssetBudget_ServerSize, type=Int, data=0, default value=null
 2486 - AssetBudget_Error, type=boolean, data=0, default value=0
 2492 - WbGraphicsCore, type=Enum Mapper 1, data=587203361, default value=1
-2495 - World_Lua_DisabledChatTypes, type=Enum Mapper 2, data=587203240, default value=null
+2495 - World_Lua_DisabledChatTypes, type=Bit Field 64bits, data=587203240, default value=null
 2496 - PreprocOptions_WCGen_DisableFilePathSearch, type=boolean, data=0, default value=0
 2498 - Kynapse_Map_Radius, type=Float, data=0, default value=null
 2499 - Kynapse_DBPCVersion, type=Int, data=0, default value=null
@@ -2097,7 +2097,7 @@
 2530 - World_GRS_QueueThreshold, type=Int, data=0, default value=16384
 2531 - AutoArrangeAssets, type=boolean, data=0, default value=0
 2532 - PreprocOptions_ConvertMaterialGeometryToBillboards, type=boolean, data=0, default value=0
-2588 - EntityEditorWind, type=Vector, data=0, default value=null
+2588 - EntityEditorWind, type=Vector, data=0, default value=x=1.0,y=0.0,z=0.0
 2647 - PhysicsScript_ControllerType, type=Enum Mapper 1, data=671088688, default value=null
 2648 - PhysicsScript_Priority, type=Float, data=0, default value=1.0
 2650 - MeshFXScript_Appearance, type=Struct, data=0, default value=null
@@ -2287,11 +2287,11 @@
 2900 - World_Landscape_Update_Enable_Amortization, type=boolean, data=0, default value=1
 2901 - PhysObj_Override, type=Data File ID, data=57, default value=null
 2902 - Entity_ClassScriptTable_Override, type=Struct, data=0, default value=null
-2903 - Render_AdjustableScale_Checkpointed, type=Vector, data=0, default value=null
+2903 - Render_AdjustableScale_Checkpointed, type=Vector, data=0, default value=x=1.0,y=1.0,z=1.0
 2904 - UICore_Element_IgnoreParentStateChange, type=boolean, data=0, default value=0
 2906 - Character_GameCompatibilityVersion, type=String, data=0, default value=null
 268435457 - Pedigree_Surname_LevelRestriction, type=Int, data=0, default value=0
-268435458 - Auction_ID, type=InstanceID, data=0, default value=[0,0]
+268435458 - Auction_ID, type=InstanceID, data=0, default value=0
 268435459 - MiniGame.FreezeTag@Player.m_bIsPlaying, type=boolean, data=0, default value=null
 268435460 - RandomBox@Entity.m_bCanFireOutput_6, type=boolean, data=0, default value=null
 268435461 - GloryControl_DiminishingReturnsModifierProgression, type=Data File ID, data=69, default value=null
@@ -2562,7 +2562,7 @@
 268435738 - Script_WeaponImbueType_StreakBegin_Secondary, type=Vector, data=0, default value=null
 268435739 - Script_WeaponImbueType_StreakEnd, type=Vector, data=0, default value=null
 268435740 - Script_WeaponImbueType_StreakBegin, type=Vector, data=0, default value=null
-268435741 - GOP_Map_MapNoteFilter, type=Enum Mapper 2, data=587202775, default value=null
+268435741 - GOP_Map_MapNoteFilter, type=Bit Field 64bits, data=587202775, default value=null
 268435742 - GOP_AcceptKinship, type=boolean, data=0, default value=null
 268435743 - GeneratorCondition_Time_End, type=Timestamp, data=0, default value=null
 268435744 - Pip_Aim, type=Int, data=0, default value=0
@@ -2833,7 +2833,7 @@
 268436029 - UI_Options_Menu_FontIndex, type=Enum Mapper 1, data=587202598, default value=null
 268436030 - UI_Options_Menu_Value, type=Int, data=0, default value=null
 268436031 - UI_MonsterPlayEnd_FinishData, type=Struct, data=0, default value=null
-268436032 - UI_Map_MapNoteDisplayType, type=Enum Mapper 2, data=587202775, default value=null
+268436032 - UI_Map_MapNoteDisplayType, type=Bit Field 64bits, data=587202775, default value=null
 268436033 - UI_Examination_Tooltip_PinnedOffset_X, type=Int, data=0, default value=null
 268436034 - UI_Examination_Tooltip_Compare_Element, type=Enum Mapper 1, data=587202769, default value=null
 268436035 - UI_ConjunctionJournal_Category, type=Enum Mapper 1, data=587202679, default value=null
@@ -2849,7 +2849,7 @@
 268436045 - Mood_Intended_Dread_Level, type=Int, data=0, default value=0
 268436049 - XPGlobals_EffectiveContribution_MaxLevelDistance, type=Int, data=0, default value=9
 268436050 - AdvTable_ConjunctionSkillEntry, type=Struct, data=0, default value=null
-268436051 - Advancement_CreationTime, type=Timestamp, data=0, default value=[-536870912,1206910975]
+268436051 - Advancement_CreationTime, type=Timestamp, data=0, default value=3.4028234663852886E38
 268436052 - Effect_StartupEffectID, type=Data File ID, data=69, default value=0
 268436053 - Effect_TargetFilterPermissions, type=Struct, data=0, default value=null
 268436054 - Effect_Aura_AffectsMonsterPlayers, type=boolean, data=0, default value=0
@@ -2919,7 +2919,7 @@
 268436121 - InventoryControl_SlotToLocation_InventorySlot, type=Bit Field 32bits, data=587202798, default value=null
 268436122 - InventoryControl_MaxPickupDistance, type=Float, data=0, default value=null
 268436123 - Inventory_CanIgnoreContainerViewerLimits, type=boolean, data=0, default value=null
-268436124 - Inventory_AllowedEquipmentCategories, type=Enum Mapper 2, data=587202636, default value=0
+268436124 - Inventory_AllowedEquipmentCategories, type=Bit Field 64bits, data=587202636, default value=0
 268436125 - Inventory_MaxEquipmentSlots, type=Int, data=0, default value=null
 268436126 - Inventory_CanBeContained, type=boolean, data=0, default value=null
 268436127 - Inventory_Cosmetic_Slot4_OffsetRotationPitch, type=Float, data=0, default value=0.0
@@ -2931,7 +2931,7 @@
 268436133 - Item_MaxStructurePointsOverride, type=Int, data=0, default value=-1
 268436134 - Item_BaseValArray, type=Array, data=0, default value=null
 268436135 - Item_Quality, type=Enum Mapper 1, data=587202663, default value=null
-268436136 - EnvironmentType, type=Enum Mapper 2, data=587202805, default value=null
+268436136 - EnvironmentType, type=Bit Field 64bits, data=587202805, default value=null
 268436137 - Base_Surface_Type, type=Enum Mapper 1, data=587202801, default value=null
 268436138 - Pedigree_Relationship, type=Enum Mapper 1, data=587202684, default value=null
 268436139 - Auction_Cleanup_QueryPageSize, type=Int, data=0, default value=null
@@ -3106,7 +3106,7 @@
 268436320 - Effect_NotifySourceOnApplyMessage, type=String Info, data=0, default value=null
 268436321 - VitalCost_Power, type=Int, data=0, default value=null
 268436322 - Combat_DamageType_Additional_Base_Mitigation_Common, type=Float, data=0, default value=0.0
-268436323 - AI_RemoteDetector_MaxBox, type=Vector, data=0, default value=null
+268436323 - AI_RemoteDetector_MaxBox, type=Vector, data=0, default value=x=40.0,y=40.0,z=40.0
 268436325 - AI_Pet_MasterTeleporting_Timestamp, type=Timestamp, data=0, default value=null
 268436326 - AI_Pet_Skill_Command, type=Enum Mapper 1, data=587202845, default value=null
 268436327 - AI_Pet_FollowMaxDistance, type=Float, data=0, default value=null
@@ -3161,7 +3161,7 @@
 268436379 - Inventory_ContainerType, type=Enum Mapper 1, data=587202816, default value=null
 268436380 - Movement_StrafeLeftMoveSpeed, type=Float, data=0, default value=null
 268436381 - ItemWearControl_ItemWearState, type=Enum Mapper 1, data=587202811, default value=null
-268436382 - Item_EquipmentCategory, type=Enum Mapper 2, data=587202636, default value=0
+268436382 - Item_EquipmentCategory, type=Bit Field 64bits, data=587202636, default value=0
 268436383 - Item_DurabilityValue, type=Float, data=0, default value=-1.0
 268436384 - Auction_PostingFee_SeventyTwoHours, type=Float, data=0, default value=null
 268436385 - Auction_MaxSubscriberAuctions, type=Int, data=0, default value=null
@@ -3298,7 +3298,7 @@
 268436534 - Effect_VitalOverTime_InitialChangeVariance, type=Float, data=0, default value=null
 268436537 - Effect_RedirectVital_ConstantRedirectProbability, type=Float, data=0, default value=null
 268436538 - Effect_InstantVital_InitialChangeConstant, type=Float, data=0, default value=0.0
-268436539 - Effect_Impulse_ScriptParam_ImpulseVector, type=Vector, data=0, default value=null
+268436539 - Effect_Impulse_ScriptParam_ImpulseVector, type=Vector, data=0, default value=x=0.0,y=0.0,z=0.0
 268436540 - Effect_Impulse_Direction, type=Enum Mapper 1, data=587202626, default value=null
 268436541 - Effect_InstantFellowship_MaxRange, type=Float, data=0, default value=0.0
 268436543 - Effect_PropertiesToOverride, type=Array, data=0, default value=null
@@ -3377,7 +3377,7 @@
 268436618 - InvParams_TargetSlot, type=Bit Field 32bits, data=587202798, default value=null
 268436619 - InventoryControl_EquipmentCategoryCachedSlot, type=Bit Field 32bits, data=587202798, default value=0
 268436620 - Inventory_EntityMode_Melee, type=Enum Mapper 1, data=587202706, default value=0
-268436621 - Inventory_PrimaryEquipmentCategory, type=Enum Mapper 2, data=587202636, default value=0
+268436621 - Inventory_PrimaryEquipmentCategory, type=Bit Field 64bits, data=587202636, default value=0
 268436623 - Movement_Effect_MountSpeedMultiplier, type=Float, data=0, default value=1.0
 268436624 - Item_CraftToolCategory, type=Bit Field 32bits, data=587202658, default value=0
 268436625 - Version_BillingGroupCreation_Group, type=Bit Field, data=587202756, default value=null
@@ -3406,7 +3406,7 @@
 268436648 - GRSEvent_Auction_HighBidderID, type=InstanceID, data=0, default value=null
 268436649 - GRSEvent_Mail_IsDeleted, type=boolean, data=0, default value=null
 268436650 - GRSEvent_Combat_IsDefeat, type=Int, data=0, default value=null
-268436651 - GRSEvent_Item_EquipmentCategory, type=Enum Mapper 2, data=587202636, default value=null
+268436651 - GRSEvent_Item_EquipmentCategory, type=Bit Field 64bits, data=587202636, default value=null
 268436652 - GRSEvent_Item_StackSize, type=Int, data=0, default value=null
 268436653 - GRSObject_Crafting_MasteryLevel_3, type=Enum Mapper 1, data=587202659, default value=null
 268436654 - Channeling_AnimationScript_FXID, type=Enum Mapper 1, data=587202711, default value=0
@@ -3882,7 +3882,7 @@
 268437152 - Induction_TargetFailureFXID, type=Enum Mapper 1, data=587202711, default value=0
 268437153 - ConsiderationControl_QuestTableList, type=Array, data=0, default value=null
 268437154 - GameEvent_ConjunctionEventTable, type=Data File ID, data=21, default value=201326592
-268437155 - MonsterPlay_OnBehalfOfPlayerIID, type=InstanceID, data=0, default value=[0,0]
+268437155 - MonsterPlay_OnBehalfOfPlayerIID, type=InstanceID, data=0, default value=0
 268437156 - MPAdvancementControl_TraitCost, type=Int, data=0, default value=0
 268437157 - MonsterPlay_Avatar, type=Data File ID, data=69, default value=null
 268437158 - MonsterPlay_VirtueEntry, type=Struct, data=0, default value=null
@@ -3890,7 +3890,7 @@
 268437160 - Trait_Virtue_Rank_Determination, type=Int, data=0, default value=0
 268437161 - Trait_Virtue_Rank_Honesty, type=Int, data=0, default value=0
 268437162 - Trait_SlotSchedule_Nature_Array, type=Array, data=0, default value=null
-268437163 - Goals@NPC::Custom::Target, type=InstanceID, data=0, default value=[0,0]
+268437163 - Goals@NPC::Custom::Target, type=InstanceID, data=0, default value=0
 268437164 - CombatState_ChainProtected_States, type=Bit Field 32bits, data=587202640, default value=262144
 268437165 - CombatState_StateData_AIHints_Set, type=Bit Field, data=587202652, default value=null
 268437166 - CombatState_StateData_ExitOnVitalLossProbability, type=Float, data=0, default value=0.0
@@ -3989,7 +3989,7 @@
 268437267 - Effect_ApplicationInterested, type=boolean, data=0, default value=null
 268437268 - Effect_NotifySelfOnFailureMessage, type=String Info, data=0, default value=null
 268437269 - AITargetSelection_DamageThreat, type=Float, data=0, default value=null
-268437270 - AI_RemoteDetector_MinBox, type=Vector, data=0, default value=null
+268437270 - AI_RemoteDetector_MinBox, type=Vector, data=0, default value=x=-40.0,y=-40.0,z=0.0
 268437271 - AI_Pet_MasterSwimming, type=boolean, data=0, default value=0
 268437272 - Signals@NPC::Query::Querier, type=InstanceID, data=0, default value=null
 268437273 - Signals@NPC::LeaveDetection::LeftArea, type=boolean, data=0, default value=null
@@ -4152,7 +4152,7 @@
 268437437 - UI_QuestTree_TitleLabelElement, type=Enum Mapper 1, data=587202769, default value=null
 268437438 - UI_QuestTree_QuestCategory, type=Enum Mapper 1, data=587202585, default value=null
 268437440 - UI_Map_AreaDID, type=Data File ID, data=69, default value=null
-268437441 - UI_Map_MapNoteType, type=Enum Mapper 2, data=587202775, default value=null
+268437441 - UI_Map_MapNoteType, type=Bit Field 64bits, data=587202775, default value=null
 268437442 - UI_Map_Grid_Y, type=Int, data=0, default value=null
 268437443 - GameUI_Map_RegionID, type=Enum Mapper 1, data=671088648, default value=null
 268437444 - UI_Map_OffsetX1, type=Int, data=0, default value=null
@@ -4307,7 +4307,7 @@
 268437599 - MonsterPlay_MonsterLevel, type=Int, data=0, default value=null
 268437600 - MonsterPlay_Class, type=Enum Mapper 1, data=587202574, default value=0
 268437601 - Trait_Virtue_Rank_Patience, type=Int, data=0, default value=0
-268437602 - Trait_Granted_Category, type=Enum Mapper 2, data=587202636, default value=0
+268437602 - Trait_Granted_Category, type=Bit Field 64bits, data=587202636, default value=0
 268437603 - CombatState_StateData_FlagEffect, type=Data File ID, data=69, default value=null
 268437604 - CombatState_StateData_ValidExitStates, type=Bit Field 32bits, data=587202640, default value=0
 268437605 - CombatState_ConjunctionStateInducerID, type=InstanceID, data=0, default value=null
@@ -4331,7 +4331,7 @@
 268437624 - Stealth_IsCosmeticStealthed, type=boolean, data=0, default value=null
 268437625 - CombatStrikeData_Intensity, type=Float, data=0, default value=null
 268437626 - GOP_FloatyInformation_Bitfield, type=Bit Field 32bits, data=587202887, default value=null
-268437627 - GOP_Radar_MapNoteFilter, type=Enum Mapper 2, data=587202775, default value=null
+268437627 - GOP_Radar_MapNoteFilter, type=Bit Field 64bits, data=587202775, default value=null
 268437628 - GOP_DamageTextRangeOther, type=Float, data=0, default value=null
 268437629 - Mouseover_Cursor, type=Data File ID, data=5, default value=null
 268437630 - Pip_Description, type=String Info, data=0, default value=null
@@ -4472,8 +4472,8 @@
 268437774 - House_NeverHousekeep_PreHook, type=boolean, data=0, default value=null
 268437775 - House_PlacementEthereality_PreHook, type=Bit Field 32bits, data=587202746, default value=null
 268437776 - Buyback_SoldValue, type=Int, data=0, default value=null
-268437777 - Inventory_AllowedEquipmentControl_Value, type=Enum Mapper 2, data=587202636, default value=0
-268437778 - Inventory_RangedEquipmentCategory, type=Enum Mapper 2, data=587202636, default value=0
+268437777 - Inventory_AllowedEquipmentControl_Value, type=Bit Field 64bits, data=587202636, default value=0
+268437778 - Inventory_RangedEquipmentCategory, type=Bit Field 64bits, data=587202636, default value=0
 268437779 - Inventory_ImplementTypePrimary, type=Enum Mapper 1, data=587202564, default value=null
 268437780 - Inventory_Cosmetic_Slot2_OffsetRotationPitch, type=Float, data=0, default value=0.0
 268437781 - Inventory_Cosmetic_Slot1_Entity, type=Data File ID, data=57, default value=0
@@ -4481,7 +4481,7 @@
 268437783 - Movement_CannotJump, type=boolean, data=0, default value=null
 268437784 - ItemWearControl_ItemWearStateValueModEntry, type=Struct, data=0, default value=null
 268437785 - Item_WearState, type=Enum Mapper 1, data=587202811, default value=0
-268437786 - Physics_DetectionType, type=Enum Mapper 2, data=587202806, default value=null
+268437786 - Physics_DetectionType, type=Bit Field 64bits, data=587202806, default value=null
 268437787 - Summon_Item_InductionActionDuration, type=Float, data=0, default value=-1.0
 268437788 - Summon_ToSummonID, type=InstanceID, data=0, default value=null
 268437789 - Version_BillingGroupCreation_StampProperty, type=Property ID, data=872415232, default value=null
@@ -4691,7 +4691,7 @@
 268438010 - Inventory_MaxOverflowSlots, type=Int, data=0, default value=null
 268438011 - Inventory_DualWielding, type=boolean, data=0, default value=null
 268438012 - Inventory_Cosmetic_Slot2_HoldingLocation, type=Enum Mapper 1, data=587202664, default value=0
-268438013 - Inventory_Cosmetic_Slot1_Scale, type=Vector, data=0, default value=null
+268438013 - Inventory_Cosmetic_Slot1_Scale, type=Vector, data=0, default value=x=1.0,y=1.0,z=1.0
 268438014 - ItemWearControl_ItemWearStateValueMod, type=Float, data=0, default value=null
 268438015 - ItemWearControl_SkillGateEnum, type=Enum Mapper 1, data=587202813, default value=null
 268438016 - ItemWearControl_RepairCostQualityModArray, type=Array, data=0, default value=null
@@ -4846,7 +4846,7 @@
 268438176 - Movement@NPC::MoveTo::UsePathplanning, type=boolean, data=0, default value=1
 268438177 - NPC_SecondaryIdleAnimation, type=Enum Mapper 1, data=587202832, default value=null
 268438178 - Skill_Combo_ComboSkill, type=Data File ID, data=69, default value=null
-268438179 - Skill_QuestFlags, type=Enum Mapper 2, data=587202825, default value=0
+268438179 - Skill_QuestFlags, type=Bit Field 64bits, data=587202825, default value=0
 268438180 - Skill_ParryChanceModifier, type=Float, data=0, default value=0.0
 268438181 - Skill_AttackHook_CriticalDamageMultiplier_Mod_Array, type=Array, data=0, default value=null
 268438182 - Skill_ExecutionFailureScript, type=Enum Mapper 1, data=587202711, default value=null
@@ -4880,8 +4880,8 @@
 268438211 - Inventory_AcceptQuestItems, type=boolean, data=0, default value=1
 268438212 - Inventory_IgnoresTakePermissions, type=boolean, data=0, default value=null
 268438213 - Inventory_Cosmetic_Slot3_Behavior, type=Enum Mapper 1, data=587202711, default value=0
-268438214 - Inventory_Cosmetic_Slot3_Scale, type=Vector, data=0, default value=null
-268438215 - Movement_StopDamper, type=Vector, data=0, default value=null
+268438214 - Inventory_Cosmetic_Slot3_Scale, type=Vector, data=0, default value=x=1.0,y=1.0,z=1.0
+268438215 - Movement_StopDamper, type=Vector, data=0, default value=[x=0.0,y=0.0,z=0.0,x=1.0,y=1.0,z=1.0]
 268438216 - Movement_BackwardMoveSpeed, type=Float, data=0, default value=null
 268438217 - ItemWearControl_SkillGateArray, type=Array, data=0, default value=null
 268438218 - Item_WeaponSpeed, type=Enum Mapper 1, data=587202662, default value=0
@@ -5164,7 +5164,7 @@
 268438508 - GOP_ShowPetQuickslotBar, type=boolean, data=0, default value=null
 268438509 - GOP_ExtraQuickslotBar2_Horizontal, type=boolean, data=0, default value=0
 268438510 - GOP_AutoTarget, type=boolean, data=0, default value=null
-268438511 - Character_MonsterPlayPlayerIID, type=InstanceID, data=0, default value=[0,0]
+268438511 - Character_MonsterPlayPlayerIID, type=InstanceID, data=0, default value=0
 268438512 - Mouseover_Entity, type=InstanceID, data=0, default value=null
 268438513 - Pip_Examination, type=String Info, data=0, default value=null
 268438514 - Pip_ChangeOnHitByMagic, type=Int, data=0, default value=0
@@ -5264,7 +5264,7 @@
 268438612 - AIActionProbability_Array, type=Array, data=0, default value=null
 268438613 - AIAction_RequiredHints, type=Bit Field, data=587202652, default value=null
 268438614 - Movement@NPC::MoveTo::MinimumDistance, type=Float, data=0, default value=[0.0,0.0]
-268438615 - Behaviors@NPC::CustomGoal::Target, type=InstanceID, data=0, default value=[0,0]
+268438615 - Behaviors@NPC::CustomGoal::Target, type=InstanceID, data=0, default value=0
 268438616 - NPC_ActionPicker_PerkVendorScript, type=Enum Mapper 1, data=587202711, default value=0
 268438617 - NPC_Is_Auctioneer, type=boolean, data=0, default value=0
 268438618 - NPC_LocomotionAnimation, type=Enum Mapper 1, data=587202831, default value=null
@@ -5489,7 +5489,7 @@
 268438849 - Effect_VitalInterested_HitScript, type=Enum Mapper 1, data=587202711, default value=null
 268438850 - Effect_VitalInterested_VitalTypeList, type=Array, data=0, default value=null
 268438853 - Effect_RandomValueMax, type=Float, data=0, default value=0.0
-268438854 - Effect_Impulse_ImpulseVector, type=Vector, data=0, default value=null
+268438854 - Effect_Impulse_ImpulseVector, type=Vector, data=0, default value=x=0.0,y=0.0,z=0.0
 268438855 - Effect_Genesis_SummonedObjectQuantity, type=Int, data=0, default value=null
 268438856 - Effect_NotifyTargetOnFailureMessage, type=String Info, data=0, default value=null
 268438857 - AITargetSelection_Damage, type=Float, data=0, default value=null
@@ -5530,7 +5530,7 @@
 268438892 - DoorPortal_IsOpen, type=boolean, data=0, default value=0
 268438893 - Keyframe_AudioTrack, type=Data File ID, data=18, default value=null
 268438894 - QuestReward_SessionPointsAmount, type=Int, data=0, default value=0
-268438895 - QuestEvent_SkillQuestFlags, type=Enum Mapper 2, data=587202825, default value=null
+268438895 - QuestEvent_SkillQuestFlags, type=Bit Field 64bits, data=587202825, default value=null
 268438896 - QuestEvent_QuestCompleteCategory, type=Enum Mapper 1, data=587202585, default value=null
 268438897 - QuestEvent_ShowProgressText, type=boolean, data=0, default value=1
 268438898 - QuestEvent_MonsterGenus_ExclusionArray, type=Array, data=0, default value=null
@@ -5556,7 +5556,7 @@
 268438919 - Inventory_ContainerTransactionOnBehalfOf, type=InstanceID, data=0, default value=null
 268438920 - Inventory_DefaultSlot, type=Bit Field 32bits, data=587202798, default value=null
 268438921 - Inventory_DistanceCheckOverride, type=InstanceID, data=0, default value=null
-268438922 - Inventory_Cosmetic_Slot2_Scale, type=Vector, data=0, default value=null
+268438922 - Inventory_Cosmetic_Slot2_Scale, type=Vector, data=0, default value=x=1.0,y=1.0,z=1.0
 268438923 - Inventory_Cosmetic_Slot2_OffsetRotationRoll, type=Float, data=0, default value=0.0
 268438924 - Item_WeaponActionDurationTable, type=Array, data=0, default value=null
 268438925 - Item_TrophyOrigin, type=InstanceID, data=0, default value=null
@@ -5596,7 +5596,7 @@
 268438959 - GRSEvent_Death_Local, type=Data File ID, data=69, default value=null
 268438960 - GRSEvent_Admin_CommandName, type=String, data=0, default value=null
 268438961 - Channeling_InterruptedByTeleport, type=boolean, data=0, default value=0
-268438962 - Channeling_Player_Cosmetic_Slot_Scale, type=Vector, data=0, default value=null
+268438962 - Channeling_Player_Cosmetic_Slot_Scale, type=Vector, data=0, default value=x=1.0,y=1.0,z=1.0
 268438963 - Channeling_WeaponVisibilityProhibited, type=boolean, data=0, default value=0
 268438964 - AC_BoneScale_Test, type=Float, data=0, default value=0.0
 268438965 - AC_Texture_WrinklesMouth, type=Int, data=0, default value=0
@@ -5789,7 +5789,7 @@
 268439161 - Inventory_ItemEnabled, type=boolean, data=0, default value=null
 268439162 - Inventory_IsOpen, type=boolean, data=0, default value=0
 268439163 - Inventory_Quantity, type=Int, data=0, default value=null
-268439164 - Inventory_Cosmetic_Slot4_Scale, type=Vector, data=0, default value=null
+268439164 - Inventory_Cosmetic_Slot4_Scale, type=Vector, data=0, default value=x=1.0,y=1.0,z=1.0
 268439165 - Inventory_Cosmetic_Slot3_OffsetRotationRoll, type=Float, data=0, default value=0.0
 268439166 - Inventory_Cosmetic_Slot3_Entity, type=Data File ID, data=57, default value=0
 268439167 - Inventory_Cosmetic_Slot1_Behavior, type=Enum Mapper 1, data=587202711, default value=0
@@ -5843,7 +5843,7 @@
 268439218 - Resist_Cached_Total_Resistance_Wound, type=Float, data=0, default value=0.0
 268439219 - Resist_Cached_Total_Resistance_Disease, type=Float, data=0, default value=0.0
 268439220 - FloatProgression_FloatValue, type=Float, data=0, default value=0.0
-268439221 - Examination_EquipmentCategory, type=Enum Mapper 2, data=587202636, default value=null
+268439221 - Examination_EquipmentCategory, type=Bit Field 64bits, data=587202636, default value=null
 268439222 - ExaminationElement_Skill_SecondaryWeapon_ActionDuration, type=Float, data=0, default value=-1.0
 268439223 - ExaminationElement_ItemBinding_Struct, type=Struct, data=0, default value=null
 268439224 - ItemMunging_NameLookup_Name, type=String Info, data=0, default value=null
@@ -6250,7 +6250,7 @@
 268439644 - InventoryControl_EquipmentCategoryCachedSlotList, type=Array, data=0, default value=null
 268439645 - Inventory_ViewedContainer, type=InstanceID, data=0, default value=null
 268439646 - Inventory_AnnounceAcquisition, type=boolean, data=0, default value=null
-268439647 - Inventory_SecondaryEquipmentCategory, type=Enum Mapper 2, data=587202636, default value=0
+268439647 - Inventory_SecondaryEquipmentCategory, type=Bit Field 64bits, data=587202636, default value=0
 268439648 - Inventory_Cosmetic_Slot3_HoldingLocation, type=Enum Mapper 1, data=587202664, default value=0
 268439649 - Inventory_Cosmetic_Slot2_Behavior, type=Enum Mapper 1, data=587202711, default value=0
 268439650 - Inventory_Cosmetic_AppliedLoadout, type=Data File ID, data=69, default value=0
@@ -6311,7 +6311,7 @@
 268439708 - Fellowship_Selection_Pending, type=boolean, data=0, default value=0
 268439709 - Snd_Music_Race_Elf_Probability, type=Float, data=0, default value=1.0
 268439710 - Snd_SubMix_EmoteVolume, type=Float, data=0, default value=1.0
-268439711 - GCParam_IsFellow_TargetID, type=InstanceID, data=0, default value=[0,0]
+268439711 - GCParam_IsFellow_TargetID, type=InstanceID, data=0, default value=0
 268439712 - GCParam_Expression_Output_Integer, type=Int, data=0, default value=null
 268439713 - GCParam_ContainerIID, type=InstanceID, data=0, default value=null
 268439716 - ScriptSystem_Slider_Land, type=Float, data=0, default value=[0.0,1.0]
@@ -6416,7 +6416,7 @@
 268439822 - AITargetSelection_Buff, type=Float, data=0, default value=null
 268439823 - Attitude_AggressiveFilterList, type=Array, data=0, default value=null
 268439824 - AI_ThreatModTable_Bias_Type, type=Enum Mapper 1, data=587202594, default value=0
-268439825 - AI_DetectionTypeMask, type=Enum Mapper 2, data=587202806, default value=null
+268439825 - AI_DetectionTypeMask, type=Bit Field 64bits, data=587202806, default value=null
 268439826 - AI_Pet_SkillSaveDataStruct, type=Struct, data=0, default value=null
 268439827 - AI_Pet_Flags, type=Bit Field 32bits, data=587202848, default value=null
 268439828 - Signals@NPC::ScoreToken::Source, type=InstanceID, data=0, default value=null
@@ -6447,7 +6447,7 @@
 268439853 - Skill_DefaultSkillEnabled, type=boolean, data=0, default value=0
 268439854 - Skill_WaitingForChanneledToggleResult, type=boolean, data=0, default value=null
 268439856 - Combat_BaseEvadeRate, type=Float, data=0, default value=0.0
-268439857 - Combat_Control_EquipmentCategory, type=Enum Mapper 2, data=587202636, default value=null
+268439857 - Combat_Control_EquipmentCategory, type=Bit Field 64bits, data=587202636, default value=null
 268439858 - Combat_MitigationPercentage_ImplementInherited, type=Float, data=0, default value=0.0
 268439859 - Combat_MitigationPercentage_Common, type=Float, data=0, default value=0.0
 268439860 - Combat_ActingOnBehalfOfGroupOverride, type=InstanceID, data=0, default value=null
@@ -6665,7 +6665,7 @@
 268440092 - Inscription_AuthorName, type=String Info, data=0, default value=null
 268440093 - Inscription_Text, type=String Info, data=0, default value=null
 268440094 - Inventory_SlotCache_Eq_Necklace, type=InstanceID, data=0, default value=null
-268440095 - InventoryControl_EquipmentCategory, type=Enum Mapper 2, data=587202636, default value=null
+268440095 - InventoryControl_EquipmentCategory, type=Bit Field 64bits, data=587202636, default value=null
 268440096 - Inventory_IgnoresAllBinding, type=boolean, data=0, default value=null
 268440098 - Inventory_Indestructible, type=boolean, data=0, default value=0
 268440099 - Inventory_Cosmetic_Slot3_OffsetRotationYaw, type=Float, data=0, default value=0.0
@@ -6737,7 +6737,7 @@
 268440166 - Trait_Virtue_Rank_Just, type=Int, data=0, default value=0
 268440167 - Trait_Virtue_Rank_Empathy, type=Int, data=0, default value=0
 268440168 - Trait_Prerequisites_Array, type=Array, data=0, default value=null
-268440169 - Trait_Baseline_Equipment_Categories, type=Enum Mapper 2, data=587202636, default value=0
+268440169 - Trait_Baseline_Equipment_Categories, type=Bit Field 64bits, data=587202636, default value=0
 268440170 - Trait_Tier, type=Int, data=0, default value=null
 268440171 - Trait_Nature, type=Enum Mapper 1, data=587202647, default value=null
 268440172 - CombatStat_TotalThreats, type=Int, data=0, default value=null
@@ -6913,7 +6913,7 @@
 268440354 - House_StreetName_Account, type=String Info, data=0, default value=null
 268440355 - House_TownName_Account, type=String Info, data=0, default value=null
 268440356 - House_BootSpot, type=String, data=0, default value=test
-268440357 - Inventory_TraitEquipmentCategories, type=Enum Mapper 2, data=587202636, default value=0
+268440357 - Inventory_TraitEquipmentCategories, type=Bit Field 64bits, data=587202636, default value=0
 268440358 - Inventory_AllowedEquipmentControl_CharacteristicDID, type=Data File ID, data=69, default value=0
 268440359 - Inventory_SlotCache_Eq_Gloves, type=InstanceID, data=0, default value=null
 268440360 - InventoryControl_ContainerCloseSphereRadius, type=Float, data=0, default value=null
@@ -7260,7 +7260,7 @@
 268440714 - Death_NeverSayDie, type=boolean, data=0, default value=0
 268440715 - PrivateEncounter_Control_LockArray, type=Array, data=0, default value=null
 268440716 - PrivateEncounter_TravelDialogDID, type=Data File ID, data=69, default value=null
-268440717 - PrivateEncounterTemplate_ContainedLandBlock, type=Vector, data=0, default value=null
+268440717 - PrivateEncounterTemplate_ContainedLandBlock, type=Vector, data=0, default value=x=0.0,y=0.0,z=0.0
 268440718 - PrivateEncounterTemplate_ContainedLandBlockArray, type=Array, data=0, default value=null
 268440720 - VendorInventory_Items, type=Array, data=0, default value=null
 268440721 - Vendor_SellModifier, type=Float, data=0, default value=-1.0
@@ -7293,7 +7293,7 @@
 268440750 - UI_MPMissionController_SelectionIID, type=InstanceID, data=0, default value=null
 268440751 - UI_QuestDisplay_ShowDescription, type=boolean, data=0, default value=1
 268440752 - UI_QuestDisplay_ShowProgress, type=boolean, data=0, default value=null
-268440754 - UI_Radar_MapNoteType, type=Enum Mapper 2, data=587202775, default value=null
+268440754 - UI_Radar_MapNoteType, type=Bit Field 64bits, data=587202775, default value=null
 268440755 - UI_RadarField_Offset_Y, type=Int, data=0, default value=null
 268440757 - UI_Options_MenuStringInfo_Value, type=String Info, data=0, default value=null
 268440758 - UI_Map_PixelHeight, type=Int, data=0, default value=null
@@ -7501,7 +7501,7 @@
 268441016 - Effect_Definition_Description, type=String Info, data=0, default value=null
 268441017 - Effect_Applied_Description, type=String Info, data=0, default value=null
 268441018 - QuestEvent_Relock, type=boolean, data=0, default value=0
-268441019 - Inventory_AllowedEquipmentCategories_Enchanted, type=Enum Mapper 2, data=587202636, default value=0
+268441019 - Inventory_AllowedEquipmentCategories_Enchanted, type=Bit Field 64bits, data=587202636, default value=0
 268441020 - UI_Examination_Tooltip_Compare_Type, type=Enum Mapper 1, data=587203032, default value=null
 268441021 - QuestEvent_StartTime, type=Int, data=0, default value=null
 268441023 - QuestEvent_TimeLimit, type=Int, data=0, default value=null
@@ -7898,7 +7898,7 @@
 268441481 - Discovery_SavedDistance, type=Float, data=0, default value=null
 268441482 - Reputation_GroupModifierTable, type=Data File ID, data=69, default value=null
 268441483 - Skill_RangedAttack_MaxRangeMod, type=Float, data=0, default value=0.0
-268441484 - TrackingStateControl_MapNote, type=Enum Mapper 2, data=587202775, default value=null
+268441484 - TrackingStateControl_MapNote, type=Bit Field 64bits, data=587202775, default value=null
 268441485 - TrackingStateControl_MapNoteToState_Array, type=Array, data=0, default value=null
 268441486 - TrackingStateControl_TrackingState, type=Enum Mapper 1, data=587203152, default value=null
 268441487 - TrackingStateControl_MapNoteToState_Struct, type=Struct, data=0, default value=null
@@ -7974,7 +7974,7 @@
 268441597 - MonsterPlay_SessionFailureText, type=String Info, data=0, default value=null
 268441599 - MonsterPlay_SessionCompletionText, type=String Info, data=0, default value=null
 268441601 - UI_Map_MapNoteFilterProperty, type=Property ID, data=872415232, default value=null
-268441602 - GOP_Map_Distant_MapNoteFilter, type=Enum Mapper 2, data=587202775, default value=null
+268441602 - GOP_Map_Distant_MapNoteFilter, type=Bit Field 64bits, data=587202775, default value=null
 268441603 - UI_MonsterPlayInitiation_LoginSceneID, type=Data File ID, data=69, default value=null
 268441604 - UI_Barter_RewardDID, type=Data File ID, data=69, default value=null
 268441605 - UI_Barter_Item3DID, type=Data File ID, data=69, default value=null
@@ -8222,7 +8222,7 @@
 268441884 - Guild_DaysLeaderIsOfflineForOfficerUsurp, type=Int, data=0, default value=null
 268441885 - Guild_DaysLeaderIsOfflineForSuccessorUsurp, type=Int, data=0, default value=null
 268441886 - Guild_DaysLeaderIsOfflineForMemberUsurp, type=Int, data=0, default value=null
-268441890 - WorldEvent_BroadcastChannel, type=Enum Mapper 2, data=587203240, default value=0
+268441890 - WorldEvent_BroadcastChannel, type=Bit Field 64bits, data=587203240, default value=0
 268441892 - WorldEvent_Broadcast_ConditionStruct, type=Struct, data=0, default value=null
 268441893 - WorldEvent_Broadcast_ConditionArray, type=Array, data=0, default value=null
 268441894 - UI_HousingPurchase_HouseDID, type=Data File ID, data=69, default value=null
@@ -8557,7 +8557,7 @@
 268442309 - HousingERS_HouseDID, type=Data File ID, data=69, default value=0
 268442310 - HousingERS_ItemDID, type=Data File ID, data=69, default value=0
 268442311 - HousingERS_NeighborhoodDID, type=Data File ID, data=69, default value=0
-268442312 - HousingERS_ItemIID, type=InstanceID, data=0, default value=[0,0]
+268442312 - HousingERS_ItemIID, type=InstanceID, data=0, default value=0
 268442314 - UI_ChatTab_LoggingElement, type=Enum Mapper 1, data=587202769, default value=null
 268442315 - HousingStorage_LastInteractionTime, type=Timestamp, data=0, default value=null
 268442316 - HousingPropertyHook_ExtWallTexture, type=Enum Mapper 1, data=587203182, default value=null
@@ -8607,7 +8607,7 @@
 268442381 - ForwardSource_Entity_Camera_LookAt_OffsetX, type=Float, data=0, default value=null
 268442382 - ForwardSource_Entity_Camera_LookAt_OffsetY, type=Float, data=0, default value=null
 268442383 - ForwardSource_Entity_Camera_LookAt_OffsetZ, type=Float, data=0, default value=null
-268442385 - HousingEscrow_OwnerIID, type=InstanceID, data=0, default value=[0,0]
+268442385 - HousingEscrow_OwnerIID, type=InstanceID, data=0, default value=0
 268442386 - NeighborhoodTemplate_Telepad, type=String, data=0, default value=null
 268442390 - Combat_TraitCombo7, type=Enum Mapper 1, data=587202641, default value=40
 268442391 - ForwardSource_Combat_TraitCombo7, type=Enum Mapper 1, data=587202641, default value=40
@@ -8637,7 +8637,7 @@
 268442418 - HousingEscrow_EntryInUse, type=boolean, data=0, default value=0
 268442419 - Skill_PowerCost_Stormlore, type=Float, data=0, default value=0.0
 268442420 - Skill_LightningBurst_LoreMaster_RecoveryTime, type=Float, data=0, default value=0.0
-268442422 - HousingEscrow_ContainerIID, type=InstanceID, data=0, default value=[0,0]
+268442422 - HousingEscrow_ContainerIID, type=InstanceID, data=0, default value=0
 268442424 - Area_CanBeUsedForMonsterPlay, type=boolean, data=0, default value=0
 268442429 - House_Description, type=String Info, data=0, default value=null
 268442430 - HousingControl_HouseValueTier_UpkeepPriceModifier, type=Float, data=0, default value=null
@@ -8648,8 +8648,8 @@
 268442435 - HousingControl_MinLevelToBuyHouse, type=Int, data=0, default value=null
 268442436 - WE_Angmar_Rift_Active, type=boolean, data=0, default value=null
 268442437 - Account_PlayerLeftMonsterPlayArea_TimeStamp, type=Timestamp, data=0, default value=null
-268442438 - HousingHook_HookCategory, type=Enum Mapper 2, data=587203172, default value=null
-268442439 - Item_Decoration_Category, type=Enum Mapper 2, data=587203172, default value=0
+268442438 - HousingHook_HookCategory, type=Bit Field 64bits, data=587203172, default value=null
+268442439 - Item_Decoration_Category, type=Bit Field 64bits, data=587203172, default value=0
 268442442 - MovieLibrary_SortPriority, type=Int, data=0, default value=0
 268442443 - HousingSystem_HousePlayerIsInside, type=Data File ID, data=69, default value=null
 268442444 - House_Characteristic, type=Data File ID, data=69, default value=0
@@ -8713,9 +8713,9 @@
 268442513 - WE_Horse_Lvl25_Active, type=boolean, data=0, default value=null
 268442514 - HousingControl_HouseValueTier_StoragePriceModifier, type=Float, data=0, default value=null
 268442516 - MovieLibrary_CategoryList, type=Array, data=0, default value=null
-268442517 - HousingERS_OwnerIID, type=InstanceID, data=0, default value=[0,0]
+268442517 - HousingERS_OwnerIID, type=InstanceID, data=0, default value=0
 268442518 - AI_Pet_PetInPrivateEncounter_BeforeTeleport, type=boolean, data=0, default value=0
-268442519 - UI_Util_CurrentHousingDecorationCategory, type=Enum Mapper 2, data=587203172, default value=null
+268442519 - UI_Util_CurrentHousingDecorationCategory, type=Bit Field 64bits, data=587203172, default value=null
 268442520 - UIComponent_MoneyDisplay_CoinDisplay_ElementID, type=Enum Mapper 1, data=587202769, default value=null
 268442521 - UIComponent_MoneyDisplay_CoinDisplay_Layout, type=Data File ID, data=40, default value=null
 268442522 - Antispam_TargetRequest, type=Struct, data=0, default value=null
@@ -8744,7 +8744,7 @@
 268442557 - World_Chat_GagRestrictedOnGlobalChannels, type=boolean, data=0, default value=null
 268442558 - World_Mail_ConsecutiveSendTargetInterval, type=Int, data=0, default value=null
 268442559 - World_Chat_ConsecutiveTellTargetInterval, type=Int, data=0, default value=null
-268442561 - Auction_PosterAccount_IID, type=InstanceID, data=0, default value=[0,0]
+268442561 - Auction_PosterAccount_IID, type=InstanceID, data=0, default value=0
 268442563 - World_Housing_UpkeepInterval, type=Int, data=0, default value=null
 268442565 - WE_Horse_MarketingHorse_Active, type=boolean, data=0, default value=null
 268442567 - Script_IsEmoteBlocked, type=boolean, data=0, default value=0
@@ -8808,7 +8808,7 @@
 268442636 - HousingControl_HookRotationEntry, type=Struct, data=0, default value=null
 268442637 - HousingControl_RotationType, type=Enum Mapper 1, data=587203185, default value=null
 268442638 - HousingControl_HookRotationArray, type=Array, data=0, default value=null
-268442639 - HousingControl_HookCategory, type=Enum Mapper 2, data=587203172, default value=null
+268442639 - HousingControl_HookCategory, type=Bit Field 64bits, data=587203172, default value=null
 268442640 - HousingDecoration_HookRotation, type=Float, data=0, default value=0.0
 268442641 - World_AntiAddiction_Exhausted_Mod, type=Float, data=0, default value=0.0
 268442642 - World_AntiAddiction_Tired_Mod, type=Float, data=0, default value=0.5
@@ -11222,19 +11222,19 @@
 268445520 - we_ettenmoors_player_xp_bonus2, type=boolean, data=0, default value=0
 268445535 - Antispam_UserChatChannelMod, type=Struct, data=0, default value=null
 268445536 - UI_Chat_ChatTextType_FeedbackSounds, type=Array, data=0, default value=null
-268445537 - GCParam_DialogChatTextType, type=Enum Mapper 2, data=587203240, default value=8
-268445538 - GOP_ChatWindow_TabChatTextTypes, type=Enum Mapper 2, data=587203240, default value=null
+268445537 - GCParam_DialogChatTextType, type=Bit Field 64bits, data=587203240, default value=8
+268445538 - GOP_ChatWindow_TabChatTextTypes, type=Bit Field 64bits, data=587203240, default value=null
 268445539 - UI_Chat_ChatTextType_FeedbackSound, type=Struct, data=0, default value=null
 268445540 - GOP_ChatTextTypeFont, type=Enum Mapper 1, data=587202598, default value=null
-268445541 - UI_SpewBox_Filter_ChatTextType, type=Enum Mapper 2, data=587203240, default value=null
-268445542 - GOP_ChatTextType, type=Enum Mapper 2, data=587203240, default value=null
+268445541 - UI_SpewBox_Filter_ChatTextType, type=Bit Field 64bits, data=587203240, default value=null
+268445542 - GOP_ChatTextType, type=Bit Field 64bits, data=587203240, default value=null
 268445543 - GOP_ChatTextTypeColor, type=Color, data=0, default value=null
-268445544 - Communication_LocalizedChatTextType, type=Enum Mapper 2, data=587203240, default value=null
+268445544 - Communication_LocalizedChatTextType, type=Bit Field 64bits, data=587203240, default value=null
 268445545 - GOP_ChatTextTypeFontColorStruct, type=Struct, data=0, default value=null
-268445546 - Area_ChannelChatTextType, type=Enum Mapper 2, data=587203240, default value=null
+268445546 - Area_ChannelChatTextType, type=Bit Field 64bits, data=587203240, default value=null
 268445547 - GOP_ChatTextTypeFontColorArray, type=Array, data=0, default value=null
-268445548 - Communication_ChatTextType, type=Enum Mapper 2, data=587203240, default value=null
-268445549 - UI_Chat_ChatTextType, type=Enum Mapper 2, data=587203240, default value=null
+268445548 - Communication_ChatTextType, type=Bit Field 64bits, data=587203240, default value=null
+268445549 - UI_Chat_ChatTextType, type=Bit Field 64bits, data=587203240, default value=null
 268445550 - Examination_LegacyRank, type=Int, data=0, default value=null
 268445551 - AI_PetEffect_UnsummonDistance, type=Float, data=0, default value=0.0
 268445552 - Effect_IsCurable, type=boolean, data=0, default value=1
@@ -11833,7 +11833,7 @@
 268446276 - Mounted_StartScriptID, type=Enum Mapper 1, data=587202711, default value=null
 268446277 - Mounted_Player_Cosmetic_Slot_Entity, type=Data File ID, data=57, default value=0
 268446278 - Dismounted_ByOther_Script, type=Enum Mapper 1, data=587202711, default value=0
-268446279 - Mounted_Player_Cosmetic_Slot_Scale, type=Vector, data=0, default value=null
+268446279 - Mounted_Player_Cosmetic_Slot_Scale, type=Vector, data=0, default value=x=1.0,y=1.0,z=1.0
 268446280 - Mounted_AnimationScriptID, type=Enum Mapper 1, data=587202711, default value=null
 268446281 - UI_Map_QuestObjectiveIndicator_StateArray, type=Array, data=0, default value=null
 268446282 - UI_Map_QuestObjectiveIndicator_State, type=Enum Mapper 1, data=587202770, default value=null
@@ -12350,7 +12350,7 @@
 268447105 - HousingAuthority_OverdueUpkeep_Versioned, type=boolean, data=0, default value=null
 268447106 - ZE_stables_hardmode_bool, type=boolean, data=0, default value=null
 268447111 - UI_ThreatTracker_Threat_Value, type=Float, data=0, default value=0.0
-268447112 - UI_ThreatTracker_Threat_InstanceID, type=InstanceID, data=0, default value=[0,0]
+268447112 - UI_ThreatTracker_Threat_InstanceID, type=InstanceID, data=0, default value=0
 268447113 - UI_ThreatTracker_Meter_Element, type=Enum Mapper 1, data=587202769, default value=null
 268447114 - HoundingFear_AppChance, type=Float, data=0, default value=0.0
 268447121 - Bank_Repository_ItemIID, type=InstanceID, data=0, default value=null
@@ -12552,7 +12552,7 @@
 268447465 - Trait_Control_Group_Channels, type=Array, data=0, default value=null
 268447467 - Script_AnimationLayerOverride, type=Enum Mapper 1, data=587202773, default value=null
 268447468 - Item_WeaponVarianceValue, type=Float, data=0, default value=0.0
-268447469 - Item_WeaponVarianceEquipmentCategory, type=Enum Mapper 2, data=587202636, default value=0
+268447469 - Item_WeaponVarianceEquipmentCategory, type=Bit Field 64bits, data=587202636, default value=0
 268447470 - Item_WeaponVarianceTable, type=Array, data=0, default value=null
 268447471 - Item_WeaponVarianceTableEntry, type=Struct, data=0, default value=null
 268447472 - Combat_Cached_DefensePoints_Ranged, type=Float, data=0, default value=0.0
@@ -12994,8 +12994,8 @@
 268447982 - EffectGenerator_EffectData_VPSDuration, type=Float, data=0, default value=null
 268447983 - Version_V2Book9IAItems, type=boolean, data=0, default value=0
 268447984 - SkirmishStats_Referee_IID, type=InstanceID, data=0, default value=null
-268447985 - Hotspot_Box_MaxExtent, type=Vector, data=0, default value=null
-268447986 - Hotspot_Box_MinExtent, type=Vector, data=0, default value=null
+268447985 - Hotspot_Box_MaxExtent, type=Vector, data=0, default value=x=0.0,y=0.0,z=0.0
+268447986 - Hotspot_Box_MinExtent, type=Vector, data=0, default value=x=0.0,y=0.0,z=0.0
 268447987 - Combat_TacticalHPS_Modifier, type=Float, data=0, default value=0.0
 268447988 - Combat_Class_TacticalHPS, type=Float, data=0, default value=0.0
 268447989 - Combat_Current_TacticalHPS, type=Float, data=0, default value=0.0
@@ -14857,7 +14857,7 @@
 268450051 - Discount_AllBards, type=Float, data=0, default value=0.0
 268450052 - AccountTypeRestrictions_NumCharacterSlots, type=Int, data=0, default value=null
 268450053 - WebStoreItem_BuyNowButtonTooltip, type=String Info, data=0, default value=null
-268450057 - Script_AdjustableScale_Secondary_Vector, type=Vector, data=0, default value=null
+268450057 - Script_AdjustableScale_Secondary_Vector, type=Vector, data=0, default value=x=1.0,y=1.0,z=1.0
 268450058 - Accomplishment_CanBeAccelerated, type=boolean, data=0, default value=1
 268450059 - Accomplishment_MonsterDied_AccelerationMultiplier, type=Int, data=0, default value=1
 268450061 - Accomplishment_DeedAcceleration_PropertyName, type=Property ID, data=872415232, default value=null
@@ -15755,8 +15755,8 @@
 268451180 - ItemAdvancement_LegacyTypeIcon_Small, type=Data File ID, data=5, default value=null
 268451182 - Account_Tutorial_MonsterPlay_Complete, type=boolean, data=0, default value=0
 268451183 - World_Webstore_MaxTimeForRefresh, type=Int, data=0, default value=3600
-268451184 - Tripwire_Box_MaxExtent, type=Vector, data=0, default value=null
-268451185 - Tripwire_Box_MinExtent, type=Vector, data=0, default value=null
+268451184 - Tripwire_Box_MaxExtent, type=Vector, data=0, default value=x=0.0,y=0.0,z=0.0
+268451185 - Tripwire_Box_MinExtent, type=Vector, data=0, default value=x=0.0,y=0.0,z=0.0
 268451188 - IA_Minstrel_BalladofUnshakableWill_Buff_Ranged, type=Float, data=0, default value=0.0
 268451189 - IA_Minstrel_BalladofFlame_Buff_Tactical, type=Float, data=0, default value=0.0
 268451192 - Reputation_Faction_Decrease_Mod_Defeat, type=Float, data=0, default value=1.0
@@ -16509,7 +16509,7 @@
 268452106 - Trait_Captain_LeaderofMen_ImprovedShieldBrother_Self, type=Array, data=0, default value=null
 268452107 - Trait_Captain_HandsofHealing_SongBrother_Self, type=Array, data=0, default value=null
 268452108 - Trait_Captain_LeaderofMen_ShieldBrother_Self, type=Array, data=0, default value=null
-268452109 - Combat_Block_PrimarySlot_EquipmentCategory, type=Enum Mapper 2, data=587202636, default value=0
+268452109 - Combat_Block_PrimarySlot_EquipmentCategory, type=Bit Field 64bits, data=587202636, default value=0
 268452110 - Trait_Captain_FellowshipBrother_ShieldBrother_ToArms, type=Array, data=0, default value=null
 268452111 - Trait_Captain_FellowshipBrother_BladeBrother_Inspire, type=Array, data=0, default value=null
 268452112 - Trait_Captain_FellowshipBrother_SongBrother_ToArms, type=Array, data=0, default value=null
@@ -16521,7 +16521,7 @@
 268452122 - Version_MinLevel, type=Int, data=0, default value=1
 268452123 - Version_LevelResponseStruct, type=Struct, data=0, default value=null
 268452124 - Skill_Loremaster_Skill_InductionDuration_StickyGourd, type=Float, data=0, default value=0.0
-268452125 - ForwardSource_Combat_Block_PrimarySlot_EquipmentCategory, type=Enum Mapper 2, data=587202636, default value=null
+268452125 - ForwardSource_Combat_Block_PrimarySlot_EquipmentCategory, type=Bit Field 64bits, data=587202636, default value=null
 268452126 - Version_POItem_StampProperty_84, type=boolean, data=0, default value=null
 268452127 - Trait_Champion_SuddenDefence_Cooldown_Reset, type=Float, data=0, default value=0.0
 268452128 - MountMovement_CurrentSpeed, type=Enum Mapper 1, data=587203387, default value=2
@@ -17916,7 +17916,7 @@
 268454980 - Mount_FadeIn_Override, type=Float, data=0, default value=null
 268454981 - Mount_ClientUI_Entity, type=InstanceID, data=0, default value=null
 268454982 - PrivateEncounterTemplate_MountedCombatDisallowed, type=boolean, data=0, default value=0
-268454983 - Mounted_Player_Cosmetic_Slot_BoneOffset, type=Vector, data=0, default value=null
+268454983 - Mounted_Player_Cosmetic_Slot_BoneOffset, type=Vector, data=0, default value=x=0.0,y=0.0,z=0.0
 268454984 - PEMessageSystem_Murderball_PostMatch_TimeSegment, type=Enum Mapper 1, data=587203420, default value=0
 268454985 - World_PublicInstanceMaxPlayer_rohan_east_endgame_wold_3_2, type=Int, data=0, default value=0
 268454986 - World_PublicInstanceMaxPlayer_rohan_east_endgame_sutcrofts_3_4, type=Int, data=0, default value=0
@@ -19237,7 +19237,7 @@
 268456535 - TravelDestinationIsSwiftTravel, type=boolean, data=0, default value=1
 268456537 - vfx_Building_Condition, type=Enum Mapper 1, data=587203490, default value=null
 268456539 - WorldJoin_Capped_EncounterCategory, type=Enum Mapper 1, data=587203408, default value=0
-268456540 - PrivateEncounterTemplate_DisallowedMapNoteType, type=Enum Mapper 2, data=587202775, default value=0
+268456540 - PrivateEncounterTemplate_DisallowedMapNoteType, type=Bit Field 64bits, data=587202775, default value=0
 268456541 - WE_hobbit_instance_story_quest_vector, type=boolean, data=0, default value=null
 268456544 - Quest_BestowalRoles, type=Array, data=0, default value=null
 268456546 - MountedCombat_CollisionDetectionAllowed, type=boolean, data=0, default value=1
@@ -19370,9 +19370,9 @@
 268456729 - Version_NewPaperItem_DID, type=Data File ID, data=69, default value=null
 268456730 - Version_PaperItem_ConversionRate_Value, type=Int, data=0, default value=null
 268456731 - Version_ConvertPaperItems_Data, type=Struct, data=0, default value=null
-268456732 - Skill_SkillType, type=Enum Mapper 2, data=587203492, default value=0
+268456732 - Skill_SkillType, type=Bit Field 64bits, data=587203492, default value=0
 268456733 - PackageItem_FilteredTrophyTableTemplate, type=Data File ID, data=69, default value=null
-268456734 - Effect_SkillProc_SkillTypes, type=Enum Mapper 2, data=587203492, default value=0
+268456734 - Effect_SkillProc_SkillTypes, type=Bit Field 64bits, data=587203492, default value=0
 268456735 - Effect_SkillProc_ProcProbability, type=Float, data=0, default value=1.0
 268456749 - Trait_Mount_Burglar_Critical_Chance, type=Float, data=0, default value=0.0
 268456750 - Trait_Mount_Burglar_Damage_Offense, type=Float, data=0, default value=0.0
@@ -19800,8 +19800,8 @@
 268457308 - DistantBattleUnit_CreationLocation, type=Enum Mapper 1, data=587203500, default value=0
 268457309 - Itemset_Skill_DamageMitigation, type=Float, data=0, default value=0.0
 268457310 - Itemset_Champion_SuddenDefence_CritDefence, type=Array, data=0, default value=null
-268457311 - Version_AddNewChatTextType_AddToTabsWithType, type=Enum Mapper 2, data=587203240, default value=null
-268457312 - Version_AddNewChatTextType_TypeToAdd, type=Enum Mapper 2, data=587203240, default value=null
+268457311 - Version_AddNewChatTextType_AddToTabsWithType, type=Bit Field 64bits, data=587203240, default value=null
+268457312 - Version_AddNewChatTextType_TypeToAdd, type=Bit Field 64bits, data=587203240, default value=null
 268457314 - Trait_Minstrel_Induction_Reduction, type=Float, data=0, default value=0.0
 268457316 - DistantBattleUnit_PathPoint, type=boolean, data=0, default value=0
 268457317 - Alert_IsOverflow, type=boolean, data=0, default value=null
@@ -21111,8 +21111,8 @@
 268458796 - Skill_AutoAttack_ParryChance, type=Float, data=0, default value=0.0
 268458797 - Trait_Guardian_Stoic_AppChance, type=Float, data=0, default value=0.0
 268458798 - Trait_Guardian_Stoic_MoraleBubble, type=Array, data=0, default value=null
-268458799 - AIPuppet_CombatZone_MaxBox, type=Vector, data=0, default value=null
-268458800 - AIPuppet_CombatZone_MinBox, type=Vector, data=0, default value=null
+268458799 - AIPuppet_CombatZone_MaxBox, type=Vector, data=0, default value=x=7.5,y=7.5,z=5.0
+268458800 - AIPuppet_CombatZone_MinBox, type=Vector, data=0, default value=x=-7.5,y=-7.5,z=0.0
 268458801 - Skill_Guardian_GuardiansWard_TacticalMitigation, type=Float, data=0, default value=0.0
 268458802 - Skill_Guardian_ShieldSmash_Targets, type=Int, data=0, default value=0
 268458803 - Missile_InitialOffset, type=Vector, data=0, default value=null
@@ -21134,7 +21134,7 @@
 268458821 - FireSiegeWeapon_MissileDID, type=Data File ID, data=69, default value=null
 268458822 - FireSiegeWeapon_HeadingOffset, type=Float, data=0, default value=[-180.0,180.0]
 268458823 - FireSiegeWeapon_InitialPitch, type=Float, data=0, default value=30.0
-268458824 - FireSiegeWeapon_InitialOffset, type=Vector, data=0, default value=null
+268458824 - FireSiegeWeapon_InitialOffset, type=Vector, data=0, default value=x=0.0,y=0.0,z=0.0
 268458825 - FireSiegeWeapon_InitialSpeed, type=Float, data=0, default value=20.0
 268458826 - Trait_Guardian_EngulfedByLight_MoraleHeal, type=Array, data=0, default value=null
 268458827 - trait_class_guardian_rank_51, type=Int, data=0, default value=0
@@ -22817,7 +22817,7 @@
 268460741 - UI_ItemAdvancement_ImbuedItemSummary_Text_Element, type=Enum Mapper 1, data=587202769, default value=null
 268460742 - UI_ItemAdvancement_ImbuedItemSummary_Meter_Element, type=Enum Mapper 1, data=587202769, default value=null
 268460743 - Signals@ItemAdvancement::Imbue::ItemIID, type=InstanceID, data=0, default value=null
-268460744 - Signals@ItemAdvancement::Imbue::EquipmentCategory, type=Enum Mapper 2, data=587202636, default value=0
+268460744 - Signals@ItemAdvancement::Imbue::EquipmentCategory, type=Bit Field 64bits, data=587202636, default value=0
 268460745 - Signals@ItemAdvancement::Imbue::PhysObj, type=Data File ID, data=57, default value=null
 268460746 - UI_AdvancementTracker_ImbuedIAXPMeter_Element, type=Enum Mapper 1, data=587202769, default value=null
 268460747 - Av_Avatar_Dye_Override, type=Float, data=0, default value=[-1.0,0.0,1.0]
@@ -23004,8 +23004,8 @@
 268460943 - World_PublicInstanceMaxPlayer_minas_tirith_endgame, type=Int, data=0, default value=0
 268460944 - UI_Map_MapNoteOffscreenImageStruct, type=Struct, data=0, default value=null
 268460945 - UI_Map_MapNoteOnscreenImageStruct, type=Struct, data=0, default value=null
-268460946 - Wardrobe_ItemClothingColorsExt, type=Enum Mapper 2, data=587203570, default value=null
-268460947 - Wardrobe_ItemClothingColorExt_Bit, type=Enum Mapper 2, data=587203570, default value=null
+268460946 - Wardrobe_ItemClothingColorsExt, type=Bit Field 64bits, data=587203570, default value=null
+268460947 - Wardrobe_ItemClothingColorExt_Bit, type=Bit Field 64bits, data=587203570, default value=null
 268460948 - DistantBattleUnit_VisualRadius, type=Float, data=0, default value=null
 268460949 - Emote_AvailableToPlayer, type=boolean, data=0, default value=0
 268460950 - Emote_MTXExclusive, type=boolean, data=0, default value=null
@@ -23027,11 +23027,11 @@
 268460968 - UI_TutorialHintButton_TutorialHint, type=Enum Mapper 1, data=587202855, default value=null
 268460970 - AccountTypeRestrictions_MinLevelForGlobalChat, type=Int, data=0, default value=null
 268460971 - Signals@ItemAdvancement::ImbuedLegacyLevelup::ItemContainerSlot, type=Bit Field 32bits, data=587202798, default value=null
-268460973 - WB_DBU_MinExtent, type=Vector, data=0, default value=null
-268460974 - WB_DBU_MaxExtent, type=Vector, data=0, default value=null
+268460973 - WB_DBU_MinExtent, type=Vector, data=0, default value=x=0.0,y=0.0,z=0.0
+268460974 - WB_DBU_MaxExtent, type=Vector, data=0, default value=x=0.0,y=0.0,z=0.0
 268460975 - WB_DBU_EntityOffset_Radius, type=Float, data=0, default value=0.5
 268460976 - WB_DBU_EntityOffsetList, type=Array, data=0, default value=null
-268460978 - WB_DBU_EntityOffset_Origin, type=Vector, data=0, default value=null
+268460978 - WB_DBU_EntityOffset_Origin, type=Vector, data=0, default value=x=0.0,y=0.0,z=0.0
 268460979 - WB_DBU_EntityOffset, type=Struct, data=0, default value=null
 268460980 - DistantBattleUnit_CaptureQualityOverride, type=Enum Mapper 1, data=587203572, default value=-1
 268460982 - QuestDispenser_VO_Text, type=String Info, data=0, default value=null
@@ -23161,7 +23161,7 @@
 268461122 - Skill_Burglar_IA_Classic_CritChain_CritChance, type=Float, data=0, default value=0.0
 268461123 - ForwardSource_Skill_Runekeeper_Healing_HoT, type=Float, data=0, default value=0.0
 268461124 - World_Housing_PremiumHousePurchase_Enabled, type=boolean, data=0, default value=1
-268461125 - HousingDecoration_PositionOffset, type=Vector, data=0, default value=null
+268461125 - HousingDecoration_PositionOffset, type=Vector, data=0, default value=x=0.0,y=0.0,z=0.0
 268461126 - GOP_AvatarUpdateVisible, type=boolean, data=0, default value=0
 268461133 - World_PopTrackMaxPlayer_Mountains_Shadow_North_Ithilien, type=Int, data=0, default value=0
 268461134 - WE_endgame_flora_orange_on_int, type=boolean, data=0, default value=null
@@ -23603,7 +23603,7 @@
 268461664 - PrivateEncounter_RaidChestLock_PullCountBeforeSoftLock, type=Int, data=0, default value=null
 268461665 - WE_server_legendary_active, type=boolean, data=0, default value=null
 268461669 - PackageItem_GeneratedItemIID, type=InstanceID, data=0, default value=null
-268461670 - HousingDecoration_InitialPositionOffset, type=Vector, data=0, default value=null
+268461670 - HousingDecoration_InitialPositionOffset, type=Vector, data=0, default value=x=0.0,y=0.0,z=0.0
 268461671 - HousingDecoration_InitialHookRotation, type=Float, data=0, default value=0.0
 268461685 - World_RequireSubscription, type=boolean, data=0, default value=0
 268461686 - Physics_OnIce, type=boolean, data=0, default value=0
@@ -23777,7 +23777,7 @@
 268461891 - Version_Title_StampProperty_47, type=boolean, data=0, default value=null
 268461892 - Version_Title_StampProperty_48, type=boolean, data=0, default value=null
 268461893 - UI_Assistance_Language, type=Enum Mapper 1, data=587202737, default value=null
-268461894 - GCParam_Offset, type=Vector, data=0, default value=null
+268461894 - GCParam_Offset, type=Vector, data=0, default value=x=0.0,y=0.0,z=0.0
 268461895 - Item_Disenchant_Trophy_List, type=Data File ID, data=69, default value=0
 268461896 - Trait_Virtue_Posture_Icon, type=Data File ID, data=5, default value=null
 268461897 - WE_minas_morgul_instance_leading_charge_lock, type=boolean, data=0, default value=null
