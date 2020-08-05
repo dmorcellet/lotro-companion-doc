@@ -467,7 +467,7 @@ AdvTable_ClassCharacteristic_List:
 		AdvTable_Trait_TrainingCost: 0
 		AdvTable_Trait_WC: 1879230292
 	#18: 
-		AdvTable_Trait_Level: 50
+		AdvTable_Trait_Level: 20
 		AdvTable_Trait_Rank: 0
 		AdvTable_Trait_TrainingCost: 0
 		AdvTable_Trait_WC: 1879287567

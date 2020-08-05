@@ -103,166 +103,173 @@ AdvTable_AvailableSkillEntryList:
 		AdvTable_TrainingCost: 0
 	#11: 
 		AdvTable_AdvancedCharacterShortcutIndex: 0
-		AdvTable_Level: 20
-		AdvTable_PrerequisiteSkill: 0
-		AdvTable_Rank: 0
-		AdvTable_Skill: 1879297098
-		AdvTable_TrainingCost: 0
-	#12: 
-		AdvTable_AdvancedCharacterShortcutIndex: 0
 		AdvTable_Level: 22
 		AdvTable_PrerequisiteSkill: 0
 		AdvTable_Rank: 0
 		AdvTable_Skill: 1879146741
 		AdvTable_TrainingCost: 0
-	#13: 
+	#12: 
 		AdvTable_AdvancedCharacterShortcutIndex: 0
 		AdvTable_Level: 24
 		AdvTable_PrerequisiteSkill: 0
 		AdvTable_Rank: 0
 		AdvTable_Skill: 1879109121
 		AdvTable_TrainingCost: 0
-	#14: 
+	#13: 
 		AdvTable_AdvancedCharacterShortcutIndex: 0
 		AdvTable_Level: 26
 		AdvTable_PrerequisiteSkill: 0
 		AdvTable_Rank: 0
 		AdvTable_Skill: 1879146738
 		AdvTable_TrainingCost: 0
-	#15: 
+	#14: 
 		AdvTable_AdvancedCharacterShortcutIndex: 0
 		AdvTable_Level: 28
 		AdvTable_PrerequisiteSkill: 0
 		AdvTable_Rank: 0
 		AdvTable_Skill: 1879244911
 		AdvTable_TrainingCost: 0
-	#16: 
-		AdvTable_AdvancedCharacterShortcutIndex: 0
-		AdvTable_Level: 30
-		AdvTable_PrerequisiteSkill: 0
-		AdvTable_Rank: 0
-		AdvTable_Skill: 1879146219
-		AdvTable_TrainingCost: 0
-	#17: 
+	#15: 
 		AdvTable_AdvancedCharacterShortcutIndex: 0
 		AdvTable_Level: 32
 		AdvTable_PrerequisiteSkill: 0
 		AdvTable_Rank: 0
 		AdvTable_Skill: 1879109119
 		AdvTable_TrainingCost: 0
-	#18: 
+	#16: 
 		AdvTable_AdvancedCharacterShortcutIndex: 0
 		AdvTable_Level: 36
 		AdvTable_PrerequisiteSkill: 0
 		AdvTable_Rank: 0
 		AdvTable_Skill: 1879105591
 		AdvTable_TrainingCost: 0
-	#19: 
+	#17: 
 		AdvTable_AdvancedCharacterShortcutIndex: 0
 		AdvTable_Level: 40
 		AdvTable_PrerequisiteSkill: 0
 		AdvTable_Rank: 0
 		AdvTable_Skill: 1879110237
 		AdvTable_TrainingCost: 0
-	#20: 
+	#18: 
 		AdvTable_AdvancedCharacterShortcutIndex: 0
 		AdvTable_Level: 44
 		AdvTable_PrerequisiteSkill: 0
 		AdvTable_Rank: 0
 		AdvTable_Skill: 1879109291
 		AdvTable_TrainingCost: 0
+	#19: 
+		AdvTable_AdvancedCharacterShortcutIndex: 0
+		AdvTable_Level: 20
+		AdvTable_PrerequisiteSkill: 0
+		AdvTable_Rank: 0
+		AdvTable_Skill: 1879297098
+		AdvTable_TrainingCost: 0
+	#20: 
+		AdvTable_AdvancedCharacterShortcutIndex: 0
+		AdvTable_Level: 20
+		AdvTable_PrerequisiteSkill: 0
+		AdvTable_Rank: 0
+		AdvTable_Skill: 1879409497
+		AdvTable_TrainingCost: 0
 	#21: 
+		AdvTable_AdvancedCharacterShortcutIndex: 0
+		AdvTable_Level: 20
+		AdvTable_PrerequisiteSkill: 0
+		AdvTable_Rank: 0
+		AdvTable_Skill: 1879146219
+		AdvTable_TrainingCost: 0
+	#22: 
 		AdvTable_AdvancedCharacterShortcutIndex: 0
 		AdvTable_Level: 50
 		AdvTable_PrerequisiteSkill: 0
 		AdvTable_Rank: 0
 		AdvTable_Skill: 1879148405
 		AdvTable_TrainingCost: 0
-	#22: 
+	#23: 
 		AdvTable_AdvancedCharacterShortcutIndex: 0
 		AdvTable_Level: 75
 		AdvTable_PrerequisiteSkill: 0
 		AdvTable_Rank: 0
 		AdvTable_Skill: 1879245626
 		AdvTable_TrainingCost: 0
-	#23: 
+	#24: 
 		AdvTable_AdvancedCharacterShortcutIndex: 0
 		AdvTable_Level: 75
 		AdvTable_PrerequisiteSkill: 0
 		AdvTable_Rank: 0
 		AdvTable_Skill: 1879245630
 		AdvTable_TrainingCost: 0
-	#24: 
+	#25: 
 		AdvTable_AdvancedCharacterShortcutIndex: 0
 		AdvTable_Level: 75
 		AdvTable_PrerequisiteSkill: 0
 		AdvTable_Rank: 0
 		AdvTable_Skill: 1879245628
 		AdvTable_TrainingCost: 0
-	#25: 
+	#26: 
 		AdvTable_AdvancedCharacterShortcutIndex: 0
 		AdvTable_Level: 75
 		AdvTable_PrerequisiteSkill: 0
 		AdvTable_Rank: 0
 		AdvTable_Skill: 1879245634
 		AdvTable_TrainingCost: 0
-	#26: 
+	#27: 
 		AdvTable_AdvancedCharacterShortcutIndex: 0
 		AdvTable_Level: 75
 		AdvTable_PrerequisiteSkill: 0
 		AdvTable_Rank: 0
 		AdvTable_Skill: 1879245627
 		AdvTable_TrainingCost: 0
-	#27: 
+	#28: 
 		AdvTable_AdvancedCharacterShortcutIndex: 0
 		AdvTable_Level: 75
 		AdvTable_PrerequisiteSkill: 0
 		AdvTable_Rank: 0
 		AdvTable_Skill: 1879245621
 		AdvTable_TrainingCost: 0
-	#28: 
+	#29: 
 		AdvTable_AdvancedCharacterShortcutIndex: 0
 		AdvTable_Level: 75
 		AdvTable_PrerequisiteSkill: 0
 		AdvTable_Rank: 0
 		AdvTable_Skill: 1879245624
 		AdvTable_TrainingCost: 0
-	#29: 
+	#30: 
 		AdvTable_AdvancedCharacterShortcutIndex: 0
 		AdvTable_Level: 75
 		AdvTable_PrerequisiteSkill: 0
 		AdvTable_Rank: 0
 		AdvTable_Skill: 1879245635
 		AdvTable_TrainingCost: 0
-	#30: 
+	#31: 
 		AdvTable_AdvancedCharacterShortcutIndex: 0
 		AdvTable_Level: 75
 		AdvTable_PrerequisiteSkill: 0
 		AdvTable_Rank: 0
 		AdvTable_Skill: 1879245629
 		AdvTable_TrainingCost: 0
-	#31: 
+	#32: 
 		AdvTable_AdvancedCharacterShortcutIndex: 0
 		AdvTable_Level: 12
 		AdvTable_PrerequisiteSkill: 0
 		AdvTable_Rank: 0
 		AdvTable_Skill: 1879064082
 		AdvTable_TrainingCost: 0
-	#32: 
+	#33: 
 		AdvTable_AdvancedCharacterShortcutIndex: 0
 		AdvTable_Level: 12
 		AdvTable_PrerequisiteSkill: 0
 		AdvTable_Rank: 0
 		AdvTable_Skill: 1879146828
 		AdvTable_TrainingCost: 0
-	#33: 
+	#34: 
 		AdvTable_AdvancedCharacterShortcutIndex: 0
 		AdvTable_Level: 12
 		AdvTable_PrerequisiteSkill: 0
 		AdvTable_Rank: 0
 		AdvTable_Skill: 1879146821
 		AdvTable_TrainingCost: 0
-	#34: 
+	#35: 
 		AdvTable_AdvancedCharacterShortcutIndex: 0
 		AdvTable_Level: 12
 		AdvTable_PrerequisiteSkill: 0

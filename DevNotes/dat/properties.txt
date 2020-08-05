@@ -2289,6 +2289,7 @@
 2902 - Entity_ClassScriptTable_Override, type=Struct, data=0, default value=null
 2903 - Render_AdjustableScale_Checkpointed, type=Vector, data=0, default value=x=1.0,y=1.0,z=1.0
 2904 - UICore_Element_IgnoreParentStateChange, type=boolean, data=0, default value=0
+2905 - Entity_AdditionalScriptTables_Override, type=Array, data=0, default value=null
 2906 - Character_GameCompatibilityVersion, type=String, data=0, default value=null
 268435457 - Pedigree_Surname_LevelRestriction, type=Int, data=0, default value=0
 268435458 - Auction_ID, type=InstanceID, data=0, default value=0
@@ -18032,7 +18033,7 @@
 268455126 - PVPVirtueControl_Virtue_Array, type=Array, data=0, default value=null
 268455127 - PVPVirtueControl_Virtue, type=Data File ID, data=69, default value=null
 268455128 - Tapping_OpenTapping, type=boolean, data=0, default value=0
-268455129 - Trait_Captain_ThreateningShout_MaxTargets, type=Float, data=0, default value=0.0
+268455129 - Trait_Captain_ThreateningShout_MaxTargets, type=Int, data=0, default value=0
 268455130 - Trait_Mount_Movement_Override_Light, type=Array, data=0, default value=null
 268455131 - Trait_Mount_Movement_Override_Heavy, type=Array, data=0, default value=null
 268455132 - Trait_Mount_Movement_Override_Medium, type=Array, data=0, default value=null
@@ -24095,4 +24096,13 @@
 268462281 - WE_Integer_Elderslade_Raid_Tier_Gate, type=Int, data=0, default value=null
 268462282 - WE_Integer_Elderslade_Mission_Config, type=Int, data=0, default value=null
 268462283 - World_RaceChangeMinCharacterLevel, type=Int, data=0, default value=10
+268462286 - Usage_RequiredTrait_OrList, type=Array, data=0, default value=null
+268462287 - World_AMS_TicketRefresh, type=Int, data=0, default value=null
+268462288 - World_AMS_SystemPassword, type=String, data=0, default value=null
+268462289 - World_AMS_CurrentTicket, type=String, data=0, default value=null
+268462290 - World_AMS_SystemUsername, type=String, data=0, default value=null
 268462291 - World_PopTrackMaxPlayer_Midsummer_Minas_Tirith, type=Int, data=0, default value=0
+268462350 - Skill_Champion_HornofChampions_Targets, type=Int, data=0, default value=0
+268462352 - Trait_Captain_ThreateningShout_CooldownMod, type=Float, data=0, default value=0.0
+268462353 - Version_POItem_StampProperty_228, type=boolean, data=0, default value=null
+268462354 - Version_Title_StampProperty_59, type=boolean, data=0, default value=null
