@@ -47,7 +47,7 @@ UI_Map_AreaData:
 							UI_Map_QuestGuideBound_XMin: 0
 							UI_Map_QuestGuideBound_YMax: 767
 							UI_Map_QuestGuideBound_YMin: 0
-							UI_Map_RegionID: 1
+							UI_Map_RegionID: 1 (Eriador)
 							UI_Map_Scale: 0.96
 						#2: 
 							UI_Map_ActiveElement: 268437722 (CityMap_3_ThorinsGates)
@@ -66,7 +66,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 100
 							UI_Map_PixelOffsetY: 768
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 1
+							UI_Map_RegionID: 1 (Eriador)
 							UI_Map_Scale: 0.64375
 						#3: 
 							UI_Map_ActiveElement: 268440591 (Playerhousing_1_Falathlorn)
@@ -83,7 +83,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 215
 							UI_Map_PixelOffsetY: 750
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 1
+							UI_Map_RegionID: 1 (Eriador)
 							UI_Map_Scale: 0.925
 					UI_Map_BlockOffsetX: 50
 					UI_Map_BlockOffsetY: 115
@@ -96,7 +96,7 @@ UI_Map_AreaData:
 					UI_Map_PixelOffsetX: 239
 					UI_Map_PixelOffsetY: 768
 					UI_Map_PixelWidth: 1024
-					UI_Map_RegionID: 1
+					UI_Map_RegionID: 1 (Eriador)
 					UI_Map_Scale: 0.19375
 				#2: 
 					UI_Map_ActiveElement: 268437592 (RegionMap_2_Trollshaws)
@@ -124,7 +124,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 101
 							UI_Map_PixelOffsetY: 737
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 1
+							UI_Map_RegionID: 1 (Eriador)
 							UI_Map_Scale: 0.53125
 					UI_Map_BlockOffsetX: 153
 					UI_Map_BlockOffsetY: 107
@@ -137,7 +137,7 @@ UI_Map_AreaData:
 					UI_Map_PixelOffsetX: 73
 					UI_Map_PixelOffsetY: 675
 					UI_Map_PixelWidth: 1024
-					UI_Map_RegionID: 1
+					UI_Map_RegionID: 1 (Eriador)
 					UI_Map_Scale: 0.1875
 				#3: 
 					UI_Map_ActiveElement: 268437691 (RegionMap_8_MistyMountains)
@@ -163,7 +163,7 @@ UI_Map_AreaData:
 					UI_Map_PixelOffsetX: 210
 					UI_Map_PixelOffsetY: 768
 					UI_Map_PixelWidth: 1024
-					UI_Map_RegionID: 1
+					UI_Map_RegionID: 1 (Eriador)
 					UI_Map_Scale: 0.20625
 				#4: 
 					UI_Map_ActiveElement: 268437603 (RegionMap_3_Lone_Lands)
@@ -190,7 +190,7 @@ UI_Map_AreaData:
 					UI_Map_PixelOffsetX: 67
 					UI_Map_PixelOffsetY: 587
 					UI_Map_PixelWidth: 1024
-					UI_Map_RegionID: 1
+					UI_Map_RegionID: 1 (Eriador)
 					UI_Map_Scale: 0.21875
 				#5: 
 					UI_Map_ActiveElement: 268437615 (RegionMap_4_Angmar)
@@ -224,7 +224,7 @@ UI_Map_AreaData:
 					UI_Map_PixelOffsetX: 0
 					UI_Map_PixelOffsetY: 751
 					UI_Map_PixelWidth: 1024
-					UI_Map_RegionID: 1
+					UI_Map_RegionID: 1 (Eriador)
 					UI_Map_Scale: 0.175
 				#6: 
 					UI_Map_ActiveElement: 268437634 (RegionMap_5_North_Downs)
@@ -257,7 +257,7 @@ UI_Map_AreaData:
 					UI_Map_PixelOffsetX: 0
 					UI_Map_PixelOffsetY: 692
 					UI_Map_PixelWidth: 1024
-					UI_Map_RegionID: 1
+					UI_Map_RegionID: 1 (Eriador)
 					UI_Map_Scale: 0.18125
 				#7: 
 					UI_Map_ActiveElement: 268437700 (RegionMap_9_Ettenmoors)
@@ -280,7 +280,7 @@ UI_Map_AreaData:
 					UI_Map_PixelOffsetX: 95
 					UI_Map_PixelOffsetY: 768
 					UI_Map_PixelWidth: 1024
-					UI_Map_RegionID: 1
+					UI_Map_RegionID: 1 (Eriador)
 					UI_Map_Scale: 0.31875
 				#8: 
 					UI_Map_ActiveElement: 268439511 (RegionMap_10_Evendim)
@@ -312,7 +312,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 142
 							UI_Map_PixelOffsetY: 768
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 1
+							UI_Map_RegionID: 1 (Eriador)
 							UI_Map_Scale: 0.675
 					UI_Map_BlockOffsetX: 86
 					UI_Map_BlockOffsetY: 125
@@ -325,7 +325,7 @@ UI_Map_AreaData:
 					UI_Map_PixelOffsetX: 154
 					UI_Map_PixelOffsetY: 768
 					UI_Map_PixelWidth: 1024
-					UI_Map_RegionID: 1
+					UI_Map_RegionID: 1 (Eriador)
 					UI_Map_Scale: 0.16875
 				#9: 
 					UI_Map_ActiveElement: 268446977 (RegionMap_16_Dunland)
@@ -363,7 +363,7 @@ UI_Map_AreaData:
 									UI_Map_PixelOffsetX: 111
 									UI_Map_PixelOffsetY: 659
 									UI_Map_PixelWidth: 1024
-									UI_Map_RegionID: 1
+									UI_Map_RegionID: 1 (Eriador)
 									UI_Map_Scale: 1.425806
 								#2: 
 									UI_Map_ActiveElement: 268447169 (CityMap_Dunland_TalMathedras)
@@ -380,7 +380,7 @@ UI_Map_AreaData:
 									UI_Map_PixelOffsetX: 56
 									UI_Map_PixelOffsetY: 756
 									UI_Map_PixelWidth: 1024
-									UI_Map_RegionID: 1
+									UI_Map_RegionID: 1 (Eriador)
 									UI_Map_Scale: 0.56
 							UI_Map_BlockOffsetX: 149
 							UI_Map_BlockOffsetY: 42
@@ -393,7 +393,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 40
 							UI_Map_PixelOffsetY: 763
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 1
+							UI_Map_RegionID: 1 (Eriador)
 							UI_Map_Scale: 0.191
 						#2: 
 							UI_Map_ActiveElement: 268447051 (area_dunland_gap_rohan)
@@ -417,7 +417,7 @@ UI_Map_AreaData:
 									UI_Map_PixelOffsetX: 92
 									UI_Map_PixelOffsetY: 804
 									UI_Map_PixelWidth: 1024
-									UI_Map_RegionID: 1
+									UI_Map_RegionID: 1 (Eriador)
 									UI_Map_Scale: 1.2903225
 							UI_Map_BlockOffsetX: 159
 							UI_Map_BlockOffsetY: 42
@@ -430,7 +430,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 60
 							UI_Map_PixelOffsetY: 537
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 1
+							UI_Map_RegionID: 1 (Eriador)
 							UI_Map_Scale: 0.2580645
 						#3: 
 							UI_Map_ActiveElement: 268447045 (area_dunland_nan_curunir)
@@ -452,7 +452,7 @@ UI_Map_AreaData:
 									UI_Map_PixelOffsetX: 145
 									UI_Map_PixelOffsetY: 752
 									UI_Map_PixelWidth: 1024
-									UI_Map_RegionID: 1
+									UI_Map_RegionID: 1 (Eriador)
 									UI_Map_Scale: 0.6651
 								#2: 
 									UI_Map_ActiveElement: 268447022 (CityMap_Isengard_Depths)
@@ -469,7 +469,7 @@ UI_Map_AreaData:
 									UI_Map_PixelOffsetX: 53
 									UI_Map_PixelOffsetY: 857
 									UI_Map_PixelWidth: 1024
-									UI_Map_RegionID: 1
+									UI_Map_RegionID: 1 (Eriador)
 									UI_Map_Scale: 0.8251613
 								#3: 
 									UI_Map_ActiveElement: 268447023 (CityMap_Ring_of_Isengard)
@@ -486,7 +486,7 @@ UI_Map_AreaData:
 									UI_Map_PixelOffsetX: 145
 									UI_Map_PixelOffsetY: 752
 									UI_Map_PixelWidth: 1024
-									UI_Map_RegionID: 1
+									UI_Map_RegionID: 1 (Eriador)
 									UI_Map_Scale: 0.6651
 							UI_Map_BlockOffsetX: 175
 							UI_Map_BlockOffsetY: 48
@@ -499,7 +499,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 204
 							UI_Map_PixelOffsetY: 741
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 1
+							UI_Map_RegionID: 1 (Eriador)
 							UI_Map_Scale: 0.37419355
 					UI_Map_BlockOffsetX: 149
 					UI_Map_BlockOffsetY: 42
@@ -511,7 +511,7 @@ UI_Map_AreaData:
 					UI_Map_PixelOffsetX: 28
 					UI_Map_PixelOffsetY: 636
 					UI_Map_PixelWidth: 1024
-					UI_Map_RegionID: 1
+					UI_Map_RegionID: 1 (Eriador)
 					UI_Map_Scale: 0.1565
 				#10: 
 					UI_Map_ActiveElement: 268437653 (RegionMap_6_Breeland)
@@ -551,7 +551,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 95
 							UI_Map_PixelOffsetY: 768
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 1
+							UI_Map_RegionID: 1 (Eriador)
 							UI_Map_Scale: 0.75
 						#2: 
 							UI_Map_ActiveElement: 268437719 (CityMap_1_Archet)
@@ -572,7 +572,7 @@ UI_Map_AreaData:
 							UI_Map_QuestGuideBound_XMin: 0
 							UI_Map_QuestGuideBound_YMax: 800
 							UI_Map_QuestGuideBound_YMin: 0
-							UI_Map_RegionID: 1
+							UI_Map_RegionID: 1 (Eriador)
 							UI_Map_Scale: 0.9125
 						#3: 
 							UI_Map_ActiveElement: 268441569 (CityMap_OldForest)
@@ -589,7 +589,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 256
 							UI_Map_PixelOffsetY: 768
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 1
+							UI_Map_RegionID: 1 (Eriador)
 							UI_Map_Scale: 0.4
 						#4: 
 							UI_Map_ActiveElement: 268445611 (CityMap_Winter_Festival)
@@ -607,7 +607,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetY: 768
 							UI_Map_PixelWidth: 1024
 							UI_Map_PreventZoomOut: 1
-							UI_Map_RegionID: 1
+							UI_Map_RegionID: 1 (Eriador)
 							UI_Map_Scale: 1.071
 						#5: 
 							UI_Map_ActiveElement: 268445087 (CityMap_Barrowdowns_North)
@@ -624,7 +624,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 187
 							UI_Map_PixelOffsetY: 706
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 1
+							UI_Map_RegionID: 1 (Eriador)
 							UI_Map_Scale: 1.06
 						#6: 
 							UI_Map_ActiveElement: 268445092 (CityMap_Barrowdowns_South)
@@ -641,7 +641,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 238
 							UI_Map_PixelOffsetY: 792
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 1
+							UI_Map_RegionID: 1 (Eriador)
 							UI_Map_Scale: 0.88
 						#7: 
 							UI_Map_ActiveElement: 268440603 (Playerhousing_1_Breeland)
@@ -658,7 +658,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 155
 							UI_Map_PixelOffsetY: 768
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 1
+							UI_Map_RegionID: 1 (Eriador)
 							UI_Map_Scale: 0.948387
 					UI_Map_BlockOffsetX: 104
 					UI_Map_BlockOffsetY: 107
@@ -671,7 +671,7 @@ UI_Map_AreaData:
 					UI_Map_PixelOffsetX: 72
 					UI_Map_PixelOffsetY: 764
 					UI_Map_PixelWidth: 1024
-					UI_Map_RegionID: 1
+					UI_Map_RegionID: 1 (Eriador)
 					UI_Map_Scale: 0.18125
 				#11: 
 					UI_Map_ActiveElement: 268437678 (RegionMap_7_Shire)
@@ -706,7 +706,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 187
 							UI_Map_PixelOffsetY: 754
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 1
+							UI_Map_RegionID: 1 (Eriador)
 							UI_Map_Scale: 0.905
 					UI_Map_BlockOffsetX: 85
 					UI_Map_BlockOffsetY: 107
@@ -719,7 +719,7 @@ UI_Map_AreaData:
 					UI_Map_PixelOffsetX: 102
 					UI_Map_PixelOffsetY: 768
 					UI_Map_PixelWidth: 1024
-					UI_Map_RegionID: 1
+					UI_Map_RegionID: 1 (Eriador)
 					UI_Map_Scale: 0.24175
 				#12: 
 					UI_Map_ActiveElement: 268441431 (RegionMap_11_Forochel)
@@ -742,7 +742,7 @@ UI_Map_AreaData:
 					UI_Map_PixelOffsetX: 69
 					UI_Map_PixelOffsetY: 735
 					UI_Map_PixelWidth: 1024
-					UI_Map_RegionID: 1
+					UI_Map_RegionID: 1 (Eriador)
 					UI_Map_Scale: 0.12525
 				#13: 
 					UI_Map_ActiveElement: 268444443 (RegionMap_15_Enedwaith)
@@ -765,7 +765,7 @@ UI_Map_AreaData:
 					UI_Map_PixelOffsetX: 158
 					UI_Map_PixelOffsetY: 748
 					UI_Map_PixelWidth: 1024
-					UI_Map_RegionID: 1
+					UI_Map_RegionID: 1 (Eriador)
 					UI_Map_Scale: 0.165
 				#14: 
 					UI_Map_ActiveElement: 268442268 (RegionMap_12_Eregion)
@@ -796,7 +796,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 78
 							UI_Map_PixelOffsetY: 768
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 1
+							UI_Map_RegionID: 1 (Eriador)
 							UI_Map_Scale: 0.6967
 					UI_Map_BlockOffsetX: 158
 					UI_Map_BlockOffsetY: 83
@@ -809,7 +809,7 @@ UI_Map_AreaData:
 					UI_Map_PixelOffsetX: 115
 					UI_Map_PixelOffsetY: 768
 					UI_Map_PixelWidth: 1024
-					UI_Map_RegionID: 1
+					UI_Map_RegionID: 1 (Eriador)
 					UI_Map_Scale: 0.16875
 			UI_Map_BlockOffsetX: 0
 			UI_Map_BlockOffsetY: 48
@@ -828,7 +828,7 @@ UI_Map_AreaData:
 			UI_Map_QuestGuideBound_YMax: 0
 			UI_Map_QuestGuideBound_YMin: 0
 			UI_Map_QuestGuideDisabled: 1
-			UI_Map_RegionID: 1
+			UI_Map_RegionID: 1 (Eriador)
 			UI_Map_Scale: 0.03246
 		#2: 
 			UI_Map_ActiveElement: 268442224 (TerritoryMap_2)
@@ -859,7 +859,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: -30
 							UI_Map_PixelOffsetY: 768
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 2
+							UI_Map_RegionID: 2 (Rhovanion)
 							UI_Map_Scale: 0.95625
 						#2: 
 							UI_Map_ActiveElement: 268452663 (RegionMap_Erebor)
@@ -878,7 +878,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 0
 							UI_Map_PixelOffsetY: 768
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 2
+							UI_Map_RegionID: 2 (Rhovanion)
 							UI_Map_Scale: 0.95625
 					UI_Map_BlockOffsetX: 112
 					UI_Map_BlockOffsetY: 162
@@ -891,7 +891,7 @@ UI_Map_AreaData:
 					UI_Map_PixelOffsetX: -14
 					UI_Map_PixelOffsetY: 769
 					UI_Map_PixelWidth: 1024
-					UI_Map_RegionID: 2
+					UI_Map_RegionID: 2 (Rhovanion)
 					UI_Map_Scale: 0.11935
 				#2: 
 					UI_Map_ActiveElement: 268453023 (RegionMap_Vales_of_Anduin)
@@ -921,7 +921,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 204
 							UI_Map_PixelOffsetY: 768
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 2
+							UI_Map_RegionID: 2 (Rhovanion)
 							UI_Map_Scale: 0.9625
 					UI_Map_BlockOffsetX: 102
 					UI_Map_BlockOffsetY: 140
@@ -934,7 +934,7 @@ UI_Map_AreaData:
 					UI_Map_PixelOffsetX: 404
 					UI_Map_PixelOffsetY: 768
 					UI_Map_PixelWidth: 1024
-					UI_Map_RegionID: 2
+					UI_Map_RegionID: 2 (Rhovanion)
 					UI_Map_Scale: 0.125
 				#3: 
 					UI_Map_ActiveElement: 268453454 (area_anduin_wells_of_langflood)
@@ -954,7 +954,7 @@ UI_Map_AreaData:
 					UI_Map_PixelOffsetX: 255
 					UI_Map_PixelOffsetY: 698
 					UI_Map_PixelWidth: 1024
-					UI_Map_RegionID: 2
+					UI_Map_RegionID: 2 (Rhovanion)
 					UI_Map_Scale: 0.1875
 				#4: 
 					UI_Map_ActiveElement: 268452631 (RegionMap_EredMithrin_WitheredHeath)
@@ -978,7 +978,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 129
 							UI_Map_PixelOffsetY: 768
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 2
+							UI_Map_RegionID: 2 (Rhovanion)
 							UI_Map_Scale: 0.9625
 						#2: 
 							UI_Map_ActiveElement: 268452659 (RegionMap_Glimmerdeep)
@@ -995,7 +995,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 200
 							UI_Map_PixelOffsetY: 768
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 2
+							UI_Map_RegionID: 2 (Rhovanion)
 							UI_Map_Scale: 0.95625
 						#3: 
 							UI_Map_ActiveElement: 268452717 (RegionMap_Anvil)
@@ -1012,7 +1012,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 0
 							UI_Map_PixelOffsetY: 751
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 2
+							UI_Map_RegionID: 2 (Rhovanion)
 							UI_Map_Scale: 1.25
 					UI_Map_BlockOffsetX: 112
 					UI_Map_BlockOffsetY: 191
@@ -1025,7 +1025,7 @@ UI_Map_AreaData:
 					UI_Map_PixelOffsetX: -1
 					UI_Map_PixelOffsetY: 720
 					UI_Map_PixelWidth: 1024
-					UI_Map_RegionID: 2
+					UI_Map_RegionID: 2 (Rhovanion)
 					UI_Map_Scale: 0.2
 				#5: 
 					UI_Map_ActiveElement: 268452634 (RegionMap_IronHills)
@@ -1044,7 +1044,7 @@ UI_Map_AreaData:
 					UI_Map_PixelOffsetX: 2
 					UI_Map_PixelOffsetY: 749
 					UI_Map_PixelWidth: 1024
-					UI_Map_RegionID: 2
+					UI_Map_RegionID: 2 (Rhovanion)
 					UI_Map_Scale: 0.228125
 				#6: 
 					UI_Map_ActiveElement: 268443855 (RegionMap_Mirkwood)
@@ -1070,7 +1070,7 @@ UI_Map_AreaData:
 					UI_Map_PixelOffsetX: 34
 					UI_Map_PixelOffsetY: 638
 					UI_Map_PixelWidth: 1024
-					UI_Map_RegionID: 2
+					UI_Map_RegionID: 2 (Rhovanion)
 					UI_Map_Scale: 0.20625
 				#7: 
 					UI_Map_ActiveElement: 268452558 (RegionMap_Mirkwood_Dul_Guldur_Ruins)
@@ -1087,7 +1087,7 @@ UI_Map_AreaData:
 					UI_Map_PixelOffsetX: 2
 					UI_Map_PixelOffsetY: 909
 					UI_Map_PixelWidth: 1024
-					UI_Map_RegionID: 2
+					UI_Map_RegionID: 2 (Rhovanion)
 					UI_Map_Scale: 0.70625
 				#8: 
 					UI_Map_ActiveElement: 268442355 (RegionMap_14_Moria)
@@ -1108,7 +1108,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 184
 							UI_Map_PixelOffsetY: 768
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 2
+							UI_Map_RegionID: 2 (Rhovanion)
 							UI_Map_Scale: 0.675
 						#2: 
 							UI_Map_ActiveElement: 268442349 (Moria_area_moria_durins_way)
@@ -1126,7 +1126,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 0
 							UI_Map_PixelOffsetY: 561
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 2
+							UI_Map_RegionID: 2 (Rhovanion)
 							UI_Map_Scale: 0.32
 						#3: 
 							UI_Map_ActiveElement: 268442348 (Moria_area_moria_western_levels)
@@ -1143,7 +1143,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 0
 							UI_Map_PixelOffsetY: 606
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 2
+							UI_Map_RegionID: 2 (Rhovanion)
 							UI_Map_Scale: 0.71
 						#4: 
 							UI_Map_ActiveElement: 268442463 (Moria_area_moria_broken_stair)
@@ -1160,7 +1160,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 177
 							UI_Map_PixelOffsetY: 768
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 2
+							UI_Map_RegionID: 2 (Rhovanion)
 							UI_Map_Scale: 0.8125
 						#5: 
 							UI_Map_ActiveElement: 268442347 (Moria_area_moria_central_levels)
@@ -1178,7 +1178,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 245
 							UI_Map_PixelOffsetY: 768
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 2
+							UI_Map_RegionID: 2 (Rhovanion)
 							UI_Map_Scale: 0.38
 						#6: 
 							UI_Map_ActiveElement: 268442346 (Moria_area_moria_eastern_levels)
@@ -1195,7 +1195,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 0
 							UI_Map_PixelOffsetY: 768
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 2
+							UI_Map_RegionID: 2 (Rhovanion)
 							UI_Map_Scale: 0.45625
 						#7: 
 							UI_Map_ActiveElement: 268442345 (Moria_area_moria_western_deeps)
@@ -1212,7 +1212,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 181
 							UI_Map_PixelOffsetY: 768
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 2
+							UI_Map_RegionID: 2 (Rhovanion)
 							UI_Map_Scale: 0.71
 						#8: 
 							UI_Map_ActiveElement: 268442344 (Moria_area_moria_central_deeps)
@@ -1230,7 +1230,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 168
 							UI_Map_PixelOffsetY: 768
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 2
+							UI_Map_RegionID: 2 (Rhovanion)
 							UI_Map_Scale: 0.5375
 						#9: 
 							UI_Map_ActiveElement: 268442343 (Moria_area_moria_flooded_deeps)
@@ -1247,7 +1247,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 185
 							UI_Map_PixelOffsetY: 850
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 2
+							UI_Map_RegionID: 2 (Rhovanion)
 							UI_Map_Scale: 0.36875
 						#10: 
 							UI_Map_ActiveElement: 268442342 (Moria_area_moria_aflame_deeps)
@@ -1264,7 +1264,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 74
 							UI_Map_PixelOffsetY: 768
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 2
+							UI_Map_RegionID: 2 (Rhovanion)
 							UI_Map_Scale: 0.68125
 						#11: 
 							UI_Map_ActiveElement: 268442341 (Moria_area_moria_shadowy_abyss)
@@ -1282,7 +1282,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 0
 							UI_Map_PixelOffsetY: 768
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 2
+							UI_Map_RegionID: 2 (Rhovanion)
 							UI_Map_Scale: 0.6625
 					UI_Map_BlockOffsetX: 36
 					UI_Map_BlockOffsetY: 127
@@ -1295,7 +1295,7 @@ UI_Map_AreaData:
 					UI_Map_PixelOffsetX: 113
 					UI_Map_PixelOffsetY: 768
 					UI_Map_PixelWidth: 1024
-					UI_Map_RegionID: 2
+					UI_Map_RegionID: 2 (Rhovanion)
 					UI_Map_Scale: 0.15
 				#9: 
 					UI_Map_ActiveElement: 268442330 (RegionMap_13_Lothlorien)
@@ -1325,7 +1325,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 144
 							UI_Map_PixelOffsetY: 768
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 2
+							UI_Map_RegionID: 2 (Rhovanion)
 							UI_Map_Scale: 0.9
 					UI_Map_BlockOffsetX: 81
 					UI_Map_BlockOffsetY: 130
@@ -1338,7 +1338,7 @@ UI_Map_AreaData:
 					UI_Map_PixelOffsetX: 0
 					UI_Map_PixelOffsetY: 768
 					UI_Map_PixelWidth: 1024
-					UI_Map_RegionID: 2
+					UI_Map_RegionID: 2 (Rhovanion)
 					UI_Map_Scale: 0.24375
 				#10: 
 					UI_Map_ActiveElement: 268447390 (Region_Great_River)
@@ -1366,7 +1366,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 251
 							UI_Map_PixelOffsetY: 668
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 2
+							UI_Map_RegionID: 2 (Rhovanion)
 							UI_Map_Scale: 1.75
 					UI_Map_BlockOffsetX: 93
 					UI_Map_BlockOffsetY: 112
@@ -1379,7 +1379,7 @@ UI_Map_AreaData:
 					UI_Map_PixelOffsetX: 55
 					UI_Map_PixelOffsetY: 662
 					UI_Map_PixelWidth: 1024
-					UI_Map_RegionID: 2
+					UI_Map_RegionID: 2 (Rhovanion)
 					UI_Map_Scale: 0.188
 				#11: 
 					UI_Map_ActiveElement: 268449764 (Region_Rohan_West)
@@ -1405,7 +1405,7 @@ UI_Map_AreaData:
 									UI_Map_PixelOffsetX: 269
 									UI_Map_PixelOffsetY: 701
 									UI_Map_PixelWidth: 1024
-									UI_Map_RegionID: 2
+									UI_Map_RegionID: 2 (Rhovanion)
 									UI_Map_Scale: 0.645
 							UI_Map_BlockOffsetX: 88
 							UI_Map_BlockOffsetY: 63
@@ -1418,7 +1418,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 316
 							UI_Map_PixelOffsetY: 716
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 2
+							UI_Map_RegionID: 2 (Rhovanion)
 							UI_Map_Scale: 0.15483871
 						#2: 
 							UI_Map_ActiveElement: 268450628 (Area_Rohan_Entwood)
@@ -1435,7 +1435,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 63
 							UI_Map_PixelOffsetY: 815
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 2
+							UI_Map_RegionID: 2 (Rhovanion)
 							UI_Map_Scale: 0.516032
 						#3: 
 							UI_Map_ActiveElement: 268449749 (area_rohan_west_broadacres)
@@ -1452,7 +1452,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 208
 							UI_Map_PixelOffsetY: 694
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 2
+							UI_Map_RegionID: 2 (Rhovanion)
 							UI_Map_Scale: 0.32
 						#4: 
 							UI_Map_ActiveElement: 268449752 (area_rohan_west_eastfold)
@@ -1470,7 +1470,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 190
 							UI_Map_PixelOffsetY: 705
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 2
+							UI_Map_RegionID: 2 (Rhovanion)
 							UI_Map_Scale: 0.22580644
 						#5: 
 							UI_Map_ActiveElement: 268453444 (area_rohan_housing_foothills)
@@ -1487,7 +1487,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 136
 							UI_Map_PixelOffsetY: 768
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 2
+							UI_Map_RegionID: 2 (Rhovanion)
 							UI_Map_Scale: 0.6
 						#6: 
 							UI_Map_ActiveElement: 268453445 (area_rohan_housing_plains)
@@ -1504,7 +1504,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 127
 							UI_Map_PixelOffsetY: 768
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 2
+							UI_Map_RegionID: 2 (Rhovanion)
 							UI_Map_Scale: 0.6875
 						#7: 
 							UI_Map_ActiveElement: 268449755 (area_rohan_west_stonedeans)
@@ -1521,7 +1521,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 198
 							UI_Map_PixelOffsetY: 696
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 2
+							UI_Map_RegionID: 2 (Rhovanion)
 							UI_Map_Scale: 0.25
 						#8: 
 							UI_Map_ActiveElement: 268449767 (area_rohan_west_helms_deep)
@@ -1542,7 +1542,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 300
 							UI_Map_PixelOffsetY: 671
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 2
+							UI_Map_RegionID: 2 (Rhovanion)
 							UI_Map_Scale: 0.59354836
 						#9: 
 							UI_Map_ActiveElement: 268450268 (area_rohan_west_helms_deep_copy_1)
@@ -1559,7 +1559,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 300
 							UI_Map_PixelOffsetY: 671
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 2
+							UI_Map_RegionID: 2 (Rhovanion)
 							UI_Map_Scale: 0.59354836
 						#10: 
 							UI_Map_ActiveElement: 268450269 (area_rohan_west_helms_deep_copy_2)
@@ -1576,7 +1576,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 300
 							UI_Map_PixelOffsetY: 671
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 2
+							UI_Map_RegionID: 2 (Rhovanion)
 							UI_Map_Scale: 0.59354836
 						#11: 
 							UI_Map_ActiveElement: 268450270 (area_rohan_west_helms_deep_copy_3)
@@ -1593,7 +1593,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 300
 							UI_Map_PixelOffsetY: 671
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 2
+							UI_Map_RegionID: 2 (Rhovanion)
 							UI_Map_Scale: 0.59354836
 						#12: 
 							UI_Map_ActiveElement: 268450271 (area_rohan_west_helms_deep_copy_4)
@@ -1610,7 +1610,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 300
 							UI_Map_PixelOffsetY: 671
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 2
+							UI_Map_RegionID: 2 (Rhovanion)
 							UI_Map_Scale: 0.59354836
 						#13: 
 							UI_Map_ActiveElement: 268450272 (area_rohan_west_helms_deep_copy_5)
@@ -1627,7 +1627,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 300
 							UI_Map_PixelOffsetY: 671
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 2
+							UI_Map_RegionID: 2 (Rhovanion)
 							UI_Map_Scale: 0.59354836
 						#14: 
 							UI_Map_ActiveElement: 268450273 (area_rohan_west_helms_deep_copy_6)
@@ -1644,7 +1644,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 300
 							UI_Map_PixelOffsetY: 671
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 2
+							UI_Map_RegionID: 2 (Rhovanion)
 							UI_Map_Scale: 0.59354836
 						#15: 
 							UI_Map_ActiveElement: 268450274 (area_rohan_west_helms_deep_copy_7)
@@ -1661,7 +1661,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 300
 							UI_Map_PixelOffsetY: 671
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 2
+							UI_Map_RegionID: 2 (Rhovanion)
 							UI_Map_Scale: 0.59354836
 						#16: 
 							UI_Map_ActiveElement: 268449758 (area_rohan_west_westfold)
@@ -1678,7 +1678,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 171
 							UI_Map_PixelOffsetY: 716
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 2
+							UI_Map_RegionID: 2 (Rhovanion)
 							UI_Map_Scale: 0.21875
 						#17: 
 							UI_Map_ActiveElement: 268450642 (area_dunland_nan_curunir_flooded)
@@ -1701,7 +1701,7 @@ UI_Map_AreaData:
 									UI_Map_PixelOffsetX: 54
 									UI_Map_PixelOffsetY: 565
 									UI_Map_PixelWidth: 1024
-									UI_Map_RegionID: 1
+									UI_Map_RegionID: 1 (Eriador)
 									UI_Map_Scale: 0.8251613
 							UI_Map_BlockOffsetX: 66
 							UI_Map_BlockOffsetY: 90
@@ -1714,7 +1714,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 216
 							UI_Map_PixelOffsetY: 727
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 2
+							UI_Map_RegionID: 2 (Rhovanion)
 							UI_Map_Scale: 0.36774194
 					UI_Map_BlockOffsetX: 70
 					UI_Map_BlockOffsetY: 61
@@ -1727,7 +1727,7 @@ UI_Map_AreaData:
 					UI_Map_PixelOffsetX: 130
 					UI_Map_PixelOffsetY: 700
 					UI_Map_PixelWidth: 1024
-					UI_Map_RegionID: 2
+					UI_Map_RegionID: 2 (Rhovanion)
 					UI_Map_Scale: 0.0981
 				#12: 
 					UI_Map_ActiveElement: 268448107 (Region_Rohan_East)
@@ -1755,7 +1755,7 @@ UI_Map_AreaData:
 									UI_Map_PixelOffsetX: 89
 									UI_Map_PixelOffsetY: 864
 									UI_Map_PixelWidth: 1024
-									UI_Map_RegionID: 2
+									UI_Map_RegionID: 2 (Rhovanion)
 									UI_Map_Scale: 1.2516129
 							UI_Map_BlockOffsetX: 110
 							UI_Map_BlockOffsetY: 96
@@ -1768,7 +1768,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 224
 							UI_Map_PixelOffsetY: 719
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 2
+							UI_Map_RegionID: 2 (Rhovanion)
 							UI_Map_Scale: 0.206
 						#2: 
 							UI_Map_ActiveElement: 268448416 (area_rohan_east_east_wall)
@@ -1787,7 +1787,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 210
 							UI_Map_PixelOffsetY: 735
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 2
+							UI_Map_RegionID: 2 (Rhovanion)
 							UI_Map_Scale: 0.215
 						#3: 
 							UI_Map_ActiveElement: 268448413 (area_rohan_east_entwash_vale)
@@ -1806,7 +1806,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 134
 							UI_Map_PixelOffsetY: 778
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 2
+							UI_Map_RegionID: 2 (Rhovanion)
 							UI_Map_Scale: 0.245
 						#4: 
 							UI_Map_ActiveElement: 268448410 (area_rohan_east_eaves_of_fangorn)
@@ -1823,7 +1823,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 45
 							UI_Map_PixelOffsetY: 835
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 2
+							UI_Map_RegionID: 2 (Rhovanion)
 							UI_Map_Scale: 0.385
 						#5: 
 							UI_Map_ActiveElement: 268449335 (area_wildermore)
@@ -1849,7 +1849,7 @@ UI_Map_AreaData:
 									UI_Map_PixelOffsetX: 160
 									UI_Map_PixelOffsetY: 723
 									UI_Map_PixelWidth: 1024
-									UI_Map_RegionID: 2
+									UI_Map_RegionID: 2 (Rhovanion)
 									UI_Map_Scale: 1.6774194
 							UI_Map_BlockOffsetX: 89
 							UI_Map_BlockOffsetY: 99
@@ -1862,7 +1862,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 81
 							UI_Map_PixelOffsetY: 702
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 2
+							UI_Map_RegionID: 2 (Rhovanion)
 							UI_Map_Scale: 0.1935484
 						#6: 
 							UI_Map_ActiveElement: 268448419 (area_rohan_east_norcrofts)
@@ -1882,7 +1882,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 272
 							UI_Map_PixelOffsetY: 799
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 2
+							UI_Map_RegionID: 2 (Rhovanion)
 							UI_Map_Scale: 0.2355
 						#7: 
 							UI_Map_ActiveElement: 268448422 (area_rohan_east_sutcrofts)
@@ -1907,7 +1907,7 @@ UI_Map_AreaData:
 									UI_Map_PixelOffsetX: 35
 									UI_Map_PixelOffsetY: 980
 									UI_Map_PixelWidth: 1024
-									UI_Map_RegionID: 2
+									UI_Map_RegionID: 2 (Rhovanion)
 									UI_Map_Scale: 1.4967742
 							UI_Map_BlockOffsetX: 101
 							UI_Map_BlockOffsetY: 73
@@ -1920,7 +1920,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 200
 							UI_Map_PixelOffsetY: 703
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 2
+							UI_Map_RegionID: 2 (Rhovanion)
 							UI_Map_Scale: 0.258
 					UI_Map_BlockOffsetX: 88
 					UI_Map_BlockOffsetY: 78
@@ -1933,7 +1933,7 @@ UI_Map_AreaData:
 					UI_Map_PixelOffsetX: 27
 					UI_Map_PixelOffsetY: 680
 					UI_Map_PixelWidth: 1024
-					UI_Map_RegionID: 2
+					UI_Map_RegionID: 2 (Rhovanion)
 					UI_Map_Scale: 0.1195
 			UI_Map_BlockOffsetX: 0
 			UI_Map_BlockOffsetY: 48
@@ -1952,7 +1952,7 @@ UI_Map_AreaData:
 			UI_Map_QuestGuideBound_YMax: 0
 			UI_Map_QuestGuideBound_YMin: 0
 			UI_Map_QuestGuideDisabled: 1
-			UI_Map_RegionID: 2
+			UI_Map_RegionID: 2 (Rhovanion)
 			UI_Map_Scale: 0.03
 		#3: 
 			UI_Map_ActiveElement: 268450723 (TerritoryMap_3)
@@ -1980,7 +1980,7 @@ UI_Map_AreaData:
 									UI_Map_PixelOffsetX: -21
 									UI_Map_PixelOffsetY: 776
 									UI_Map_PixelWidth: 1024
-									UI_Map_RegionID: 3
+									UI_Map_RegionID: 3 (Gondor)
 									UI_Map_Scale: 0.2625
 							UI_Map_BlockOffsetX: 86
 							UI_Map_BlockOffsetY: 37
@@ -1993,7 +1993,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 30
 							UI_Map_PixelOffsetY: 696
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 3
+							UI_Map_RegionID: 3 (Gondor)
 							UI_Map_Scale: 0.19
 						#2: 
 							UI_Map_ActiveElement: 268450778 (area_gondor_havens_of_belfalas)
@@ -2015,7 +2015,7 @@ UI_Map_AreaData:
 									UI_Map_PixelOffsetX: 68
 									UI_Map_PixelOffsetY: 1145
 									UI_Map_PixelWidth: 1024
-									UI_Map_RegionID: 3
+									UI_Map_RegionID: 3 (Gondor)
 									UI_Map_Scale: 0.793
 								#2: 
 									UI_Map_ActiveElement: 268450803 (area_gondor_dol_amroth_copy)
@@ -2031,7 +2031,7 @@ UI_Map_AreaData:
 									UI_Map_PixelOffsetX: 68
 									UI_Map_PixelOffsetY: 1145
 									UI_Map_PixelWidth: 1024
-									UI_Map_RegionID: 3
+									UI_Map_RegionID: 3 (Gondor)
 									UI_Map_Scale: 0.793
 							UI_Map_BlockOffsetX: 78
 							UI_Map_BlockOffsetY: 51
@@ -2044,7 +2044,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 0
 							UI_Map_PixelOffsetY: 626
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 3
+							UI_Map_RegionID: 3 (Gondor)
 							UI_Map_Scale: 0.1875
 						#3: 
 							UI_Map_ActiveElement: 268450757 (area_paths_of_the_dead)
@@ -2061,7 +2061,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 47
 							UI_Map_PixelOffsetY: 765
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 3
+							UI_Map_RegionID: 3 (Gondor)
 							UI_Map_Scale: 0.8
 						#4: 
 							UI_Map_ActiveElement: 268450788 (area_gondor_blackroot_vale)
@@ -2080,7 +2080,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 407
 							UI_Map_PixelOffsetY: 743
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 3
+							UI_Map_RegionID: 3 (Gondor)
 							UI_Map_Scale: 0.1875
 						#5: 
 							UI_Map_ActiveElement: 268450793 (area_gondor_lamedon)
@@ -2097,7 +2097,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 348
 							UI_Map_PixelOffsetY: 738
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 3
+							UI_Map_RegionID: 3 (Gondor)
 							UI_Map_Scale: 0.235
 					UI_Map_BlockOffsetX: 82
 					UI_Map_BlockOffsetY: 57
@@ -2110,7 +2110,7 @@ UI_Map_AreaData:
 					UI_Map_PixelOffsetX: 215
 					UI_Map_PixelOffsetY: 672
 					UI_Map_PixelWidth: 1024
-					UI_Map_RegionID: 3
+					UI_Map_RegionID: 3 (Gondor)
 					UI_Map_Scale: 0.11875
 				#2: 
 					UI_Map_ActiveElement: 268450864 (area_wastes_dead_marshes)
@@ -2127,7 +2127,7 @@ UI_Map_AreaData:
 					UI_Map_PixelOffsetX: 78
 					UI_Map_PixelOffsetY: 633
 					UI_Map_PixelWidth: 1024
-					UI_Map_RegionID: 3
+					UI_Map_RegionID: 3 (Gondor)
 					UI_Map_Scale: 0.55
 				#3: 
 					UI_Map_ActiveElement: 268450882 (RegionMap_Gondor_Central)
@@ -2147,7 +2147,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 263
 							UI_Map_PixelOffsetY: 885
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 3
+							UI_Map_RegionID: 3 (Gondor)
 							UI_Map_Scale: 0.3
 						#2: 
 							UI_Map_ActiveElement: 268450890 (area_gondor_central_lebennin)
@@ -2169,7 +2169,7 @@ UI_Map_AreaData:
 									UI_Map_PixelOffsetX: 165
 									UI_Map_PixelOffsetY: 855
 									UI_Map_PixelWidth: 1024
-									UI_Map_RegionID: 3
+									UI_Map_RegionID: 3 (Gondor)
 									UI_Map_Scale: 0.7375
 								#2: 
 									UI_Map_ActiveElement: 268450899 (area_gondor_central_pelargir_epicbattle)
@@ -2185,7 +2185,7 @@ UI_Map_AreaData:
 									UI_Map_PixelOffsetX: 282
 									UI_Map_PixelOffsetY: 380
 									UI_Map_PixelWidth: 1024
-									UI_Map_RegionID: 3
+									UI_Map_RegionID: 3 (Gondor)
 									UI_Map_Scale: 0.7375
 							UI_Map_BlockOffsetX: 124
 							UI_Map_BlockOffsetY: 44
@@ -2198,7 +2198,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 35
 							UI_Map_PixelOffsetY: 815
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 3
+							UI_Map_RegionID: 3 (Gondor)
 							UI_Map_Scale: 0.284375
 						#3: 
 							UI_Map_ActiveElement: 268450894 (area_gondor_central_ringlo_vale)
@@ -2215,7 +2215,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 246
 							UI_Map_PixelOffsetY: 838
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 3
+							UI_Map_RegionID: 3 (Gondor)
 							UI_Map_Scale: 0.40625
 					UI_Map_BlockOffsetX: 115
 					UI_Map_BlockOffsetY: 43
@@ -2228,7 +2228,7 @@ UI_Map_AreaData:
 					UI_Map_PixelOffsetX: 152
 					UI_Map_PixelOffsetY: 732
 					UI_Map_PixelWidth: 1024
-					UI_Map_RegionID: 3
+					UI_Map_RegionID: 3 (Gondor)
 					UI_Map_Scale: 0.15625
 				#4: 
 					UI_Map_ActiveElement: 268450932 (RegionMap_Gondor_East)
@@ -2248,7 +2248,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 281
 							UI_Map_PixelOffsetY: 873
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 3
+							UI_Map_RegionID: 3 (Gondor)
 							UI_Map_Scale: 0.3375
 						#2: 
 							UI_Map_ActiveElement: 268450942 (area_gondor_east_lossarnach)
@@ -2265,7 +2265,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 314
 							UI_Map_PixelOffsetY: 890
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 3
+							UI_Map_RegionID: 3 (Gondor)
 							UI_Map_Scale: 0.3
 						#3: 
 							UI_Map_ActiveElement: 268450944 (area_gondor_east_south_ithilien)
@@ -2287,7 +2287,7 @@ UI_Map_AreaData:
 									UI_Map_PixelOffsetX: 31
 									UI_Map_PixelOffsetY: 771
 									UI_Map_PixelWidth: 1024
-									UI_Map_RegionID: 3
+									UI_Map_RegionID: 3 (Gondor)
 									UI_Map_Scale: 0.53125
 								#2: 
 									UI_Map_ActiveElement: 268451023 (area_gondor_east_osgiliath_instance)
@@ -2303,7 +2303,7 @@ UI_Map_AreaData:
 									UI_Map_PixelOffsetX: 540
 									UI_Map_PixelOffsetY: 427
 									UI_Map_PixelWidth: 1024
-									UI_Map_RegionID: 3
+									UI_Map_RegionID: 3 (Gondor)
 									UI_Map_Scale: 0.53125
 								#3: 
 									UI_Map_ActiveElement: 268451074 (area_gondor_east_osgiliath_pvp)
@@ -2321,7 +2321,7 @@ UI_Map_AreaData:
 									UI_Map_PixelOffsetX: 31
 									UI_Map_PixelOffsetY: 513
 									UI_Map_PixelWidth: 1024
-									UI_Map_RegionID: 3
+									UI_Map_RegionID: 3 (Gondor)
 									UI_Map_Scale: 0.53125
 							UI_Map_BlockOffsetX: 157
 							UI_Map_BlockOffsetY: 55
@@ -2334,7 +2334,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 205
 							UI_Map_PixelOffsetY: 779
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 3
+							UI_Map_RegionID: 3 (Gondor)
 							UI_Map_Scale: 0.19375
 					UI_Map_BlockOffsetX: 142
 					UI_Map_BlockOffsetY: 47
@@ -2347,7 +2347,7 @@ UI_Map_AreaData:
 					UI_Map_PixelOffsetX: 87
 					UI_Map_PixelOffsetY: 762
 					UI_Map_PixelWidth: 1024
-					UI_Map_RegionID: 3
+					UI_Map_RegionID: 3 (Gondor)
 					UI_Map_Scale: 0.1375
 				#5: 
 					UI_Map_ActiveElement: 268451115 (region_gondor_old_anorien)
@@ -2372,7 +2372,7 @@ UI_Map_AreaData:
 									UI_Map_PixelOffsetX: 58
 									UI_Map_PixelOffsetY: 793
 									UI_Map_PixelWidth: 1024
-									UI_Map_RegionID: 3
+									UI_Map_RegionID: 3 (Gondor)
 									UI_Map_Scale: 0.5625
 								#2: 
 									UI_Map_ActiveElement: 268451154 (area_gondor_old_anorien_minas_tirith_epicbattle)
@@ -2388,7 +2388,7 @@ UI_Map_AreaData:
 									UI_Map_PixelOffsetX: 56
 									UI_Map_PixelOffsetY: 339
 									UI_Map_PixelWidth: 1024
-									UI_Map_RegionID: 3
+									UI_Map_RegionID: 3 (Gondor)
 									UI_Map_Scale: 0.5625
 								#3: 
 									UI_Map_ActiveElement: 268451156 (area_gondor_old_anorien_minas_tirith_epicbook)
@@ -2404,7 +2404,7 @@ UI_Map_AreaData:
 									UI_Map_PixelOffsetX: 239
 									UI_Map_PixelOffsetY: 699
 									UI_Map_PixelWidth: 1024
-									UI_Map_RegionID: 3
+									UI_Map_RegionID: 3 (Gondor)
 									UI_Map_Scale: 0.5625
 								#4: 
 									UI_Map_ActiveElement: 268453492 (area_gondor_old_anorien_minas_tirith_midsummer)
@@ -2421,7 +2421,7 @@ UI_Map_AreaData:
 									UI_Map_PixelOffsetX: 229
 									UI_Map_PixelOffsetY: 690
 									UI_Map_PixelWidth: 1024
-									UI_Map_RegionID: 4
+									UI_Map_RegionID: 4 (PostPelennor)
 									UI_Map_Scale: 0.475
 							UI_Map_BlockOffsetX: 156
 							UI_Map_BlockOffsetY: 64
@@ -2434,7 +2434,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 298
 							UI_Map_PixelOffsetY: 764
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 3
+							UI_Map_RegionID: 3 (Gondor)
 							UI_Map_Scale: 0.25625
 						#2: 
 							UI_Map_ActiveElement: 268452359 (area_gondor_north_ithilien_cormallen)
@@ -2451,7 +2451,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: -6
 							UI_Map_PixelOffsetY: 772
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 3
+							UI_Map_RegionID: 3 (Gondor)
 							UI_Map_Scale: 0.1375
 						#3: 
 							UI_Map_ActiveElement: 268451286 (area_gondor_far_anorien_pelennor_hub_1)
@@ -2467,7 +2467,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 298
 							UI_Map_PixelOffsetY: 721
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 3
+							UI_Map_RegionID: 3 (Gondor)
 							UI_Map_Scale: 0.25625
 						#4: 
 							UI_Map_ActiveElement: 268451289 (area_gondor_far_anorien_pelennor_hub_2)
@@ -2483,7 +2483,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 298
 							UI_Map_PixelOffsetY: 721
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 3
+							UI_Map_RegionID: 3 (Gondor)
 							UI_Map_Scale: 0.25625
 						#5: 
 							UI_Map_ActiveElement: 268451290 (area_gondor_far_anorien_pelennor_hub_3)
@@ -2499,7 +2499,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 298
 							UI_Map_PixelOffsetY: 721
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 3
+							UI_Map_RegionID: 3 (Gondor)
 							UI_Map_Scale: 0.25625
 						#6: 
 							UI_Map_ActiveElement: 268451291 (area_gondor_far_anorien_pelennor_hub_4)
@@ -2515,7 +2515,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 298
 							UI_Map_PixelOffsetY: 721
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 3
+							UI_Map_RegionID: 3 (Gondor)
 							UI_Map_Scale: 0.25625
 						#7: 
 							UI_Map_ActiveElement: 268451292 (area_gondor_far_anorien_pelennor_hub_5)
@@ -2531,7 +2531,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 298
 							UI_Map_PixelOffsetY: 721
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 3
+							UI_Map_RegionID: 3 (Gondor)
 							UI_Map_Scale: 0.25625
 						#8: 
 							UI_Map_ActiveElement: 268451575 (raid_gondor_far_anorien_pelennor)
@@ -2547,7 +2547,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: -27
 							UI_Map_PixelOffsetY: 774
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 3
+							UI_Map_RegionID: 3 (Gondor)
 							UI_Map_Scale: 0.78125
 						#9: 
 							UI_Map_ActiveElement: 268451113 (area_gondor_old_anorien_talath_anor)
@@ -2564,7 +2564,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 154
 							UI_Map_PixelOffsetY: 750
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 3
+							UI_Map_RegionID: 3 (Gondor)
 							UI_Map_Scale: 0.21875
 					UI_Map_BlockOffsetX: 154
 					UI_Map_BlockOffsetY: 66
@@ -2577,7 +2577,7 @@ UI_Map_AreaData:
 					UI_Map_PixelOffsetX: 272
 					UI_Map_PixelOffsetY: 710
 					UI_Map_PixelWidth: 1024
-					UI_Map_RegionID: 3
+					UI_Map_RegionID: 3 (Gondor)
 					UI_Map_Scale: 0.13125
 				#6: 
 					UI_Map_ActiveElement: 268451272 (region_gondor_far_anorien)
@@ -2597,7 +2597,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 72
 							UI_Map_PixelOffsetY: 756
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 3
+							UI_Map_RegionID: 3 (Gondor)
 							UI_Map_Scale: 0.24375
 						#2: 
 							UI_Map_ActiveElement: 268451270 (area_gondor_far_anorien_beacon_hills)
@@ -2614,7 +2614,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 118
 							UI_Map_PixelOffsetY: 749
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 3
+							UI_Map_RegionID: 3 (Gondor)
 							UI_Map_Scale: 0.20625
 					UI_Map_BlockOffsetX: 124
 					UI_Map_BlockOffsetY: 83
@@ -2627,7 +2627,7 @@ UI_Map_AreaData:
 					UI_Map_PixelOffsetX: 85
 					UI_Map_PixelOffsetY: 765
 					UI_Map_PixelWidth: 1024
-					UI_Map_RegionID: 3
+					UI_Map_RegionID: 3 (Gondor)
 					UI_Map_Scale: 0.15
 				#7: 
 					UI_Map_ActiveElement: 268451976 (area_the_wastes_morannon_battle)
@@ -2643,7 +2643,7 @@ UI_Map_AreaData:
 					UI_Map_PixelOffsetX: -21
 					UI_Map_PixelOffsetY: 864
 					UI_Map_PixelWidth: 1024
-					UI_Map_RegionID: 3
+					UI_Map_RegionID: 3 (Gondor)
 					UI_Map_Scale: 0.45
 			UI_Map_BlockOffsetX: 0
 			UI_Map_BlockOffsetY: 48
@@ -2662,7 +2662,7 @@ UI_Map_AreaData:
 			UI_Map_QuestGuideBound_YMax: 0
 			UI_Map_QuestGuideBound_YMin: 0
 			UI_Map_QuestGuideDisabled: 1
-			UI_Map_RegionID: 3
+			UI_Map_RegionID: 3 (Gondor)
 			UI_Map_Scale: 0.03644
 		#4: 
 			UI_Map_ActiveElement: 268451777 (TerritoryMap_4)
@@ -2696,7 +2696,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 65
 							UI_Map_PixelOffsetY: 765
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 4
+							UI_Map_RegionID: 4 (PostPelennor)
 							UI_Map_Scale: 0.2375
 						#2: 
 							UI_Map_ActiveElement: 268453364 (area_mordor_morgul_vale)
@@ -2728,7 +2728,7 @@ UI_Map_AreaData:
 									UI_Map_PixelOffsetX: 23
 									UI_Map_PixelOffsetY: 768
 									UI_Map_PixelWidth: 1024
-									UI_Map_RegionID: 4
+									UI_Map_RegionID: 4 (PostPelennor)
 									UI_Map_Scale: 0.70625
 								#2: 
 									UI_Map_ActiveElement: 268453399 (area_torech_ungol)
@@ -2745,7 +2745,7 @@ UI_Map_AreaData:
 									UI_Map_PixelOffsetX: 117
 									UI_Map_PixelOffsetY: 717
 									UI_Map_PixelWidth: 1024
-									UI_Map_RegionID: 4
+									UI_Map_RegionID: 4 (PostPelennor)
 									UI_Map_Scale: 0.6
 								#3: 
 									UI_Map_ActiveElement: 268453438 (area_shelobs_lair)
@@ -2762,7 +2762,7 @@ UI_Map_AreaData:
 									UI_Map_PixelOffsetX: 458
 									UI_Map_PixelOffsetY: 768
 									UI_Map_PixelWidth: 1024
-									UI_Map_RegionID: 4
+									UI_Map_RegionID: 4 (PostPelennor)
 									UI_Map_Scale: 0.30625
 							UI_Map_BlockOffsetX: 176
 							UI_Map_BlockOffsetY: 59
@@ -2775,7 +2775,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 231
 							UI_Map_PixelOffsetY: 741
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 4
+							UI_Map_RegionID: 4 (PostPelennor)
 							UI_Map_Scale: 0.178125
 						#3: 
 							UI_Map_ActiveElement: 268452250 (area_mordor_north_dor_amarth)
@@ -2799,7 +2799,7 @@ UI_Map_AreaData:
 									UI_Map_PixelOffsetX: 0
 									UI_Map_PixelOffsetY: 673
 									UI_Map_PixelWidth: 1024
-									UI_Map_RegionID: 4
+									UI_Map_RegionID: 4 (PostPelennor)
 									UI_Map_Scale: 0.225
 							UI_Map_BlockOffsetX: 190
 							UI_Map_BlockOffsetY: 85
@@ -2812,7 +2812,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: -32
 							UI_Map_PixelOffsetY: 845
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 4
+							UI_Map_RegionID: 4 (PostPelennor)
 							UI_Map_Scale: 0.21875
 						#4: 
 							UI_Map_ActiveElement: 268452251 (area_mordor_north_lhingris)
@@ -2830,7 +2830,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: -94
 							UI_Map_PixelOffsetY: 790
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 4
+							UI_Map_RegionID: 4 (PostPelennor)
 							UI_Map_Scale: 0.175
 						#5: 
 							UI_Map_ActiveElement: 268452252 (area_mordor_north_orodruin)
@@ -2853,7 +2853,7 @@ UI_Map_AreaData:
 									UI_Map_PixelOffsetX: 2
 									UI_Map_PixelOffsetY: 898
 									UI_Map_PixelWidth: 1024
-									UI_Map_RegionID: 4
+									UI_Map_RegionID: 4 (PostPelennor)
 									UI_Map_Scale: 1.06875
 							UI_Map_BlockOffsetX: 197
 							UI_Map_BlockOffsetY: 83
@@ -2866,7 +2866,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: -15
 							UI_Map_PixelOffsetY: 781
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 4
+							UI_Map_RegionID: 4 (PostPelennor)
 							UI_Map_Scale: 0.3125
 						#6: 
 							UI_Map_ActiveElement: 268452253 (area_mordor_north_talath_urui)
@@ -2888,7 +2888,7 @@ UI_Map_AreaData:
 									UI_Map_PixelOffsetX: -56
 									UI_Map_PixelOffsetY: 791
 									UI_Map_PixelWidth: 1024
-									UI_Map_RegionID: 4
+									UI_Map_RegionID: 4 (PostPelennor)
 									UI_Map_Scale: 0.84375
 							UI_Map_BlockOffsetX: 191
 							UI_Map_BlockOffsetY: 71
@@ -2901,7 +2901,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: -30
 							UI_Map_PixelOffsetY: 837
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 4
+							UI_Map_RegionID: 4 (PostPelennor)
 							UI_Map_Scale: 0.2125
 						#7: 
 							UI_Map_ActiveElement: 268452254 (area_mordor_north_udun)
@@ -2918,7 +2918,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: -4
 							UI_Map_PixelOffsetY: 780
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 4
+							UI_Map_RegionID: 4 (PostPelennor)
 							UI_Map_Scale: 0.3125
 					UI_Map_BlockOffsetX: 176
 					UI_Map_BlockOffsetY: 68
@@ -2931,7 +2931,7 @@ UI_Map_AreaData:
 					UI_Map_PixelOffsetX: 0
 					UI_Map_PixelOffsetY: 780
 					UI_Map_PixelWidth: 1024
-					UI_Map_RegionID: 4
+					UI_Map_RegionID: 4 (PostPelennor)
 					UI_Map_Scale: 0.1125
 				#2: 
 					UI_Map_ActiveElement: 268451973 (area_the_wastes)
@@ -2956,7 +2956,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: -23
 							UI_Map_PixelOffsetY: 808
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 4
+							UI_Map_RegionID: 4 (PostPelennor)
 							UI_Map_Scale: 0.33125
 					UI_Map_BlockOffsetX: 165
 					UI_Map_BlockOffsetY: 103
@@ -2969,7 +2969,7 @@ UI_Map_AreaData:
 					UI_Map_PixelOffsetX: 112
 					UI_Map_PixelOffsetY: 793
 					UI_Map_PixelWidth: 1024
-					UI_Map_RegionID: 4
+					UI_Map_RegionID: 4 (PostPelennor)
 					UI_Map_Scale: 0.25
 				#3: 
 					UI_Map_ActiveElement: 268451796 (region_march_of_the_king)
@@ -2989,7 +2989,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 58
 							UI_Map_PixelOffsetY: 793
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 4
+							UI_Map_RegionID: 4 (PostPelennor)
 							UI_Map_Scale: 0.5625
 						#2: 
 							UI_Map_ActiveElement: 268451784 (area_mountains_shadow_north_ithilien)
@@ -3006,7 +3006,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 143
 							UI_Map_PixelOffsetY: 770
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 4
+							UI_Map_RegionID: 4 (PostPelennor)
 							UI_Map_Scale: 0.1375
 						#3: 
 							UI_Map_ActiveElement: 268451785 (area_mountains_shadow_osgiliath)
@@ -3023,7 +3023,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 0
 							UI_Map_PixelOffsetY: 881
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 4
+							UI_Map_RegionID: 4 (PostPelennor)
 							UI_Map_Scale: 0.68125
 						#4: 
 							UI_Map_ActiveElement: 268451786 (area_mountains_shadow_pelennor)
@@ -3040,7 +3040,7 @@ UI_Map_AreaData:
 							UI_Map_PixelOffsetX: 157
 							UI_Map_PixelOffsetY: 777
 							UI_Map_PixelWidth: 1024
-							UI_Map_RegionID: 4
+							UI_Map_RegionID: 4 (PostPelennor)
 							UI_Map_Scale: 0.20825
 					UI_Map_BlockOffsetX: 154
 					UI_Map_BlockOffsetY: 66
@@ -3053,7 +3053,7 @@ UI_Map_AreaData:
 					UI_Map_PixelOffsetX: 266
 					UI_Map_PixelOffsetY: 759
 					UI_Map_PixelWidth: 1024
-					UI_Map_RegionID: 4
+					UI_Map_RegionID: 4 (PostPelennor)
 					UI_Map_Scale: 0.11875
 			UI_Map_BlockOffsetX: 0
 			UI_Map_BlockOffsetY: 48
@@ -3072,7 +3072,7 @@ UI_Map_AreaData:
 			UI_Map_QuestGuideBound_YMax: 0
 			UI_Map_QuestGuideBound_YMin: 0
 			UI_Map_QuestGuideDisabled: 1
-			UI_Map_RegionID: 4
+			UI_Map_RegionID: 4 (PostPelennor)
 			UI_Map_Scale: 0.03644
 	UI_Map_BlockOffsetX: 12
 	UI_Map_BlockOffsetY: 60
