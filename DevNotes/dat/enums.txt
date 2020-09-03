@@ -63399,6 +63399,7 @@ GameUI [ UI_StablesCollection_TravelNPC [ entity/npc/npc_travel/npc_travel_gondo
 	268453503 => QuestDispenserTwistScrollableField
 	268453504 => QuestDispenserTwistList
 	268453505 => RootQuest_Mission_Twist_Label
+	268453506 => BaseHousingInfo_AlternativeCostLabel
 Enum: UIElementMessage, (id=587202768)
 0 => Undef
 	1 => Scrollable_scrollablesize_changed
