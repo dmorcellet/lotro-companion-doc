@@ -939,10 +939,9 @@ UI_Map_AreaData:
 				#3: 
 					UI_Map_ActiveElement: 268453454 (area_anduin_wells_of_langflood)
 					UI_Map_AreaDIDs_Array: 
-						#1: 1879400512
-						#2: 1879400521
-						#3: 1879400532
-						#4: 1879400537
+						#1: 1879400521
+						#2: 1879400532
+						#3: 1879400537
 					UI_Map_BlockOffsetX: 98
 					UI_Map_BlockOffsetY: 175
 					UI_Map_MapImage: 1092544361
@@ -957,6 +956,40 @@ UI_Map_AreaData:
 					UI_Map_RegionID: 2 (Rhovanion)
 					UI_Map_Scale: 0.1875
 				#4: 
+					UI_Map_ActiveElement: 268453516 (area_anduin_elderslade)
+					UI_Map_AreaDIDs_Array: 
+						#1: 1879400512
+					UI_Map_BlockOffsetX: 94
+					UI_Map_BlockOffsetY: 195
+					UI_Map_MapImage: 1092597871
+					UI_Map_MapNoteDisplayType: 1980589771713413120 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Settlement,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
+					UI_Map_MenuName: 
+						#1: Elderslade
+					UI_Map_PixelHeight: 768
+					UI_Map_PixelOffsetX: 164
+					UI_Map_PixelOffsetY: 768
+					UI_Map_PixelWidth: 1024
+					UI_Map_RegionID: 2 (Rhovanion)
+					UI_Map_Scale: 0.25625
+				#5: 
+					UI_Map_ActiveElement: 268453519 (area_anduin_elderslade_warzone)
+					UI_Map_AreaDIDs_Array: 
+						#1: 1879407741
+					UI_Map_BlockOffsetX: 151
+					UI_Map_BlockOffsetY: 28
+					UI_Map_MapImage: 1092597872
+					UI_Map_MapNoteDisplayType: 1980589771713413120 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Settlement,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
+					UI_Map_MenuName: 
+						#1: Elderslade: War of Three Peaks
+					UI_Map_PixelHeight: 768
+					UI_Map_PixelOffsetX: 164
+					UI_Map_PixelOffsetY: 768
+					UI_Map_PixelWidth: 1024
+					UI_Map_RegionID: 2 (Rhovanion)
+					UI_Map_Scale: 0.25625
+				#6: 
 					UI_Map_ActiveElement: 268452631 (RegionMap_EredMithrin_WitheredHeath)
 					UI_Map_AreaDIDs_Array: 
 						#1: 1879368366
@@ -1027,7 +1060,7 @@ UI_Map_AreaData:
 					UI_Map_PixelWidth: 1024
 					UI_Map_RegionID: 2 (Rhovanion)
 					UI_Map_Scale: 0.2
-				#5: 
+				#7: 
 					UI_Map_ActiveElement: 268452634 (RegionMap_IronHills)
 					UI_Map_AreaDIDs_Array: 
 						#1: 1879368364
@@ -1046,7 +1079,7 @@ UI_Map_AreaData:
 					UI_Map_PixelWidth: 1024
 					UI_Map_RegionID: 2 (Rhovanion)
 					UI_Map_Scale: 0.228125
-				#6: 
+				#8: 
 					UI_Map_ActiveElement: 268443855 (RegionMap_Mirkwood)
 					UI_Map_AreaDIDs_Array: 
 						#1: 1879152193
@@ -1072,7 +1105,7 @@ UI_Map_AreaData:
 					UI_Map_PixelWidth: 1024
 					UI_Map_RegionID: 2 (Rhovanion)
 					UI_Map_Scale: 0.20625
-				#7: 
+				#9: 
 					UI_Map_ActiveElement: 268452558 (RegionMap_Mirkwood_Dul_Guldur_Ruins)
 					UI_Map_AreaDIDs_Array: 
 						#1: 1879366212
@@ -1089,7 +1122,7 @@ UI_Map_AreaData:
 					UI_Map_PixelWidth: 1024
 					UI_Map_RegionID: 2 (Rhovanion)
 					UI_Map_Scale: 0.70625
-				#8: 
+				#10: 
 					UI_Map_ActiveElement: 268442355 (RegionMap_14_Moria)
 					UI_Map_AreaDIDs_Array: 
 					UI_Map_AreaData_Array: 
@@ -1297,7 +1330,7 @@ UI_Map_AreaData:
 					UI_Map_PixelWidth: 1024
 					UI_Map_RegionID: 2 (Rhovanion)
 					UI_Map_Scale: 0.15
-				#9: 
+				#11: 
 					UI_Map_ActiveElement: 268442330 (RegionMap_13_Lothlorien)
 					UI_Map_AreaDIDs_Array: 
 						#1: 1879109910
@@ -1340,7 +1373,7 @@ UI_Map_AreaData:
 					UI_Map_PixelWidth: 1024
 					UI_Map_RegionID: 2 (Rhovanion)
 					UI_Map_Scale: 0.24375
-				#10: 
+				#12: 
 					UI_Map_ActiveElement: 268447390 (Region_Great_River)
 					UI_Map_AreaDIDs_Array: 
 						#1: 1879222977
@@ -1381,7 +1414,7 @@ UI_Map_AreaData:
 					UI_Map_PixelWidth: 1024
 					UI_Map_RegionID: 2 (Rhovanion)
 					UI_Map_Scale: 0.188
-				#11: 
+				#13: 
 					UI_Map_ActiveElement: 268449764 (Region_Rohan_West)
 					UI_Map_AreaData_Array: 
 						#1: 
@@ -1729,7 +1762,7 @@ UI_Map_AreaData:
 					UI_Map_PixelWidth: 1024
 					UI_Map_RegionID: 2 (Rhovanion)
 					UI_Map_Scale: 0.0981
-				#12: 
+				#14: 
 					UI_Map_ActiveElement: 268448107 (Region_Rohan_East)
 					UI_Map_AreaData_Array: 
 						#1: 

@@ -24102,10 +24102,74 @@
 268462289 - World_AMS_CurrentTicket, type=String, data=0, default value=null
 268462290 - World_AMS_SystemUsername, type=String, data=0, default value=null
 268462291 - World_PopTrackMaxPlayer_Midsummer_Minas_Tirith, type=Int, data=0, default value=0
+268462293 - trait_class_specialization_brawler_one, type=Int, data=0, default value=0
+268462294 - trait_class_specialization_brawler_three, type=Int, data=0, default value=0
+268462295 - trait_class_specialization_brawler_two, type=Int, data=0, default value=0
+268462296 - trait_class_brawler_rank_24, type=Int, data=0, default value=0
+268462297 - trait_class_brawler_rank_25, type=Int, data=0, default value=0
+268462298 - trait_class_brawler_specialization_1, type=Int, data=0, default value=0
+268462299 - trait_class_brawler_rank_26, type=Int, data=0, default value=0
+268462300 - trait_class_brawler_specialization_2, type=Int, data=0, default value=0
+268462301 - trait_class_brawler_rank_27, type=Int, data=0, default value=0
+268462302 - trait_class_brawler_rank_10, type=Int, data=0, default value=0
+268462303 - trait_class_brawler_specialization_3, type=Int, data=0, default value=0
+268462304 - trait_class_brawler_rank_28, type=Int, data=0, default value=0
+268462305 - trait_class_brawler_rank_11, type=Int, data=0, default value=0
+268462306 - trait_class_brawler_rank_40, type=Int, data=0, default value=0
+268462307 - trait_class_brawler_rank_29, type=Int, data=0, default value=0
+268462308 - trait_class_brawler_rank_12, type=Int, data=0, default value=0
+268462309 - trait_class_brawler_rank_41, type=Int, data=0, default value=0
+268462310 - trait_class_brawler_rank_13, type=Int, data=0, default value=0
+268462311 - trait_class_brawler_rank_42, type=Int, data=0, default value=0
+268462312 - trait_class_brawler_rank_14, type=Int, data=0, default value=0
+268462313 - trait_class_brawler_rank_43, type=Int, data=0, default value=0
+268462314 - trait_class_brawler_rank_15, type=Int, data=0, default value=0
+268462315 - trait_class_brawler_rank_44, type=Int, data=0, default value=0
+268462316 - trait_class_brawler_rank_16, type=Int, data=0, default value=0
+268462317 - trait_class_brawler_rank_45, type=Int, data=0, default value=0
+268462318 - trait_class_brawler_rank_17, type=Int, data=0, default value=0
+268462319 - trait_class_brawler_rank_1, type=Int, data=0, default value=0
+268462320 - trait_class_brawler_rank_50, type=Int, data=0, default value=0
+268462321 - trait_class_brawler_rank_46, type=Int, data=0, default value=0
+268462322 - trait_class_brawler_rank_18, type=Int, data=0, default value=0
+268462323 - trait_class_brawler_rank_2, type=Int, data=0, default value=0
+268462324 - trait_class_brawler_rank_47, type=Int, data=0, default value=0
+268462325 - trait_class_brawler_rank_30, type=Int, data=0, default value=0
+268462326 - trait_class_brawler_rank_19, type=Int, data=0, default value=0
+268462327 - trait_class_brawler_rank_3, type=Int, data=0, default value=0
+268462328 - trait_class_brawler_rank_48, type=Int, data=0, default value=0
+268462329 - trait_class_brawler_rank_31, type=Int, data=0, default value=0
+268462330 - trait_class_brawler_rank_4, type=Int, data=0, default value=0
+268462331 - trait_class_brawler_rank_49, type=Int, data=0, default value=0
+268462332 - trait_class_brawler_rank_32, type=Int, data=0, default value=0
+268462333 - trait_class_brawler_rank_5, type=Int, data=0, default value=0
+268462334 - trait_class_brawler_rank_33, type=Int, data=0, default value=0
+268462335 - trait_class_brawler_rank_6, type=Int, data=0, default value=0
+268462336 - trait_class_brawler_rank_34, type=Int, data=0, default value=0
+268462337 - trait_class_brawler_rank_7, type=Int, data=0, default value=0
+268462338 - trait_class_brawler_rank_35, type=Int, data=0, default value=0
+268462339 - trait_class_brawler_rank_8, type=Int, data=0, default value=0
+268462340 - trait_class_brawler_rank_36, type=Int, data=0, default value=0
+268462341 - trait_class_brawler_rank_9, type=Int, data=0, default value=0
+268462342 - trait_class_brawler_rank_37, type=Int, data=0, default value=0
+268462343 - trait_class_brawler_rank_20, type=Int, data=0, default value=0
+268462344 - trait_class_brawler_rank_38, type=Int, data=0, default value=0
+268462345 - trait_class_brawler_rank_21, type=Int, data=0, default value=0
+268462346 - trait_class_brawler_rank_39, type=Int, data=0, default value=0
+268462347 - trait_class_brawler_rank_22, type=Int, data=0, default value=0
+268462348 - trait_class_brawler_rank_23, type=Int, data=0, default value=0
 268462350 - Skill_Champion_HornofChampions_Targets, type=Int, data=0, default value=0
 268462352 - Trait_Captain_ThreateningShout_CooldownMod, type=Float, data=0, default value=0.0
 268462353 - Version_POItem_StampProperty_228, type=boolean, data=0, default value=null
 268462354 - Version_Title_StampProperty_59, type=boolean, data=0, default value=null
+268462356 - Effect_Min_Level_Offset, type=Int, data=0, default value=-1
+268462357 - Effect_Max_Level_Offset, type=Int, data=0, default value=-1
+268462358 - Skill_MinTargetLevel, type=Int, data=0, default value=-1
+268462359 - Skill_MaxTargetLevel, type=Int, data=0, default value=-1
+268462360 - WebStore_Pending_Entitlement, type=String, data=0, default value=null
+268462361 - WebStore_Pending_EntitlementGrants, type=Array, data=0, default value=null
+268462362 - WE_Elderslade_Raid_Aotc, type=boolean, data=0, default value=null
+268462363 - Trait_Champion_HornofChampions_Taunt, type=Array, data=0, default value=null
 268462365 - Skill_MountRacialConversionAnalog, type=Data File ID, data=69, default value=null
 268462366 - PetBestower_Area_8, type=Data File ID, data=69, default value=null
 268462367 - PetBestower_Area_9, type=Data File ID, data=69, default value=null
@@ -24120,4 +24184,16 @@
 268462376 - Skill_WarsteedRacialConversionTallAnalog, type=Data File ID, data=69, default value=null
 268462377 - Skill_WarsteedRacialConversionDwarfAnalog, type=Data File ID, data=69, default value=null
 268462378 - Skill_WarsteedRacialConversionShortAnalog, type=Data File ID, data=69, default value=null
+268462379 - Skill_Champion_IA_Test_Mod, type=Float, data=0, default value=0.0
 268462380 - Character_NeedsRaceChangeMountVersioning, type=boolean, data=0, default value=null
+268462389 - World_InstanceLength_elderslade_wotp_raid, type=Int, data=0, default value=null
+268462390 - World_InstanceLength_elderslade_wotp_6man, type=Int, data=0, default value=null
+268462392 - WE_Elderslade_6man_Aotc, type=boolean, data=0, default value=null
+268462393 - WE_Integer_Elderslade_6man_Tier_Gate, type=Int, data=0, default value=null
+268462394 - Skill_MaxRangeMod_Guardian_FrayTheEdge, type=Float, data=0, default value=0.0
+268462403 - World_Webstore_Three_Peaks_Upsell_URL, type=String, data=0, default value=https://store-new.standingstonegames.com/lotro/expansions
+268462404 - Version_POItem_StampProperty_229, type=boolean, data=0, default value=null
+268462405 - Version_POItem_StampProperty_230, type=boolean, data=0, default value=null
+268462406 - World_XP9AccessAccountTokens, type=Bit Field, data=587202756, default value=null
+268462413 - Version_POItem_StampProperty_231, type=boolean, data=0, default value=null
+268462415 - PrivateEncounter_Mission_PrivateContentLayerTemplate, type=Data File ID, data=69, default value=null
