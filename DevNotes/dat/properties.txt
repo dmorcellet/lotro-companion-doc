@@ -24197,3 +24197,6 @@
 268462406 - World_XP9AccessAccountTokens, type=Bit Field, data=587202756, default value=null
 268462413 - Version_POItem_StampProperty_231, type=boolean, data=0, default value=null
 268462415 - PrivateEncounter_Mission_PrivateContentLayerTemplate, type=Data File ID, data=69, default value=null
+268462425 - Antispam_BarterRequest, type=Struct, data=0, default value=null
+268462426 - World_PopTrackMaxPlayer_Elderslade_Mission_Hub, type=Int, data=0, default value=0
+268462428 - Item_Level_Calculated, type=boolean, data=0, default value=0
