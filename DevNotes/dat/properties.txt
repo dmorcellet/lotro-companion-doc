@@ -24186,17 +24186,55 @@
 268462378 - Skill_WarsteedRacialConversionShortAnalog, type=Data File ID, data=69, default value=null
 268462379 - Skill_Champion_IA_Test_Mod, type=Float, data=0, default value=0.0
 268462380 - Character_NeedsRaceChangeMountVersioning, type=boolean, data=0, default value=null
+268462385 - Combat_Brawler_SkillCombo, type=Bit Field 32bits, data=587203632, default value=0
+268462386 - ForwardSource_Combat_Brawler_SkillCombo, type=Bit Field 32bits, data=587203632, default value=0
+268462387 - Threshold_Pip_Mettle_CurrentIndex, type=Int, data=0, default value=-1
+268462388 - Pip_Mettle, type=Int, data=0, default value=0
 268462389 - World_InstanceLength_elderslade_wotp_raid, type=Int, data=0, default value=null
 268462390 - World_InstanceLength_elderslade_wotp_6man, type=Int, data=0, default value=null
+268462391 - Skill_Brawler_Opening_Chance, type=Float, data=0, default value=0.0
 268462392 - WE_Elderslade_6man_Aotc, type=boolean, data=0, default value=null
 268462393 - WE_Integer_Elderslade_6man_Tier_Gate, type=Int, data=0, default value=null
 268462394 - Skill_MaxRangeMod_Guardian_FrayTheEdge, type=Float, data=0, default value=0.0
+268462395 - Combat_WeaponDamageMultiplier_BattleGauntlets, type=Float, data=0, default value=1.0
+268462396 - Skill_Brawler_IronWill_Mitigation, type=Float, data=0, default value=0.0
+268462397 - Skill_Brawler_BasicAttack_Damage, type=Float, data=0, default value=0.0
+268462398 - Skill_Brawler_IronWill_CC_Immunity, type=Array, data=0, default value=null
+268462399 - Skill_Brawler_Interrupt_CD, type=Float, data=0, default value=0.0
 268462403 - World_Webstore_Three_Peaks_Upsell_URL, type=String, data=0, default value=https://store-new.standingstonegames.com/lotro/expansions
 268462404 - Version_POItem_StampProperty_229, type=boolean, data=0, default value=null
 268462405 - Version_POItem_StampProperty_230, type=boolean, data=0, default value=null
 268462406 - World_XP9AccessAccountTokens, type=Bit Field, data=587202756, default value=null
+268462407 - Skill_Brawler_Aoe_Taunt_CD, type=Float, data=0, default value=0.0
+268462408 - Skill_Brawler_Aoe_Taunt_Targets, type=Float, data=0, default value=0.0
+268462409 - Skill_Brawler_Taunt_Debuff, type=Float, data=0, default value=0.0
+268462410 - Skill_Brawler_Taunt_CD, type=Float, data=0, default value=0.0
+268462411 - Skill_Brawler_Left_Hook_Debuff, type=Float, data=0, default value=0.0
 268462413 - Version_POItem_StampProperty_231, type=boolean, data=0, default value=null
+268462414 - World_Brawler_CharGen, type=boolean, data=0, default value=0
 268462415 - PrivateEncounter_Mission_PrivateContentLayerTemplate, type=Data File ID, data=69, default value=null
+268462417 - Reputation_Faction_Wildwood_Woodmen_CurrentTier, type=Enum Mapper, data=587203059, default value=null
+268462418 - Reputation_Faction_Wildwood_Axe_EarnedReputation, type=Long 64bits, data=0, default value=null
+268462419 - Discount_Travel_Wildwood, type=Float, data=0, default value=0.0
+268462420 - Reputation_Faction_Wildwood_Woodmen_Cap, type=Enum Mapper, data=587203059, default value=null
+268462421 - Reputation_Faction_Wildwood_Axe_Cap, type=Enum Mapper, data=587203059, default value=null
+268462422 - Discount_Wildwood, type=Float, data=0, default value=0.0
+268462423 - Reputation_Faction_Wildwood_Axe_CurrentTier, type=Enum Mapper, data=587203059, default value=null
+268462424 - Reputation_Faction_Wildwood_Woodmen_EarnedReputation, type=Long 64bits, data=0, default value=null
 268462425 - Antispam_BarterRequest, type=Struct, data=0, default value=null
 268462426 - World_PopTrackMaxPlayer_Elderslade_Mission_Hub, type=Int, data=0, default value=0
 268462428 - Item_Level_Calculated, type=boolean, data=0, default value=0
+268462429 - World_PopTrackMaxPlayer_Azanulbizar_All, type=Int, data=0, default value=0
+268462430 - Reputation_Faction_Azanulbizar_Cap, type=Enum Mapper, data=587203059, default value=null
+268462431 - Reputation_Faction_Azanulbizar_EarnedReputation, type=Long 64bits, data=0, default value=null
+268462432 - Reputation_Faction_Azanulbizar_CurrentTier, type=Enum Mapper, data=587203059, default value=null
+268462433 - Discount_Travel_Azanulbizar, type=Float, data=0, default value=0.0
+268462434 - Discount_Azanulbizar, type=Float, data=0, default value=0.0
+268462435 - WE_ia_primary_legacy_absolute_cap_override, type=Int, data=0, default value=null
+268462436 - WE_ia_secondary_legacy_absolute_cap_override, type=Int, data=0, default value=null
+268462437 - WE_ia_secondary_legacy_initial_cap_override, type=Int, data=0, default value=null
+268462438 - WE_ia_primary_legacy_initial_cap_override, type=Int, data=0, default value=null
+268462439 - Version_Title_StampProperty_60, type=boolean, data=0, default value=null
+268462440 - Version_POItem_StampProperty_232, type=boolean, data=0, default value=null
+268462441 - Version_POItem_StampProperty_233, type=boolean, data=0, default value=null
+268462442 - UI_Map_IncludeCommonMapNoteTypes, type=boolean, data=0, default value=0

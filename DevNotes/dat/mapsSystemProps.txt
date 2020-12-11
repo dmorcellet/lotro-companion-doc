@@ -34,8 +34,9 @@ UI_Map_AreaData:
 								#1: 1879098354
 							UI_Map_BlockOffsetX: 47
 							UI_Map_BlockOffsetY: 134
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091410518
-							UI_Map_MapNoteDisplayType: 1980588674349268992 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Quest Escort,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+							UI_Map_MapNoteDisplayType: 2147483648 (Quest Escort)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: Thorin's Hall Homesteads
@@ -57,8 +58,9 @@ UI_Map_AreaData:
 								#3: 1879191198
 							UI_Map_BlockOffsetX: 51
 							UI_Map_BlockOffsetY: 134
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1090552107
-							UI_Map_MapNoteDisplayType: 1980588672738656256 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Homestead,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+							UI_Map_MapNoteDisplayType: 536870912 (Homestead)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: Thorin's Gate
@@ -74,8 +76,8 @@ UI_Map_AreaData:
 								#1: 1879098736
 							UI_Map_BlockOffsetX: 68
 							UI_Map_BlockOffsetY: 120
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091410228
-							UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: Falathlorn Homesteads
@@ -87,8 +89,9 @@ UI_Map_AreaData:
 							UI_Map_Scale: 0.925
 					UI_Map_BlockOffsetX: 50
 					UI_Map_BlockOffsetY: 115
+					UI_Map_IncludeCommonMapNoteTypes: 1
 					UI_Map_MapImage: 1090552108
-					UI_Map_MapNoteDisplayType: 1980589772250284032 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Homestead,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Settlement,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+					UI_Map_MapNoteDisplayType: 1100048498688 (Homestead,Settlement)
 					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
 					UI_Map_MenuName: 
 						#1: Ered Luin
@@ -115,8 +118,8 @@ UI_Map_AreaData:
 								#1: 1879063939
 							UI_Map_BlockOffsetX: 173
 							UI_Map_BlockOffsetY: 114
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1090552109
-							UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: Rivendell
@@ -128,8 +131,9 @@ UI_Map_AreaData:
 							UI_Map_Scale: 0.53125
 					UI_Map_BlockOffsetX: 153
 					UI_Map_BlockOffsetY: 107
+					UI_Map_IncludeCommonMapNoteTypes: 1
 					UI_Map_MapImage: 1090552110
-					UI_Map_MapNoteDisplayType: 1980589771713413120 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Settlement,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+					UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
 					UI_Map_MenuName: 
 						#1: Trollshaws
@@ -154,8 +158,9 @@ UI_Map_AreaData:
 						#10: 1879094894
 					UI_Map_BlockOffsetX: 175
 					UI_Map_BlockOffsetY: 114
+					UI_Map_IncludeCommonMapNoteTypes: 1
 					UI_Map_MapImage: 1090552111
-					UI_Map_MapNoteDisplayType: 1980589771713413120 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Settlement,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+					UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
 					UI_Map_MenuName: 
 						#1: Misty Mountains
@@ -181,8 +186,9 @@ UI_Map_AreaData:
 						#11: 1879191196
 					UI_Map_BlockOffsetX: 130
 					UI_Map_BlockOffsetY: 106
+					UI_Map_IncludeCommonMapNoteTypes: 1
 					UI_Map_MapImage: 1090552112
-					UI_Map_MapNoteDisplayType: 1980589771713413120 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Settlement,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+					UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
 					UI_Map_MenuName: 
 						#1: Lone-Lands
@@ -215,8 +221,9 @@ UI_Map_AreaData:
 						#18: 1879103883
 					UI_Map_BlockOffsetX: 130
 					UI_Map_BlockOffsetY: 147
+					UI_Map_IncludeCommonMapNoteTypes: 1
 					UI_Map_MapImage: 1090552113
-					UI_Map_MapNoteDisplayType: 1980589771713413120 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Settlement,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+					UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
 					UI_Map_MenuName: 
 						#1: Angmar
@@ -248,8 +255,9 @@ UI_Map_AreaData:
 						#17: 1879063988
 					UI_Map_BlockOffsetX: 108
 					UI_Map_BlockOffsetY: 130
+					UI_Map_IncludeCommonMapNoteTypes: 1
 					UI_Map_MapImage: 1090552114
-					UI_Map_MapNoteDisplayType: 1980589771713413120 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Settlement,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+					UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
 					UI_Map_MenuName: 
 						#1: North Downs
@@ -271,8 +279,9 @@ UI_Map_AreaData:
 						#7: 1879158614
 					UI_Map_BlockOffsetX: 155
 					UI_Map_BlockOffsetY: 128
+					UI_Map_IncludeCommonMapNoteTypes: 1
 					UI_Map_MapImage: 1090552115
-					UI_Map_MapNoteDisplayType: 1980589771713413120 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Settlement,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+					UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
 					UI_Map_MenuName: 
 						#1: Ettenmoors
@@ -303,8 +312,8 @@ UI_Map_AreaData:
 								#2: 1879086546
 							UI_Map_BlockOffsetX: 93
 							UI_Map_BlockOffsetY: 129
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091464877
-							UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: Annúminas
@@ -316,8 +325,9 @@ UI_Map_AreaData:
 							UI_Map_Scale: 0.675
 					UI_Map_BlockOffsetX: 86
 					UI_Map_BlockOffsetY: 125
+					UI_Map_IncludeCommonMapNoteTypes: 1
 					UI_Map_MapImage: 1090646148
-					UI_Map_MapNoteDisplayType: 1980589771713413120 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Settlement,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+					UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
 					UI_Map_MenuName: 
 						#1: Evendim
@@ -354,8 +364,8 @@ UI_Map_AreaData:
 										#1: 1879218506
 									UI_Map_BlockOffsetX: 161
 									UI_Map_BlockOffsetY: 54
+									UI_Map_IncludeCommonMapNoteTypes: 1
 									UI_Map_MapImage: 1091661566
-									UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 									UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 									UI_Map_MenuName: 
 										#1: Galtrev
@@ -371,8 +381,8 @@ UI_Map_AreaData:
 										#1: 1879201776
 									UI_Map_BlockOffsetX: 166
 									UI_Map_BlockOffsetY: 57
+									UI_Map_IncludeCommonMapNoteTypes: 1
 									UI_Map_MapImage: 1091680577
-									UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 									UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 									UI_Map_MenuName: 
 										#1: Tâl Methedras
@@ -384,8 +394,8 @@ UI_Map_AreaData:
 									UI_Map_Scale: 0.56
 							UI_Map_BlockOffsetX: 149
 							UI_Map_BlockOffsetY: 42
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091671581
-							UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: Dunland
@@ -408,8 +418,8 @@ UI_Map_AreaData:
 										#1: 1879208109
 									UI_Map_BlockOffsetX: 66
 									UI_Map_BlockOffsetY: 217
+									UI_Map_IncludeCommonMapNoteTypes: 1
 									UI_Map_MapImage: 1091671551
-									UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 									UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 									UI_Map_MenuName: 
 										#1: The Pit of Iron
@@ -421,8 +431,8 @@ UI_Map_AreaData:
 									UI_Map_Scale: 1.2903225
 							UI_Map_BlockOffsetX: 159
 							UI_Map_BlockOffsetY: 42
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091661141
-							UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: Gap of Rohan
@@ -443,8 +453,8 @@ UI_Map_AreaData:
 										#1: 1879197005
 									UI_Map_BlockOffsetX: 177
 									UI_Map_BlockOffsetY: 53
+									UI_Map_IncludeCommonMapNoteTypes: 1
 									UI_Map_MapImage: 1091661569
-									UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 									UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 									UI_Map_MenuName: 
 										#1: Isengard
@@ -460,8 +470,8 @@ UI_Map_AreaData:
 										#1: 1879211470
 									UI_Map_BlockOffsetX: 223
 									UI_Map_BlockOffsetY: 53
+									UI_Map_IncludeCommonMapNoteTypes: 1
 									UI_Map_MapImage: 1091670589
-									UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 									UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 									UI_Map_MenuName: 
 										#1: Isengard Depths
@@ -477,8 +487,8 @@ UI_Map_AreaData:
 										#1: 1879217974
 									UI_Map_BlockOffsetX: 195
 									UI_Map_BlockOffsetY: 227
+									UI_Map_IncludeCommonMapNoteTypes: 1
 									UI_Map_MapImage: 1091670615
-									UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 									UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 									UI_Map_MenuName: 
 										#1: Ring of Isengard
@@ -490,8 +500,8 @@ UI_Map_AreaData:
 									UI_Map_Scale: 0.6651
 							UI_Map_BlockOffsetX: 175
 							UI_Map_BlockOffsetY: 48
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091671559
-							UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: Nan Curunír
@@ -542,8 +552,8 @@ UI_Map_AreaData:
 								#1: 1879064015
 							UI_Map_BlockOffsetX: 116
 							UI_Map_BlockOffsetY: 114
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1090552116
-							UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: Bree
@@ -559,8 +569,8 @@ UI_Map_AreaData:
 								#1: 1879064014
 							UI_Map_BlockOffsetX: 121
 							UI_Map_BlockOffsetY: 120
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1090552117
-							UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: Archet
@@ -580,8 +590,9 @@ UI_Map_AreaData:
 								#1: 1879063996
 							UI_Map_BlockOffsetX: 106
 							UI_Map_BlockOffsetY: 107
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091456477
-							UI_Map_MapNoteDisplayType: 1980589771713413120 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Settlement,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+							UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: The Old Forest
@@ -597,8 +608,9 @@ UI_Map_AreaData:
 								#1: 1879196939
 							UI_Map_BlockOffsetX: 63
 							UI_Map_BlockOffsetY: 169
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091622309
-							UI_Map_MapNoteDisplayType: 1980589771713413120 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Settlement,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+							UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: Frostbluff
@@ -615,8 +627,9 @@ UI_Map_AreaData:
 								#1: 1879063998
 							UI_Map_BlockOffsetX: 113
 							UI_Map_BlockOffsetY: 114
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091610689
-							UI_Map_MapNoteDisplayType: 1980589771713413120 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Settlement,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+							UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: Northern Barrow-downs
@@ -632,8 +645,9 @@ UI_Map_AreaData:
 								#1: 1879063999
 							UI_Map_BlockOffsetX: 113
 							UI_Map_BlockOffsetY: 109
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091610690
-							UI_Map_MapNoteDisplayType: 1980589771713413120 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Settlement,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+							UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: Southern Barrow-downs
@@ -649,8 +663,8 @@ UI_Map_AreaData:
 								#1: 1879098738
 							UI_Map_BlockOffsetX: 122
 							UI_Map_BlockOffsetY: 108
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091410516
-							UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: Bree-land Homesteads
@@ -662,8 +676,9 @@ UI_Map_AreaData:
 							UI_Map_Scale: 0.948387
 					UI_Map_BlockOffsetX: 104
 					UI_Map_BlockOffsetY: 107
+					UI_Map_IncludeCommonMapNoteTypes: 1
 					UI_Map_MapImage: 1090552118
-					UI_Map_MapNoteDisplayType: 1980589772250284032 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Homestead,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Settlement,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+					UI_Map_MapNoteDisplayType: 1100048498688 (Homestead,Settlement)
 					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
 					UI_Map_MenuName: 
 						#1: Bree-land
@@ -697,8 +712,8 @@ UI_Map_AreaData:
 								#1: 1879098737
 							UI_Map_BlockOffsetX: 88
 							UI_Map_BlockOffsetY: 107
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091410519
-							UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: Shire Homesteads
@@ -710,8 +725,9 @@ UI_Map_AreaData:
 							UI_Map_Scale: 0.905
 					UI_Map_BlockOffsetX: 85
 					UI_Map_BlockOffsetY: 107
+					UI_Map_IncludeCommonMapNoteTypes: 1
 					UI_Map_MapImage: 1090552119
-					UI_Map_MapNoteDisplayType: 1980589772250284032 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Homestead,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Settlement,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+					UI_Map_MapNoteDisplayType: 1100048498688 (Homestead,Settlement)
 					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
 					UI_Map_MenuName: 
 						#1: The Shire
@@ -733,8 +749,9 @@ UI_Map_AreaData:
 						#7: 1879184396
 					UI_Map_BlockOffsetX: 71
 					UI_Map_BlockOffsetY: 150
+					UI_Map_IncludeCommonMapNoteTypes: 1
 					UI_Map_MapImage: 1091452742
-					UI_Map_MapNoteDisplayType: 1980589771713413120 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Settlement,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+					UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
 					UI_Map_MenuName: 
 						#1: Forochel
@@ -756,8 +773,9 @@ UI_Map_AreaData:
 						#7: 1879181892
 					UI_Map_BlockOffsetX: 150
 					UI_Map_BlockOffsetY: 60
+					UI_Map_IncludeCommonMapNoteTypes: 1
 					UI_Map_MapImage: 1091584420
-					UI_Map_MapNoteDisplayType: 1980589771713413120 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Settlement,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+					UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
 					UI_Map_MenuName: 
 						#1: Enedwaith
@@ -787,8 +805,8 @@ UI_Map_AreaData:
 								#1: 1879106669
 							UI_Map_BlockOffsetX: 173
 							UI_Map_BlockOffsetY: 88
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091470996
-							UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: The Walls of Moria
@@ -800,8 +818,9 @@ UI_Map_AreaData:
 							UI_Map_Scale: 0.6967
 					UI_Map_BlockOffsetX: 158
 					UI_Map_BlockOffsetY: 83
+					UI_Map_IncludeCommonMapNoteTypes: 1
 					UI_Map_MapImage: 1091470982
-					UI_Map_MapNoteDisplayType: 1980589771713413120 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Settlement,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+					UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
 					UI_Map_MenuName: 
 						#1: Eregion
@@ -850,8 +869,9 @@ UI_Map_AreaData:
 								#1: 1879362297
 							UI_Map_BlockOffsetX: 22
 							UI_Map_BlockOffsetY: 213
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1092365793
-							UI_Map_MapNoteDisplayType: 1980589771713413120 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Settlement,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+							UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 							UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: Felegoth
@@ -869,8 +889,9 @@ UI_Map_AreaData:
 								#3: 1879375474
 							UI_Map_BlockOffsetX: 11
 							UI_Map_BlockOffsetY: 171
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1092413263
-							UI_Map_MapNoteDisplayType: 1980589771713413120 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Settlement,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+							UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 							UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: Erebor
@@ -882,8 +903,9 @@ UI_Map_AreaData:
 							UI_Map_Scale: 0.95625
 					UI_Map_BlockOffsetX: 112
 					UI_Map_BlockOffsetY: 162
+					UI_Map_IncludeCommonMapNoteTypes: 1
 					UI_Map_MapImage: 1092365794
-					UI_Map_MapNoteDisplayType: 1980589771713413120 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Settlement,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+					UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
 					UI_Map_MenuName: 
 						#1: Northern Mirkwood
@@ -912,8 +934,9 @@ UI_Map_AreaData:
 								#1: 1879315609
 							UI_Map_BlockOffsetX: 114
 							UI_Map_BlockOffsetY: 170
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091942795
-							UI_Map_MapNoteDisplayType: 1980588672235339776 (Far-ranging Stable-master,Eagle,Warband,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+							UI_Map_MapNoteDisplayType: 33554432 (Warband)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: Grimbeorn's House
@@ -925,8 +948,9 @@ UI_Map_AreaData:
 							UI_Map_Scale: 0.9625
 					UI_Map_BlockOffsetX: 102
 					UI_Map_BlockOffsetY: 140
+					UI_Map_IncludeCommonMapNoteTypes: 1
 					UI_Map_MapImage: 1092461728
-					UI_Map_MapNoteDisplayType: 1980589771713413120 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Settlement,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+					UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
 					UI_Map_MenuName: 
 						#1: Vales of Anduin
@@ -944,8 +968,9 @@ UI_Map_AreaData:
 						#3: 1879400537
 					UI_Map_BlockOffsetX: 98
 					UI_Map_BlockOffsetY: 175
+					UI_Map_IncludeCommonMapNoteTypes: 1
 					UI_Map_MapImage: 1092544361
-					UI_Map_MapNoteDisplayType: 1980589771713413120 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Settlement,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+					UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
 					UI_Map_MenuName: 
 						#1: Wells of Langflood
@@ -961,8 +986,9 @@ UI_Map_AreaData:
 						#1: 1879400512
 					UI_Map_BlockOffsetX: 94
 					UI_Map_BlockOffsetY: 195
+					UI_Map_IncludeCommonMapNoteTypes: 1
 					UI_Map_MapImage: 1092597871
-					UI_Map_MapNoteDisplayType: 1980589771713413120 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Settlement,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+					UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
 					UI_Map_MenuName: 
 						#1: Elderslade
@@ -978,8 +1004,9 @@ UI_Map_AreaData:
 						#1: 1879407741
 					UI_Map_BlockOffsetX: 151
 					UI_Map_BlockOffsetY: 28
+					UI_Map_IncludeCommonMapNoteTypes: 1
 					UI_Map_MapImage: 1092597872
-					UI_Map_MapNoteDisplayType: 1980589771713413120 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Settlement,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+					UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
 					UI_Map_MenuName: 
 						#1: Elderslade: War of Three Peaks
@@ -1002,8 +1029,9 @@ UI_Map_AreaData:
 								#1: 1879368362
 							UI_Map_BlockOffsetX: 11
 							UI_Map_BlockOffsetY: 183
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1092412668
-							UI_Map_MapNoteDisplayType: 1980589771713413120 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Settlement,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+							UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 							UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: Steel Keep
@@ -1019,8 +1047,9 @@ UI_Map_AreaData:
 								#1: 1879368334
 							UI_Map_BlockOffsetX: 11
 							UI_Map_BlockOffsetY: 192
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1092413237
-							UI_Map_MapNoteDisplayType: 1980589771713413120 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Settlement,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+							UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 							UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: Glimmerdeep
@@ -1036,8 +1065,9 @@ UI_Map_AreaData:
 								#1: 1879368345
 							UI_Map_BlockOffsetX: 11
 							UI_Map_BlockOffsetY: 200
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1092431546
-							UI_Map_MapNoteDisplayType: 1980589771713413120 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Settlement,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+							UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 							UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: The Anvil of Winterstith
@@ -1049,8 +1079,9 @@ UI_Map_AreaData:
 							UI_Map_Scale: 1.25
 					UI_Map_BlockOffsetX: 112
 					UI_Map_BlockOffsetY: 191
+					UI_Map_IncludeCommonMapNoteTypes: 1
 					UI_Map_MapImage: 1092390313
-					UI_Map_MapNoteDisplayType: 1980589771713413120 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Settlement,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+					UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
 					UI_Map_MenuName: 
 						#1: Ered Mithrin
@@ -1068,8 +1099,9 @@ UI_Map_AreaData:
 						#3: 1879368338
 					UI_Map_BlockOffsetX: 154
 					UI_Map_BlockOffsetY: 177
+					UI_Map_IncludeCommonMapNoteTypes: 1
 					UI_Map_MapImage: 1092408504
-					UI_Map_MapNoteDisplayType: 1980589771713413120 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Settlement,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+					UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
 					UI_Map_MenuName: 
 						#1: Iron Hills
@@ -1094,8 +1126,9 @@ UI_Map_AreaData:
 						#10: 1879152201
 					UI_Map_BlockOffsetX: 105
 					UI_Map_BlockOffsetY: 130
+					UI_Map_IncludeCommonMapNoteTypes: 1
 					UI_Map_MapImage: 1091571186
-					UI_Map_MapNoteDisplayType: 1980589771713413120 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Settlement,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+					UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
 					UI_Map_MenuName: 
 						#1: Mirkwood
@@ -1111,8 +1144,9 @@ UI_Map_AreaData:
 						#1: 1879366212
 					UI_Map_BlockOffsetX: 158
 					UI_Map_BlockOffsetY: 133
+					UI_Map_IncludeCommonMapNoteTypes: 1
 					UI_Map_MapImage: 1092369012
-					UI_Map_MapNoteDisplayType: 1980589771713413120 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Settlement,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+					UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
 					UI_Map_MenuName: 
 						#1: Dol Guldur (razed)
@@ -1132,8 +1166,8 @@ UI_Map_AreaData:
 								#1: 1879109899
 							UI_Map_BlockOffsetX: 44
 							UI_Map_BlockOffsetY: 170
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091471134
-							UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: Zirakzigil
@@ -1150,8 +1184,8 @@ UI_Map_AreaData:
 								#2: 1879144909
 							UI_Map_BlockOffsetX: 41
 							UI_Map_BlockOffsetY: 147
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091471133
-							UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: Durin's Way
@@ -1167,8 +1201,8 @@ UI_Map_AreaData:
 								#1: 1879109901
 							UI_Map_BlockOffsetX: 37
 							UI_Map_BlockOffsetY: 144
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091471132
-							UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: The Great Delving
@@ -1184,8 +1218,8 @@ UI_Map_AreaData:
 								#1: 1879117705
 							UI_Map_BlockOffsetX: 8
 							UI_Map_BlockOffsetY: 242
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091472986
-							UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: The Grand Stair
@@ -1202,8 +1236,8 @@ UI_Map_AreaData:
 								#2: 1879191197
 							UI_Map_BlockOffsetX: 45
 							UI_Map_BlockOffsetY: 138
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091471131
-							UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: Zelem-melek
@@ -1219,8 +1253,8 @@ UI_Map_AreaData:
 								#1: 1879109903
 							UI_Map_BlockOffsetX: 52
 							UI_Map_BlockOffsetY: 140
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091471130
-							UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: Nud-melek
@@ -1236,8 +1270,8 @@ UI_Map_AreaData:
 								#1: 1879109904
 							UI_Map_BlockOffsetX: 40
 							UI_Map_BlockOffsetY: 138
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091471129
-							UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: Silvertine Lodes
@@ -1254,8 +1288,8 @@ UI_Map_AreaData:
 								#2: 1879256642
 							UI_Map_BlockOffsetX: 49
 							UI_Map_BlockOffsetY: 135
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091471128
-							UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: Redhorn Lodes
@@ -1271,8 +1305,8 @@ UI_Map_AreaData:
 								#1: 1879109906
 							UI_Map_BlockOffsetX: 36
 							UI_Map_BlockOffsetY: 127
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091471127
-							UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: The Water-works
@@ -1288,8 +1322,8 @@ UI_Map_AreaData:
 								#1: 1879109907
 							UI_Map_BlockOffsetX: 44
 							UI_Map_BlockOffsetY: 133
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091471126
-							UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: The Flaming Deeps
@@ -1306,8 +1340,8 @@ UI_Map_AreaData:
 								#2: 1879109909
 							UI_Map_BlockOffsetX: 55
 							UI_Map_BlockOffsetY: 135
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091471125
-							UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: Foundations of Stone
@@ -1319,8 +1353,9 @@ UI_Map_AreaData:
 							UI_Map_Scale: 0.6625
 					UI_Map_BlockOffsetX: 36
 					UI_Map_BlockOffsetY: 127
+					UI_Map_IncludeCommonMapNoteTypes: 1
 					UI_Map_MapImage: 1091471112
-					UI_Map_MapNoteDisplayType: 1980589771713413120 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Settlement,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+					UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
 					UI_Map_MenuName: 
 						#1: Moria
@@ -1349,8 +1384,9 @@ UI_Map_AreaData:
 								#1: 1879112703
 							UI_Map_BlockOffsetX: 97
 							UI_Map_BlockOffsetY: 134
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091471110
-							UI_Map_MapNoteDisplayType: 1980588672738656256 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Homestead,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+							UI_Map_MapNoteDisplayType: 536870912 (Homestead)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: Caras Galadhon
@@ -1362,8 +1398,9 @@ UI_Map_AreaData:
 							UI_Map_Scale: 0.9
 					UI_Map_BlockOffsetX: 81
 					UI_Map_BlockOffsetY: 130
+					UI_Map_IncludeCommonMapNoteTypes: 1
 					UI_Map_MapImage: 1091471111
-					UI_Map_MapNoteDisplayType: 1980589771713413120 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Settlement,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+					UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
 					UI_Map_MenuName: 
 						#1: Lothlórien
@@ -1390,8 +1427,8 @@ UI_Map_AreaData:
 								#1: 1879232928
 							UI_Map_BlockOffsetX: 103
 							UI_Map_BlockOffsetY: 122
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091714825
-							UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: Stangard
@@ -1403,8 +1440,9 @@ UI_Map_AreaData:
 							UI_Map_Scale: 1.75
 					UI_Map_BlockOffsetX: 93
 					UI_Map_BlockOffsetY: 112
+					UI_Map_IncludeCommonMapNoteTypes: 1
 					UI_Map_MapImage: 1091690944
-					UI_Map_MapNoteDisplayType: 1980589771713413120 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Settlement,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+					UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
 					UI_Map_MenuName: 
 						#1: The Great River
@@ -1429,8 +1467,9 @@ UI_Map_AreaData:
 										#2: 1879262547
 									UI_Map_BlockOffsetX: 90
 									UI_Map_BlockOffsetY: 76
+									UI_Map_IncludeCommonMapNoteTypes: 1
 									UI_Map_MapImage: 1091814174
-									UI_Map_MapNoteDisplayType: 1980588672738656256 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Homestead,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+									UI_Map_MapNoteDisplayType: 536870912 (Homestead)
 									UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 									UI_Map_MenuName: 
 										#1: West Rohan: Edoras
@@ -1442,8 +1481,9 @@ UI_Map_AreaData:
 									UI_Map_Scale: 0.645
 							UI_Map_BlockOffsetX: 88
 							UI_Map_BlockOffsetY: 63
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091814175
-							UI_Map_MapNoteDisplayType: 1980588672235339776 (Far-ranging Stable-master,Eagle,Warband,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+							UI_Map_MapNoteDisplayType: 33554432 (Warband)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: West Rohan: Kingstead
@@ -1459,8 +1499,9 @@ UI_Map_AreaData:
 								#1: 1879256899
 							UI_Map_BlockOffsetX: 76
 							UI_Map_BlockOffsetY: 99
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091878570
-							UI_Map_MapNoteDisplayType: 1980588672738656256 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Homestead,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+							UI_Map_MapNoteDisplayType: 536870912 (Homestead)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: Entwood
@@ -1476,8 +1517,9 @@ UI_Map_AreaData:
 								#1: 1879256897
 							UI_Map_BlockOffsetX: 90
 							UI_Map_BlockOffsetY: 90
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091814176
-							UI_Map_MapNoteDisplayType: 1980588672235339776 (Far-ranging Stable-master,Eagle,Warband,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+							UI_Map_MapNoteDisplayType: 33554432 (Warband)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: West Rohan: Broadacres
@@ -1494,8 +1536,9 @@ UI_Map_AreaData:
 								#2: 1879303536
 							UI_Map_BlockOffsetX: 100
 							UI_Map_BlockOffsetY: 61
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091814177
-							UI_Map_MapNoteDisplayType: 1980588672235339776 (Far-ranging Stable-master,Eagle,Warband,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+							UI_Map_MapNoteDisplayType: 33554432 (Warband)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: West Rohan: Eastfold
@@ -1511,8 +1554,9 @@ UI_Map_AreaData:
 								#1: 1879399333
 							UI_Map_BlockOffsetX: 93
 							UI_Map_BlockOffsetY: 70
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1092542999
-							UI_Map_MapNoteDisplayType: 1980588672738656256 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Homestead,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+							UI_Map_MapNoteDisplayType: 536870912 (Homestead)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: Rohan Housing: Foothills
@@ -1528,8 +1572,9 @@ UI_Map_AreaData:
 								#1: 1879399332
 							UI_Map_BlockOffsetX: 93
 							UI_Map_BlockOffsetY: 80
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1092543000
-							UI_Map_MapNoteDisplayType: 1980588672738656256 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Homestead,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+							UI_Map_MapNoteDisplayType: 536870912 (Homestead)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: Rohan Housing: Plains
@@ -1545,8 +1590,9 @@ UI_Map_AreaData:
 								#1: 1879256895
 							UI_Map_BlockOffsetX: 77
 							UI_Map_BlockOffsetY: 83
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091814178
-							UI_Map_MapNoteDisplayType: 1980588672235339776 (Far-ranging Stable-master,Eagle,Warband,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+							UI_Map_MapNoteDisplayType: 33554432 (Warband)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: West Rohan: Stonedeans
@@ -1566,8 +1612,9 @@ UI_Map_AreaData:
 								#5: 1879272808
 							UI_Map_BlockOffsetX: 70
 							UI_Map_BlockOffsetY: 73
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091814179
-							UI_Map_MapNoteDisplayType: 1980588672235339776 (Far-ranging Stable-master,Eagle,Warband,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+							UI_Map_MapNoteDisplayType: 33554432 (Warband)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: West Rohan: Helm's Deep
@@ -1584,8 +1631,9 @@ UI_Map_AreaData:
 								#2: 1879289544
 							UI_Map_BlockOffsetX: 51
 							UI_Map_BlockOffsetY: 239
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091814179
-							UI_Map_MapNoteDisplayType: 1980588672235339776 (Far-ranging Stable-master,Eagle,Warband,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+							UI_Map_MapNoteDisplayType: 33554432 (Warband)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: null
 							UI_Map_PixelHeight: 768
@@ -1601,8 +1649,9 @@ UI_Map_AreaData:
 								#2: 1879289545
 							UI_Map_BlockOffsetX: 69
 							UI_Map_BlockOffsetY: 239
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091814179
-							UI_Map_MapNoteDisplayType: 1980588672235339776 (Far-ranging Stable-master,Eagle,Warband,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+							UI_Map_MapNoteDisplayType: 33554432 (Warband)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: null
 							UI_Map_PixelHeight: 768
@@ -1618,8 +1667,9 @@ UI_Map_AreaData:
 								#2: 1879289546
 							UI_Map_BlockOffsetX: 87
 							UI_Map_BlockOffsetY: 239
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091814179
-							UI_Map_MapNoteDisplayType: 1980588672235339776 (Far-ranging Stable-master,Eagle,Warband,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+							UI_Map_MapNoteDisplayType: 33554432 (Warband)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: null
 							UI_Map_PixelHeight: 768
@@ -1635,8 +1685,9 @@ UI_Map_AreaData:
 								#2: 1879289547
 							UI_Map_BlockOffsetX: 105
 							UI_Map_BlockOffsetY: 239
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091814179
-							UI_Map_MapNoteDisplayType: 1980588672235339776 (Far-ranging Stable-master,Eagle,Warband,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+							UI_Map_MapNoteDisplayType: 33554432 (Warband)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: null
 							UI_Map_PixelHeight: 768
@@ -1652,8 +1703,9 @@ UI_Map_AreaData:
 								#2: 1879289548
 							UI_Map_BlockOffsetX: 123
 							UI_Map_BlockOffsetY: 239
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091814179
-							UI_Map_MapNoteDisplayType: 1980588672235339776 (Far-ranging Stable-master,Eagle,Warband,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+							UI_Map_MapNoteDisplayType: 33554432 (Warband)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: null
 							UI_Map_PixelHeight: 768
@@ -1669,8 +1721,9 @@ UI_Map_AreaData:
 								#2: 1879289549
 							UI_Map_BlockOffsetX: 141
 							UI_Map_BlockOffsetY: 239
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091814179
-							UI_Map_MapNoteDisplayType: 1980588672235339776 (Far-ranging Stable-master,Eagle,Warband,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+							UI_Map_MapNoteDisplayType: 33554432 (Warband)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: null
 							UI_Map_PixelHeight: 768
@@ -1686,8 +1739,9 @@ UI_Map_AreaData:
 								#2: 1879289550
 							UI_Map_BlockOffsetX: 159
 							UI_Map_BlockOffsetY: 239
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091814179
-							UI_Map_MapNoteDisplayType: 1980588672235339776 (Far-ranging Stable-master,Eagle,Warband,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+							UI_Map_MapNoteDisplayType: 33554432 (Warband)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: null
 							UI_Map_PixelHeight: 768
@@ -1702,8 +1756,9 @@ UI_Map_AreaData:
 								#1: 1879256896
 							UI_Map_BlockOffsetX: 69
 							UI_Map_BlockOffsetY: 70
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091814180
-							UI_Map_MapNoteDisplayType: 1980589771746967552 (Far-ranging Stable-master,Eagle,Warband,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Settlement,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+							UI_Map_MapNoteDisplayType: 1099545182208 (Warband,Settlement)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: West Rohan: Westfold
@@ -1725,8 +1780,8 @@ UI_Map_AreaData:
 										#1: 1879303319
 									UI_Map_BlockOffsetX: 223
 									UI_Map_BlockOffsetY: 65
+									UI_Map_IncludeCommonMapNoteTypes: 1
 									UI_Map_MapImage: 1091670589
-									UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 									UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 									UI_Map_MenuName: 
 										#1: Isengard Depths (flooded)
@@ -1738,8 +1793,8 @@ UI_Map_AreaData:
 									UI_Map_Scale: 0.8251613
 							UI_Map_BlockOffsetX: 66
 							UI_Map_BlockOffsetY: 90
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091887388
-							UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: Nan Curunír (Flooded)
@@ -1751,8 +1806,9 @@ UI_Map_AreaData:
 							UI_Map_Scale: 0.36774194
 					UI_Map_BlockOffsetX: 70
 					UI_Map_BlockOffsetY: 61
+					UI_Map_IncludeCommonMapNoteTypes: 1
 					UI_Map_MapImage: 1091814181
-					UI_Map_MapNoteDisplayType: 1980589771746967552 (Far-ranging Stable-master,Eagle,Warband,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Settlement,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+					UI_Map_MapNoteDisplayType: 1099545182208 (Warband,Settlement)
 					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
 					UI_Map_MenuName: 
 						#1: Western Rohan
@@ -1779,8 +1835,9 @@ UI_Map_AreaData:
 										#1: 1879256451
 									UI_Map_BlockOffsetX: 116
 									UI_Map_BlockOffsetY: 104
+									UI_Map_IncludeCommonMapNoteTypes: 1
 									UI_Map_MapImage: 1091776016
-									UI_Map_MapNoteDisplayType: 1980588672738656256 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Homestead,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+									UI_Map_MapNoteDisplayType: 536870912 (Homestead)
 									UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 									UI_Map_MenuName: 
 										#1: East Rohan: Harwick
@@ -1792,8 +1849,9 @@ UI_Map_AreaData:
 									UI_Map_Scale: 1.2516129
 							UI_Map_BlockOffsetX: 110
 							UI_Map_BlockOffsetY: 96
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091752414
-							UI_Map_MapNoteDisplayType: 1980588672235339776 (Far-ranging Stable-master,Eagle,Warband,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+							UI_Map_MapNoteDisplayType: 33554432 (Warband)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: East Rohan: The Wold
@@ -1811,8 +1869,9 @@ UI_Map_AreaData:
 								#3: 1879250330
 							UI_Map_BlockOffsetX: 113
 							UI_Map_BlockOffsetY: 77
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091752412
-							UI_Map_MapNoteDisplayType: 1980588672235339776 (Far-ranging Stable-master,Eagle,Warband,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+							UI_Map_MapNoteDisplayType: 33554432 (Warband)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: East Rohan: East Wall
@@ -1830,8 +1889,9 @@ UI_Map_AreaData:
 								#3: 1879241665
 							UI_Map_BlockOffsetX: 94
 							UI_Map_BlockOffsetY: 87
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091752417
-							UI_Map_MapNoteDisplayType: 1980588672235339776 (Far-ranging Stable-master,Eagle,Warband,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+							UI_Map_MapNoteDisplayType: 33554432 (Warband)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: East Rohan: Entwash Vale
@@ -1847,8 +1907,9 @@ UI_Map_AreaData:
 								#1: 1879231076
 							UI_Map_BlockOffsetX: 85
 							UI_Map_BlockOffsetY: 99
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091752413
-							UI_Map_MapNoteDisplayType: 1980588672235339776 (Far-ranging Stable-master,Eagle,Warband,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+							UI_Map_MapNoteDisplayType: 33554432 (Warband)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: East Rohan: Eaves of Fangorn
@@ -1873,8 +1934,9 @@ UI_Map_AreaData:
 										#1: 1879257204
 									UI_Map_BlockOffsetX: 106
 									UI_Map_BlockOffsetY: 106
+									UI_Map_IncludeCommonMapNoteTypes: 1
 									UI_Map_MapImage: 1091795455
-									UI_Map_MapNoteDisplayType: 1980588672235339776 (Far-ranging Stable-master,Eagle,Warband,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+									UI_Map_MapNoteDisplayType: 33554432 (Warband)
 									UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 									UI_Map_MenuName: 
 										#1: Forlaw
@@ -1886,8 +1948,9 @@ UI_Map_AreaData:
 									UI_Map_Scale: 1.6774194
 							UI_Map_BlockOffsetX: 89
 							UI_Map_BlockOffsetY: 99
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091794351
-							UI_Map_MapNoteDisplayType: 1980588672235339776 (Far-ranging Stable-master,Eagle,Warband,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+							UI_Map_MapNoteDisplayType: 33554432 (Warband)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: Wildermore
@@ -1906,8 +1969,9 @@ UI_Map_AreaData:
 								#4: 1879241663
 							UI_Map_BlockOffsetX: 107
 							UI_Map_BlockOffsetY: 82
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091752416
-							UI_Map_MapNoteDisplayType: 1980588672235339776 (Far-ranging Stable-master,Eagle,Warband,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+							UI_Map_MapNoteDisplayType: 33554432 (Warband)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: East Rohan: Norcrofts
@@ -1931,8 +1995,9 @@ UI_Map_AreaData:
 										#1: 1879256452
 									UI_Map_BlockOffsetX: 104
 									UI_Map_BlockOffsetY: 77
+									UI_Map_IncludeCommonMapNoteTypes: 1
 									UI_Map_MapImage: 1091776087
-									UI_Map_MapNoteDisplayType: 1980588672738656256 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Homestead,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+									UI_Map_MapNoteDisplayType: 536870912 (Homestead)
 									UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 									UI_Map_MenuName: 
 										#1: East Rohan: Snowbourn
@@ -1944,8 +2009,9 @@ UI_Map_AreaData:
 									UI_Map_Scale: 1.4967742
 							UI_Map_BlockOffsetX: 101
 							UI_Map_BlockOffsetY: 73
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091752415
-							UI_Map_MapNoteDisplayType: 1980588672235339776 (Far-ranging Stable-master,Eagle,Warband,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+							UI_Map_MapNoteDisplayType: 33554432 (Warband)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: East Rohan: Sutcrofts
@@ -1957,8 +2023,9 @@ UI_Map_AreaData:
 							UI_Map_Scale: 0.258
 					UI_Map_BlockOffsetX: 88
 					UI_Map_BlockOffsetY: 78
+					UI_Map_IncludeCommonMapNoteTypes: 1
 					UI_Map_MapImage: 1091739319
-					UI_Map_MapNoteDisplayType: 1980589771746967552 (Far-ranging Stable-master,Eagle,Warband,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Settlement,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+					UI_Map_MapNoteDisplayType: 1099545182208 (Warband,Settlement)
 					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
 					UI_Map_MenuName: 
 						#1: East Rohan
@@ -2004,8 +2071,8 @@ UI_Map_AreaData:
 										#1: 1879338084
 									UI_Map_BlockOffsetX: 86
 									UI_Map_BlockOffsetY: 37
+									UI_Map_IncludeCommonMapNoteTypes: 1
 									UI_Map_MapImage: 1092284242
-									UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 									UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 									UI_Map_MenuName: 
 										#1: Cape of Belfalas Homesteads
@@ -2017,8 +2084,8 @@ UI_Map_AreaData:
 									UI_Map_Scale: 0.2625
 							UI_Map_BlockOffsetX: 86
 							UI_Map_BlockOffsetY: 37
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1092284241
-							UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: Cape of Belfalas
@@ -2039,8 +2106,8 @@ UI_Map_AreaData:
 										#1: 1879305736
 									UI_Map_BlockOffsetX: 91
 									UI_Map_BlockOffsetY: 56
+									UI_Map_IncludeCommonMapNoteTypes: 1
 									UI_Map_MapImage: 1091915269
-									UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 									UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 									UI_Map_MenuName: 
 										#1: Dol Amroth
@@ -2056,8 +2123,8 @@ UI_Map_AreaData:
 										#1: 1879313886
 									UI_Map_BlockOffsetX: 21
 									UI_Map_BlockOffsetY: 106
+									UI_Map_IncludeCommonMapNoteTypes: 1
 									UI_Map_MapImage: 1091915269
-									UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 									UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 									UI_Map_MenuName: null
 									UI_Map_PixelHeight: 768
@@ -2068,8 +2135,8 @@ UI_Map_AreaData:
 									UI_Map_Scale: 0.793
 							UI_Map_BlockOffsetX: 78
 							UI_Map_BlockOffsetY: 51
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091915499
-							UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: Havens of Belfalas
@@ -2085,8 +2152,8 @@ UI_Map_AreaData:
 								#1: 1879305818
 							UI_Map_BlockOffsetX: 86
 							UI_Map_BlockOffsetY: 97
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091914804
-							UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: Paths of the Dead
@@ -2104,8 +2171,8 @@ UI_Map_AreaData:
 								#3: 1879305738
 							UI_Map_BlockOffsetX: 93
 							UI_Map_BlockOffsetY: 67
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091915501
-							UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: Blackroot Vale
@@ -2121,8 +2188,8 @@ UI_Map_AreaData:
 								#1: 1879305737
 							UI_Map_BlockOffsetX: 104
 							UI_Map_BlockOffsetY: 63
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091915500
-							UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: Lamedon
@@ -2134,8 +2201,9 @@ UI_Map_AreaData:
 							UI_Map_Scale: 0.235
 					UI_Map_BlockOffsetX: 82
 					UI_Map_BlockOffsetY: 57
+					UI_Map_IncludeCommonMapNoteTypes: 1
 					UI_Map_MapImage: 1091909855
-					UI_Map_MapNoteDisplayType: 1980589771713413120 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Settlement,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+					UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
 					UI_Map_MenuName: 
 						#1: Western Gondor
@@ -2151,8 +2219,8 @@ UI_Map_AreaData:
 						#1: 1879314941
 					UI_Map_BlockOffsetX: 160
 					UI_Map_BlockOffsetY: 117
+					UI_Map_IncludeCommonMapNoteTypes: 1
 					UI_Map_MapImage: 1091930489
-					UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 					UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 					UI_Map_MenuName: 
 						#1: Dead Marshes
@@ -2171,8 +2239,8 @@ UI_Map_AreaData:
 								#1: 1879314983
 							UI_Map_BlockOffsetX: 115
 							UI_Map_BlockOffsetY: 43
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091942725
-							UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: Dor-en-Ernil
@@ -2193,8 +2261,8 @@ UI_Map_AreaData:
 										#1: 1879314982
 									UI_Map_BlockOffsetX: 138
 									UI_Map_BlockOffsetY: 46
+									UI_Map_IncludeCommonMapNoteTypes: 1
 									UI_Map_MapImage: 1091942716
-									UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 									UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 									UI_Map_MenuName: 
 										#1: Pelargir
@@ -2210,8 +2278,8 @@ UI_Map_AreaData:
 										#1: 1879315997
 									UI_Map_BlockOffsetX: 22
 									UI_Map_BlockOffsetY: 153
+									UI_Map_IncludeCommonMapNoteTypes: 1
 									UI_Map_MapImage: 1091942716
-									UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 									UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 									UI_Map_MenuName: null
 									UI_Map_PixelHeight: 768
@@ -2222,8 +2290,8 @@ UI_Map_AreaData:
 									UI_Map_Scale: 0.7375
 							UI_Map_BlockOffsetX: 124
 							UI_Map_BlockOffsetY: 44
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091942724
-							UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: Lebennin
@@ -2239,8 +2307,8 @@ UI_Map_AreaData:
 								#1: 1879314985
 							UI_Map_BlockOffsetX: 116
 							UI_Map_BlockOffsetY: 57
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091942719
-							UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: Ringló Vale
@@ -2252,8 +2320,9 @@ UI_Map_AreaData:
 							UI_Map_Scale: 0.40625
 					UI_Map_BlockOffsetX: 115
 					UI_Map_BlockOffsetY: 43
+					UI_Map_IncludeCommonMapNoteTypes: 1
 					UI_Map_MapImage: 1091942723
-					UI_Map_MapNoteDisplayType: 1980589771713413120 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Settlement,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+					UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
 					UI_Map_MenuName: 
 						#1: Central Gondor
@@ -2272,8 +2341,8 @@ UI_Map_AreaData:
 								#1: 1879320843
 							UI_Map_BlockOffsetX: 142
 							UI_Map_BlockOffsetY: 47
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091956280
-							UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: Upper Lebennin
@@ -2289,8 +2358,8 @@ UI_Map_AreaData:
 								#1: 1879320841
 							UI_Map_BlockOffsetX: 149
 							UI_Map_BlockOffsetY: 50
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091956284
-							UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: Lossarnach
@@ -2311,8 +2380,8 @@ UI_Map_AreaData:
 										#1: 1879320844
 									UI_Map_BlockOffsetX: 167
 									UI_Map_BlockOffsetY: 73
+									UI_Map_IncludeCommonMapNoteTypes: 1
 									UI_Map_MapImage: 1091956289
-									UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 									UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 									UI_Map_MenuName: 
 										#1: Osgiliath
@@ -2328,8 +2397,8 @@ UI_Map_AreaData:
 										#1: 1879324341
 									UI_Map_BlockOffsetX: 173
 									UI_Map_BlockOffsetY: 233
+									UI_Map_IncludeCommonMapNoteTypes: 1
 									UI_Map_MapImage: 1091956289
-									UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 									UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 									UI_Map_MenuName: null
 									UI_Map_PixelHeight: 768
@@ -2346,8 +2415,8 @@ UI_Map_AreaData:
 										#3: 1879325518
 									UI_Map_BlockOffsetX: 75
 									UI_Map_BlockOffsetY: 232
+									UI_Map_IncludeCommonMapNoteTypes: 1
 									UI_Map_MapImage: 1091970169
-									UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 									UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 									UI_Map_MenuName: null
 									UI_Map_PixelHeight: 768
@@ -2358,8 +2427,8 @@ UI_Map_AreaData:
 									UI_Map_Scale: 0.53125
 							UI_Map_BlockOffsetX: 157
 							UI_Map_BlockOffsetY: 55
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091956282
-							UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: South Ithilien
@@ -2371,8 +2440,9 @@ UI_Map_AreaData:
 							UI_Map_Scale: 0.19375
 					UI_Map_BlockOffsetX: 142
 					UI_Map_BlockOffsetY: 47
+					UI_Map_IncludeCommonMapNoteTypes: 1
 					UI_Map_MapImage: 1091956277
-					UI_Map_MapNoteDisplayType: 1980589771713413120 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Settlement,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+					UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
 					UI_Map_MenuName: 
 						#1: Eastern Gondor
@@ -2396,8 +2466,8 @@ UI_Map_AreaData:
 										#1: 1879326884
 									UI_Map_BlockOffsetX: 154
 									UI_Map_BlockOffsetY: 69
+									UI_Map_IncludeCommonMapNoteTypes: 1
 									UI_Map_MapImage: 1091983087
-									UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 									UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 									UI_Map_MenuName: 
 										#1: Minas Tirith
@@ -2413,8 +2483,8 @@ UI_Map_AreaData:
 										#1: 1879326888
 									UI_Map_BlockOffsetX: 154
 									UI_Map_BlockOffsetY: 230
+									UI_Map_IncludeCommonMapNoteTypes: 1
 									UI_Map_MapImage: 1091983087
-									UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 									UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 									UI_Map_MenuName: null
 									UI_Map_PixelHeight: 768
@@ -2429,8 +2499,8 @@ UI_Map_AreaData:
 										#1: 1879328091
 									UI_Map_BlockOffsetX: 202
 									UI_Map_BlockOffsetY: 226
+									UI_Map_IncludeCommonMapNoteTypes: 1
 									UI_Map_MapImage: 1091983087
-									UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 									UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 									UI_Map_MenuName: null
 									UI_Map_PixelHeight: 768
@@ -2445,8 +2515,8 @@ UI_Map_AreaData:
 										#1: 1879407601
 									UI_Map_BlockOffsetX: 109
 									UI_Map_BlockOffsetY: 180
+									UI_Map_IncludeCommonMapNoteTypes: 1
 									UI_Map_MapImage: 1092560926
-									UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 									UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 									UI_Map_MenuName: 
 										#1: Minas Tirith Midsummer (The Great Wedding)
@@ -2458,8 +2528,8 @@ UI_Map_AreaData:
 									UI_Map_Scale: 0.475
 							UI_Map_BlockOffsetX: 156
 							UI_Map_BlockOffsetY: 64
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091983088
-							UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: Pelennor
@@ -2475,8 +2545,8 @@ UI_Map_AreaData:
 								#1: 1879353391
 							UI_Map_BlockOffsetX: 147
 							UI_Map_BlockOffsetY: 71
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1092240103
-							UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: North Ithilien
@@ -2492,8 +2562,8 @@ UI_Map_AreaData:
 								#1: 1879331831
 							UI_Map_BlockOffsetX: 156
 							UI_Map_BlockOffsetY: 175
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1092006288
-							UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: null
 							UI_Map_PixelHeight: 768
@@ -2508,8 +2578,8 @@ UI_Map_AreaData:
 								#1: 1879331834
 							UI_Map_BlockOffsetX: 156
 							UI_Map_BlockOffsetY: 175
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1092006290
-							UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: null
 							UI_Map_PixelHeight: 768
@@ -2524,8 +2594,8 @@ UI_Map_AreaData:
 								#1: 1879331833
 							UI_Map_BlockOffsetX: 156
 							UI_Map_BlockOffsetY: 175
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1092006287
-							UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: null
 							UI_Map_PixelHeight: 768
@@ -2540,8 +2610,8 @@ UI_Map_AreaData:
 								#1: 1879331836
 							UI_Map_BlockOffsetX: 156
 							UI_Map_BlockOffsetY: 175
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1092006289
-							UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: null
 							UI_Map_PixelHeight: 768
@@ -2556,8 +2626,8 @@ UI_Map_AreaData:
 								#1: 1879331835
 							UI_Map_BlockOffsetX: 156
 							UI_Map_BlockOffsetY: 175
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1092006286
-							UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: null
 							UI_Map_PixelHeight: 768
@@ -2572,8 +2642,8 @@ UI_Map_AreaData:
 								#1: 1879334692
 							UI_Map_BlockOffsetX: 115
 							UI_Map_BlockOffsetY: 182
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1092172168
-							UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: null
 							UI_Map_PixelHeight: 768
@@ -2588,8 +2658,8 @@ UI_Map_AreaData:
 								#1: 1879326883
 							UI_Map_BlockOffsetX: 155
 							UI_Map_BlockOffsetY: 78
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091983086
-							UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: Talath Anor
@@ -2601,8 +2671,9 @@ UI_Map_AreaData:
 							UI_Map_Scale: 0.21875
 					UI_Map_BlockOffsetX: 154
 					UI_Map_BlockOffsetY: 66
+					UI_Map_IncludeCommonMapNoteTypes: 1
 					UI_Map_MapImage: 1091983089
-					UI_Map_MapNoteDisplayType: 1980589771713413120 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Settlement,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+					UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
 					UI_Map_MenuName: 
 						#1: Old Anórien
@@ -2621,8 +2692,8 @@ UI_Map_AreaData:
 								#1: 1879330412
 							UI_Map_BlockOffsetX: 143
 							UI_Map_BlockOffsetY: 83
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1092005776
-							UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: Taur Drúadan
@@ -2638,8 +2709,8 @@ UI_Map_AreaData:
 								#1: 1879330418
 							UI_Map_BlockOffsetX: 123
 							UI_Map_BlockOffsetY: 93
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1092005771
-							UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: Beacon Hills
@@ -2651,8 +2722,9 @@ UI_Map_AreaData:
 							UI_Map_Scale: 0.20625
 					UI_Map_BlockOffsetX: 124
 					UI_Map_BlockOffsetY: 83
+					UI_Map_IncludeCommonMapNoteTypes: 1
 					UI_Map_MapImage: 1092005777
-					UI_Map_MapNoteDisplayType: 1980589771713413120 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Settlement,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+					UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
 					UI_Map_MenuName: 
 						#1: Far Anórien
@@ -2668,8 +2740,8 @@ UI_Map_AreaData:
 						#1: 1879342533
 					UI_Map_BlockOffsetX: 169
 					UI_Map_BlockOffsetY: 103
+					UI_Map_IncludeCommonMapNoteTypes: 1
 					UI_Map_MapImage: 1092278582
-					UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 					UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 					UI_Map_MenuName: null
 					UI_Map_PixelHeight: 768
@@ -2720,8 +2792,8 @@ UI_Map_AreaData:
 								#2: 1879357944
 							UI_Map_BlockOffsetX: 208
 							UI_Map_BlockOffsetY: 83
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1092326796
-							UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: Agarnaith
@@ -2752,8 +2824,8 @@ UI_Map_AreaData:
 										#6: 1879397488
 									UI_Map_BlockOffsetX: 182
 									UI_Map_BlockOffsetY: 68
+									UI_Map_IncludeCommonMapNoteTypes: 1
 									UI_Map_MapImage: 1092524610
-									UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 									UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 									UI_Map_MenuName: 
 										#1: Minas Morgul
@@ -2769,11 +2841,11 @@ UI_Map_AreaData:
 										#1: 1879342010
 									UI_Map_BlockOffsetX: 196
 									UI_Map_BlockOffsetY: 193
+									UI_Map_IncludeCommonMapNoteTypes: 1
 									UI_Map_MapImage: 1092526842
-									UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 									UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 									UI_Map_MenuName: 
-										#1: Torech_Ungol
+										#1: Torech Ungol
 									UI_Map_PixelHeight: 768
 									UI_Map_PixelOffsetX: 117
 									UI_Map_PixelOffsetY: 717
@@ -2786,8 +2858,8 @@ UI_Map_AreaData:
 										#1: 1879401897
 									UI_Map_BlockOffsetX: 8
 									UI_Map_BlockOffsetY: 176
+									UI_Map_IncludeCommonMapNoteTypes: 1
 									UI_Map_MapImage: 1092537315
-									UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 									UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 									UI_Map_MenuName: 
 										#1: Shelob's Lair
@@ -2799,8 +2871,8 @@ UI_Map_AreaData:
 									UI_Map_Scale: 0.30625
 							UI_Map_BlockOffsetX: 176
 							UI_Map_BlockOffsetY: 59
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1092524609
-							UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: Morgul Vale
@@ -2823,8 +2895,8 @@ UI_Map_AreaData:
 										#3: 1879389728
 									UI_Map_BlockOffsetX: 16
 									UI_Map_BlockOffsetY: 26
+									UI_Map_IncludeCommonMapNoteTypes: 1
 									UI_Map_MapImage: 1092524611
-									UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 									UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 									UI_Map_MenuName: 
 										#1: Mordor Besieged
@@ -2836,8 +2908,8 @@ UI_Map_AreaData:
 									UI_Map_Scale: 0.225
 							UI_Map_BlockOffsetX: 190
 							UI_Map_BlockOffsetY: 85
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1092326797
-							UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: Dor Amarth
@@ -2854,8 +2926,8 @@ UI_Map_AreaData:
 								#2: 1879352875
 							UI_Map_BlockOffsetX: 172
 							UI_Map_BlockOffsetY: 71
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1092326798
-							UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: Lhingris
@@ -2877,8 +2949,8 @@ UI_Map_AreaData:
 										#1: 1879342008
 									UI_Map_BlockOffsetX: 222
 									UI_Map_BlockOffsetY: 195
+									UI_Map_IncludeCommonMapNoteTypes: 1
 									UI_Map_MapImage: 1092337616
-									UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 									UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 									UI_Map_MenuName: 
 										#1: Sammath Naur
@@ -2890,8 +2962,8 @@ UI_Map_AreaData:
 									UI_Map_Scale: 1.06875
 							UI_Map_BlockOffsetX: 197
 							UI_Map_BlockOffsetY: 83
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1092326799
-							UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: Orodruin
@@ -2912,8 +2984,8 @@ UI_Map_AreaData:
 										#1: 1879342006
 									UI_Map_BlockOffsetX: 197
 									UI_Map_BlockOffsetY: 174
+									UI_Map_IncludeCommonMapNoteTypes: 1
 									UI_Map_MapImage: 1092337617
-									UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 									UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 									UI_Map_MenuName: 
 										#1: Nargroth
@@ -2925,8 +2997,8 @@ UI_Map_AreaData:
 									UI_Map_Scale: 0.84375
 							UI_Map_BlockOffsetX: 191
 							UI_Map_BlockOffsetY: 71
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1092326800
-							UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: Talath Úrui
@@ -2942,8 +3014,8 @@ UI_Map_AreaData:
 								#1: 1879338148
 							UI_Map_BlockOffsetX: 178
 							UI_Map_BlockOffsetY: 94
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1092326801
-							UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: Udûn
@@ -2955,8 +3027,8 @@ UI_Map_AreaData:
 							UI_Map_Scale: 0.3125
 					UI_Map_BlockOffsetX: 176
 					UI_Map_BlockOffsetY: 68
+					UI_Map_IncludeCommonMapNoteTypes: 1
 					UI_Map_MapImage: 1092322516
-					UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 					UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 					UI_Map_MenuName: 
 						#1: Gorgoroth
@@ -2980,8 +3052,8 @@ UI_Map_AreaData:
 								#1: 1879349355
 							UI_Map_BlockOffsetX: 168
 							UI_Map_BlockOffsetY: 224
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1092340312
-							UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: Morannon (War of the Last Alliance)
@@ -2993,8 +3065,8 @@ UI_Map_AreaData:
 							UI_Map_Scale: 0.33125
 					UI_Map_BlockOffsetX: 165
 					UI_Map_BlockOffsetY: 103
+					UI_Map_IncludeCommonMapNoteTypes: 1
 					UI_Map_MapImage: 1092278441
-					UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 					UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 					UI_Map_MenuName: 
 						#1: The Wastes
@@ -3013,8 +3085,8 @@ UI_Map_AreaData:
 								#1: 1879334675
 							UI_Map_BlockOffsetX: 154
 							UI_Map_BlockOffsetY: 69
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1092171933
-							UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: Minas Tirith (after battle)
@@ -3030,8 +3102,8 @@ UI_Map_AreaData:
 								#1: 1879334685
 							UI_Map_BlockOffsetX: 154
 							UI_Map_BlockOffsetY: 71
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1092240103
-							UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: North Ithilien
@@ -3047,8 +3119,8 @@ UI_Map_AreaData:
 								#1: 1879334677
 							UI_Map_BlockOffsetX: 167
 							UI_Map_BlockOffsetY: 73
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1092240101
-							UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: Osgiliath (after battle)
@@ -3064,8 +3136,8 @@ UI_Map_AreaData:
 								#1: 1879334687
 							UI_Map_BlockOffsetX: 153
 							UI_Map_BlockOffsetY: 64
+							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1092240104
-							UI_Map_MapNoteDisplayType: 1980588672201785344 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
 							UI_Map_MenuName: 
 								#1: The Pelennor Fields (after battle)
@@ -3077,8 +3149,9 @@ UI_Map_AreaData:
 							UI_Map_Scale: 0.20825
 					UI_Map_BlockOffsetX: 154
 					UI_Map_BlockOffsetY: 66
+					UI_Map_IncludeCommonMapNoteTypes: 1
 					UI_Map_MapImage: 1092240438
-					UI_Map_MapNoteDisplayType: 1980589771713413120 (Far-ranging Stable-master,Eagle,Task,Fellowship Leader,Item-master,Town Crier,Crafting Vendor,Mailbox,Fellow,Vendor,No Icon,Vault-keeper,Settlement,Trainer,Point of Interest,Crafting Facility,Offscreen Map Note,Offscreen Fellow,Stable-master,Reflecting Pool,Auctioneer,Bard,Milestone[e],Camp Site[e],Trader,Barber,Faction Representative)
+					UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
 					UI_Map_MenuName: 
 						#1: March of the King

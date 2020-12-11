@@ -13,10 +13,10 @@ ItemAdvancement_IXPCurrency: 1879325664
 ItemAdvancement_ImbuedDPSWidgetMap_Array: 
 	#1: 
 		ItemAdvancement_ImbuedDPSWidget: 1879325264
-		Item_EquipmentCategory: 69231712256 (One-handed Hammer[E],Spear[E],Dagger[E],One-handed Axe[E],One-handed Club[E],One-handed Mace[E],One-handed Sword[E],Thrown Weapon[E],One-handed Implement[E])
+		Item_EquipmentCategory: 69231712256 (One-handed Hammer[v],Spear[E],Dagger[E],One-handed Axe[v],One-handed Club[v],One-handed Mace[v],One-handed Sword[v],Thrown Weapon[E],One-handed Implement[v])
 	#2: 
 		ItemAdvancement_ImbuedDPSWidget: 1879325265
-		Item_EquipmentCategory: 1382981623996 (Two-handed Sword[E],Two-handed Club[E],Two-handed Mace[E],Two-handed Axe[E],Bow[E],Crossbow[E],Two-handed Hammer[E],Halberd[E],Staff[E],Two-handed Implement[E],Rune-stone[E],Javelin[E])
+		Item_EquipmentCategory: 142120469979324 (Two-handed Sword[E],Two-handed Club[E],Two-handed Mace[E],Two-handed Axe[E],Bow[E],Crossbow[E],Two-handed Hammer[E],Halberd[E],Staff[E],Two-handed Implement[E],Rune-stone[E],Javelin[E],Battle-Gauntlets[ps])
 ItemAdvancement_Imbuement_CompletionScriptID: 268446076 (Emote_Pose_Imbuement)
 ItemAdvancement_Imbuement_InductionActionDID: 1879325193
 ItemAdvancement_ItemInfoTable_Array: 

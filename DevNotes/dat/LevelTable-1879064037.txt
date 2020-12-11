@@ -6322,7 +6322,7 @@ Combat_DamageType_Base_Mitigation_Multiplier_Shadow: 0.0
 Combat_DamageType_Base_Mitigation_Multiplier_Westernesse: 0.0
 PipConfig_Pip_List: 
 	#1: 25 (Killstreak)
-Trait_Baseline_Equipment_Categories: 79245929218051 (Earring[E],Bauble[E],Light Armour[E],Ring[E],Craft Tool[E],Staff[E],Necklace[E],Class Item,Armband[E],Cloak[e],Cosmetic[E],Two-handed Implement[E],One-handed Implement[E],War-steed Item,Weapon Aura)
+Trait_Baseline_Equipment_Categories: 79245929218051 (Earring[v],Bauble[E],Light Armour[E],Ring[E],Craft Tool[E],Staff[E],Necklace[E],Class Item[e],Armband[v],Cloak[e],Cosmetic[E],Two-handed Implement[E],One-handed Implement[v],War-steed Item[e],Weapon Aura[e])
 Trait_SlotSchedule_Nature_Array: 
 	#1: 
 		Trait_SlotSchedule_Nature: 5 (Virtue)

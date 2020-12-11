@@ -343,36 +343,39 @@ Combat_Control_WeaponStrikeModifierList:
 		Combat_Control_EquipmentCategory: 32768 (Halberd[E])
 		Combat_Control_WeaponDamageMultiplier: 268449686 (Combat_WeaponDamageMultiplier_Halberd)
 	#3: 
-		Combat_Control_EquipmentCategory: 134217728 (One-handed Sword[E])
+		Combat_Control_EquipmentCategory: 134217728 (One-handed Sword[v])
 		Combat_Control_WeaponDamageMultiplier: 268438882 (Combat_WeaponDamageMultiplier_1HSword)
 	#4: 
 		Combat_Control_EquipmentCategory: 4 (Two-handed Sword[E])
 		Combat_Control_WeaponDamageMultiplier: 268440059 (Combat_WeaponDamageMultiplier_2HSword)
 	#5: 
-		Combat_Control_EquipmentCategory: 8388608 (One-handed Axe[E])
+		Combat_Control_EquipmentCategory: 8388608 (One-handed Axe[v])
 		Combat_Control_WeaponDamageMultiplier: 268437059 (Combat_WeaponDamageMultiplier_1HAxe)
 	#6: 
 		Combat_Control_EquipmentCategory: 32 (Two-handed Axe[E])
 		Combat_Control_WeaponDamageMultiplier: 268435629 (Combat_WeaponDamageMultiplier_2HAxe)
 	#7: 
-		Combat_Control_EquipmentCategory: 2048 (One-handed Hammer[E])
+		Combat_Control_EquipmentCategory: 2048 (One-handed Hammer[v])
 		Combat_Control_WeaponDamageMultiplier: 268458142 (Combat_WeaponDamageMultiplier_1HHammer)
 	#8: 
 		Combat_Control_EquipmentCategory: 16384 (Two-handed Hammer[E])
 		Combat_Control_WeaponDamageMultiplier: 268458144 (Combat_WeaponDamageMultiplier_2HHammer)
 	#9: 
-		Combat_Control_EquipmentCategory: 67108864 (One-handed Mace[E])
-		Combat_Control_WeaponDamageMultiplier: 268458143 (Combat_WeaponDamageMultiplier_Mace)
+		Combat_Control_EquipmentCategory: 140737488355328 (Battle-Gauntlets[ps])
+		Combat_Control_WeaponDamageMultiplier: 268462395 (Combat_WeaponDamageMultiplier_BattleGauntlets)
 	#10: 
+		Combat_Control_EquipmentCategory: 67108864 (One-handed Mace[v])
+		Combat_Control_WeaponDamageMultiplier: 268458143 (Combat_WeaponDamageMultiplier_Mace)
+	#11: 
 		Combat_Control_EquipmentCategory: 128 (Bow[E])
 		Combat_Control_WeaponDamageMultiplier: 268437290 (Combat_WeaponDamageMultiplier_Bow)
-	#11: 
-		Combat_Control_EquipmentCategory: 33554432 (One-handed Club[E])
-		Combat_Control_WeaponDamageMultiplier: 268436087 (Combat_WeaponDamageMultiplier_1HClub)
 	#12: 
+		Combat_Control_EquipmentCategory: 33554432 (One-handed Club[v])
+		Combat_Control_WeaponDamageMultiplier: 268436087 (Combat_WeaponDamageMultiplier_1HClub)
+	#13: 
 		Combat_Control_EquipmentCategory: 8 (Two-handed Club[E])
 		Combat_Control_WeaponDamageMultiplier: 268440594 (Combat_WeaponDamageMultiplier_2HClub)
-	#13: 
+	#14: 
 		Combat_Control_EquipmentCategory: 4096 (Spear[E])
 		Combat_Control_WeaponDamageMultiplier: 268444093 (Combat_WeaponDamageMultiplier_Spear)
 Combat_MinRangeForConjunctionSuccessNotification: 20.0
