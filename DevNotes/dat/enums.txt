@@ -63927,6 +63927,7 @@ GameUI [ UI_StablesCollection_TravelNPC [ entity/npc/npc_travel/npc_travel_gondo
 	268453538 => TraitTreePage_SpecSelection_Button
 	268453539 => MapQuestObjectiveFX
 	268453540 => MapQuestStaticObjectiveFX
+	268453541 => ExaminationItemSocketType_Base
 Enum: UIElementMessage, (id=587202768)
 0 => Undef
 	1 => Scrollable_scrollablesize_changed
