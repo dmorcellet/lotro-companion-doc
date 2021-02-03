@@ -23918,8 +23918,6 @@
 268462069 - WE_minas_morgul_instance_dark_archive_boss1_config, type=Int, data=0, default value=null
 268462070 - Inventory_BoundToCharacterViaContainedItem, type=boolean, data=0, default value=0
 268462071 - Inventory_BoundToAccountViaContainedItem, type=boolean, data=0, default value=0
-268462072 - Discount_Housing_Rohan_foothills, type=Float, data=0, default value=0.0
-268462073 - Discount_Housing_Rohan_plains, type=Float, data=0, default value=0.0
 268462076 - World_RaceChangeAccessLevel, type=Enum Mapper, data=587203628, default value=2
 268462078 - Trait_CleanupRacialTraits, type=boolean, data=0, default value=null
 268462079 - World_Webstore_BaseUrl_SystemBrowser, type=String, data=0, default value=null
@@ -24210,6 +24208,7 @@
 268462409 - Skill_Brawler_Taunt_Debuff, type=Float, data=0, default value=0.0
 268462410 - Skill_Brawler_Taunt_CD, type=Float, data=0, default value=0.0
 268462411 - Skill_Brawler_Left_Hook_Debuff, type=Float, data=0, default value=0.0
+268462412 - Skill_Warden_Momentum_ProcProbability, type=Float, data=0, default value=0.0
 268462413 - Version_POItem_StampProperty_231, type=boolean, data=0, default value=null
 268462414 - World_Brawler_CharGen, type=boolean, data=0, default value=0
 268462415 - PrivateEncounter_Mission_PrivateContentLayerTemplate, type=Data File ID, data=69, default value=null
@@ -24238,3 +24237,7 @@
 268462440 - Version_POItem_StampProperty_232, type=boolean, data=0, default value=null
 268462441 - Version_POItem_StampProperty_233, type=boolean, data=0, default value=null
 268462442 - UI_Map_IncludeCommonMapNoteTypes, type=boolean, data=0, default value=0
+268462454 - Trait_Brawler_Builder_Chain_Heal, type=Array, data=0, default value=null
+268462461 - Trait_Brawler_SingularStrike_Charges, type=Array, data=0, default value=null
+268462464 - Discount_Housing_Summoned_Supplier, type=Float, data=0, default value=0.0
+268462465 - Discount_Housing_Rohan, type=Float, data=0, default value=0.0
