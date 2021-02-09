@@ -13230,6 +13230,7 @@ Enum: BillingGroup, (id=587202756)
 	634 => LOTRO_catchup_bundle
 	635 => LOTRO_DBG_Starter
 	636 => GotLOTRO_DBG_Starter
+	637 => SSGEmployee
 Enum: BlockAllocationRegion, (id=587202919)
 0 => Undef
 	268435457 => Angmar_CarnDum_Instance
