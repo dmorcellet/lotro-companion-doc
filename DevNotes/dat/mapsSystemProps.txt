@@ -41,7 +41,7 @@ UI_Map_AreaData:
 							UI_Map_MenuName: 
 								#1: Thorin's Hall Homesteads
 							UI_Map_PixelHeight: 768
-							UI_Map_PixelOffsetX: 140
+							UI_Map_PixelOffsetX: 110
 							UI_Map_PixelOffsetY: 760
 							UI_Map_PixelWidth: 1024
 							UI_Map_QuestGuideBound_XMax: 800
@@ -87,8 +87,8 @@ UI_Map_AreaData:
 							UI_Map_PixelWidth: 1024
 							UI_Map_RegionID: 1 (Eriador)
 							UI_Map_Scale: 0.925
-					UI_Map_BlockOffsetX: 50
-					UI_Map_BlockOffsetY: 115
+					UI_Map_BlockOffsetX: 49
+					UI_Map_BlockOffsetY: 119
 					UI_Map_IncludeCommonMapNoteTypes: 1
 					UI_Map_MapImage: 1090552108
 					UI_Map_MapNoteDisplayType: 1100048498688 (Homestead,Settlement)
@@ -96,11 +96,11 @@ UI_Map_AreaData:
 					UI_Map_MenuName: 
 						#1: Ered Luin
 					UI_Map_PixelHeight: 768
-					UI_Map_PixelOffsetX: 239
-					UI_Map_PixelOffsetY: 768
+					UI_Map_PixelOffsetX: 110
+					UI_Map_PixelOffsetY: 767
 					UI_Map_PixelWidth: 1024
 					UI_Map_RegionID: 1 (Eriador)
-					UI_Map_Scale: 0.19375
+					UI_Map_Scale: 0.228125
 				#2: 
 					UI_Map_ActiveElement: 268437592 (RegionMap_2_Trollshaws)
 					UI_Map_AreaDIDs_Array: 
@@ -545,6 +545,7 @@ UI_Map_AreaData:
 						#17: 1879064011
 						#18: 1879064012
 						#19: 1879064013
+						#20: 1879398374
 					UI_Map_AreaData_Array: 
 						#1: 
 							UI_Map_ActiveElement: 268437716 (CityMap_1_BreeCity)
@@ -658,6 +659,24 @@ UI_Map_AreaData:
 							UI_Map_RegionID: 1 (Eriador)
 							UI_Map_Scale: 0.88
 						#7: 
+							UI_Map_ActiveElement: 268453543 (area_breeland_wildwood)
+							UI_Map_AreaDIDs_Array: 
+								#1: 1879398374
+							UI_Map_BlockOffsetX: 101
+							UI_Map_BlockOffsetY: 124
+							UI_Map_IncludeCommonMapNoteTypes: 1
+							UI_Map_MapImage: 1092667336
+							UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
+							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
+							UI_Map_MenuName: 
+								#1: The Wildwood of Bree-land
+							UI_Map_PixelHeight: 768
+							UI_Map_PixelOffsetX: 135
+							UI_Map_PixelOffsetY: 725
+							UI_Map_PixelWidth: 1024
+							UI_Map_RegionID: 1 (Eriador)
+							UI_Map_Scale: 0.325
+						#8: 
 							UI_Map_ActiveElement: 268440603 (Playerhousing_1_Breeland)
 							UI_Map_AreaDIDs_Array: 
 								#1: 1879098738
@@ -674,8 +693,8 @@ UI_Map_AreaData:
 							UI_Map_PixelWidth: 1024
 							UI_Map_RegionID: 1 (Eriador)
 							UI_Map_Scale: 0.948387
-					UI_Map_BlockOffsetX: 104
-					UI_Map_BlockOffsetY: 107
+					UI_Map_BlockOffsetX: 103
+					UI_Map_BlockOffsetY: 108
 					UI_Map_IncludeCommonMapNoteTypes: 1
 					UI_Map_MapImage: 1090552118
 					UI_Map_MapNoteDisplayType: 1100048498688 (Homestead,Settlement)
@@ -683,11 +702,11 @@ UI_Map_AreaData:
 					UI_Map_MenuName: 
 						#1: Bree-land
 					UI_Map_PixelHeight: 768
-					UI_Map_PixelOffsetX: 72
-					UI_Map_PixelOffsetY: 764
+					UI_Map_PixelOffsetX: 94
+					UI_Map_PixelOffsetY: 767
 					UI_Map_PixelWidth: 1024
 					UI_Map_RegionID: 1 (Eriador)
-					UI_Map_Scale: 0.18125
+					UI_Map_Scale: 0.165625
 				#11: 
 					UI_Map_ActiveElement: 268437678 (RegionMap_7_Shire)
 					UI_Map_AreaDIDs_Array: 
@@ -724,7 +743,7 @@ UI_Map_AreaData:
 							UI_Map_RegionID: 1 (Eriador)
 							UI_Map_Scale: 0.905
 					UI_Map_BlockOffsetX: 85
-					UI_Map_BlockOffsetY: 107
+					UI_Map_BlockOffsetY: 108
 					UI_Map_IncludeCommonMapNoteTypes: 1
 					UI_Map_MapImage: 1090552119
 					UI_Map_MapNoteDisplayType: 1100048498688 (Homestead,Settlement)
@@ -732,11 +751,11 @@ UI_Map_AreaData:
 					UI_Map_MenuName: 
 						#1: The Shire
 					UI_Map_PixelHeight: 768
-					UI_Map_PixelOffsetX: 102
-					UI_Map_PixelOffsetY: 768
+					UI_Map_PixelOffsetX: 80
+					UI_Map_PixelOffsetY: 767
 					UI_Map_PixelWidth: 1024
 					UI_Map_RegionID: 1 (Eriador)
-					UI_Map_Scale: 0.24175
+					UI_Map_Scale: 0.26875
 				#12: 
 					UI_Map_ActiveElement: 268441431 (RegionMap_11_Forochel)
 					UI_Map_AreaDIDs_Array: 

@@ -1,3 +1,4 @@
+ItemAdvancement_AdvanceableWidget_LevelTable: 1879320935
 ItemAdvancement_BlankImbuedWidgetDID: 1879324661
 ItemAdvancement_ClassAgnosticWidgetDID_Array: 
 	#1: 1879324313

@@ -2291,6 +2291,8 @@
 2904 - UICore_Element_IgnoreParentStateChange, type=boolean, data=0, default value=0
 2905 - Entity_AdditionalScriptTables_Override, type=Array, data=0, default value=null
 2906 - Character_GameCompatibilityVersion, type=String, data=0, default value=null
+2907 - WebAccessMethod_OutputFilter, type=String Info, data=0, default value=null
+2908 - Render_StencilShadowOrientation, type=Vector, data=0, default value=x=1.0,y=1.0,z=1.0
 268435457 - Pedigree_Surname_LevelRestriction, type=Int, data=0, default value=0
 268435458 - Auction_ID, type=InstanceID, data=0, default value=0
 268435459 - MiniGame.FreezeTag@Player.m_bIsPlaying, type=boolean, data=0, default value=null
@@ -20015,7 +20017,7 @@
 268457570 - Trait_Hunter_RefinedBlackPowder_DamageMod, type=Float, data=0, default value=0.0
 268457571 - Trait_Hunter_Trap_MaxRangeMod, type=Float, data=0, default value=0.0
 268457572 - Trait_Hunter_Trap_ResistPen, type=Float, data=0, default value=0.0
-268457574 - Trait_Hunter_FindthePath_SpeedMod, type=Float, data=0, default value=0.0
+268457574 - Trait_Hunter_FindthePath_SpeedMod, type=Array, data=0, default value=null
 268457575 - Trait_Hunter_Volley_AppChance, type=Float, data=0, default value=0.0
 268457576 - Trait_Hunter_Exsanguinate_AppChance, type=Float, data=0, default value=0.0
 268457577 - Trait_Hunter_HeartSeeker_HealingDebuff_Override, type=Array, data=0, default value=null
@@ -23408,7 +23410,7 @@
 268461423 - Discount_Mirkwood_North, type=Float, data=0, default value=0.0
 268461424 - Discount_Travel_Mirkwood_North, type=Float, data=0, default value=0.0
 268461426 - Itemset_Captain_ValiantStrike_CooldownMod, type=Float, data=0, default value=0.0
-268461427 - Skill_Captain_Battleshout_CooldownMod, type=Float, data=0, default value=0.0
+268461427 - Skill_Captain_Battleshout_CooldownMod, type=Int, data=0, default value=0
 268461428 - ItemSet_Champion_ControlledBurn_RecoveryTime, type=Float, data=0, default value=0.0
 268461429 - Skill_Duration_Champion_AggressiveExchange, type=Float, data=0, default value=0.0
 268461430 - Skill_Champion_BladesCourage_ProcChance, type=Float, data=0, default value=0.0
@@ -24237,7 +24239,56 @@
 268462440 - Version_POItem_StampProperty_232, type=boolean, data=0, default value=null
 268462441 - Version_POItem_StampProperty_233, type=boolean, data=0, default value=null
 268462442 - UI_Map_IncludeCommonMapNoteTypes, type=boolean, data=0, default value=0
+268462443 - WE_Integer_Wildwood_Instance_Tier_Gate, type=Int, data=0, default value=null
+268462444 - World_InstanceLength_wildwood_old_forest_3man, type=Int, data=0, default value=null
+268462445 - World_InstanceLength_wildwood_forochel_3man, type=Int, data=0, default value=null
 268462454 - Trait_Brawler_Builder_Chain_Heal, type=Array, data=0, default value=null
 268462461 - Trait_Brawler_SingularStrike_Charges, type=Array, data=0, default value=null
 268462464 - Discount_Housing_Summoned_Supplier, type=Float, data=0, default value=0.0
 268462465 - Discount_Housing_Rohan, type=Float, data=0, default value=0.0
+268462467 - WE_Wildwood_Instances_Aotc_Gate, type=boolean, data=0, default value=null
+268462468 - World_InstanceLength_spring_flower, type=Int, data=0, default value=0
+268462469 - Reputation_Faction_Azanulbizar_Veterans_EarnedReputation, type=Long 64bits, data=0, default value=null
+268462470 - Reputation_Faction_Azanulbizar_Veterans_Cap, type=Enum Mapper, data=587203059, default value=null
+268462471 - Reputation_Faction_Azanulbizar_Veterans_CurrentTier, type=Enum Mapper, data=587203059, default value=null
+268462472 - World_InstanceLength_azanulbizar_raid, type=Int, data=0, default value=null
+268462473 - WE_Azanulbizar_Raid_Aotc_Gate, type=boolean, data=0, default value=null
+268462474 - WE_Integer_Azanulbizar_Raid_Tier_Gate, type=Int, data=0, default value=null
+268462475 - WE_Integer_Azanulbizar_Mission_Config, type=Int, data=0, default value=null
+268462476 - WE_Azanulbizar_Rare_Moose_Int, type=Int, data=0, default value=null
+268462477 - WE_Azanulbizar_Rare_Bat_Int, type=Int, data=0, default value=null
+268462478 - WE_Azanulbizar_Rare_Warg_Int, type=Int, data=0, default value=null
+268462479 - WE_Azanulbizar_Rare_Orc_Int, type=Int, data=0, default value=null
+268462480 - WE_Azanulbizar_Rare_Goblin_Int, type=Int, data=0, default value=null
+268462481 - WE_Azanulbizar_Rare_Orc_Boolean, type=boolean, data=0, default value=null
+268462482 - WE_Azanulbizar_Rare_Goblin_Boolean, type=boolean, data=0, default value=null
+268462483 - WE_Azanulbizar_Rare_Warg_Boolean, type=boolean, data=0, default value=null
+268462484 - WE_Azanulbizar_Rare_Bat_Boolean, type=boolean, data=0, default value=null
+268462485 - WE_Azanulbizar_Rare_Moose_Boolean, type=boolean, data=0, default value=null
+268462486 - WE_Azanulbizar_Rare_Goblin_Driven_2, type=boolean, data=0, default value=null
+268462487 - WE_Azanulbizar_Rare_Warg_Driven_1, type=boolean, data=0, default value=null
+268462488 - WE_Azanulbizar_Rare_Warg_Driven_2, type=boolean, data=0, default value=null
+268462489 - WE_Azanulbizar_Rare_Bat_Driven_1, type=boolean, data=0, default value=null
+268462490 - WE_Azanulbizar_Rare_Bat_Driven_2, type=boolean, data=0, default value=null
+268462491 - WE_Azanulbizar_Rare_Orc_Driven_1, type=boolean, data=0, default value=null
+268462492 - WE_Azanulbizar_Rare_Orc_Driven_2, type=boolean, data=0, default value=null
+268462493 - WE_Azanulbizar_Rare_Moose_Driven_1, type=boolean, data=0, default value=null
+268462494 - WE_Azanulbizar_Rare_Moose_Driven_2, type=boolean, data=0, default value=null
+268462495 - WE_Azanulbizar_Rare_Goblin_Driven_1, type=boolean, data=0, default value=null
+268462499 - WE_endgame_geode_igneous_bonus, type=boolean, data=0, default value=null
+268462500 - WE_endgame_geode_sedimentary_bonus_int, type=boolean, data=0, default value=null
+268462501 - WE_endgame_geode_igneous_on_int, type=boolean, data=0, default value=null
+268462502 - WE_endgame_geode_igneous_bonus_int, type=boolean, data=0, default value=null
+268462503 - WE_endgame_geode_igneous_on, type=boolean, data=0, default value=null
+268462504 - WE_endgame_geode_sedimentary_bonus, type=boolean, data=0, default value=null
+268462505 - WE_endgame_geode_active, type=boolean, data=0, default value=null
+268462506 - WE_endgame_geode_sedimentary_on, type=boolean, data=0, default value=null
+268462507 - WE_gundabad_endgame_geode_igneous, type=Int, data=0, default value=null
+268462508 - WE_endgame_geode_sedimentary_on_int, type=boolean, data=0, default value=null
+268462509 - WE_gundabad_endgame_geode_sedimentary, type=Int, data=0, default value=null
+268462510 - WE_Landscape_Difficulty_Control, type=boolean, data=0, default value=null
+268462511 - Reputation_Faction_Gundabad_Cap, type=Enum Mapper, data=587203059, default value=null
+268462512 - Reputation_Faction_Gundabad_CurrentTier, type=Enum Mapper, data=587203059, default value=null
+268462513 - Discount_Travel_Gundabad, type=Float, data=0, default value=0.0
+268462514 - Discount_Gundabad, type=Float, data=0, default value=0.0
+268462515 - Reputation_Faction_Gundabad_EarnedReputation, type=Long 64bits, data=0, default value=null

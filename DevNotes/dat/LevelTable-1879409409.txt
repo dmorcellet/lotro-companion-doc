@@ -148,56 +148,70 @@ AdvTable_AvailableSkillEntryList:
 		AdvTable_Level: 1
 		AdvTable_PrerequisiteSkill: 0
 		AdvTable_Rank: 0
-		AdvTable_Skill: 1879411785
+		AdvTable_Skill: 1879411781
 		AdvTable_TrainingCost: 0
 	#18: 
 		AdvTable_AdvancedCharacterShortcutIndex: 0
 		AdvTable_Level: 1
 		AdvTable_PrerequisiteSkill: 0
 		AdvTable_Rank: 0
-		AdvTable_Skill: 1879411781
+		AdvTable_Skill: 1879411788
 		AdvTable_TrainingCost: 0
 	#19: 
 		AdvTable_AdvancedCharacterShortcutIndex: 0
 		AdvTable_Level: 1
 		AdvTable_PrerequisiteSkill: 0
 		AdvTable_Rank: 0
-		AdvTable_Skill: 1879411788
+		AdvTable_Skill: 1879411396
 		AdvTable_TrainingCost: 0
 	#20: 
 		AdvTable_AdvancedCharacterShortcutIndex: 0
 		AdvTable_Level: 1
 		AdvTable_PrerequisiteSkill: 0
 		AdvTable_Rank: 0
-		AdvTable_Skill: 1879411396
+		AdvTable_Skill: 1879411782
 		AdvTable_TrainingCost: 0
 	#21: 
 		AdvTable_AdvancedCharacterShortcutIndex: 0
 		AdvTable_Level: 1
 		AdvTable_PrerequisiteSkill: 0
 		AdvTable_Rank: 0
-		AdvTable_Skill: 1879411782
+		AdvTable_Skill: 1879411784
 		AdvTable_TrainingCost: 0
 	#22: 
 		AdvTable_AdvancedCharacterShortcutIndex: 0
 		AdvTable_Level: 1
 		AdvTable_PrerequisiteSkill: 0
 		AdvTable_Rank: 0
-		AdvTable_Skill: 1879411784
+		AdvTable_Skill: 1879411783
 		AdvTable_TrainingCost: 0
 	#23: 
 		AdvTable_AdvancedCharacterShortcutIndex: 0
 		AdvTable_Level: 1
 		AdvTable_PrerequisiteSkill: 0
 		AdvTable_Rank: 0
-		AdvTable_Skill: 1879411783
+		AdvTable_Skill: 1879411786
 		AdvTable_TrainingCost: 0
 	#24: 
 		AdvTable_AdvancedCharacterShortcutIndex: 0
 		AdvTable_Level: 1
 		AdvTable_PrerequisiteSkill: 0
 		AdvTable_Rank: 0
-		AdvTable_Skill: 1879411786
+		AdvTable_Skill: 1879414771
+		AdvTable_TrainingCost: 0
+	#25: 
+		AdvTable_AdvancedCharacterShortcutIndex: 0
+		AdvTable_Level: 1
+		AdvTable_PrerequisiteSkill: 0
+		AdvTable_Rank: 0
+		AdvTable_Skill: 1879414970
+		AdvTable_TrainingCost: 0
+	#26: 
+		AdvTable_AdvancedCharacterShortcutIndex: 0
+		AdvTable_Level: 1
+		AdvTable_PrerequisiteSkill: 0
+		AdvTable_Rank: 0
+		AdvTable_Skill: 1879416151
 		AdvTable_TrainingCost: 0
 AdvTable_BaseCombatEventTable: 201365781
 AdvTable_BaseConjunctionEventTable: 201326592

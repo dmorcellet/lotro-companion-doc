@@ -6298,15 +6298,15 @@ Class index=2146, name=IHobbyPolicy, raw size=8, parent=486
 	REFERENCE 223562500 (0)
 Class index=2147, name=SharedEventControl, raw size=8, parent=486
 	REFERENCE m_alEventList (0)
-Class index=2152, name=ItemAdvancementControl, raw size=200, parent=486
-	REFERENCE 53786788 (20)
+Class index=2152, name=ItemAdvancementControl, raw size=208, parent=486
+	REFERENCE 53786788 (21)
 	REFERENCE 158640085 (14)
 	REFERENCE 91368904 (7)
-	REFERENCE 219920344 (23)
+	REFERENCE 219920344 (24)
 	REFERENCE 129872608 (15)
 	REFERENCE 172035587 (5)
-	REFERENCE m_raLegendarySlotOffers (24)
-	REFERENCE 188715487 (22)
+	REFERENCE m_raLegendarySlotOffers (25)
+	REFERENCE 188715487 (23)
 	REFERENCE 73733795 (13)
 	REFERENCE 106446052 (6)
 	REFERENCE 48350675 (4)
@@ -6319,11 +6319,12 @@ Class index=2152, name=ItemAdvancementControl, raw size=200, parent=486
 	REFERENCE 129011247 (0)
 	REFERENCE 150334640 (19)
 	REFERENCE 254257795 (1)
+	REFERENCE 256223284 (22)
 	REFERENCE 260065572 (10)
-	REFERENCE 256223284 (21)
 	REFERENCE 85391107 (18)
 	REFERENCE m_aaRankMultipliers (16)
 	REFERENCE 267224510 (9)
+	REFERENCE m_rcAdvTable (20)
 Class index=2153, name=HobbyRewardProfile, raw size=16, parent=486
 	INTEGER 2560958 (1)
 	REFERENCE 82144851 (0)
@@ -9440,9 +9441,8 @@ Class index=4012, raw size=0, parent=4010
 Class index=4013, raw size=8, parent=4010
 	REFERENCE 143046562 (0)
 Class index=4014, raw size=0, parent=4010
-Class index=4015, raw size=16, parent=4022
-	REFERENCE m_rcAdvTable (0)
-	REFERENCE 226793969 (1)
+Class index=4015, raw size=8, parent=4022
+	REFERENCE 226793969 (0)
 Class index=4016, raw size=32
 	INTEGER 219149635 (3)
 	LONG 121029072 (1)
@@ -9452,12 +9452,9 @@ Class index=4017, raw size=8, parent=1097
 Class index=4020, raw size=16
 	REFERENCE 211246211 (0)
 	REFERENCE 183156053 (1)
-Class index=4022, raw size=8, parent=486
-	REFERENCE m_rcAdvTable (0)
-Class index=4024, raw size=8, parent=4022
-	REFERENCE m_rcAdvTable (0)
-Class index=4025, raw size=8, parent=4022
-	REFERENCE m_rcAdvTable (0)
+Class index=4022, raw size=0, parent=486
+Class index=4024, raw size=0, parent=4022
+Class index=4025, raw size=0, parent=4022
 Class index=4026, raw size=80, parent=514
 	REFERENCE 187073161 (8)
 	REFERENCE m_AttitudeTable (5)
@@ -9494,8 +9491,7 @@ Class index=4045, raw size=8, parent=4041
 	INTEGER 31002777 (0)
 Class index=4046, raw size=0, parent=3937
 Class index=4047, raw size=0, parent=3937
-Class index=4048, raw size=8, parent=4022
-	REFERENCE m_rcAdvTable (0)
+Class index=4048, raw size=0, parent=4022
 Class index=4049, raw size=0, parent=2670
 Class index=4050, raw size=8, parent=1097
 	INTEGER m_propName (0)
