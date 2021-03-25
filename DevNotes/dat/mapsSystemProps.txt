@@ -545,7 +545,6 @@ UI_Map_AreaData:
 						#17: 1879064011
 						#18: 1879064012
 						#19: 1879064013
-						#20: 1879398374
 					UI_Map_AreaData_Array: 
 						#1: 
 							UI_Map_ActiveElement: 268437716 (CityMap_1_BreeCity)

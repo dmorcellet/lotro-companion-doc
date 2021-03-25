@@ -1776,6 +1776,7 @@ Enum: AmbientMusicType, (id=587202880)
 	268436686 => BREE-LAND_Wildwood_Cave
 	268436687 => BREE-LAND_Wildwood
 	268436688 => BREE-LAND_Wildwood_Camp
+	268436689 => LONE-LANDS_Red_Maid_Instance
 Enum: AnalyzeSkillRank, (id=587203180)
 0 => Undef
 	1 => Feeble
@@ -64320,6 +64321,9 @@ GameUI [ UI_StablesCollection_TravelNPC [ entity/npc/npc_travel/npc_travel_gondo
 	268453551 => azanulbizar_adorn
 	268453552 => Accomplishment_Region_Azanulbizar_Tab
 	268453553 => Toggle_breeland_wildwood
+	268453554 => area_moria_azanulbizar
+	268453555 => area_azanulbizar_dimrill_dale
+	268453556 => Toggle_North_Downs
 Enum: UIElementMessage, (id=587202768)
 0 => Undef
 	1 => Scrollable_scrollablesize_changed
