@@ -12575,6 +12575,15 @@ Enum: ArtAssetID, (id=587202796)
 	268440511 => azanulbizar_tab_pressed
 	268440512 => azanulbizar_tab_rollover
 	268440513 => azanulbizar_adorn
+	268440514 => player_vitals_backdrop_mini_14_years_mp
+	268440515 => player_vitals_backdrop_mini_14_years
+	268440516 => player_vitals_legendary_wastes
+	268440517 => player_vitals_backdrop_14_years_mp
+	268440518 => player_vitals_backdrop_14_years
+	268440519 => opponent_vitals_legendary_wastes
+	268440520 => opponent_vitals_backdrop_14_years_mp
+	268440521 => opponent_vitals_backdrop_14_years
+	268440522 => player_vitals_mini_legendary_wastes
 Enum: AttackType, (id=587202748)
 *** enum not found: AttackType ***
 Enum: AuctionPropModCategory, (id=587203235)
@@ -66050,6 +66059,9 @@ Enum: UIStateID, (id=587202770)
 	268436461 => vdo_legserv_helmsdeep
 	268436462 => vdo_legserv_gondor
 	268436463 => vdo_three_peaks
+	268436464 => vdo_anni_creep_14
+	268436465 => vdo_anni_freep_14
+	268436466 => vdo_legserv_wastes
 Enum: Undef, (id=0)
 *** enum not found: Undef ***
 Enum: Util, (id=587202617)
