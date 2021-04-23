@@ -24292,3 +24292,10 @@
 268462513 - Discount_Travel_Gundabad, type=Float, data=0, default value=0.0
 268462514 - Discount_Gundabad, type=Float, data=0, default value=0.0
 268462515 - Reputation_Faction_Gundabad_EarnedReputation, type=Long 64bits, data=0, default value=null
+268462523 - Version_POItem_StampProperty_234, type=boolean, data=0, default value=null
+268462524 - Version_POItem_StampProperty_235, type=boolean, data=0, default value=null
+268462525 - Version_POItem_StampProperty_236, type=boolean, data=0, default value=null
+268462526 - Version_POItem_StampProperty_237, type=boolean, data=0, default value=null
+268462527 - Version_Title_StampProperty_61, type=boolean, data=0, default value=null
+268462528 - Version_Title_StampProperty_62, type=boolean, data=0, default value=null
+268462541 - we_anniversaryreward_2021, type=boolean, data=0, default value=null
