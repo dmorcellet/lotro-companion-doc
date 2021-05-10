@@ -38,8 +38,7 @@ UI_Map_AreaData:
 							UI_Map_MapImage: 1091410518
 							UI_Map_MapNoteDisplayType: 2147483648 (Quest Escort)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: Thorin's Hall Homesteads
+							UI_Map_MenuName: Thorin's Hall Homesteads
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 110
 							UI_Map_PixelOffsetY: 760
@@ -62,8 +61,7 @@ UI_Map_AreaData:
 							UI_Map_MapImage: 1090552107
 							UI_Map_MapNoteDisplayType: 536870912 (Homestead)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: Thorin's Gate
+							UI_Map_MenuName: Thorin's Gate
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 100
 							UI_Map_PixelOffsetY: 768
@@ -79,8 +77,7 @@ UI_Map_AreaData:
 							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091410228
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: Falathlorn Homesteads
+							UI_Map_MenuName: Falathlorn Homesteads
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 215
 							UI_Map_PixelOffsetY: 750
@@ -93,8 +90,7 @@ UI_Map_AreaData:
 					UI_Map_MapImage: 1090552108
 					UI_Map_MapNoteDisplayType: 1100048498688 (Homestead,Settlement)
 					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
-					UI_Map_MenuName: 
-						#1: Ered Luin
+					UI_Map_MenuName: Ered Luin
 					UI_Map_PixelHeight: 768
 					UI_Map_PixelOffsetX: 110
 					UI_Map_PixelOffsetY: 767
@@ -121,8 +117,7 @@ UI_Map_AreaData:
 							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1090552109
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: Rivendell
+							UI_Map_MenuName: Rivendell
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 101
 							UI_Map_PixelOffsetY: 737
@@ -135,8 +130,7 @@ UI_Map_AreaData:
 					UI_Map_MapImage: 1090552110
 					UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
-					UI_Map_MenuName: 
-						#1: Trollshaws
+					UI_Map_MenuName: Trollshaws
 					UI_Map_PixelHeight: 768
 					UI_Map_PixelOffsetX: 73
 					UI_Map_PixelOffsetY: 675
@@ -162,8 +156,7 @@ UI_Map_AreaData:
 					UI_Map_MapImage: 1090552111
 					UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
-					UI_Map_MenuName: 
-						#1: Misty Mountains
+					UI_Map_MenuName: Misty Mountains
 					UI_Map_PixelHeight: 768
 					UI_Map_PixelOffsetX: 210
 					UI_Map_PixelOffsetY: 768
@@ -190,8 +183,7 @@ UI_Map_AreaData:
 					UI_Map_MapImage: 1090552112
 					UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
-					UI_Map_MenuName: 
-						#1: Lone-Lands
+					UI_Map_MenuName: Lone-Lands
 					UI_Map_PixelHeight: 768
 					UI_Map_PixelOffsetX: 67
 					UI_Map_PixelOffsetY: 587
@@ -225,8 +217,7 @@ UI_Map_AreaData:
 					UI_Map_MapImage: 1090552113
 					UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
-					UI_Map_MenuName: 
-						#1: Angmar
+					UI_Map_MenuName: Angmar
 					UI_Map_PixelHeight: 768
 					UI_Map_PixelOffsetX: 0
 					UI_Map_PixelOffsetY: 751
@@ -259,8 +250,7 @@ UI_Map_AreaData:
 					UI_Map_MapImage: 1090552114
 					UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
-					UI_Map_MenuName: 
-						#1: North Downs
+					UI_Map_MenuName: North Downs
 					UI_Map_PixelHeight: 768
 					UI_Map_PixelOffsetX: 0
 					UI_Map_PixelOffsetY: 692
@@ -283,8 +273,7 @@ UI_Map_AreaData:
 					UI_Map_MapImage: 1090552115
 					UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
-					UI_Map_MenuName: 
-						#1: Ettenmoors
+					UI_Map_MenuName: Ettenmoors
 					UI_Map_PixelHeight: 768
 					UI_Map_PixelOffsetX: 95
 					UI_Map_PixelOffsetY: 768
@@ -315,8 +304,7 @@ UI_Map_AreaData:
 							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091464877
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: Annúminas
+							UI_Map_MenuName: Annúminas
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 142
 							UI_Map_PixelOffsetY: 768
@@ -329,8 +317,7 @@ UI_Map_AreaData:
 					UI_Map_MapImage: 1090646148
 					UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
-					UI_Map_MenuName: 
-						#1: Evendim
+					UI_Map_MenuName: Evendim
 					UI_Map_PixelHeight: 768
 					UI_Map_PixelOffsetX: 154
 					UI_Map_PixelOffsetY: 768
@@ -367,8 +354,7 @@ UI_Map_AreaData:
 									UI_Map_IncludeCommonMapNoteTypes: 1
 									UI_Map_MapImage: 1091661566
 									UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-									UI_Map_MenuName: 
-										#1: Galtrev
+									UI_Map_MenuName: Galtrev
 									UI_Map_PixelHeight: 768
 									UI_Map_PixelOffsetX: 111
 									UI_Map_PixelOffsetY: 659
@@ -384,8 +370,7 @@ UI_Map_AreaData:
 									UI_Map_IncludeCommonMapNoteTypes: 1
 									UI_Map_MapImage: 1091680577
 									UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-									UI_Map_MenuName: 
-										#1: Tâl Methedras
+									UI_Map_MenuName: Tâl Methedras
 									UI_Map_PixelHeight: 768
 									UI_Map_PixelOffsetX: 56
 									UI_Map_PixelOffsetY: 756
@@ -397,8 +382,7 @@ UI_Map_AreaData:
 							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091671581
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: Dunland
+							UI_Map_MenuName: Dunland
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 40
 							UI_Map_PixelOffsetY: 763
@@ -421,8 +405,7 @@ UI_Map_AreaData:
 									UI_Map_IncludeCommonMapNoteTypes: 1
 									UI_Map_MapImage: 1091671551
 									UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-									UI_Map_MenuName: 
-										#1: The Pit of Iron
+									UI_Map_MenuName: The Pit of Iron
 									UI_Map_PixelHeight: 768
 									UI_Map_PixelOffsetX: 92
 									UI_Map_PixelOffsetY: 804
@@ -434,8 +417,7 @@ UI_Map_AreaData:
 							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091661141
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: Gap of Rohan
+							UI_Map_MenuName: Gap of Rohan
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 60
 							UI_Map_PixelOffsetY: 537
@@ -456,8 +438,7 @@ UI_Map_AreaData:
 									UI_Map_IncludeCommonMapNoteTypes: 1
 									UI_Map_MapImage: 1091661569
 									UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-									UI_Map_MenuName: 
-										#1: Isengard
+									UI_Map_MenuName: Isengard
 									UI_Map_PixelHeight: 768
 									UI_Map_PixelOffsetX: 145
 									UI_Map_PixelOffsetY: 752
@@ -473,8 +454,7 @@ UI_Map_AreaData:
 									UI_Map_IncludeCommonMapNoteTypes: 1
 									UI_Map_MapImage: 1091670589
 									UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-									UI_Map_MenuName: 
-										#1: Isengard Depths
+									UI_Map_MenuName: Isengard Depths
 									UI_Map_PixelHeight: 768
 									UI_Map_PixelOffsetX: 53
 									UI_Map_PixelOffsetY: 857
@@ -490,8 +470,7 @@ UI_Map_AreaData:
 									UI_Map_IncludeCommonMapNoteTypes: 1
 									UI_Map_MapImage: 1091670615
 									UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-									UI_Map_MenuName: 
-										#1: Ring of Isengard
+									UI_Map_MenuName: Ring of Isengard
 									UI_Map_PixelHeight: 768
 									UI_Map_PixelOffsetX: 145
 									UI_Map_PixelOffsetY: 752
@@ -503,8 +482,7 @@ UI_Map_AreaData:
 							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091671559
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: Nan Curunír
+							UI_Map_MenuName: Nan Curunír
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 204
 							UI_Map_PixelOffsetY: 741
@@ -515,8 +493,7 @@ UI_Map_AreaData:
 					UI_Map_BlockOffsetY: 42
 					UI_Map_MapImage: 1091671573
 					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
-					UI_Map_MenuName: 
-						#1: Dunland Overview
+					UI_Map_MenuName: Dunland Overview
 					UI_Map_PixelHeight: 768
 					UI_Map_PixelOffsetX: 28
 					UI_Map_PixelOffsetY: 636
@@ -555,8 +532,7 @@ UI_Map_AreaData:
 							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1090552116
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: Bree
+							UI_Map_MenuName: Bree
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 95
 							UI_Map_PixelOffsetY: 768
@@ -572,8 +548,7 @@ UI_Map_AreaData:
 							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1090552117
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: Archet
+							UI_Map_MenuName: Archet
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 146
 							UI_Map_PixelOffsetY: 768
@@ -594,8 +569,7 @@ UI_Map_AreaData:
 							UI_Map_MapImage: 1091456477
 							UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: The Old Forest
+							UI_Map_MenuName: The Old Forest
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 256
 							UI_Map_PixelOffsetY: 768
@@ -612,8 +586,7 @@ UI_Map_AreaData:
 							UI_Map_MapImage: 1091622309
 							UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: Frostbluff
+							UI_Map_MenuName: Frostbluff
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 0
 							UI_Map_PixelOffsetY: 768
@@ -631,8 +604,7 @@ UI_Map_AreaData:
 							UI_Map_MapImage: 1091610689
 							UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: Northern Barrow-downs
+							UI_Map_MenuName: Northern Barrow-downs
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 187
 							UI_Map_PixelOffsetY: 706
@@ -649,8 +621,7 @@ UI_Map_AreaData:
 							UI_Map_MapImage: 1091610690
 							UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: Southern Barrow-downs
+							UI_Map_MenuName: Southern Barrow-downs
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 238
 							UI_Map_PixelOffsetY: 792
@@ -667,8 +638,7 @@ UI_Map_AreaData:
 							UI_Map_MapImage: 1092667336
 							UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: The Wildwood of Bree-land
+							UI_Map_MenuName: The Wildwood of Bree-land
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 135
 							UI_Map_PixelOffsetY: 725
@@ -684,8 +654,7 @@ UI_Map_AreaData:
 							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091410516
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: Bree-land Homesteads
+							UI_Map_MenuName: Bree-land Homesteads
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 155
 							UI_Map_PixelOffsetY: 768
@@ -698,8 +667,7 @@ UI_Map_AreaData:
 					UI_Map_MapImage: 1090552118
 					UI_Map_MapNoteDisplayType: 1100048498688 (Homestead,Settlement)
 					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
-					UI_Map_MenuName: 
-						#1: Bree-land
+					UI_Map_MenuName: Bree-land
 					UI_Map_PixelHeight: 768
 					UI_Map_PixelOffsetX: 94
 					UI_Map_PixelOffsetY: 767
@@ -733,8 +701,7 @@ UI_Map_AreaData:
 							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091410519
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: Shire Homesteads
+							UI_Map_MenuName: Shire Homesteads
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 187
 							UI_Map_PixelOffsetY: 754
@@ -747,8 +714,7 @@ UI_Map_AreaData:
 					UI_Map_MapImage: 1090552119
 					UI_Map_MapNoteDisplayType: 1100048498688 (Homestead,Settlement)
 					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
-					UI_Map_MenuName: 
-						#1: The Shire
+					UI_Map_MenuName: The Shire
 					UI_Map_PixelHeight: 768
 					UI_Map_PixelOffsetX: 80
 					UI_Map_PixelOffsetY: 767
@@ -771,8 +737,7 @@ UI_Map_AreaData:
 					UI_Map_MapImage: 1091452742
 					UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
-					UI_Map_MenuName: 
-						#1: Forochel
+					UI_Map_MenuName: Forochel
 					UI_Map_PixelHeight: 768
 					UI_Map_PixelOffsetX: 69
 					UI_Map_PixelOffsetY: 735
@@ -795,8 +760,7 @@ UI_Map_AreaData:
 					UI_Map_MapImage: 1091584420
 					UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
-					UI_Map_MenuName: 
-						#1: Enedwaith
+					UI_Map_MenuName: Enedwaith
 					UI_Map_PixelHeight: 768
 					UI_Map_PixelOffsetX: 158
 					UI_Map_PixelOffsetY: 748
@@ -826,8 +790,7 @@ UI_Map_AreaData:
 							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091470996
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: The Walls of Moria
+							UI_Map_MenuName: The Walls of Moria
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 78
 							UI_Map_PixelOffsetY: 768
@@ -840,8 +803,7 @@ UI_Map_AreaData:
 					UI_Map_MapImage: 1091470982
 					UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
-					UI_Map_MenuName: 
-						#1: Eregion
+					UI_Map_MenuName: Eregion
 					UI_Map_PixelHeight: 768
 					UI_Map_PixelOffsetX: 115
 					UI_Map_PixelOffsetY: 768
@@ -854,8 +816,7 @@ UI_Map_AreaData:
 			UI_Map_MapImage: 1090552120
 			UI_Map_MapNoteDisplayType: 70386058264576 (Fellowship Leader,Fellow,Offscreen Fellow)
 			UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
-			UI_Map_MenuName: 
-				#1: Eriador
+			UI_Map_MenuName: Eriador
 			UI_Map_PixelHeight: 768
 			UI_Map_PixelOffsetX: 0
 			UI_Map_PixelOffsetY: 745
@@ -891,8 +852,7 @@ UI_Map_AreaData:
 							UI_Map_MapImage: 1092365793
 							UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 							UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: Felegoth
+							UI_Map_MenuName: Felegoth
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: -30
 							UI_Map_PixelOffsetY: 768
@@ -911,8 +871,7 @@ UI_Map_AreaData:
 							UI_Map_MapImage: 1092413263
 							UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 							UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: Erebor
+							UI_Map_MenuName: Erebor
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 0
 							UI_Map_PixelOffsetY: 768
@@ -925,8 +884,7 @@ UI_Map_AreaData:
 					UI_Map_MapImage: 1092365794
 					UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
-					UI_Map_MenuName: 
-						#1: Northern Mirkwood
+					UI_Map_MenuName: Northern Mirkwood
 					UI_Map_PixelHeight: 768
 					UI_Map_PixelOffsetX: -14
 					UI_Map_PixelOffsetY: 769
@@ -956,8 +914,7 @@ UI_Map_AreaData:
 							UI_Map_MapImage: 1091942795
 							UI_Map_MapNoteDisplayType: 33554432 (Warband)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: Grimbeorn's House
+							UI_Map_MenuName: Grimbeorn's House
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 204
 							UI_Map_PixelOffsetY: 768
@@ -970,8 +927,7 @@ UI_Map_AreaData:
 					UI_Map_MapImage: 1092461728
 					UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
-					UI_Map_MenuName: 
-						#1: Vales of Anduin
+					UI_Map_MenuName: Vales of Anduin
 					UI_Map_PixelHeight: 768
 					UI_Map_PixelOffsetX: 404
 					UI_Map_PixelOffsetY: 768
@@ -990,8 +946,7 @@ UI_Map_AreaData:
 					UI_Map_MapImage: 1092544361
 					UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
-					UI_Map_MenuName: 
-						#1: Wells of Langflood
+					UI_Map_MenuName: Wells of Langflood
 					UI_Map_PixelHeight: 768
 					UI_Map_PixelOffsetX: 255
 					UI_Map_PixelOffsetY: 698
@@ -1008,8 +963,7 @@ UI_Map_AreaData:
 					UI_Map_MapImage: 1092597871
 					UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
-					UI_Map_MenuName: 
-						#1: Elderslade
+					UI_Map_MenuName: Elderslade
 					UI_Map_PixelHeight: 768
 					UI_Map_PixelOffsetX: 164
 					UI_Map_PixelOffsetY: 768
@@ -1026,8 +980,7 @@ UI_Map_AreaData:
 					UI_Map_MapImage: 1092597872
 					UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
-					UI_Map_MenuName: 
-						#1: Elderslade: War of Three Peaks
+					UI_Map_MenuName: Elderslade: War of Three Peaks
 					UI_Map_PixelHeight: 768
 					UI_Map_PixelOffsetX: 164
 					UI_Map_PixelOffsetY: 768
@@ -1051,8 +1004,7 @@ UI_Map_AreaData:
 							UI_Map_MapImage: 1092412668
 							UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 							UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: Steel Keep
+							UI_Map_MenuName: Steel Keep
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 129
 							UI_Map_PixelOffsetY: 768
@@ -1069,8 +1021,7 @@ UI_Map_AreaData:
 							UI_Map_MapImage: 1092413237
 							UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 							UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: Glimmerdeep
+							UI_Map_MenuName: Glimmerdeep
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 200
 							UI_Map_PixelOffsetY: 768
@@ -1087,8 +1038,7 @@ UI_Map_AreaData:
 							UI_Map_MapImage: 1092431546
 							UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 							UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: The Anvil of Winterstith
+							UI_Map_MenuName: The Anvil of Winterstith
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 0
 							UI_Map_PixelOffsetY: 751
@@ -1101,8 +1051,7 @@ UI_Map_AreaData:
 					UI_Map_MapImage: 1092390313
 					UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
-					UI_Map_MenuName: 
-						#1: Ered Mithrin
+					UI_Map_MenuName: Ered Mithrin
 					UI_Map_PixelHeight: 768
 					UI_Map_PixelOffsetX: -1
 					UI_Map_PixelOffsetY: 720
@@ -1121,8 +1070,7 @@ UI_Map_AreaData:
 					UI_Map_MapImage: 1092408504
 					UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
-					UI_Map_MenuName: 
-						#1: Iron Hills
+					UI_Map_MenuName: Iron Hills
 					UI_Map_PixelHeight: 768
 					UI_Map_PixelOffsetX: 2
 					UI_Map_PixelOffsetY: 749
@@ -1148,8 +1096,7 @@ UI_Map_AreaData:
 					UI_Map_MapImage: 1091571186
 					UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
-					UI_Map_MenuName: 
-						#1: Mirkwood
+					UI_Map_MenuName: Mirkwood
 					UI_Map_PixelHeight: 768
 					UI_Map_PixelOffsetX: 34
 					UI_Map_PixelOffsetY: 638
@@ -1166,8 +1113,7 @@ UI_Map_AreaData:
 					UI_Map_MapImage: 1092369012
 					UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
-					UI_Map_MenuName: 
-						#1: Dol Guldur (razed)
+					UI_Map_MenuName: Dol Guldur (razed)
 					UI_Map_PixelHeight: 768
 					UI_Map_PixelOffsetX: 2
 					UI_Map_PixelOffsetY: 909
@@ -1187,8 +1133,7 @@ UI_Map_AreaData:
 							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091471134
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: Zirakzigil
+							UI_Map_MenuName: Zirakzigil
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 184
 							UI_Map_PixelOffsetY: 768
@@ -1205,8 +1150,7 @@ UI_Map_AreaData:
 							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091471133
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: Durin's Way
+							UI_Map_MenuName: Durin's Way
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 0
 							UI_Map_PixelOffsetY: 561
@@ -1222,8 +1166,7 @@ UI_Map_AreaData:
 							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091471132
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: The Great Delving
+							UI_Map_MenuName: The Great Delving
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 0
 							UI_Map_PixelOffsetY: 606
@@ -1239,8 +1182,7 @@ UI_Map_AreaData:
 							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091472986
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: The Grand Stair
+							UI_Map_MenuName: The Grand Stair
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 177
 							UI_Map_PixelOffsetY: 768
@@ -1257,8 +1199,7 @@ UI_Map_AreaData:
 							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091471131
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: Zelem-melek
+							UI_Map_MenuName: Zelem-melek
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 245
 							UI_Map_PixelOffsetY: 768
@@ -1274,8 +1215,7 @@ UI_Map_AreaData:
 							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091471130
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: Nud-melek
+							UI_Map_MenuName: Nud-melek
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 0
 							UI_Map_PixelOffsetY: 768
@@ -1291,8 +1231,7 @@ UI_Map_AreaData:
 							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091471129
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: Silvertine Lodes
+							UI_Map_MenuName: Silvertine Lodes
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 181
 							UI_Map_PixelOffsetY: 768
@@ -1309,8 +1248,7 @@ UI_Map_AreaData:
 							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091471128
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: Redhorn Lodes
+							UI_Map_MenuName: Redhorn Lodes
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 168
 							UI_Map_PixelOffsetY: 768
@@ -1326,8 +1264,7 @@ UI_Map_AreaData:
 							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091471127
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: The Water-works
+							UI_Map_MenuName: The Water-works
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 185
 							UI_Map_PixelOffsetY: 850
@@ -1343,8 +1280,7 @@ UI_Map_AreaData:
 							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091471126
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: The Flaming Deeps
+							UI_Map_MenuName: The Flaming Deeps
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 74
 							UI_Map_PixelOffsetY: 768
@@ -1361,8 +1297,7 @@ UI_Map_AreaData:
 							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091471125
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: Foundations of Stone
+							UI_Map_MenuName: Foundations of Stone
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 0
 							UI_Map_PixelOffsetY: 768
@@ -1375,8 +1310,7 @@ UI_Map_AreaData:
 					UI_Map_MapImage: 1091471112
 					UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
-					UI_Map_MenuName: 
-						#1: Moria
+					UI_Map_MenuName: Moria
 					UI_Map_PixelHeight: 768
 					UI_Map_PixelOffsetX: 113
 					UI_Map_PixelOffsetY: 768
@@ -1406,8 +1340,7 @@ UI_Map_AreaData:
 							UI_Map_MapImage: 1091471110
 							UI_Map_MapNoteDisplayType: 536870912 (Homestead)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: Caras Galadhon
+							UI_Map_MenuName: Caras Galadhon
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 144
 							UI_Map_PixelOffsetY: 768
@@ -1420,8 +1353,7 @@ UI_Map_AreaData:
 					UI_Map_MapImage: 1091471111
 					UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
-					UI_Map_MenuName: 
-						#1: Lothlórien
+					UI_Map_MenuName: Lothlórien
 					UI_Map_PixelHeight: 768
 					UI_Map_PixelOffsetX: 0
 					UI_Map_PixelOffsetY: 768
@@ -1448,8 +1380,7 @@ UI_Map_AreaData:
 							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091714825
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: Stangard
+							UI_Map_MenuName: Stangard
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 251
 							UI_Map_PixelOffsetY: 668
@@ -1462,8 +1393,7 @@ UI_Map_AreaData:
 					UI_Map_MapImage: 1091690944
 					UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
-					UI_Map_MenuName: 
-						#1: The Great River
+					UI_Map_MenuName: The Great River
 					UI_Map_PixelHeight: 768
 					UI_Map_PixelOffsetX: 55
 					UI_Map_PixelOffsetY: 662
@@ -1489,8 +1419,7 @@ UI_Map_AreaData:
 									UI_Map_MapImage: 1091814174
 									UI_Map_MapNoteDisplayType: 536870912 (Homestead)
 									UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-									UI_Map_MenuName: 
-										#1: West Rohan: Edoras
+									UI_Map_MenuName: West Rohan: Edoras
 									UI_Map_PixelHeight: 768
 									UI_Map_PixelOffsetX: 269
 									UI_Map_PixelOffsetY: 701
@@ -1503,8 +1432,7 @@ UI_Map_AreaData:
 							UI_Map_MapImage: 1091814175
 							UI_Map_MapNoteDisplayType: 33554432 (Warband)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: West Rohan: Kingstead
+							UI_Map_MenuName: West Rohan: Kingstead
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 316
 							UI_Map_PixelOffsetY: 716
@@ -1521,8 +1449,7 @@ UI_Map_AreaData:
 							UI_Map_MapImage: 1091878570
 							UI_Map_MapNoteDisplayType: 536870912 (Homestead)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: Entwood
+							UI_Map_MenuName: Entwood
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 63
 							UI_Map_PixelOffsetY: 815
@@ -1539,8 +1466,7 @@ UI_Map_AreaData:
 							UI_Map_MapImage: 1091814176
 							UI_Map_MapNoteDisplayType: 33554432 (Warband)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: West Rohan: Broadacres
+							UI_Map_MenuName: West Rohan: Broadacres
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 208
 							UI_Map_PixelOffsetY: 694
@@ -1558,8 +1484,7 @@ UI_Map_AreaData:
 							UI_Map_MapImage: 1091814177
 							UI_Map_MapNoteDisplayType: 33554432 (Warband)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: West Rohan: Eastfold
+							UI_Map_MenuName: West Rohan: Eastfold
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 190
 							UI_Map_PixelOffsetY: 705
@@ -1576,8 +1501,7 @@ UI_Map_AreaData:
 							UI_Map_MapImage: 1092542999
 							UI_Map_MapNoteDisplayType: 536870912 (Homestead)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: Rohan Housing: Foothills
+							UI_Map_MenuName: Rohan Housing: Foothills
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 136
 							UI_Map_PixelOffsetY: 768
@@ -1594,8 +1518,7 @@ UI_Map_AreaData:
 							UI_Map_MapImage: 1092543000
 							UI_Map_MapNoteDisplayType: 536870912 (Homestead)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: Rohan Housing: Plains
+							UI_Map_MenuName: Rohan Housing: Plains
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 127
 							UI_Map_PixelOffsetY: 768
@@ -1612,8 +1535,7 @@ UI_Map_AreaData:
 							UI_Map_MapImage: 1091814178
 							UI_Map_MapNoteDisplayType: 33554432 (Warband)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: West Rohan: Stonedeans
+							UI_Map_MenuName: West Rohan: Stonedeans
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 198
 							UI_Map_PixelOffsetY: 696
@@ -1634,8 +1556,7 @@ UI_Map_AreaData:
 							UI_Map_MapImage: 1091814179
 							UI_Map_MapNoteDisplayType: 33554432 (Warband)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: West Rohan: Helm's Deep
+							UI_Map_MenuName: West Rohan: Helm's Deep
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 300
 							UI_Map_PixelOffsetY: 671
@@ -1778,8 +1699,7 @@ UI_Map_AreaData:
 							UI_Map_MapImage: 1091814180
 							UI_Map_MapNoteDisplayType: 1099545182208 (Warband,Settlement)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: West Rohan: Westfold
+							UI_Map_MenuName: West Rohan: Westfold
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 171
 							UI_Map_PixelOffsetY: 716
@@ -1801,8 +1721,7 @@ UI_Map_AreaData:
 									UI_Map_IncludeCommonMapNoteTypes: 1
 									UI_Map_MapImage: 1091670589
 									UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-									UI_Map_MenuName: 
-										#1: Isengard Depths (flooded)
+									UI_Map_MenuName: Isengard Depths (flooded)
 									UI_Map_PixelHeight: 768
 									UI_Map_PixelOffsetX: 54
 									UI_Map_PixelOffsetY: 565
@@ -1814,8 +1733,7 @@ UI_Map_AreaData:
 							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091887388
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: Nan Curunír (Flooded)
+							UI_Map_MenuName: Nan Curunír (Flooded)
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 216
 							UI_Map_PixelOffsetY: 727
@@ -1828,8 +1746,7 @@ UI_Map_AreaData:
 					UI_Map_MapImage: 1091814181
 					UI_Map_MapNoteDisplayType: 1099545182208 (Warband,Settlement)
 					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
-					UI_Map_MenuName: 
-						#1: Western Rohan
+					UI_Map_MenuName: Western Rohan
 					UI_Map_PixelHeight: 768
 					UI_Map_PixelOffsetX: 130
 					UI_Map_PixelOffsetY: 700
@@ -1857,8 +1774,7 @@ UI_Map_AreaData:
 									UI_Map_MapImage: 1091776016
 									UI_Map_MapNoteDisplayType: 536870912 (Homestead)
 									UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-									UI_Map_MenuName: 
-										#1: East Rohan: Harwick
+									UI_Map_MenuName: East Rohan: Harwick
 									UI_Map_PixelHeight: 768
 									UI_Map_PixelOffsetX: 89
 									UI_Map_PixelOffsetY: 864
@@ -1871,8 +1787,7 @@ UI_Map_AreaData:
 							UI_Map_MapImage: 1091752414
 							UI_Map_MapNoteDisplayType: 33554432 (Warband)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: East Rohan: The Wold
+							UI_Map_MenuName: East Rohan: The Wold
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 224
 							UI_Map_PixelOffsetY: 719
@@ -1891,8 +1806,7 @@ UI_Map_AreaData:
 							UI_Map_MapImage: 1091752412
 							UI_Map_MapNoteDisplayType: 33554432 (Warband)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: East Rohan: East Wall
+							UI_Map_MenuName: East Rohan: East Wall
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 210
 							UI_Map_PixelOffsetY: 735
@@ -1911,8 +1825,7 @@ UI_Map_AreaData:
 							UI_Map_MapImage: 1091752417
 							UI_Map_MapNoteDisplayType: 33554432 (Warband)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: East Rohan: Entwash Vale
+							UI_Map_MenuName: East Rohan: Entwash Vale
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 134
 							UI_Map_PixelOffsetY: 778
@@ -1929,8 +1842,7 @@ UI_Map_AreaData:
 							UI_Map_MapImage: 1091752413
 							UI_Map_MapNoteDisplayType: 33554432 (Warband)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: East Rohan: Eaves of Fangorn
+							UI_Map_MenuName: East Rohan: Eaves of Fangorn
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 45
 							UI_Map_PixelOffsetY: 835
@@ -1956,8 +1868,7 @@ UI_Map_AreaData:
 									UI_Map_MapImage: 1091795455
 									UI_Map_MapNoteDisplayType: 33554432 (Warband)
 									UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-									UI_Map_MenuName: 
-										#1: Forlaw
+									UI_Map_MenuName: Forlaw
 									UI_Map_PixelHeight: 768
 									UI_Map_PixelOffsetX: 160
 									UI_Map_PixelOffsetY: 723
@@ -1970,8 +1881,7 @@ UI_Map_AreaData:
 							UI_Map_MapImage: 1091794351
 							UI_Map_MapNoteDisplayType: 33554432 (Warband)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: Wildermore
+							UI_Map_MenuName: Wildermore
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 81
 							UI_Map_PixelOffsetY: 702
@@ -1991,8 +1901,7 @@ UI_Map_AreaData:
 							UI_Map_MapImage: 1091752416
 							UI_Map_MapNoteDisplayType: 33554432 (Warband)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: East Rohan: Norcrofts
+							UI_Map_MenuName: East Rohan: Norcrofts
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 272
 							UI_Map_PixelOffsetY: 799
@@ -2017,8 +1926,7 @@ UI_Map_AreaData:
 									UI_Map_MapImage: 1091776087
 									UI_Map_MapNoteDisplayType: 536870912 (Homestead)
 									UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-									UI_Map_MenuName: 
-										#1: East Rohan: Snowbourn
+									UI_Map_MenuName: East Rohan: Snowbourn
 									UI_Map_PixelHeight: 768
 									UI_Map_PixelOffsetX: 35
 									UI_Map_PixelOffsetY: 980
@@ -2031,8 +1939,7 @@ UI_Map_AreaData:
 							UI_Map_MapImage: 1091752415
 							UI_Map_MapNoteDisplayType: 33554432 (Warband)
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: East Rohan: Sutcrofts
+							UI_Map_MenuName: East Rohan: Sutcrofts
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 200
 							UI_Map_PixelOffsetY: 703
@@ -2045,8 +1952,7 @@ UI_Map_AreaData:
 					UI_Map_MapImage: 1091739319
 					UI_Map_MapNoteDisplayType: 1099545182208 (Warband,Settlement)
 					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
-					UI_Map_MenuName: 
-						#1: East Rohan
+					UI_Map_MenuName: East Rohan
 					UI_Map_PixelHeight: 768
 					UI_Map_PixelOffsetX: 27
 					UI_Map_PixelOffsetY: 680
@@ -2059,8 +1965,7 @@ UI_Map_AreaData:
 			UI_Map_MapImage: 1092365796
 			UI_Map_MapNoteDisplayType: 70386058264576 (Fellowship Leader,Fellow,Offscreen Fellow)
 			UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
-			UI_Map_MenuName: 
-				#1: Rhovanion
+			UI_Map_MenuName: Rhovanion
 			UI_Map_PixelHeight: 768
 			UI_Map_PixelOffsetX: 0
 			UI_Map_PixelOffsetY: 768
@@ -2092,8 +1997,7 @@ UI_Map_AreaData:
 									UI_Map_IncludeCommonMapNoteTypes: 1
 									UI_Map_MapImage: 1092284242
 									UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-									UI_Map_MenuName: 
-										#1: Cape of Belfalas Homesteads
+									UI_Map_MenuName: Cape of Belfalas Homesteads
 									UI_Map_PixelHeight: 768
 									UI_Map_PixelOffsetX: -21
 									UI_Map_PixelOffsetY: 776
@@ -2105,8 +2009,7 @@ UI_Map_AreaData:
 							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1092284241
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: Cape of Belfalas
+							UI_Map_MenuName: Cape of Belfalas
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 30
 							UI_Map_PixelOffsetY: 696
@@ -2127,8 +2030,7 @@ UI_Map_AreaData:
 									UI_Map_IncludeCommonMapNoteTypes: 1
 									UI_Map_MapImage: 1091915269
 									UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-									UI_Map_MenuName: 
-										#1: Dol Amroth
+									UI_Map_MenuName: Dol Amroth
 									UI_Map_PixelHeight: 768
 									UI_Map_PixelOffsetX: 68
 									UI_Map_PixelOffsetY: 1145
@@ -2156,8 +2058,7 @@ UI_Map_AreaData:
 							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091915499
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: Havens of Belfalas
+							UI_Map_MenuName: Havens of Belfalas
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 0
 							UI_Map_PixelOffsetY: 626
@@ -2173,8 +2074,7 @@ UI_Map_AreaData:
 							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091914804
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: Paths of the Dead
+							UI_Map_MenuName: Paths of the Dead
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 47
 							UI_Map_PixelOffsetY: 765
@@ -2192,8 +2092,7 @@ UI_Map_AreaData:
 							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091915501
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: Blackroot Vale
+							UI_Map_MenuName: Blackroot Vale
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 407
 							UI_Map_PixelOffsetY: 743
@@ -2209,8 +2108,7 @@ UI_Map_AreaData:
 							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091915500
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: Lamedon
+							UI_Map_MenuName: Lamedon
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 348
 							UI_Map_PixelOffsetY: 738
@@ -2223,8 +2121,7 @@ UI_Map_AreaData:
 					UI_Map_MapImage: 1091909855
 					UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
-					UI_Map_MenuName: 
-						#1: Western Gondor
+					UI_Map_MenuName: Western Gondor
 					UI_Map_PixelHeight: 768
 					UI_Map_PixelOffsetX: 215
 					UI_Map_PixelOffsetY: 672
@@ -2240,8 +2137,7 @@ UI_Map_AreaData:
 					UI_Map_IncludeCommonMapNoteTypes: 1
 					UI_Map_MapImage: 1091930489
 					UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-					UI_Map_MenuName: 
-						#1: Dead Marshes
+					UI_Map_MenuName: Dead Marshes
 					UI_Map_PixelHeight: 768
 					UI_Map_PixelOffsetX: 78
 					UI_Map_PixelOffsetY: 633
@@ -2260,8 +2156,7 @@ UI_Map_AreaData:
 							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091942725
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: Dor-en-Ernil
+							UI_Map_MenuName: Dor-en-Ernil
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 263
 							UI_Map_PixelOffsetY: 885
@@ -2282,8 +2177,7 @@ UI_Map_AreaData:
 									UI_Map_IncludeCommonMapNoteTypes: 1
 									UI_Map_MapImage: 1091942716
 									UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-									UI_Map_MenuName: 
-										#1: Pelargir
+									UI_Map_MenuName: Pelargir
 									UI_Map_PixelHeight: 768
 									UI_Map_PixelOffsetX: 165
 									UI_Map_PixelOffsetY: 855
@@ -2311,8 +2205,7 @@ UI_Map_AreaData:
 							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091942724
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: Lebennin
+							UI_Map_MenuName: Lebennin
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 35
 							UI_Map_PixelOffsetY: 815
@@ -2328,8 +2221,7 @@ UI_Map_AreaData:
 							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091942719
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: Ringló Vale
+							UI_Map_MenuName: Ringló Vale
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 246
 							UI_Map_PixelOffsetY: 838
@@ -2342,8 +2234,7 @@ UI_Map_AreaData:
 					UI_Map_MapImage: 1091942723
 					UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
-					UI_Map_MenuName: 
-						#1: Central Gondor
+					UI_Map_MenuName: Central Gondor
 					UI_Map_PixelHeight: 768
 					UI_Map_PixelOffsetX: 152
 					UI_Map_PixelOffsetY: 732
@@ -2362,8 +2253,7 @@ UI_Map_AreaData:
 							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091956280
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: Upper Lebennin
+							UI_Map_MenuName: Upper Lebennin
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 281
 							UI_Map_PixelOffsetY: 873
@@ -2379,8 +2269,7 @@ UI_Map_AreaData:
 							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091956284
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: Lossarnach
+							UI_Map_MenuName: Lossarnach
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 314
 							UI_Map_PixelOffsetY: 890
@@ -2401,8 +2290,7 @@ UI_Map_AreaData:
 									UI_Map_IncludeCommonMapNoteTypes: 1
 									UI_Map_MapImage: 1091956289
 									UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-									UI_Map_MenuName: 
-										#1: Osgiliath
+									UI_Map_MenuName: Osgiliath
 									UI_Map_PixelHeight: 768
 									UI_Map_PixelOffsetX: 31
 									UI_Map_PixelOffsetY: 771
@@ -2448,8 +2336,7 @@ UI_Map_AreaData:
 							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091956282
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: South Ithilien
+							UI_Map_MenuName: South Ithilien
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 205
 							UI_Map_PixelOffsetY: 779
@@ -2462,8 +2349,7 @@ UI_Map_AreaData:
 					UI_Map_MapImage: 1091956277
 					UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
-					UI_Map_MenuName: 
-						#1: Eastern Gondor
+					UI_Map_MenuName: Eastern Gondor
 					UI_Map_PixelHeight: 768
 					UI_Map_PixelOffsetX: 87
 					UI_Map_PixelOffsetY: 762
@@ -2487,8 +2373,7 @@ UI_Map_AreaData:
 									UI_Map_IncludeCommonMapNoteTypes: 1
 									UI_Map_MapImage: 1091983087
 									UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-									UI_Map_MenuName: 
-										#1: Minas Tirith
+									UI_Map_MenuName: Minas Tirith
 									UI_Map_PixelHeight: 768
 									UI_Map_PixelOffsetX: 58
 									UI_Map_PixelOffsetY: 793
@@ -2536,8 +2421,7 @@ UI_Map_AreaData:
 									UI_Map_IncludeCommonMapNoteTypes: 1
 									UI_Map_MapImage: 1092560926
 									UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-									UI_Map_MenuName: 
-										#1: Minas Tirith Midsummer (The Great Wedding)
+									UI_Map_MenuName: Minas Tirith Midsummer (The Great Wedding)
 									UI_Map_PixelHeight: 768
 									UI_Map_PixelOffsetX: 229
 									UI_Map_PixelOffsetY: 690
@@ -2549,8 +2433,7 @@ UI_Map_AreaData:
 							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091983088
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: Pelennor
+							UI_Map_MenuName: Pelennor
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 298
 							UI_Map_PixelOffsetY: 764
@@ -2566,8 +2449,7 @@ UI_Map_AreaData:
 							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1092240103
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: North Ithilien
+							UI_Map_MenuName: North Ithilien
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: -6
 							UI_Map_PixelOffsetY: 772
@@ -2679,8 +2561,7 @@ UI_Map_AreaData:
 							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1091983086
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: Talath Anor
+							UI_Map_MenuName: Talath Anor
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 154
 							UI_Map_PixelOffsetY: 750
@@ -2693,8 +2574,7 @@ UI_Map_AreaData:
 					UI_Map_MapImage: 1091983089
 					UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
-					UI_Map_MenuName: 
-						#1: Old Anórien
+					UI_Map_MenuName: Old Anórien
 					UI_Map_PixelHeight: 768
 					UI_Map_PixelOffsetX: 272
 					UI_Map_PixelOffsetY: 710
@@ -2713,8 +2593,7 @@ UI_Map_AreaData:
 							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1092005776
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: Taur Drúadan
+							UI_Map_MenuName: Taur Drúadan
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 72
 							UI_Map_PixelOffsetY: 756
@@ -2730,8 +2609,7 @@ UI_Map_AreaData:
 							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1092005771
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: Beacon Hills
+							UI_Map_MenuName: Beacon Hills
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 118
 							UI_Map_PixelOffsetY: 749
@@ -2744,8 +2622,7 @@ UI_Map_AreaData:
 					UI_Map_MapImage: 1092005777
 					UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
-					UI_Map_MenuName: 
-						#1: Far Anórien
+					UI_Map_MenuName: Far Anórien
 					UI_Map_PixelHeight: 768
 					UI_Map_PixelOffsetX: 85
 					UI_Map_PixelOffsetY: 765
@@ -2774,8 +2651,7 @@ UI_Map_AreaData:
 			UI_Map_MapImage: 1091912502
 			UI_Map_MapNoteDisplayType: 70386058264576 (Fellowship Leader,Fellow,Offscreen Fellow)
 			UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
-			UI_Map_MenuName: 
-				#1: Gondor
+			UI_Map_MenuName: Gondor
 			UI_Map_PixelHeight: 768
 			UI_Map_PixelOffsetX: -256
 			UI_Map_PixelOffsetY: 553
@@ -2813,8 +2689,7 @@ UI_Map_AreaData:
 							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1092326796
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: Agarnaith
+							UI_Map_MenuName: Agarnaith
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 65
 							UI_Map_PixelOffsetY: 765
@@ -2845,8 +2720,7 @@ UI_Map_AreaData:
 									UI_Map_IncludeCommonMapNoteTypes: 1
 									UI_Map_MapImage: 1092524610
 									UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-									UI_Map_MenuName: 
-										#1: Minas Morgul
+									UI_Map_MenuName: Minas Morgul
 									UI_Map_PixelHeight: 768
 									UI_Map_PixelOffsetX: 23
 									UI_Map_PixelOffsetY: 768
@@ -2862,8 +2736,7 @@ UI_Map_AreaData:
 									UI_Map_IncludeCommonMapNoteTypes: 1
 									UI_Map_MapImage: 1092526842
 									UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-									UI_Map_MenuName: 
-										#1: Torech Ungol
+									UI_Map_MenuName: Torech Ungol
 									UI_Map_PixelHeight: 768
 									UI_Map_PixelOffsetX: 117
 									UI_Map_PixelOffsetY: 717
@@ -2879,8 +2752,7 @@ UI_Map_AreaData:
 									UI_Map_IncludeCommonMapNoteTypes: 1
 									UI_Map_MapImage: 1092537315
 									UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-									UI_Map_MenuName: 
-										#1: Shelob's Lair
+									UI_Map_MenuName: Shelob's Lair
 									UI_Map_PixelHeight: 768
 									UI_Map_PixelOffsetX: 458
 									UI_Map_PixelOffsetY: 768
@@ -2892,8 +2764,7 @@ UI_Map_AreaData:
 							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1092524609
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: Morgul Vale
+							UI_Map_MenuName: Morgul Vale
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 231
 							UI_Map_PixelOffsetY: 741
@@ -2916,8 +2787,7 @@ UI_Map_AreaData:
 									UI_Map_IncludeCommonMapNoteTypes: 1
 									UI_Map_MapImage: 1092524611
 									UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-									UI_Map_MenuName: 
-										#1: Mordor Besieged
+									UI_Map_MenuName: Mordor Besieged
 									UI_Map_PixelHeight: 768
 									UI_Map_PixelOffsetX: 0
 									UI_Map_PixelOffsetY: 673
@@ -2929,8 +2799,7 @@ UI_Map_AreaData:
 							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1092326797
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: Dor Amarth
+							UI_Map_MenuName: Dor Amarth
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: -32
 							UI_Map_PixelOffsetY: 845
@@ -2947,8 +2816,7 @@ UI_Map_AreaData:
 							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1092326798
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: Lhingris
+							UI_Map_MenuName: Lhingris
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: -94
 							UI_Map_PixelOffsetY: 790
@@ -2970,8 +2838,7 @@ UI_Map_AreaData:
 									UI_Map_IncludeCommonMapNoteTypes: 1
 									UI_Map_MapImage: 1092337616
 									UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-									UI_Map_MenuName: 
-										#1: Sammath Naur
+									UI_Map_MenuName: Sammath Naur
 									UI_Map_PixelHeight: 768
 									UI_Map_PixelOffsetX: 2
 									UI_Map_PixelOffsetY: 898
@@ -2983,8 +2850,7 @@ UI_Map_AreaData:
 							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1092326799
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: Orodruin
+							UI_Map_MenuName: Orodruin
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: -15
 							UI_Map_PixelOffsetY: 781
@@ -3005,8 +2871,7 @@ UI_Map_AreaData:
 									UI_Map_IncludeCommonMapNoteTypes: 1
 									UI_Map_MapImage: 1092337617
 									UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-									UI_Map_MenuName: 
-										#1: Nargroth
+									UI_Map_MenuName: Nargroth
 									UI_Map_PixelHeight: 768
 									UI_Map_PixelOffsetX: -56
 									UI_Map_PixelOffsetY: 791
@@ -3018,8 +2883,7 @@ UI_Map_AreaData:
 							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1092326800
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: Talath Úrui
+							UI_Map_MenuName: Talath Úrui
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: -30
 							UI_Map_PixelOffsetY: 837
@@ -3035,8 +2899,7 @@ UI_Map_AreaData:
 							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1092326801
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: Udûn
+							UI_Map_MenuName: Udûn
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: -4
 							UI_Map_PixelOffsetY: 780
@@ -3048,8 +2911,7 @@ UI_Map_AreaData:
 					UI_Map_IncludeCommonMapNoteTypes: 1
 					UI_Map_MapImage: 1092322516
 					UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-					UI_Map_MenuName: 
-						#1: Gorgoroth
+					UI_Map_MenuName: Gorgoroth
 					UI_Map_PixelHeight: 768
 					UI_Map_PixelOffsetX: 0
 					UI_Map_PixelOffsetY: 780
@@ -3073,8 +2935,7 @@ UI_Map_AreaData:
 							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1092340312
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: Morannon (War of the Last Alliance)
+							UI_Map_MenuName: Morannon (War of the Last Alliance)
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: -23
 							UI_Map_PixelOffsetY: 808
@@ -3086,8 +2947,7 @@ UI_Map_AreaData:
 					UI_Map_IncludeCommonMapNoteTypes: 1
 					UI_Map_MapImage: 1092278441
 					UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-					UI_Map_MenuName: 
-						#1: The Wastes
+					UI_Map_MenuName: The Wastes
 					UI_Map_PixelHeight: 768
 					UI_Map_PixelOffsetX: 112
 					UI_Map_PixelOffsetY: 793
@@ -3106,8 +2966,7 @@ UI_Map_AreaData:
 							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1092171933
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: Minas Tirith (after battle)
+							UI_Map_MenuName: Minas Tirith (after battle)
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 58
 							UI_Map_PixelOffsetY: 793
@@ -3123,8 +2982,7 @@ UI_Map_AreaData:
 							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1092240103
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: North Ithilien
+							UI_Map_MenuName: North Ithilien
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 143
 							UI_Map_PixelOffsetY: 770
@@ -3140,8 +2998,7 @@ UI_Map_AreaData:
 							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1092240101
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: Osgiliath (after battle)
+							UI_Map_MenuName: Osgiliath (after battle)
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 0
 							UI_Map_PixelOffsetY: 881
@@ -3157,8 +3014,7 @@ UI_Map_AreaData:
 							UI_Map_IncludeCommonMapNoteTypes: 1
 							UI_Map_MapImage: 1092240104
 							UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
-							UI_Map_MenuName: 
-								#1: The Pelennor Fields (after battle)
+							UI_Map_MenuName: The Pelennor Fields (after battle)
 							UI_Map_PixelHeight: 768
 							UI_Map_PixelOffsetX: 157
 							UI_Map_PixelOffsetY: 777
@@ -3171,8 +3027,7 @@ UI_Map_AreaData:
 					UI_Map_MapImage: 1092240438
 					UI_Map_MapNoteDisplayType: 1099511627776 (Settlement)
 					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
-					UI_Map_MenuName: 
-						#1: March of the King
+					UI_Map_MenuName: March of the King
 					UI_Map_PixelHeight: 768
 					UI_Map_PixelOffsetX: 266
 					UI_Map_PixelOffsetY: 759
@@ -3185,8 +3040,7 @@ UI_Map_AreaData:
 			UI_Map_MapImage: 1092240179
 			UI_Map_MapNoteDisplayType: 70386058264576 (Fellowship Leader,Fellow,Offscreen Fellow)
 			UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
-			UI_Map_MenuName: 
-				#1: Mordor
+			UI_Map_MenuName: Mordor
 			UI_Map_PixelHeight: 768
 			UI_Map_PixelOffsetX: -822
 			UI_Map_PixelOffsetY: 539
@@ -3203,8 +3057,7 @@ UI_Map_AreaData:
 	UI_Map_HideFilterButtons: 1
 	UI_Map_MapImage: 1090552121
 	UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
-	UI_Map_MenuName: 
-		#1: Middle-earth
+	UI_Map_MenuName: Middle-earth
 	UI_Map_PixelHeight: 768
 	UI_Map_PixelOffsetX: 0
 	UI_Map_PixelOffsetY: -1000

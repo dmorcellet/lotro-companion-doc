@@ -374,13 +374,10 @@ AdvTable_ClassCharacteristic_List:
 		AdvTable_Trait_TrainingCost: 0
 		AdvTable_Trait_WC: 1879083738
 AdvTable_ClassInfo: 
-	AdvTable_AbbreviatedClassName: 
-		#1: BRN
-	AdvTable_ClassDesc: 
-		#1: \n<li><rgb=#FFFF00>Class Difficulty:</rgb> Advanced </li>\n\n<li><rgb=#FFFF00>Role:</rgb> Damage / Support</li>\n\n<li><rgb=#FFFF00>Gameplay:</rgb> Beornings are skin-changers that can change into the form of a bear in combat. They focus their wrath while in bear form, choosing to deal grievous blows or bolster their own resolve. While skilled in combat, some Beornings also choose to wield their knowledge of the wilderness to assist their allies.</li>\n\n<li><rgb=#FFFF00>Lore:</rgb> The Beornings of Middle-earth are a largely reclusive people. They trace their ancestry to Beorn himself and spend most of their time deep in the wilderness. The solitude of the forest gives little comfort in recent times with the enemy encroaching from all sides. The time has come for the descendants of Beorn to lend their strength to the Free Peoples of Middle-earth.\n\nThis class is inspired by Beorn, who bravely stood with the Free Peoples during the Battle of Five Armies.</li>
+	AdvTable_AbbreviatedClassName: BRN
+	AdvTable_ClassDesc: \n<li><rgb=#FFFF00>Class Difficulty:</rgb> Advanced </li>\n\n<li><rgb=#FFFF00>Role:</rgb> Damage / Support</li>\n\n<li><rgb=#FFFF00>Gameplay:</rgb> Beornings are skin-changers that can change into the form of a bear in combat. They focus their wrath while in bear form, choosing to deal grievous blows or bolster their own resolve. While skilled in combat, some Beornings also choose to wield their knowledge of the wilderness to assist their allies.</li>\n\n<li><rgb=#FFFF00>Lore:</rgb> The Beornings of Middle-earth are a largely reclusive people. They trace their ancestry to Beorn himself and spend most of their time deep in the wilderness. The solitude of the forest gives little comfort in recent times with the enemy encroaching from all sides. The time has come for the descendants of Beorn to lend their strength to the Free Peoples of Middle-earth.\n\nThis class is inspired by Beorn, who bravely stood with the Free Peoples during the Battle of Five Armies.</li>
 	AdvTable_ClassIcon: 1091909123
-	AdvTable_ClassName: 
-		#1: Beorning
+	AdvTable_ClassName: Beorning
 	AdvTable_ClassSmallIcon: 1091909124
 AdvTable_ClassOutfitAllowedSlots: 29819134 (Head,Chest,Legs,Hands,Feet,Shoulder,Back,Main-hand,Off-hand,Ranged,Main-hand Aura,Off-hand Aura,Ranged Aura)
 AdvTable_DPPerLevelProgression: 1879085648
@@ -6151,35 +6148,27 @@ AdvTable_StartingInventory_List:
 		AdvTable_StartingInventory_StartsEquipped: 1
 AdvTable_StatDescriptionArray: 
 	#1: 
-		AdvTable_StatDescription_Description: 
-			#1: As a Beorning, Might is very important for you. Might increases your Physical Mastery, Tactical Mastery, Block, Parry, Evade, and Critical Ratings.
+		AdvTable_StatDescription_Description: As a Beorning, Might is very important for you. Might increases your Physical Mastery, Tactical Mastery, Block, Parry, Evade, and Critical Ratings.
 		AdvTable_StatDescription_Stat: 4 (Might)
 	#2: 
-		AdvTable_StatDescription_Description: 
-			#1: As a Beorning, Agility increases your Critical Rating, Physical Mastery, and Evade Rating.
+		AdvTable_StatDescription_Description: As a Beorning, Agility increases your Critical Rating, Physical Mastery, and Evade Rating.
 		AdvTable_StatDescription_Stat: 2 (Agility)
 	#3: 
-		AdvTable_StatDescription_Description: 
-			#1: As a Beorning, Vitality is important for you. Vitality increases your Maximum Morale, Resistance Rating, and non-Combat Morale Regen.
+		AdvTable_StatDescription_Description: As a Beorning, Vitality is important for you. Vitality increases your Maximum Morale, Resistance Rating, and non-Combat Morale Regen.
 		AdvTable_StatDescription_Stat: 1 (Vitality)
 	#4: 
-		AdvTable_StatDescription_Description: 
-			#1: As a Beorning, Will increases your Tactical Mastery, Tactical Mitigation, Evade Rating,  and Resistance Rating.
+		AdvTable_StatDescription_Description: As a Beorning, Will increases your Tactical Mastery, Tactical Mitigation, Evade Rating,  and Resistance Rating.
 		AdvTable_StatDescription_Stat: 5 (Will)
 	#5: 
-		AdvTable_StatDescription_Description: 
-			#1: As a Beorning, Fate increases your Critical Rating, in-Combat Morale Regen, Tactical Mitigation, and Tactical Mastery.
+		AdvTable_StatDescription_Description: As a Beorning, Fate increases your Critical Rating, in-Combat Morale Regen, Tactical Mitigation, and Tactical Mastery.
 		AdvTable_StatDescription_Stat: 3 (Fate)
 	#6: 
-		AdvTable_StatDescription_Description: 
-			#1: Strength of the Beorning's Mount.
+		AdvTable_StatDescription_Description: Strength of the Beorning's Mount.
 		AdvTable_StatDescription_Stat: 7 (War-steed Strength)
 	#7: 
-		AdvTable_StatDescription_Description: 
-			#1: Agilty of the Beorning's Mount.
+		AdvTable_StatDescription_Description: Agilty of the Beorning's Mount.
 		AdvTable_StatDescription_Stat: 6 (War-steed Agility)
-AdvTable_TacticalDPSName: 
-	#1: Tactical Rank
+AdvTable_TacticalDPSName: Tactical Rank
 AdvTable_TacticalDamage_ActionDuration: 1.0
 AdvTable_TacticalDamage_Variance: 0.0
 AdvTable_TacticalHealing_ActionDuration: 1.0

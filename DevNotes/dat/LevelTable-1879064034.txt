@@ -401,13 +401,10 @@ AdvTable_ClassCharacteristic_List:
 		AdvTable_Trait_TrainingCost: 0
 		AdvTable_Trait_WC: 1879083738
 AdvTable_ClassInfo: 
-	AdvTable_AbbreviatedClassName: 
-		#1: CHN
-	AdvTable_ClassDesc: 
-		#1: \n<li><rgb=#FFFF00>Class Difficulty:</rgb> Basic</li>\n\n<li><rgb=#FFFF00>Role:</rgb> Damage</li>\n\n<li><rgb=#FFFF00>Gameplay:</rgb> Champions wade into battle swinging their weapons in all directions, dealing significant damage to many foes at once. With each strike their Fervour grows, allowing them to use even more potent skills. Special stances may be used to greatly increase damage dealt at the cost of defence or enhance defence at the cost of damage. In fellowships, a Champion concentrates on engaging as many foes as possible.</li>\n\n<li><rgb=#FFFF00>Lore:</rgb> Unrelenting in battle, Champions are the consummate warriors. A Champion cares not for his own well-being, but relies on his strength and prowess to slay the Enemy before they can bring more destruction to Middle-earth.\n\nThis class is inspired by Gimli son of Glóin, whose skill in arms matched the bow-skills of Legolas.</li> 
+	AdvTable_AbbreviatedClassName: CHN
+	AdvTable_ClassDesc: \n<li><rgb=#FFFF00>Class Difficulty:</rgb> Basic</li>\n\n<li><rgb=#FFFF00>Role:</rgb> Damage</li>\n\n<li><rgb=#FFFF00>Gameplay:</rgb> Champions wade into battle swinging their weapons in all directions, dealing significant damage to many foes at once. With each strike their Fervour grows, allowing them to use even more potent skills. Special stances may be used to greatly increase damage dealt at the cost of defence or enhance defence at the cost of damage. In fellowships, a Champion concentrates on engaging as many foes as possible.</li>\n\n<li><rgb=#FFFF00>Lore:</rgb> Unrelenting in battle, Champions are the consummate warriors. A Champion cares not for his own well-being, but relies on his strength and prowess to slay the Enemy before they can bring more destruction to Middle-earth.\n\nThis class is inspired by Gimli son of Glóin, whose skill in arms matched the bow-skills of Legolas.</li> 
 	AdvTable_ClassIcon: 1090552269
-	AdvTable_ClassName: 
-		#1: Champion
+	AdvTable_ClassName: Champion
 	AdvTable_ClassSmallIcon: 1091602038
 AdvTable_ClassOutfitAllowedSlots: 29819134 (Head,Chest,Legs,Hands,Feet,Shoulder,Back,Main-hand,Off-hand,Ranged,Main-hand Aura,Off-hand Aura,Ranged Aura)
 AdvTable_DPPerLevelProgression: 1879085648
@@ -6168,35 +6165,27 @@ AdvTable_StartingInventory_List:
 		AdvTable_StartingInventory_StartsEquipped: 1
 AdvTable_StatDescriptionArray: 
 	#1: 
-		AdvTable_StatDescription_Description: 
-			#1: As a Champion, Might is very important for you. Might increases your Physical Mastery and Damage Mitigation, as well as Evade, Parry, and Critical Ratings.
+		AdvTable_StatDescription_Description: As a Champion, Might is very important for you. Might increases your Physical Mastery and Damage Mitigation, as well as Evade, Parry, and Critical Ratings.
 		AdvTable_StatDescription_Stat: 4 (Might)
 	#2: 
-		AdvTable_StatDescription_Description: 
-			#1: As a Champion, Agility increases your Critical Rating, Parry Rating, and Evade Rating.
+		AdvTable_StatDescription_Description: As a Champion, Agility increases your Critical Rating, Parry Rating, and Evade Rating.
 		AdvTable_StatDescription_Stat: 2 (Agility)
 	#3: 
-		AdvTable_StatDescription_Description: 
-			#1: As a Champion, Vitality is important for you. Vitality increases your Maximum Morale, Resistance Rating, and non-Combat Morale Regen.
+		AdvTable_StatDescription_Description: As a Champion, Vitality is important for you. Vitality increases your Maximum Morale, Resistance Rating, and non-Combat Morale Regen.
 		AdvTable_StatDescription_Stat: 1 (Vitality)
 	#4: 
-		AdvTable_StatDescription_Description: 
-			#1: As a Champion, Will increases your Tactical Mastery, Tactical Mitigation, and Resistance Rating.
+		AdvTable_StatDescription_Description: As a Champion, Will increases your Tactical Mastery, Tactical Mitigation, and Resistance Rating.
 		AdvTable_StatDescription_Stat: 5 (Will)
 	#5: 
-		AdvTable_StatDescription_Description: 
-			#1: As a Champion, Fate increases your Critical Rating, in-Combat Morale Regen, Tactical Mitigation, and Power Regen.
+		AdvTable_StatDescription_Description: As a Champion, Fate increases your Critical Rating, in-Combat Morale Regen, Tactical Mitigation, and Power Regen.
 		AdvTable_StatDescription_Stat: 3 (Fate)
 	#6: 
-		AdvTable_StatDescription_Description: 
-			#1: Strength of the Champion's Mount.
+		AdvTable_StatDescription_Description: Strength of the Champion's Mount.
 		AdvTable_StatDescription_Stat: 7 (War-steed Strength)
 	#7: 
-		AdvTable_StatDescription_Description: 
-			#1: Agility of the Champion's Mount.
+		AdvTable_StatDescription_Description: Agility of the Champion's Mount.
 		AdvTable_StatDescription_Stat: 6 (War-steed Agility)
-AdvTable_TacticalDPSName: 
-	#1: Tactical Rank
+AdvTable_TacticalDPSName: Tactical Rank
 AdvTable_TacticalDamage_ActionDuration: 1.0
 AdvTable_TacticalDamage_Variance: 0.0
 AdvTable_TacticalHealing_ActionDuration: 1.0

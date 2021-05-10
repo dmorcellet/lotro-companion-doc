@@ -997,13 +997,10 @@ AdvTable_ClassCharacteristic_List:
 		AdvTable_Trait_TrainingCost: 0
 		AdvTable_Trait_WC: 1879083738
 AdvTable_ClassInfo: 
-	AdvTable_AbbreviatedClassName: 
-		#1: WDN
-	AdvTable_ClassDesc: 
-		#1: \n<li><rgb=#FFFF00>Class Difficulty:</rgb> Advanced</li>\n\n<li><rgb=#FFFF00>Role:</rgb> Defence</li>\n\n<li><rgb=#FFFF00>Gameplay:</rgb> Wardens are mobile melee combatants who use Javelins for initiating combat and against ranged foes. Their unique Warden Shields and a variety of defensive skills allow them to stay in the fight longer than most. Basic Warden skills build up their Gambit chain, which can be spent to unleash special Gambit skills. In fellowships, a Warden forces enemies to attack himself, so his more fragile allies will not be harmed by the foes.</li>\n\n<li><rgb=#FFFF00>Lore:</rgb> The Warden patrols the borders of civilized lands, preventing the encroachment of fell creatures from the Wild. They limit themselves to medium armour so that they can travel swiftly and silently to defend those they protect from threats. Wardens all have some military training and have mastered a style of combat that uses combinations of basic attacks to create masterful Gambits.\n\nThis class was inspired by the marchwarden of Lothlórien, Haldir, and his brothers Rúmil and Orophin.</li> 
+	AdvTable_AbbreviatedClassName: WDN
+	AdvTable_ClassDesc: \n<li><rgb=#FFFF00>Class Difficulty:</rgb> Advanced</li>\n\n<li><rgb=#FFFF00>Role:</rgb> Defence</li>\n\n<li><rgb=#FFFF00>Gameplay:</rgb> Wardens are mobile melee combatants who use Javelins for initiating combat and against ranged foes. Their unique Warden Shields and a variety of defensive skills allow them to stay in the fight longer than most. Basic Warden skills build up their Gambit chain, which can be spent to unleash special Gambit skills. In fellowships, a Warden forces enemies to attack himself, so his more fragile allies will not be harmed by the foes.</li>\n\n<li><rgb=#FFFF00>Lore:</rgb> The Warden patrols the borders of civilized lands, preventing the encroachment of fell creatures from the Wild. They limit themselves to medium armour so that they can travel swiftly and silently to defend those they protect from threats. Wardens all have some military training and have mastered a style of combat that uses combinations of basic attacks to create masterful Gambits.\n\nThis class was inspired by the marchwarden of Lothlórien, Haldir, and his brothers Rúmil and Orophin.</li> 
 	AdvTable_ClassIcon: 1091440074
-	AdvTable_ClassName: 
-		#1: Warden
+	AdvTable_ClassName: Warden
 	AdvTable_ClassSmallIcon: 1091602035
 AdvTable_ClassOutfitAllowedSlots: 29819134 (Head,Chest,Legs,Hands,Feet,Shoulder,Back,Main-hand,Off-hand,Ranged,Main-hand Aura,Off-hand Aura,Ranged Aura)
 AdvTable_DPPerLevelProgression: 1879085648
@@ -6773,35 +6770,27 @@ AdvTable_StartingInventory_List:
 		AdvTable_StartingInventory_StartsEquipped: 1
 AdvTable_StatDescriptionArray: 
 	#1: 
-		AdvTable_StatDescription_Description: 
-			#1: As a Warden, Might increases your Physical Mastery, Block Rating, and Parry Rating.
+		AdvTable_StatDescription_Description: As a Warden, Might increases your Physical Mastery, Block Rating, and Parry Rating.
 		AdvTable_StatDescription_Stat: 4 (Might)
 	#2: 
-		AdvTable_StatDescription_Description: 
-			#1: As a Warden, Agility is very important for you. Agility increases your Physical Mastery, Tactical Mastery, Critical Rating, Parry Rating, and Evade Rating.
+		AdvTable_StatDescription_Description: As a Warden, Agility is very important for you. Agility increases your Physical Mastery, Tactical Mastery, Critical Rating, Parry Rating, and Evade Rating.
 		AdvTable_StatDescription_Stat: 2 (Agility)
 	#3: 
-		AdvTable_StatDescription_Description: 
-			#1: As a Warden, Vitality is important for you. Vitality increases your Maximum Morale, Resistance Rating, and non-Combat Morale Regen.
+		AdvTable_StatDescription_Description: As a Warden, Vitality is important for you. Vitality increases your Maximum Morale, Resistance Rating, and non-Combat Morale Regen.
 		AdvTable_StatDescription_Stat: 1 (Vitality)
 	#4: 
-		AdvTable_StatDescription_Description: 
-			#1: As a Warden, Will increases your Resistance Rating and Tactical Mitigation.
+		AdvTable_StatDescription_Description: As a Warden, Will increases your Resistance Rating and Tactical Mitigation.
 		AdvTable_StatDescription_Stat: 5 (Will)
 	#5: 
-		AdvTable_StatDescription_Description: 
-			#1: As a Warden, Fate increases your Critical Rating, in-Combat Morale Regen, Tactical Mitigation, and Power Regen.
+		AdvTable_StatDescription_Description: As a Warden, Fate increases your Critical Rating, in-Combat Morale Regen, Tactical Mitigation, and Power Regen.
 		AdvTable_StatDescription_Stat: 3 (Fate)
 	#6: 
-		AdvTable_StatDescription_Description: 
-			#1: Strength of the Warden's Mount.
+		AdvTable_StatDescription_Description: Strength of the Warden's Mount.
 		AdvTable_StatDescription_Stat: 7 (War-steed Strength)
 	#7: 
-		AdvTable_StatDescription_Description: 
-			#1: Agility of the Warden's Mount.
+		AdvTable_StatDescription_Description: Agility of the Warden's Mount.
 		AdvTable_StatDescription_Stat: 6 (War-steed Agility)
-AdvTable_TacticalDPSName: 
-	#1: Tactical Rank
+AdvTable_TacticalDPSName: Tactical Rank
 AdvTable_TacticalDamage_ActionDuration: 1.0
 AdvTable_TacticalDamage_Variance: 0.0
 AdvTable_TacticalHealing_ActionDuration: 1.0

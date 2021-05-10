@@ -18690,7 +18690,7 @@
 268455898 - Mount_SkillToGrantRace_Entry, type=Struct, data=0, default value=null
 268455899 - SkillLevelCalculator, type=Data File ID, data=69, default value=null
 268455900 - UI_MountedCombat_CosmeticSlot_BackgroundToHide, type=Enum Mapper, data=587202769, default value=null
-268455901 - Mount_Warsteed_Name, type=String Info, data=0, default value=[620756997,153566949]
+268455901 - Mount_Warsteed_Name, type=String Info, data=0, default value=TableEntryStringInfo: table=0x25000005, token=0x09273EE5
 268455902 - Upgrade_Rank_elven_tassets, type=Int, data=0, default value=0
 268455904 - GloryControl_PVPPoints_RankMultiplierProgression, type=Data File ID, data=69, default value=null
 268455905 - GloryControl_PVPPoints_RewardProgression, type=Data File ID, data=69, default value=null

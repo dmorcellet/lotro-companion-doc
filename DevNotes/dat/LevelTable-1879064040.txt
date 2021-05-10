@@ -550,13 +550,10 @@ AdvTable_ClassCharacteristic_List:
 		AdvTable_Trait_TrainingCost: 0
 		AdvTable_Trait_WC: 1879083738
 AdvTable_ClassInfo: 
-	AdvTable_AbbreviatedClassName: 
-		#1: HNT
-	AdvTable_ClassDesc: 
-		#1: \n<li><rgb=#FFFF00>Class Difficulty:</rgb> Basic</li>\n\n<li><rgb=#FFFF00>Role:</rgb> Damage</li>\n\n<li><rgb=#FFFF00>Gameplay:</rgb> Hunters are proficient at dealing significant damage to a single foe at long range.  Their basic bow skills generate Focus points, allowing them to use even more potent skills.  If a foe manages to close into melee, the Hunter's dual-wielded weapons are capable of dealing the final blow.  In fellowships, a Hunter concentrates on quickly killing foes one at a time.</li>\n\n<li><rgb=#FFFF00>Lore:</rgb> Hunters are masters of field and forest, unmatched in their dexterity with the bow. They use their survival skills to guide companions and lay traps for enemies. The coming of the Enemy has forced them to adapt these skills to use against new prey.\n\nThis class was inspired by Legolas, Prince of Mirkwood, a mighty hunter and companion of Aragorn.</li>
+	AdvTable_AbbreviatedClassName: HNT
+	AdvTable_ClassDesc: \n<li><rgb=#FFFF00>Class Difficulty:</rgb> Basic</li>\n\n<li><rgb=#FFFF00>Role:</rgb> Damage</li>\n\n<li><rgb=#FFFF00>Gameplay:</rgb> Hunters are proficient at dealing significant damage to a single foe at long range.  Their basic bow skills generate Focus points, allowing them to use even more potent skills.  If a foe manages to close into melee, the Hunter's dual-wielded weapons are capable of dealing the final blow.  In fellowships, a Hunter concentrates on quickly killing foes one at a time.</li>\n\n<li><rgb=#FFFF00>Lore:</rgb> Hunters are masters of field and forest, unmatched in their dexterity with the bow. They use their survival skills to guide companions and lay traps for enemies. The coming of the Enemy has forced them to adapt these skills to use against new prey.\n\nThis class was inspired by Legolas, Prince of Mirkwood, a mighty hunter and companion of Aragorn.</li>
 	AdvTable_ClassIcon: 1090552321
-	AdvTable_ClassName: 
-		#1: Hunter
+	AdvTable_ClassName: Hunter
 	AdvTable_ClassSmallIcon: 1091602040
 AdvTable_ClassOutfitAllowedSlots: 29819134 (Head,Chest,Legs,Hands,Feet,Shoulder,Back,Main-hand,Off-hand,Ranged,Main-hand Aura,Off-hand Aura,Ranged Aura)
 AdvTable_DPPerLevelProgression: 1879085648
@@ -6327,35 +6324,27 @@ AdvTable_StartingInventory_List:
 		AdvTable_StartingInventory_StartsEquipped: 1
 AdvTable_StatDescriptionArray: 
 	#1: 
-		AdvTable_StatDescription_Description: 
-			#1: As a Hunter, Might increases your Block and Parry Ratings.
+		AdvTable_StatDescription_Description: As a Hunter, Might increases your Block and Parry Ratings.
 		AdvTable_StatDescription_Stat: 4 (Might)
 	#2: 
-		AdvTable_StatDescription_Description: 
-			#1: As a Hunter, Agility is very important for you. Agility increases Physical Mastery, Critical Rating, Parry Rating, and Evade Rating.
+		AdvTable_StatDescription_Description: As a Hunter, Agility is very important for you. Agility increases Physical Mastery, Critical Rating, Parry Rating, and Evade Rating.
 		AdvTable_StatDescription_Stat: 2 (Agility)
 	#3: 
-		AdvTable_StatDescription_Description: 
-			#1: As a Hunter, Vitality is important for you. Vitality increases your Maximum Morale, Resistance Rating, and non-Combat Morale Regen.
+		AdvTable_StatDescription_Description: As a Hunter, Vitality is important for you. Vitality increases your Maximum Morale, Resistance Rating, and non-Combat Morale Regen.
 		AdvTable_StatDescription_Stat: 1 (Vitality)
 	#4: 
-		AdvTable_StatDescription_Description: 
-			#1: As a Hunter, Will increases your Tactical Mastery, Tactical Mitigation, and Resistance Rating.
+		AdvTable_StatDescription_Description: As a Hunter, Will increases your Tactical Mastery, Tactical Mitigation, and Resistance Rating.
 		AdvTable_StatDescription_Stat: 5 (Will)
 	#5: 
-		AdvTable_StatDescription_Description: 
-			#1: As a Hunter, Fate increases your Critical Rating, in-Combat Morale Regen, Tactical Mitigation, and Power Regen.
+		AdvTable_StatDescription_Description: As a Hunter, Fate increases your Critical Rating, in-Combat Morale Regen, Tactical Mitigation, and Power Regen.
 		AdvTable_StatDescription_Stat: 3 (Fate)
 	#6: 
-		AdvTable_StatDescription_Description: 
-			#1: Strength of the Hunter's Mount.
+		AdvTable_StatDescription_Description: Strength of the Hunter's Mount.
 		AdvTable_StatDescription_Stat: 7 (War-steed Strength)
 	#7: 
-		AdvTable_StatDescription_Description: 
-			#1: Agility of the Hunter's Mount.
+		AdvTable_StatDescription_Description: Agility of the Hunter's Mount.
 		AdvTable_StatDescription_Stat: 6 (War-steed Agility)
-AdvTable_TacticalDPSName: 
-	#1: Tactical Rank
+AdvTable_TacticalDPSName: Tactical Rank
 AdvTable_TacticalDamage_ActionDuration: 1.0
 AdvTable_TacticalDamage_Variance: 0.0
 AdvTable_TacticalHealing_ActionDuration: 1.0

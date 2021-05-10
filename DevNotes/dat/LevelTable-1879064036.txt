@@ -512,13 +512,10 @@ AdvTable_ClassCharacteristic_List:
 		AdvTable_Trait_TrainingCost: 0
 		AdvTable_Trait_WC: 1879083738
 AdvTable_ClassInfo: 
-	AdvTable_AbbreviatedClassName: 
-		#1: MNS
-	AdvTable_ClassDesc: 
-		#1: \n<li><rgb=#FFFF00>Class Difficulty:</rgb> Moderate</li>\n\n<li><rgb=#FFFF00>Role:</rgb> Healer</li>\n\n<li><rgb=#FFFF00>Gameplay:</rgb> Minstrels are known for their healing abilities and are capable of dealing respectable damage with War-speech.  They have a variety of support skills and special Ballads. Using a Ballad unlocks more potent Ballads, which culminate with powerful Anthems. In fellowships, a Minstrel keeps his allies healed and supported.</li>\n\n<li><rgb=#FFFF00>Lore:</rgb> Middle-earth is a land deeply infused with music, and true Minstrels are skilled at tapping into that power. They weave songs and tales so stirring that their companions' morale will not fail, and they will be driven to perform greater feats of prowess. They can even utter words of true power and ward against the forces of darkness with their Anthems.\n\nThis class was inspired by Lúthien Tinúviel, whose Elven voice beguiled friend and foe alike.</li>
+	AdvTable_AbbreviatedClassName: MNS
+	AdvTable_ClassDesc: \n<li><rgb=#FFFF00>Class Difficulty:</rgb> Moderate</li>\n\n<li><rgb=#FFFF00>Role:</rgb> Healer</li>\n\n<li><rgb=#FFFF00>Gameplay:</rgb> Minstrels are known for their healing abilities and are capable of dealing respectable damage with War-speech.  They have a variety of support skills and special Ballads. Using a Ballad unlocks more potent Ballads, which culminate with powerful Anthems. In fellowships, a Minstrel keeps his allies healed and supported.</li>\n\n<li><rgb=#FFFF00>Lore:</rgb> Middle-earth is a land deeply infused with music, and true Minstrels are skilled at tapping into that power. They weave songs and tales so stirring that their companions' morale will not fail, and they will be driven to perform greater feats of prowess. They can even utter words of true power and ward against the forces of darkness with their Anthems.\n\nThis class was inspired by Lúthien Tinúviel, whose Elven voice beguiled friend and foe alike.</li>
 	AdvTable_ClassIcon: 1090552311
-	AdvTable_ClassName: 
-		#1: Minstrel
+	AdvTable_ClassName: Minstrel
 	AdvTable_ClassSmallIcon: 1091602042
 AdvTable_ClassOutfitAllowedSlots: 29819134 (Head,Chest,Legs,Hands,Feet,Shoulder,Back,Main-hand,Off-hand,Ranged,Main-hand Aura,Off-hand Aura,Ranged Aura)
 AdvTable_DPPerLevelProgression: 1879085648
@@ -6278,35 +6275,27 @@ AdvTable_StartingInventory_List:
 		AdvTable_StartingInventory_StartsEquipped: 1
 AdvTable_StatDescriptionArray: 
 	#1: 
-		AdvTable_StatDescription_Description: 
-			#1: As a Minstrel, Might increases your Block and Parry Ratings.
+		AdvTable_StatDescription_Description: As a Minstrel, Might increases your Block and Parry Ratings.
 		AdvTable_StatDescription_Stat: 4 (Might)
 	#2: 
-		AdvTable_StatDescription_Description: 
-			#1: As a Minstrel, Agility increases your Critical Rating, Parry Rating, and Evade Rating.
+		AdvTable_StatDescription_Description: As a Minstrel, Agility increases your Critical Rating, Parry Rating, and Evade Rating.
 		AdvTable_StatDescription_Stat: 2 (Agility)
 	#3: 
-		AdvTable_StatDescription_Description: 
-			#1: As a Minstrel, Vitality is important for you. Vitality increases your Maximum Morale, Resistance Rating, and non-Combat Morale Regen.
+		AdvTable_StatDescription_Description: As a Minstrel, Vitality is important for you. Vitality increases your Maximum Morale, Resistance Rating, and non-Combat Morale Regen.
 		AdvTable_StatDescription_Stat: 1 (Vitality)
 	#4: 
-		AdvTable_StatDescription_Description: 
-			#1: As a Minstrel, Will is very important for you. Will increases your Physical Mastery, Tactical Mastery, Tactical Mitigation, and Resistance Rating.
+		AdvTable_StatDescription_Description: As a Minstrel, Will is very important for you. Will increases your Physical Mastery, Tactical Mastery, Tactical Mitigation, and Resistance Rating.
 		AdvTable_StatDescription_Stat: 5 (Will)
 	#5: 
-		AdvTable_StatDescription_Description: 
-			#1: As a Minstrel, Fate increases your Critical Rating, in-Combat Morale Regen, Tactical Mitigation, and Power Regen.
+		AdvTable_StatDescription_Description: As a Minstrel, Fate increases your Critical Rating, in-Combat Morale Regen, Tactical Mitigation, and Power Regen.
 		AdvTable_StatDescription_Stat: 3 (Fate)
 	#6: 
-		AdvTable_StatDescription_Description: 
-			#1: Strength of the Minstrel's Mount.
+		AdvTable_StatDescription_Description: Strength of the Minstrel's Mount.
 		AdvTable_StatDescription_Stat: 7 (War-steed Strength)
 	#7: 
-		AdvTable_StatDescription_Description: 
-			#1: Agility of the Minstrel's Mount.
+		AdvTable_StatDescription_Description: Agility of the Minstrel's Mount.
 		AdvTable_StatDescription_Stat: 6 (War-steed Agility)
-AdvTable_TacticalDPSName: 
-	#1: Tactical Rank
+AdvTable_TacticalDPSName: Tactical Rank
 AdvTable_TacticalDamage_ActionDuration: 1.0
 AdvTable_TacticalDamage_Variance: 0.3
 AdvTable_TacticalHealing_ActionDuration: 1.0

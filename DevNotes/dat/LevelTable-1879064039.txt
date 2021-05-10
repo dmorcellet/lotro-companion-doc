@@ -446,13 +446,10 @@ AdvTable_ClassCharacteristic_List:
 		AdvTable_Trait_TrainingCost: 0
 		AdvTable_Trait_WC: 1879083738
 AdvTable_ClassInfo: 
-	AdvTable_AbbreviatedClassName: 
-		#1: BUR
-	AdvTable_ClassDesc: 
-		#1: \n<li><rgb=#FFFF00>Class Difficulty:</rgb> Advanced</li>\n\n<li><rgb=#FFFF00>Role:</rgb> Support</li>\n\n<li><rgb=#FFFF00>Gameplay:</rgb> Burglars are masters of debuffing; skills that cause foes to deal less damage or be easier to kill. They utilize their Trick skills to debuff foes and can later remove the Tricks for additional benefits. Burglars also have Stealth skills and are proficient at initiating Fellowship Manoeuvres. In fellowships, a Burglar supports his allies by debuffing foes, while dealing respectable damage.</li>\n\n<li><rgb=#FFFF00>Lore:</rgb> Burglars are masters of stealth and misdirection. They rely on sleight-of-hand and startling attacks that allow their companions to overwhelm adversaries.\n\nThis class is inspired by the famous Bilbo Baggins, who accompanied Thorin and Company on their quest to the Lonely Mountain.</li> 
+	AdvTable_AbbreviatedClassName: BUR
+	AdvTable_ClassDesc: \n<li><rgb=#FFFF00>Class Difficulty:</rgb> Advanced</li>\n\n<li><rgb=#FFFF00>Role:</rgb> Support</li>\n\n<li><rgb=#FFFF00>Gameplay:</rgb> Burglars are masters of debuffing; skills that cause foes to deal less damage or be easier to kill. They utilize their Trick skills to debuff foes and can later remove the Tricks for additional benefits. Burglars also have Stealth skills and are proficient at initiating Fellowship Manoeuvres. In fellowships, a Burglar supports his allies by debuffing foes, while dealing respectable damage.</li>\n\n<li><rgb=#FFFF00>Lore:</rgb> Burglars are masters of stealth and misdirection. They rely on sleight-of-hand and startling attacks that allow their companions to overwhelm adversaries.\n\nThis class is inspired by the famous Bilbo Baggins, who accompanied Thorin and Company on their quest to the Lonely Mountain.</li> 
 	AdvTable_ClassIcon: 1090551431
-	AdvTable_ClassName: 
-		#1: Burglar
+	AdvTable_ClassName: Burglar
 	AdvTable_ClassSmallIcon: 1091602036
 AdvTable_ClassOutfitAllowedSlots: 29819134 (Head,Chest,Legs,Hands,Feet,Shoulder,Back,Main-hand,Off-hand,Ranged,Main-hand Aura,Off-hand Aura,Ranged Aura)
 AdvTable_DPPerLevelProgression: 1879085648
@@ -6217,35 +6214,27 @@ AdvTable_StartingInventory_List:
 		AdvTable_StartingInventory_StartsEquipped: 1
 AdvTable_StatDescriptionArray: 
 	#1: 
-		AdvTable_StatDescription_Description: 
-			#1: As a Burglar, Might increases your Block and Parry Ratings.
+		AdvTable_StatDescription_Description: As a Burglar, Might increases your Block and Parry Ratings.
 		AdvTable_StatDescription_Stat: 4 (Might)
 	#2: 
-		AdvTable_StatDescription_Description: 
-			#1: As a Burglar, Agility is very important for you. Agility increases your Physical Mastery, Tactical Mastery, Critical Rating, Parry Rating, and Evade Rating.
+		AdvTable_StatDescription_Description: As a Burglar, Agility is very important for you. Agility increases your Physical Mastery, Tactical Mastery, Critical Rating, Parry Rating, and Evade Rating.
 		AdvTable_StatDescription_Stat: 2 (Agility)
 	#3: 
-		AdvTable_StatDescription_Description: 
-			#1: As a Burglar, Vitality is important for you. Vitality increases your Maximum Morale, Resistance Rating, and non-Combat Morale Regen.
+		AdvTable_StatDescription_Description: As a Burglar, Vitality is important for you. Vitality increases your Maximum Morale, Resistance Rating, and non-Combat Morale Regen.
 		AdvTable_StatDescription_Stat: 1 (Vitality)
 	#4: 
-		AdvTable_StatDescription_Description: 
-			#1: As a Burglar, Will increases your Tactical Mastery, Tactical Mitigation, and Resistance Rating.
+		AdvTable_StatDescription_Description: As a Burglar, Will increases your Tactical Mastery, Tactical Mitigation, and Resistance Rating.
 		AdvTable_StatDescription_Stat: 5 (Will)
 	#5: 
-		AdvTable_StatDescription_Description: 
-			#1: As a Burglar, Fate increases your Critical Rating, in-Combat Morale Regen, Tactical Mitigation, and Power Regen.
+		AdvTable_StatDescription_Description: As a Burglar, Fate increases your Critical Rating, in-Combat Morale Regen, Tactical Mitigation, and Power Regen.
 		AdvTable_StatDescription_Stat: 3 (Fate)
 	#6: 
-		AdvTable_StatDescription_Description: 
-			#1: The Strength of the Burglar's Mount.
+		AdvTable_StatDescription_Description: The Strength of the Burglar's Mount.
 		AdvTable_StatDescription_Stat: 7 (War-steed Strength)
 	#7: 
-		AdvTable_StatDescription_Description: 
-			#1: The Agility of the Burglar's Mount.
+		AdvTable_StatDescription_Description: The Agility of the Burglar's Mount.
 		AdvTable_StatDescription_Stat: 6 (War-steed Agility)
-AdvTable_TacticalDPSName: 
-	#1: Tactical Rank
+AdvTable_TacticalDPSName: Tactical Rank
 AdvTable_TacticalDamage_ActionDuration: 1.0
 AdvTable_TacticalDamage_Variance: 0.0
 AdvTable_TacticalHealing_ActionDuration: 1.0
