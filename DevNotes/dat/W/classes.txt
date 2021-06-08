@@ -2639,7 +2639,8 @@ Class index=798, name=ITextItem, raw size=24, parent=1736
 	REFERENCE m_regEffect (2)
 	REFERENCE m_logInfo (0)
 	REFERENCE m_rBaseEffectReg (1)
-Class index=799, name=IWeapon, raw size=24, parent=1737
+Class index=799, name=IWeapon, raw size=32, parent=1737
+	REFERENCE m_wornAppearanceDIDHash (3)
 	REFERENCE m_regEffect (2)
 	REFERENCE m_logInfo (0)
 	REFERENCE m_rBaseEffectReg (1)
@@ -2689,7 +2690,8 @@ Class index=815, name=Waypoint, raw size=24, parent=1734
 	REFERENCE m_regEffect (2)
 	REFERENCE m_logInfo (0)
 	REFERENCE m_rBaseEffectReg (1)
-Class index=816, name=Weapon, raw size=24, parent=1734
+Class index=816, name=Weapon, raw size=32, parent=1734
+	REFERENCE m_wornAppearanceDIDHash (3)
 	REFERENCE m_regEffect (2)
 	REFERENCE m_logInfo (0)
 	REFERENCE m_rBaseEffectReg (1)
@@ -3366,18 +3368,19 @@ Class index=1097, name=IExaminationDataGrabber, raw size=8
 Class index=1098, name=IExaminationDataGrabberBlob, raw size=0
 Class index=1099, name=BiggerIsBetterStyleGrabber, raw size=0, parent=1100
 Class index=1100, name=IExaminationStyleGrabber, raw size=0, parent=486
-Class index=1101, name=Fellow, raw size=112
-	INTEGER m_didDungeon (10)
-	LONG m_iidInstance (8)
-	INTEGER 154792453 (5)
-	REFERENCE 217829923 (6)
-	DOUBLE m_join_ts (0)
-	REFERENCE m_rcPosition (11)
-	INTEGER 199054467 (13)
-	LONG m_iidFellowship (3)
-	INTEGER m_level (2)
-	REFERENCE m_name (12)
-	INTEGER m_Class (7)
+Class index=1101, name=Fellow, raw size=120
+	INTEGER m_didDungeon (11)
+	LONG m_iidInstance (9)
+	INTEGER 154792453 (6)
+	REFERENCE 217829923 (7)
+	DOUBLE m_join_ts (1)
+	INTEGER 90630643 (0)
+	REFERENCE m_rcPosition (12)
+	INTEGER 199054467 (14)
+	LONG m_iidFellowship (4)
+	INTEGER m_level (3)
+	REFERENCE m_name (13)
+	INTEGER m_Class (8)
 Class index=1102, name=FellowPet, raw size=40
 	LONG m_iidInstance (3)
 	LONG m_iidMaster (1)
@@ -5556,7 +5559,8 @@ Class index=1736, name=CTextItem, raw size=24, parent=814
 	REFERENCE m_regEffect (2)
 	REFERENCE m_logInfo (0)
 	REFERENCE m_rBaseEffectReg (1)
-Class index=1737, name=CWeapon, raw size=24, parent=816
+Class index=1737, name=CWeapon, raw size=32, parent=816
+	REFERENCE m_wornAppearanceDIDHash (3)
 	REFERENCE m_regEffect (2)
 	REFERENCE m_logInfo (0)
 	REFERENCE m_rBaseEffectReg (1)
@@ -9645,3 +9649,6 @@ Class index=4194, raw size=0
 Class index=4195, raw size=0, parent=91
 Class index=4203, raw size=0, parent=1620
 Class index=4204, raw size=0, parent=916
+Class index=4212, raw size=16
+	INTEGER m_eAppearanceKey (1)
+	INTEGER m_didAppearanceFile (0)

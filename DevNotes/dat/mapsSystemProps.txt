@@ -84,19 +84,19 @@ UI_Map_AreaData:
 							UI_Map_PixelWidth: 1024
 							UI_Map_RegionID: 1 (Eriador)
 							UI_Map_Scale: 0.925
-					UI_Map_BlockOffsetX: 49
-					UI_Map_BlockOffsetY: 119
+					UI_Map_BlockOffsetX: 47
+					UI_Map_BlockOffsetY: 118
 					UI_Map_IncludeCommonMapNoteTypes: 1
 					UI_Map_MapImage: 1090552108
 					UI_Map_MapNoteDisplayType: 1100048498688 (Homestead,Settlement)
 					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
 					UI_Map_MenuName: Ered Luin
 					UI_Map_PixelHeight: 768
-					UI_Map_PixelOffsetX: 110
-					UI_Map_PixelOffsetY: 767
+					UI_Map_PixelOffsetX: 35
+					UI_Map_PixelOffsetY: 765
 					UI_Map_PixelWidth: 1024
 					UI_Map_RegionID: 1 (Eriador)
-					UI_Map_Scale: 0.228125
+					UI_Map_Scale: 0.2171875
 				#2: 
 					UI_Map_ActiveElement: 268437592 (RegionMap_2_Trollshaws)
 					UI_Map_AreaDIDs_Array: 
@@ -1121,6 +1121,38 @@ UI_Map_AreaData:
 					UI_Map_RegionID: 2 (Rhovanion)
 					UI_Map_Scale: 0.70625
 				#10: 
+					UI_Map_ActiveElement: 268453555 (area_azanulbizar_dimrill_dale)
+					UI_Map_AreaDIDs_Array: 
+						#1: 1879413511
+					UI_Map_BlockOffsetX: 9
+					UI_Map_BlockOffsetY: 232
+					UI_Map_IncludeCommonMapNoteTypes: 1
+					UI_Map_MapImage: 1092669467
+					UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
+					UI_Map_MenuName: Azanulbizar, T.A. 2799
+					UI_Map_PixelHeight: 768
+					UI_Map_PixelOffsetX: 275
+					UI_Map_PixelOffsetY: 768
+					UI_Map_PixelWidth: 1024
+					UI_Map_RegionID: 14 (TalesofYore)
+					UI_Map_Scale: 0.34375
+				#11: 
+					UI_Map_ActiveElement: 268453582 (area_moria_second_hall_raid)
+					UI_Map_AreaDIDs_Array: 
+						#1: 1879416304
+					UI_Map_BlockOffsetX: 4
+					UI_Map_BlockOffsetY: 200
+					UI_Map_IncludeCommonMapNoteTypes: 1
+					UI_Map_MapImage: 1092682130
+					UI_Map_MapNoteFilterProperty: 268435741 (GOP_Map_MapNoteFilter)
+					UI_Map_MenuName: Nud-melek T.A. 1981
+					UI_Map_PixelHeight: 768
+					UI_Map_PixelOffsetX: 15
+					UI_Map_PixelOffsetY: 649
+					UI_Map_PixelWidth: 1024
+					UI_Map_RegionID: 14 (TalesofYore)
+					UI_Map_Scale: 0.5
+				#12: 
 					UI_Map_ActiveElement: 268442355 (RegionMap_14_Moria)
 					UI_Map_AreaDIDs_Array: 
 					UI_Map_AreaData_Array: 
@@ -1317,7 +1349,7 @@ UI_Map_AreaData:
 					UI_Map_PixelWidth: 1024
 					UI_Map_RegionID: 2 (Rhovanion)
 					UI_Map_Scale: 0.15
-				#11: 
+				#13: 
 					UI_Map_ActiveElement: 268442330 (RegionMap_13_Lothlorien)
 					UI_Map_AreaDIDs_Array: 
 						#1: 1879109910
@@ -1355,12 +1387,12 @@ UI_Map_AreaData:
 					UI_Map_MapNoteFilterProperty: 268441602 (GOP_Map_Distant_MapNoteFilter)
 					UI_Map_MenuName: Lothlórien
 					UI_Map_PixelHeight: 768
-					UI_Map_PixelOffsetX: 0
-					UI_Map_PixelOffsetY: 768
+					UI_Map_PixelOffsetX: 23
+					UI_Map_PixelOffsetY: 712
 					UI_Map_PixelWidth: 1024
 					UI_Map_RegionID: 2 (Rhovanion)
-					UI_Map_Scale: 0.24375
-				#12: 
+					UI_Map_Scale: 0.21875
+				#14: 
 					UI_Map_ActiveElement: 268447390 (Region_Great_River)
 					UI_Map_AreaDIDs_Array: 
 						#1: 1879222977
@@ -1400,7 +1432,7 @@ UI_Map_AreaData:
 					UI_Map_PixelWidth: 1024
 					UI_Map_RegionID: 2 (Rhovanion)
 					UI_Map_Scale: 0.188
-				#13: 
+				#15: 
 					UI_Map_ActiveElement: 268449764 (Region_Rohan_West)
 					UI_Map_AreaData_Array: 
 						#1: 
@@ -1753,7 +1785,7 @@ UI_Map_AreaData:
 					UI_Map_PixelWidth: 1024
 					UI_Map_RegionID: 2 (Rhovanion)
 					UI_Map_Scale: 0.0981
-				#14: 
+				#16: 
 					UI_Map_ActiveElement: 268448107 (Region_Rohan_East)
 					UI_Map_AreaData_Array: 
 						#1: 

@@ -2779,6 +2779,10 @@
 2906 - Character_GameCompatibilityVersion, type=String
 2907 - WebAccessMethod_OutputFilter, type=String Info
 2908 - Render_StencilShadowOrientation, type=Vector, default value=x=1.0,y=1.0,z=1.0
+2909 - Server_World_GraveyardPath, type=String
+2918 - World_MSTeams_Webhook, type=String
+2919 - World_MSTeams_EnableCategories, type=Bit Field, data=587203640
+2920 - World_MSTeams_Enabled, type=boolean
 268435457 - Pedigree_Surname_LevelRestriction, type=Int, default value=0
 268435458 - Auction_ID, type=InstanceID, default value=0
 268435459 - MiniGame.FreezeTag@Player.m_bIsPlaying, type=boolean
@@ -25208,7 +25212,7 @@
 268457731 - Effect_StaticSpellcraftOverride, type=Float, default value=-1.0
 268457732 - Trait_Burglar_Disable_AttackDuration_Mod, type=Float, default value=0.0
 268457733 - Trait_Burglar_Disable_DamageDebuff_Mod, type=Float, default value=0.0
-268457734 - Trait_Burglar_Disable_Finesse_Mod, type=Float
+268457734 - Trait_Burglar_Disable_Finesse_Mod, type=Float, default value=0.0
 	Property: Skill_EffectData, ID=268438627, type=Struct
 268457735 - Trait_Warden_Determination_Legendary, type=Array
 	Property: Skill_EffectData, ID=268438627, type=Struct
@@ -30247,10 +30251,126 @@
 268462513 - Discount_Travel_Gundabad, type=Float, default value=0.0
 268462514 - Discount_Gundabad, type=Float, default value=0.0
 268462515 - Reputation_Faction_Gundabad_EarnedReputation, type=Long 64bits
+268462516 - WE_Integer_Gundabad_Mission_Config, type=Int
+268462517 - ZE_Epic_Vol3_Soothsayer_Bool_Brawler, type=boolean
 268462523 - Version_POItem_StampProperty_234, type=boolean
 268462524 - Version_POItem_StampProperty_235, type=boolean
 268462525 - Version_POItem_StampProperty_236, type=boolean
 268462526 - Version_POItem_StampProperty_237, type=boolean
 268462527 - Version_Title_StampProperty_61, type=boolean
 268462528 - Version_Title_StampProperty_62, type=boolean
+268462534 - WAL_CallbackURLWorldProperty, type=Property ID, data=872415232
+268462535 - World_Automation_WorldDeployCallbackURL, type=String
+268462536 - World_Automation_WorldBounceCallbackURL, type=String
+268462537 - Landscape_Difficulty_Tier_Cached, type=Int, default value=0
+268462538 - Landscape_Difficulty_Override, type=boolean, default value=0
+268462539 - Landscape_Difficulty_Override_Cached, type=boolean, default value=0
+268462540 - Landscape_Difficulty_Tier, type=Int, default value=0
 268462541 - we_anniversaryreward_2021, type=boolean
+268462542 - ZE_Riddle_Deed_Solved_84, type=boolean
+268462543 - ZE_Riddle_Deed_Solved_85, type=boolean
+268462545 - Skill_Brawler_MaxTargets, type=Float, default value=0.0
+268462546 - Version_Title_StampProperty_LDT_Guardian_130_T3, type=boolean
+268462547 - Version_Title_StampProperty_LDT_Minstrel_50_T1, type=boolean
+268462548 - Version_Title_StampProperty_LDT_Hunter_50_T3, type=boolean
+268462549 - Version_Title_StampProperty_LDT_Guardian_50_T3, type=boolean
+268462550 - Version_Title_StampProperty_LDT_Brawler_130_T3, type=boolean
+268462551 - Version_Title_StampProperty_LDT_Loremaster_130_T1, type=boolean
+268462552 - Version_Title_StampProperty_LDT_Captain_50_T1, type=boolean
+268462553 - Version_Title_StampProperty_LDT_Minstrel_50_T3, type=boolean
+268462554 - Version_Title_StampProperty_LDT_Brawler_50_T1, type=boolean
+268462555 - Version_Title_StampProperty_LDT_Loremaster_130_T3, type=boolean
+268462556 - Version_Title_StampProperty_LDT_Champion_130_T1, type=boolean
+268462557 - Version_Title_StampProperty_LDT_Captain_50_T3, type=boolean
+268462558 - Version_Title_StampProperty_LDT_Beorning_130_T1, type=boolean
+268462559 - Version_Title_StampProperty_LDT_Brawler_50_T3, type=boolean
+268462560 - Version_Title_StampProperty_LDT_Champion_130_T3, type=boolean
+268462561 - Version_Title_StampProperty_LDT_Beorning_130_T3, type=boolean
+268462562 - Version_Title_StampProperty_LDT_Runekeeper_130_T1, type=boolean
+268462563 - Version_Title_StampProperty_LDT_Minstrel_130_T1, type=boolean
+268462564 - Version_Title_StampProperty_LDT_Burglar_50_T1, type=boolean
+268462565 - Version_Title_StampProperty_LDT_Hunter_130_T1, type=boolean
+268462566 - Version_Title_StampProperty_LDT_Runekeeper_130_T3, type=boolean
+268462567 - Version_Title_StampProperty_LDT_Minstrel_130_T3, type=boolean
+268462568 - Version_Title_StampProperty_LDT_Burglar_50_T3, type=boolean
+268462569 - Version_Title_StampProperty_LDT_Hunter_130_T3, type=boolean
+268462570 - Version_Title_StampProperty_LDT_Loremaster_50_T1, type=boolean
+268462571 - Version_Title_StampProperty_LDT_Warden_130_T1, type=boolean
+268462572 - Version_Title_StampProperty_LDT_Warden_50_T1, type=boolean
+268462573 - Version_Title_StampProperty_LDT_Loremaster_50_T3, type=boolean
+268462574 - Version_Title_StampProperty_LDT_Warden_130_T3, type=boolean
+268462575 - Version_Title_StampProperty_LDT_Runekeeper_50_T1, type=boolean
+268462576 - Version_Title_StampProperty_LDT_Warden_50_T3, type=boolean
+268462577 - Version_Title_StampProperty_LDT_Runekeeper_50_T3, type=boolean
+268462578 - Version_Title_StampProperty_LDT_Champion_50_T1, type=boolean
+268462579 - Version_Title_StampProperty_LDT_Burglar_130_T1, type=boolean
+268462580 - Version_Title_StampProperty_LDT_Champion_50_T3, type=boolean
+268462581 - Version_Title_StampProperty_LDT_Burglar_130_T3, type=boolean
+268462582 - Version_Title_StampProperty_LDT_Captain_130_T1, type=boolean
+268462583 - Version_Title_StampProperty_LDT_Beorning_50_T1, type=boolean
+268462584 - Version_Title_StampProperty_LDT_Guardian_130_T1, type=boolean
+268462585 - Version_Title_StampProperty_LDT_Hunter_50_T1, type=boolean
+268462586 - Version_Title_StampProperty_LDT_Guardian_50_T1, type=boolean
+268462587 - Version_Title_StampProperty_LDT_Captain_130_T3, type=boolean
+268462588 - Version_Title_StampProperty_LDT_Brawler_130_T1, type=boolean
+268462589 - Version_Title_StampProperty_LDT_Beorning_50_T3, type=boolean
+268462590 - Duration_Brawler_Vulnerable, type=Float, default value=0.0
+268462591 - Trait_Brawler_Divergent_Fist, type=Array
+	Property: Skill_EffectData, ID=268438627, type=Struct
+268462592 - WE_Gundabad_Rare_Lathbear_Boolean, type=boolean
+268462593 - WE_Gundabad_Rare_Crab_Boolean, type=boolean
+268462594 - WE_Gundabad_Rare_Crab_Int, type=Int
+268462595 - WE_Gundabad_Rare_Cavebeast_Driven_1, type=boolean
+268462596 - WE_Gundabad_Rare_Grim_Int, type=Int
+268462597 - WE_Gundabad_Rare_Cavebeast_Driven_2, type=boolean
+268462598 - WE_Gundabad_Rare_Toad_Boolean, type=boolean
+268462599 - WE_Gundabad_Rare_Crab_Driven_1, type=boolean
+268462600 - WE_Gundabad_Rare_Grim_Driven_1, type=boolean
+268462601 - WE_Gundabad_Rare_Crab_Driven_2, type=boolean
+268462602 - WE_Gundabad_Rare_Grim_Driven_2, type=boolean
+268462603 - WE_Gundabad_Rare_Toad_Int, type=Int
+268462604 - WE_Gundabad_Rare_Lathbear_Driven_1, type=boolean
+268462605 - WE_Gundabad_Rare_Worm_Boolean, type=boolean
+268462606 - WE_Gundabad_Rare_Warg_Boolean, type=boolean
+268462607 - WE_Gundabad_Rare_Lathbear_Driven_2, type=boolean
+268462608 - WE_Gundabad_Rare_Grim_Boolean, type=boolean
+268462609 - WE_Gundabad_Rare_Cavebeast_Int, type=Int
+268462610 - WE_Gundabad_Rare_Toad_Driven_1, type=boolean
+268462611 - WE_Gundabad_Rare_Warg_Int, type=Int
+268462612 - WE_Gundabad_Rare_Toad_Driven_2, type=boolean
+268462613 - WE_Gundabad_Rare_Cavebeast_Boolean, type=boolean
+268462614 - WE_Gundabad_Rare_Worm_Int, type=Int
+268462615 - WE_Gundabad_Rare_Warg_Driven_1, type=boolean
+268462616 - WE_Gundabad_Rare_Warg_Driven_2, type=boolean
+268462617 - WE_Gundabad_Rare_Lathbear_Int, type=Int
+268462618 - WE_Gundabad_Rare_Worm_Driven_1, type=boolean
+268462619 - WE_Gundabad_Rare_Worm_Driven_2, type=boolean
+268462620 - ze_instance_int_raid_rez_counter, type=Int
+268462622 - Combat_DamageQualifier_Magic_Offense_AdditionalMod, type=Float, default value=1.0
+268462623 - Combat_DamageQualifier_Magic_Offense_DifficultyMod, type=Float, default value=1.0
+268462624 - Combat_DamageQualifier_Ranged_Offense_DifficultyMod, type=Float, default value=1.0
+268462625 - Combat_DamageQualifier_Ranged_Offense_AdditionalMod, type=Float, default value=1.0
+268462626 - Combat_DamageQualifier_Melee_Offense_AdditionalMod, type=Float, default value=1.0
+268462627 - Combat_DamageQualifier_Melee_Offense_DifficultyMod, type=Float, default value=1.0
+268462628 - Forward_Cached_Pet_Magic_Offense_DifficultyMod, type=Float, default value=1.0
+268462629 - Forward_Cached_Pet_Melee_Defense_DifficultyMod, type=Float, default value=1.0
+268462630 - Pet_Ranged_Defense_DifficultyMod, type=Float, default value=1.0
+268462631 - Pet_Ranged_Offense_DifficultyMod, type=Float, default value=1.0
+268462632 - Forward_Cached_Pet_Magic_Defense_DifficultyMod, type=Float, default value=1.0
+268462633 - Pet_Melee_Offense_DifficultyMod, type=Float, default value=1.0
+268462634 - Pet_Melee_Defense_DifficultyMod, type=Float, default value=1.0
+268462635 - Forward_Cached_Pet_Ranged_Offense_DifficultyMod, type=Float, default value=1.0
+268462636 - Pet_Magic_Defense_DifficultyMod, type=Float, default value=1.0
+268462637 - Pet_Magic_Offense_DifficultyMod, type=Float, default value=1.0
+268462638 - Forward_Cached_Pet_Melee_Offense_DifficultyMod, type=Float, default value=1.0
+268462639 - Forward_Cached_Pet_Ranged_Defense_DifficultyMod, type=Float, default value=1.0
+268462641 - Skill_Brawler_Light_Damage, type=Float, default value=0.0
+268462642 - Skill_Brawler_Devastate_Damage, type=Float, default value=0.0
+268462648 - Skill_Brawler_StrikeAsOne_DamageMod, type=Float, default value=0.0
+268462649 - Skills_Brawler_Feint_PipMod, type=Int, default value=0
+268462650 - Trait_Beorning_Vigilant_Taunt, type=Array
+	Property: Skill_EffectData, ID=268438627, type=Struct
+268462651 - Skill_Brawler_IronWillBracingGuard_DamageReduction, type=Float, default value=0.0
+268462652 - Script_Raid_Rez_Timer, type=Float, default value=1.0
+268462653 - Trait_Brawler_Invigourating_Heal, type=Array
+	Property: Skill_EffectData, ID=268438627, type=Struct
